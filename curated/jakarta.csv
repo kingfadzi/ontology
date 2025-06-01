@@ -1,0 +1,33 @@
+group_id,artifact_id,category,subcategory,framework,ecosystem
+jakarta-regexp,,Utility Libraries,General Utilities,Jakarta Regexp,jakarta
+jakarta.activation,,Utility Libraries,General Utilities,Jakarta Activation,jakarta
+jakarta.annotation,,Utility Libraries,Reflection & Metadata,Jakarta Annotation,jakarta
+jakarta.authentication,,Security,Authentication & Authorization,Jakarta Authentication,jakarta
+jakarta.authorization,,Security,Access Control,Jakarta Authorization,jakarta
+jakarta.batch,,Data Management,Batch Processing,Jakarta Batch,jakarta
+jakarta.config,,Utility Libraries,Configuration Utilities,Jakarta Config,jakarta
+jakarta.data,,Data Management,ORM & Data Access,Jakarta Data,jakarta
+jakarta.ejb,,Application Development,Component Models,Jakarta Ejb,jakarta
+jakarta.el,,Application Development,Language Extensions,Jakarta El,jakarta
+jakarta.enterprise,,Application Development,Dependency Injection,Jakarta Enterprise,jakarta
+jakarta.faces,,Application Development,Web Frameworks,Jakarta Faces,jakarta
+jakarta.inject,,Application Development,Dependency Injection,Jakarta Inject,jakarta
+jakarta.interceptor,,Application Development,Component Models,Jakarta Interceptor,jakarta
+jakarta.jms,,Application Integration,Messaging Protocols,Jakarta Jms,jakarta
+jakarta.json,,Serialization,JSON & XML,Jakarta Json,jakarta
+jakarta.jws,,Application Integration,RPC & Web Services,Jakarta Jws,jakarta
+jakarta.mail,,Application Integration,RPC & Web Services,Jakarta Mail,jakarta
+jakarta.management,,Observability,Monitoring,Jakarta Management,jakarta
+jakarta.mvc,,Application Development,Web Frameworks,Jakarta Mvc,jakarta
+jakarta.nosql,,Data Management,NoSQL Databases,Jakarta Nosql,jakarta
+jakarta.persistence,,Data Management,ORM & Data Access,Jakarta Persistence,jakarta
+jakarta.platform,,Utility Libraries,General Utilities,Jakarta Platform,jakarta
+jakarta.resource,,Application Integration,Service Integration Frameworks,Jakarta Resource,jakarta
+jakarta.security,,Security,Identity & Access Management,Jakarta Security,jakarta
+jakarta.servlet,,Application Development,Web Frameworks,Jakarta Servlet,jakarta
+jakarta.tck,,Testing & Quality,Testing Frameworks,Jakarta Tck,jakarta
+jakarta.transaction,,Utility Libraries,General Utilities,Jakarta Transaction,jakarta
+jakarta.validation,,Utility Libraries,General Utilities,Jakarta Validation,jakarta
+jakarta.websocket,,Application Integration,Messaging Protocols,Jakarta Websocket,jakarta
+jakarta.ws,,Application Integration,RPC & Web Services,Jakarta Ws,jakarta
+jakarta.xml,,Serialization,JSON & XML,Jakarta Xml,jakarta

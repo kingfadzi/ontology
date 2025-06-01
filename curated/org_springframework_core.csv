@@ -1,0 +1,45 @@
+group_id,artifact_id,category,subcategory,framework,ecosystem,fetch_artifacts
+org.springframework,,Application Development,Component Models,Spring Framework,spring,true
+org.springframework.ai,,Application Development,Language Extensions,Spring AI,spring,false
+org.springframework.amqp,,Application Integration,Message Brokers,Spring AMQP,spring,false
+org.springframework.analytics,,Observability,Metrics,Spring Analytics,spring,false
+org.springframework.android,,Application Development,Mobile & Embedded,Spring Android,spring,false
+org.springframework.aws,,Deployment & Runtime Platforms,Cloud Platforms,Spring Cloud AWS,spring,false
+org.springframework.batch,,Data Management,Batch Processing,Spring Batch,spring,false
+org.springframework.boot,,Application Development,Application Bootstrapping,Spring Boot,spring,true
+org.springframework.build,,Developer Tooling,Build Tools,Spring Build,spring,false
+org.springframework.cloud,,Application Integration,Service Integration Frameworks,Spring Cloud,spring,false
+org.springframework.commons,,Utility Libraries,General Utilities,Spring Commons,spring,false
+org.springframework.credhub,,Security,Secrets & Key Management,Spring CredHub,spring,false
+org.springframework.data,,Data Management,ORM & Data Access,Spring Data,spring,true
+org.springframework.experimental,,Developer Tooling,Code Generators,Spring Experimental,spring,false
+org.springframework.flex,,Application Development,Web Frameworks,Spring Flex,spring,false
+org.springframework.geode,,Data Management,NoSQL Databases,Spring Geode,spring,false
+org.springframework.graphql,,API Management,GraphQL & Query APIs,Spring GraphQL,spring,false
+org.springframework.grpc,,API Management,RPC & Web Services,Spring gRPC,spring,false
+org.springframework.guice,,Application Development,Dependency Injection,Spring Guice,spring,false
+org.springframework.hateoas,,Application Development,Web Frameworks,Spring HATEOAS,spring,false
+org.springframework.integration,,Application Integration,Service Integration Frameworks,Spring Integration,spring,false
+org.springframework.javaconfig,,Application Development,Dependency Injection,Spring JavaConfig,spring,false
+org.springframework.kafka,,Application Integration,Event Streaming,Spring Kafka,spring,false
+org.springframework.ldap,,Security,Identity & Access Management,Spring LDAP,spring,false
+org.springframework.maven,,Developer Tooling,Build Tools,Spring Maven,spring,false
+org.springframework.metrics,,Observability,Metrics,Spring Metrics,spring,false
+org.springframework.mobile,,Application Development,Mobile & Embedded,Spring Mobile,spring,false
+org.springframework.modulith,,Application Development,Component Models,Spring Modulith,spring,false
+org.springframework.osgi,,Deployment & Runtime Platforms,Application Servers,Spring OSGi,spring,false
+org.springframework.plugin,,Utility Libraries,General Utilities,Spring Plugin,spring,false
+org.springframework.pulsar,,Application Integration,Message Brokers,Spring Pulsar,spring,false
+org.springframework.restdocs,,Developer Tooling,Code Generators,Spring REST Docs,spring,false
+org.springframework.retry,,Resilience & Control,Retries & Backoff,Spring Retry,spring,false
+org.springframework.roo,,Developer Tooling,Code Generators,Spring Roo,spring,false
+org.springframework.security,,Security,Authentication,Spring Security,spring,false
+org.springframework.session,,Security,Identity & Access Management,Spring Session,spring,false
+org.springframework.shell,,Developer Tooling,Code Generators,Spring Shell,spring,false
+org.springframework.social,,Application Integration,Service Integration Frameworks,Spring Social,spring,false
+org.springframework.statemachine,,Resilience & Control,Service Discovery,Spring Statemachine,spring,false
+org.springframework.vault,,Security,Secrets & Key Management,Spring Vault,spring,false
+org.springframework.webflow,,Application Development,Web Frameworks,Spring Web Flow,spring,false
+org.springframework.ws,,Application Integration,RPC & Web Services,Spring Web Services,spring,false
+org.springframework.xd,,Data Management,Batch Processing,Spring XD,spring,false
+,,,,,,

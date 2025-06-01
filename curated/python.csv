@@ -1,0 +1,1000 @@
+﻿package_name,category,subcategory,framework,ecosystem
+boto3,Application Integration,Service Integration Frameworks,Boto3,python
+urllib3,Application Integration,RPC & Web Services,Urllib3,python
+requests,Application Integration,RPC & Web Services,Requests,python
+botocore,Application Integration,Service Integration Frameworks,Botocore,python
+certifi,Security,Transport Security,Certifi,python
+charset-normalizer,Utility Libraries,General Utilities,Charset-normalizer,python
+idna,Utility Libraries,General Utilities,Idna,python
+setuptools,Developer Tooling,Build Tools,Setuptools,python
+aiobotocore,Application Integration,Service Integration Frameworks,Aiobotocore,python
+python-dateutil,Utility Libraries,Date & Time Utilities,Python-dateutil,python
+typing-extensions,Utility Libraries,General Utilities,Typing-extensions,python
+packaging,Utility Libraries,General Utilities,Packaging,python
+six,Utility Libraries,General Utilities,Six,python
+s3fs,Data Management,Data Lakes,S3fs,python
+grpcio-status,Application Integration,RPC & Web Services,Grpcio-status,python
+s3transfer,Data Management,Data Lakes,S3transfer,python
+numpy,Utility Libraries,Collections & Data Structures,Numpy,python
+pyyaml,Serialization,JSON & XML,Pyyaml,python
+fsspec,Utility Libraries,General Utilities,Fsspec,python
+pydantic,Utility Libraries,General Utilities,Pydantic,python
+cryptography,Security,Transport Security,Cryptography,python
+google-api-core,Application Integration,Service Integration Frameworks,Google-api-core,python
+protobuf,Serialization,Schema Management,Protobuf,python
+pip,Developer Tooling,Build Tools,Pip,python
+pandas,Utility Libraries,Collections & Data Structures,Pandas,python
+importlib-metadata,Utility Libraries,Reflection & Metadata,Importlib-metadata,python
+cffi,Utility Libraries,General Utilities,Cffi,python
+attrs,Utility Libraries,General Utilities,Attrs,python
+pycparser,Utility Libraries,General Utilities,Pycparser,python
+rsa,Security,Transport Security,Rsa,python
+jinja2,Application Development,Template Engines,Jinja2,python
+pytz,Utility Libraries,Date & Time Utilities,Pytz,python
+jmespath,Utility Libraries,General Utilities,Jmespath,python
+pyasn1,Serialization,Binary Formats,Pyasn1,python
+markupsafe,Utility Libraries,General Utilities,Markupsafe,python
+aiohttp,Application Integration,RPC & Web Services,Aiohttp,python
+click,Utility Libraries,General Utilities,Click,python
+platformdirs,Utility Libraries,General Utilities,Platformdirs,python
+wheel,Developer Tooling,Build Tools,Wheel,python
+pydantic-core,Utility Libraries,General Utilities,Pydantic-core,python
+zipp,Utility Libraries,General Utilities,Zipp,python
+colorama,Utility Libraries,General Utilities,Colorama,python
+grpcio-tools,Application Integration,RPC & Web Services,Grpcio-tools,python
+awscli,Developer Tooling,Local Development Runtimes,Awscli,python
+googleapis-common-protos,Serialization,Schema Management,Googleapis-common-protos,python
+filelock,Utility Libraries,General Utilities,Filelock,python
+cachetools,Utility Libraries,General Utilities,Cachetools,python
+pyasn1-modules,Serialization,Schema Management,Pyasn1-modules,python
+pluggy,Testing & Quality,Testing Frameworks,Pluggy,python
+google-auth,Security,Identity & Access Management,Google-auth,python
+pyjwt,Security,Authentication & Authorization,Pyjwt,python
+virtualenv,Developer Tooling,Local Development Runtimes,Virtualenv,python
+tzdata,Utility Libraries,Date & Time Utilities,Tzdata,python
+wrapt,Utility Libraries,General Utilities,Wrapt,python
+h11,Application Integration,RPC & Web Services,H11,python
+sniffio,Utility Libraries,General Utilities,Sniffio,python
+psutil,Utility Libraries,General Utilities,Psutil,python
+anyio,Utility Libraries,General Utilities,Anyio,python
+annotated-types,Utility Libraries,General Utilities,Annotated-types,python
+pygments,Utility Libraries,General Utilities,Pygments,python
+jsonschema,Utility Libraries,General Utilities,Jsonschema,python
+pyarrow,Data Management,Data Warehousing,Pyarrow,python
+yarl,Utility Libraries,General Utilities,Yarl,python
+pytest,Testing & Quality,Testing Frameworks,Pytest,python
+tomli,Utility Libraries,General Utilities,Tomli,python
+multidict,Utility Libraries,General Utilities,Multidict,python
+rich,Utility Libraries,General Utilities,Rich,python
+httpx,Application Integration,RPC & Web Services,Httpx,python
+grpcio,Application Integration,RPC & Web Services,Grpcio,python
+httpcore,Application Integration,RPC & Web Services,Httpcore,python
+iniconfig,Utility Libraries,Configuration Utilities,Iniconfig,python
+docutils,Utility Libraries,General Utilities,Docutils,python
+requests-oauthlib,Security,Authentication & Authorization,Requests-oauthlib,python
+sqlalchemy,Data Management,ORM & Data Access,Sqlalchemy,python
+frozenlist,Utility Libraries,General Utilities,Frozenlist,python
+google-cloud-storage,Application Integration,Service Integration Frameworks,Google-cloud-storage,python
+tqdm,Observability,Metrics,Tqdm,python
+tomlkit,Utility Libraries,General Utilities,Tomlkit,python
+aiosignal,Utility Libraries,General Utilities,Aiosignal,python
+pyparsing,Utility Libraries,General Utilities,Pyparsing,python
+beautifulsoup4,Utility Libraries,General Utilities,Beautifulsoup4,python
+greenlet,Utility Libraries,General Utilities,Greenlet,python
+propcache,Utility Libraries,General Utilities,Propcache,python
+requests-toolbelt,Application Integration,RPC & Web Services,Requests-toolbelt,python
+soupsieve,Utility Libraries,General Utilities,Soupsieve,python
+pillow,Utility Libraries,General Utilities,Pillow,python
+pathspec,Utility Libraries,General Utilities,Pathspec,python
+oauthlib,Security,Authentication & Authorization,Oauthlib,python
+opensearch-py,Application Integration,Service Integration Frameworks,Opensearch-py,python
+scipy,Utility Libraries,Collections & Data Structures,Scipy,python
+more-itertools,Utility Libraries,Collections & Data Structures,More-itertools,python
+distlib,Utility Libraries,General Utilities,Distlib,python
+exceptiongroup,Utility Libraries,General Utilities,Exceptiongroup,python
+pyopenssl,Security,Transport Security,Pyopenssl,python
+rpds-py,Utility Libraries,Collections & Data Structures,Rpds-py,python
+werkzeug,Application Development,Web Frameworks,Werkzeug,python
+python-dotenv,Utility Libraries,Configuration Utilities,Python-dotenv,python
+deprecated,Utility Libraries,General Utilities,Deprecated,python
+requests-aws4auth,Security,Authentication & Authorization,Requests-aws4auth,python
+jsonschema-specifications,Utility Libraries,General Utilities,Jsonschema-specifications,python
+cloudpickle,Utility Libraries,General Utilities,Cloudpickle,python
+openpyxl,Application Development,Web Frameworks,Openpyxl,python
+et-xmlfile,Utility Libraries,General Utilities,Et-xmlfile,python
+isodate,Utility Libraries,Date & Time Utilities,Isodate,python
+referencing,Utility Libraries,General Utilities,Referencing,python
+lxml,Utility Libraries,General Utilities,Lxml,python
+aiohappyeyeballs,Application Integration,RPC & Web Services,Aiohappyeyeballs,python
+async-timeout,Utility Libraries,General Utilities,Async-timeout,python
+trove-classifiers,Utility Libraries,General Utilities,Trove-classifiers,python
+proto-plus,Serialization,Schema Management,Proto-plus,python
+decorator,Utility Libraries,General Utilities,Decorator,python
+typing-inspection,Utility Libraries,General Utilities,Typing-inspection,python
+google-api-python-client,Application Integration,Service Integration Frameworks,Google-api-python-client,python
+snowflake-connector-python,Application Integration,Service Integration Frameworks,Snowflake-connector-python,python
+mypy-extensions,Utility Libraries,General Utilities,Mypy-extensions,python
+azure-identity,Security,Identity & Access Management,Azure-identity,python
+tenacity,Utility Libraries,General Utilities,Tenacity,python
+markdown-it-py,Utility Libraries,General Utilities,Markdown-it-py,python
+coverage,Testing & Quality,Code Coverage,Coverage,python
+grpcio-health-checking,Application Integration,RPC & Web Services,Grpcio-health-checking,python
+google-cloud-core,Application Integration,Service Integration Frameworks,Google-cloud-core,python
+poetry-core,Developer Tooling,Build Tools,Poetry-core,python
+msgpack,Serialization,Binary Formats,Msgpack,python
+mdurl,Utility Libraries,General Utilities,Mdurl,python
+websocket-client,Application Integration,Messaging Protocols,Websocket-client,python
+events,Utility Libraries,General Utilities,Events,python
+flask,Application Development,Web Frameworks,Flask,python
+pyzmq,Application Integration,Messaging Protocols,Pyzmq,python
+azure-core,Application Integration,Service Integration Frameworks,Azure-core,python
+pynacl,Security,Transport Security,Pynacl,python
+msal,Security,Identity & Access Management,Msal,python
+gitpython,Developer Tooling,Local Development Runtimes,Gitpython,python
+sortedcontainers,Utility Libraries,Collections & Data Structures,Sortedcontainers,python
+aliyun-python-sdk-core,Application Integration,Service Integration Frameworks,Aliyun-python-sdk-core,python
+shellingham,Utility Libraries,General Utilities,Shellingham,python
+opentelemetry-api,Observability,Tracing,Opentelemetry-api,python
+langsmith,Utility Libraries,General Utilities,Langsmith,python
+asn1crypto,Security,Transport Security,Asn1crypto,python
+psycopg2-binary,Data Management,Relational Databases,Psycopg2-binary,python
+dill,Utility Libraries,General Utilities,Dill,python
+regex,Utility Libraries,General Utilities,Regex,python
+opentelemetry-sdk,Observability,Tracing,Opentelemetry-sdk,python
+google-resumable-media,Application Integration,Service Integration Frameworks,Google-resumable-media,python
+scikit-learn,Utility Libraries,Collections & Data Structures,Scikit-learn,python
+itsdangerous,Utility Libraries,General Utilities,Itsdangerous,python
+smmap,Utility Libraries,General Utilities,Smmap,python
+opentelemetry-semantic-conventions,Observability,Tracing,Opentelemetry-semantic-conventions,python
+wcwidth,Utility Libraries,General Utilities,Wcwidth,python
+starlette,Application Development,Web Frameworks,Starlette,python
+gitdb,Utility Libraries,General Utilities,Gitdb,python
+fastapi,Application Development,Web Frameworks,Fastapi,python
+google-crc32c,Utility Libraries,General Utilities,Google-crc32c,python
+keyring,Security,Identity & Access Management,Keyring,python
+pexpect,Utility Libraries,General Utilities,Pexpect,python
+ptyprocess,Utility Libraries,General Utilities,Ptyprocess,python
+networkx,Utility Libraries,Collections & Data Structures,Networkx,python
+bcrypt,Security,Authentication & Authorization,Bcrypt,python
+chardet,Utility Libraries,General Utilities,Chardet,python
+tabulate,Utility Libraries,General Utilities,Tabulate,python
+blinker,Utility Libraries,General Utilities,Blinker,python
+matplotlib,Application Development,Web Frameworks,Matplotlib,python
+threadpoolctl,Utility Libraries,General Utilities,Threadpoolctl,python
+jaraco-classes,Utility Libraries,General Utilities,Jaraco-classes,python
+huggingface-hub,Application Integration,Service Integration Frameworks,Huggingface-hub,python
+dnspython,Utility Libraries,General Utilities,Dnspython,python
+rapidfuzz,Utility Libraries,General Utilities,Rapidfuzz,python
+yandexcloud,Application Integration,Service Integration Frameworks,Yandexcloud,python
+jeepney,Utility Libraries,General Utilities,Jeepney,python
+fastjsonschema,Utility Libraries,General Utilities,Fastjsonschema,python
+py4j,Utility Libraries,General Utilities,Py4j,python
+importlib-resources,Utility Libraries,General Utilities,Importlib-resources,python
+pyproject-hooks,Utility Libraries,General Utilities,Pyproject-hooks,python
+build,Developer Tooling,Build Tools,Build,python
+types-requests,Utility Libraries,General Utilities,Types-requests,python
+secretstorage,Security,Access Control,Secretstorage,python
+sphinx,Developer Tooling,Documentation, Sphinx,python
+paramiko,Application Integration,Remote Procedure Calls,Paramiko,python
+google-cloud-bigquery,Data Management,Data Warehousing,Google-cloud-bigquery,python
+joblib,Utility Libraries,General Utilities,Joblib,python
+prompt-toolkit,Application Development,Web Frameworks,Prompt-toolkit,python
+uvicorn,Deployment & Runtime Platforms,Function-as-a-Service,Uvicorn,python
+sqlparse,Utility Libraries,General Utilities,Sqlparse,python
+backoff,Resilience & Control,Retries & Backoff,Backoff,python
+fonttools,Utility Libraries,General Utilities,Fonttools,python
+alembic,Developer Tooling,Code Generators,Alembic,python
+ruamel-yaml,Serialization,JSON & XML,Ruamel-yaml,python
+kiwisolver,Utility Libraries,General Utilities,Kiwisolver,python
+httplib2,Application Integration,RPC & Web Services,Httplib2,python
+typedload,Utility Libraries,General Utilities,Typedload,python
+xmltodict,Serialization,JSON & XML,Xmltodict,python
+google-auth-oauthlib,Security,Authentication & Authorization,Google-auth-oauthlib,python
+langchain,Application Development,Web Frameworks,Langchain,python
+ipython,Developer Tooling,Local Development Runtimes,IPython,python
+rich-toolkit,Utility Libraries,General Utilities,Rich-toolkit,python
+asgiref,Application Integration,Service Integration Frameworks,Asgiref,python
+defusedxml,Security,Transport Security,Defusedxml,python
+pkginfo,Utility Libraries,General Utilities,Pkginfo,python
+azure-storage-blob,Application Integration,Service Integration Frameworks,Azure-storage-blob,python
+msal-extensions,Utility Libraries,General Utilities,Msal-extensions,python
+cycler,Utility Libraries,Collections & Data Structures,Cycler,python
+marshmallow,Serialization,JSON & XML,Marshmallow,python
+pytest-cov,Testing & Quality,Code Coverage,Pytest-cov,python
+redis,Data Management,Caching,Redis,python
+docker,Deployment & Runtime Platforms,Containerization,Docker,python
+grpc-google-iam-v1,Application Integration,RPC & Web Services,Grpc-google-iam-v1,python
+uritemplate,Utility Libraries,General Utilities,Uritemplate,python
+google-auth-httplib2,Application Integration,RPC & Web Services,Google-auth-httplib2,python
+awswrangler,Application Integration,Service Integration Frameworks,Awswrangler,python
+distro,Utility Libraries,General Utilities,Distro,python
+openai,Application Integration,Service Integration Frameworks,Openai,python
+babel,Developer Tooling,Build Tools,Babel,python
+jaraco-functools,Utility Libraries,General Utilities,Jaraco-functools,python
+gunicorn,Deployment & Runtime Platforms,Application Servers,Gunicorn,python
+opentelemetry-proto,Observability,Tracing,Opentelemetry-proto,python
+tzlocal,Utility Libraries,Date & Time Utilities,Tzlocal,python
+black,Developer Tooling,Build Tools,Black,python
+nest-asyncio,Utility Libraries,General Utilities,Nest-asyncio,python
+poetry-plugin-export,Developer Tooling,Dependency Management,Poetry-plugin-export,python
+transformers,Application Development,Web Frameworks,Transformers,python
+cachecontrol,Application Integration,RPC & Web Services,Cachecontrol,python
+traitlets,Utility Libraries,General Utilities,Traitlets,python
+termcolor,Utility Libraries,General Utilities,Termcolor,python
+isort,Developer Tooling,Build Tools,Isort,python
+zstandard,Utility Libraries,General Utilities,Zstandard,python
+jaraco-context,Utility Libraries,General Utilities,Jaraco-context,python
+contourpy,Utility Libraries,General Utilities,Contourpy,python
+jedi,Developer Tooling,Local Development Runtimes,Jedi,python
+toml,Utility Libraries,General Utilities,Toml,python
+installer,Developer Tooling,Build Tools,Installer,python
+opentelemetry-exporter-otlp-proto-common,Observability,Tracing,Opentelemetry-exporter-otlp-proto-common,python
+parso,Developer Tooling,Local Development Runtimes,Parso,python
+websockets,Application Integration,Messaging Protocols,Websockets,python
+typer,Application Development,Web Frameworks,Typer,python
+opentelemetry-exporter-otlp-proto-http,Observability,Tracing,Opentelemetry-exporter-otlp-proto-http,python
+pycodestyle,Testing & Quality,Static Analysis,Pycodestyle,python
+cython,Developer Tooling,Build Tools,Cython,python
+types-python-dateutil,Utility Libraries,General Utilities,Types-python-dateutil,python
+jsonpointer,Utility Libraries,General Utilities,Jsonpointer,python
+pymysql,Data Management,Relational Databases,Pymysql,python
+poetry,Developer Tooling,Dependency Management,Poetry,python
+ruamel-yaml-clib,Utility Libraries,General Utilities,Ruamel-yaml-clib,python
+setuptools-scm,Developer Tooling,Build Tools,Setuptools-scm,python
+gym-notices,Utility Libraries,General Utilities,Gym-notices,python
+matplotlib-inline,Application Development,Web Frameworks,Matplotlib-inline,python
+markdown,Utility Libraries,General Utilities,Markdown,python
+tornado,Application Development,Web Frameworks,Tornado,python
+opentelemetry-exporter-otlp-proto-grpc,Observability,Tracing,Opentelemetry-exporter-otlp-proto-grpc,python
+hatchling,Developer Tooling,Build Tools,Hatchling,python
+dulwich,Utility Libraries,General Utilities,Dulwich,python
+snowflake-sqlalchemy,Data Management,ORM & Data Access,Snowflake-sqlalchemy,python
+pendulum,Utility Libraries,Date & Time Utilities,Pendulum,python
+crashtest,Testing & Quality,Testing Frameworks,Crashtest,python
+sentry-sdk,Observability,Monitoring,Sentry-sdk,python
+kubernetes,Application Integration,Service Integration Frameworks,Kubernetes,python
+prometheus-client,Observability,Metrics,Prometheus-client,python
+weaviate-client,Application Integration,Service Integration Frameworks,Weaviate-client,python
+py,Utility Libraries,General Utilities,Py,python
+mako,Application Development,Template Engines,Mako,python
+asttokens,Utility Libraries,General Utilities,Asttokens,python
+mccabe,Testing & Quality,Static Analysis,Mccabe,python
+executing,Utility Libraries,General Utilities,Executing,python
+cleo,Utility Libraries,General Utilities,Cleo,python
+langchain-core,Application Development,Web Frameworks,Langchain-core,python
+webencodings,Utility Libraries,General Utilities,Webencodings,python
+orjson,Serialization,JSON & XML,Orjson,python
+tokenizers,Utility Libraries,General Utilities,Tokenizers,python
+mypy,Developer Tooling,Static Analysis,Mypy,python
+typing-inspect,Utility Libraries,General Utilities,Typing-inspect,python
+sympy,Utility Libraries,Collections & Data Structures,Sympy,python
+multiprocess,Utility Libraries,General Utilities,Multiprocess,python
+ply,Developer Tooling,Code Generators,Ply,python
+ruff,Developer Tooling,Static Analysis,Ruff,python
+stack-data,Utility Libraries,General Utilities,Stack-data,python
+pure-eval,Utility Libraries,General Utilities,Pure-eval,python
+thriftpy2,Application Integration,RPC & Web Services,Thriftpy2,python
+smart-open,Utility Libraries,General Utilities,Smart-open,python
+torch,Application Development,Web Frameworks,Torch,python
+python-json-logger,Observability,Logging,Python-json-logger,python
+snowflake-snowpark-python,Data Management,Data Warehousing,Snowflake-snowpark-python,python
+uv,Application Integration,RPC & Web Services,Uv,python
+argcomplete,Utility Libraries,General Utilities,Argcomplete,python
+pycryptodome,Security,Transport Security,Pycryptodome,python
+pymongo,Data Management,NoSQL Databases,Pymongo,python
+nodeenv,Utility Libraries,General Utilities,Nodeenv,python
+aiofiles,Utility Libraries,General Utilities,Aiofiles,python
+mpmath,Utility Libraries,General Utilities,Mpmath,python
+pytest-xdist,Testing & Quality,Testing Frameworks,Pytest-xdist,python
+arrow,Utility Libraries,Date & Time Utilities,Arrow,python
+opentelemetry-exporter-otlp,Observability,Tracing,Opentelemetry-exporter-otlp,python
+watchdog,Utility Libraries,General Utilities,Watchdog,python
+shapely,Utility Libraries,General Utilities,Shapely,python
+pyrsistent,Utility Libraries,Collections & Data Structures,Pyrsistent,python
+scramp,Security,Authentication & Authorization,Scramp,python
+email-validator,Utility Libraries,General Utilities,Email-validator,python
+debugpy,Developer Tooling,Profiling & Debugging,Debugpy,python
+python-slugify,Utility Libraries,General Utilities,Python-slugify,python
+lz4,Utility Libraries,General Utilities,Lz4,python
+future,Utility Libraries,General Utilities,Future,python
+datadog,Observability,Monitoring,Datadog,python
+google-cloud-pubsub,Application Integration,Service Integration Frameworks,Google-cloud-pubsub,python
+opentelemetry-instrumentation,Observability,Tracing,Opentelemetry-instrumentation,python
+pyspark,Data Management,Batch Processing,Pyspark,python
+backports-tarfile,Utility Libraries,General Utilities,Backports-tarfile,python
+jsonpatch,Serialization,JSON & XML,Jsonpatch,python
+aioitertools,Utility Libraries,General Utilities,Aioitertools,python
+jiter,Utility Libraries,General Utilities,Jiter,python
+pygithub,Application Integration,Service Integration Frameworks,Pygithub,python
+identify,Utility Libraries,General Utilities,Identify,python
+jupyter-client,Developer Tooling,Local Development Runtimes,Jupyter-client,python
+jsonpath-ng,Serialization,JSON & XML,Jsonpath-ng,python
+jupyter-core,Developer Tooling,Local Development Runtimes,Jupyter-core,python
+pytest-asyncio,Testing & Quality,Testing Frameworks,Pytest-asyncio,python
+jupyterlab,Developer Tooling,Local Development Runtimes,Jupyterlab,python
+cfgv,Utility Libraries,General Utilities,Cfgv,python
+msrest,Application Integration,Service Integration Frameworks,Msrest,python
+pre-commit,Developer Tooling,Local Development Runtimes,Pre-commit,python
+pycryptodomex,Security,Transport Security,Pycryptodomex,python
+execnet,Utility Libraries,General Utilities,Execnet,python
+semver,Utility Libraries,General Utilities,Semver,python
+slack-sdk,Application Integration,Service Integration Frameworks,Slack-sdk,python
+ipykernel,Developer Tooling,Local Development Runtimes,Ipykernel,python
+redshift-connector,Data Management,Data Warehousing,Redshift-connector,python
+google-cloud-secret-manager,Application Integration,Service Integration Frameworks,Google-cloud-secret-manager,python
+setproctitle,Utility Libraries,General Utilities,Setproctitle,python
+pyflakes,Testing & Quality,Static Analysis,Pyflakes,python
+mysql-connector-python,Data Management,Relational Databases,Mysql-connector-python,python
+azure-common,Application Integration,Service Integration Frameworks,Azure-common,python
+comm,Utility Libraries,General Utilities,Comm,python
+azure-storage-file-datalake,Application Integration,Service Integration Frameworks,Azure-storage-file-datalake,python
+gcsfs,Data Management,Data Lakes,Gcsfs,python
+opentelemetry-util-http,Observability,Tracing,Opentelemetry-util-http,python
+tinycss2,Utility Libraries,General Utilities,Tinycss2,python
+colorlog,Observability,Logging,Colorlog,python
+requests-file,Application Integration,RPC & Web Services,Requests-file,python
+bleach,Utility Libraries,General Utilities,Bleach,python
+rfc3339-validator,Utility Libraries,General Utilities,Rfc3339-validator,python
+tableauserverclient,Application Integration,Service Integration Frameworks,Tableauserverclient,python
+oss2,Application Integration,Service Integration Frameworks,Oss2,python
+mistune,Utility Libraries,General Utilities,Mistune,python
+apache-beam,Application Integration,ETL & Data Pipelines,Apache-beam,python
+pytest-mock,Testing & Quality,Mocking & Fakes,Pytest-mock,python
+sqlalchemy-bigquery,Data Management,ORM & Data Access,Sqlalchemy-bigquery,python
+nbformat,Developer Tooling,Local Development Runtimes,Nbformat,python
+text-unidecode,Utility Libraries,General Utilities,Text-unidecode,python
+apache-airflow-providers-common-sql,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-common-sql,python
+editables,Utility Libraries,General Utilities,Editables,python
+nbconvert,Developer Tooling,Code Generators,Nbconvert,python
+dataclasses-json,Serialization,JSON & XML,Dataclasses-json,python
+google-cloud-resource-manager,Application Integration,Service Integration Frameworks,Google-cloud-resource-manager,python
+notebook,Developer Tooling,Local Development Runtimes,Notebook,python
+croniter,Utility Libraries,General Utilities,Croniter,python
+tiktoken,Utility Libraries,General Utilities,Tiktoken,python
+nbclient,Developer Tooling,Local Development Runtimes,Nbclient,python
+types-pyyaml,Utility Libraries,General Utilities,Types-pyyaml,python
+elasticsearch,Application Integration,Service Integration Frameworks,Elasticsearch,python
+typeguard,Utility Libraries,General Utilities,Typeguard,python
+flake8,Testing & Quality,Static Analysis,Flake8,python
+pydantic-settings,Utility Libraries,General Utilities,Pydantic-settings,python
+python-multipart,Utility Libraries,General Utilities,Python-multipart,python
+google-cloud-aiplatform,Application Integration,Service Integration Frameworks,Google-cloud-aiplatform,python
+overrides,Utility Libraries,General Utilities,Overrides,python
+pytzdata,Utility Libraries,Date & Time Utilities,Pytzdata,python
+nltk,Utility Libraries,General Utilities,Nltk,python
+cattrs,Utility Libraries,General Utilities,Cattrs,python
+safetensors,Utility Libraries,General Utilities,Safetensors,python
+zope-interface,Utility Libraries,General Utilities,Zope-interface,python
+xlsxwriter,Utility Libraries,General Utilities,Xlsxwriter,python
+lazy-object-proxy,Utility Libraries,General Utilities,Lazy-object-proxy,python
+jupyter-server,Developer Tooling,Local Development Runtimes,Jupyter-server,python
+tb-nightly,Observability,Metrics,Tb-nightly,python
+ordered-set,Utility Libraries,Collections & Data Structures,Ordered-set,python
+pg8000,Data Management,Relational Databases,Pg8000,python
+opentelemetry-instrumentation-requests,Observability,Tracing,Opentelemetry-instrumentation-requests,python
+pandocfilters,Utility Libraries,General Utilities,Pandocfilters,python
+jupyterlab-pygments,Utility Libraries,General Utilities,Jupyterlab-pygments,python
+uvloop,Utility Libraries,General Utilities,Uvloop,python
+humanfriendly,Utility Libraries,General Utilities,Humanfriendly,python
+watchfiles,Utility Libraries,General Utilities,Watchfiles,python
+opentelemetry-exporter-prometheus,Observability,Metrics,Opentelemetry-exporter-prometheus,python
+astroid,Utility Libraries,General Utilities,Astroid,python
+simplejson,Serialization,JSON & XML,Simplejson,python
+pbs-installer,Developer Tooling,Local Development Runtimes,Pbs-installer,python
+gevent,Application Development,Reactive Programming,Gevent,python
+argon2-cffi,Security,Authentication & Authorization,Argon2-cffi,python
+findpython,Utility Libraries,General Utilities,Findpython,python
+google-pasta,Utility Libraries,General Utilities,Google-pasta,python
+google-cloud-appengine-logging,Observability,Logging,Google-cloud-appengine-logging,python
+argon2-cffi-bindings,Security,Transport Security,Argon2-cffi-bindings,python
+databricks-sql-connector,Application Integration,Service Integration Frameworks,Databricks-sql-connector,python
+toolz,Utility Libraries,General Utilities,Toolz,python
+fastavro,Serialization,Binary Formats,Fastavro,python
+docstring-parser,Developer Tooling,Documentation,Docstring-parser,python
+pinotdb,Data Management,ORM & Data Access,Pinotdb,python
+deepdiff,Utility Libraries,General Utilities,Deepdiff,python
+datasets,Utility Libraries,Collections & Data Structures,Datasets,python
+gym,Utility Libraries,General Utilities,Gym,python
+absl-py,Utility Libraries,General Utilities,Absl-py,python
+python-telegram-bot,Application Integration,Service Integration Frameworks,Python-telegram-bot,python
+nvidia-cublas-cu12,Utility Libraries,General Utilities,Nvidia-cublas-cu12,python
+xlrd,Data Management,Data Warehousing,Xlrd,python
+jupyterlab-server,Developer Tooling,Local Development Runtimes,Jupyterlab-server,python
+nvidia-cusparse-cu12,Utility Libraries,General Utilities,Nvidia-cusparse-cu12,python
+aenum,Utility Libraries,General Utilities,Aenum,python
+altair,Application Development,Web Frameworks,Altair,python
+json5,Serialization,JSON & XML,Json5,python
+durationpy,Utility Libraries,Date & Time Utilities,Durationpy,python
+httptools,Application Integration,RPC & Web Services,Httptools,python
+nvidia-nvjitlink-cu12,Utility Libraries,General Utilities,Nvidia-nvjitlink-cu12,python
+pylint,Testing & Quality,Static Analysis,Pylint,python
+pysocks,Application Integration,RPC & Web Services,Pysocks,python
+databricks-sdk,Application Integration,Service Integration Frameworks,Databricks-sdk,python
+graphql-core,Application Integration,Service Integration Frameworks,Graphql-core,python
+structlog,Observability,Logging,Structlog,python
+pandas-gbq,Application Integration,Service Integration Frameworks,Pandas-gbq,python
+responses,Testing & Quality,Mocking & Fakes,Responses,python
+types-protobuf,Utility Libraries,General Utilities,Types-protobuf,python
+retry,Resilience & Control,Retries & Backoff,Retry,python
+nvidia-cufft-cu12,Utility Libraries,General Utilities,Nvidia-cufft-cu12,python
+nvidia-curand-cu12,Utility Libraries,General Utilities,Nvidia-curand-cu12,python
+sentencepiece,Utility Libraries,General Utilities,Sentencepiece,python
+nvidia-cusolver-cu12,Utility Libraries,General Utilities,Nvidia-cusolver-cu12,python
+nvidia-cuda-cupti-cu12,Utility Libraries,General Utilities,Nvidia-cuda-cupti-cu12,python
+nvidia-cudnn-cu12,Utility Libraries,General Utilities,Nvidia-cudnn-cu12,python
+tblib,Utility Libraries,General Utilities,Tblib,python
+time-machine,Utility Libraries,General Utilities,Time-machine,python
+nvidia-cuda-runtime-cu12,Utility Libraries,General Utilities,Nvidia-cuda-runtime-cu12,python
+nvidia-cuda-nvrtc-cu12,Utility Libraries,General Utilities,Nvidia-cuda-nvrtc-cu12,python
+db-dtypes,Utility Libraries,General Utilities,Db-dtypes,python
+libcst,Testing & Quality,Static Analysis,Libcst,python
+pbr,Utility Libraries,General Utilities,Pbr,python
+tensorboard,Observability,Monitoring,Tensorboard,python
+hvac,Application Integration,Service Integration Frameworks,Hvac,python
+pyodbc,Data Management,ORM & Data Access,Pyodbc,python
+imageio,Utility Libraries,General Utilities,Imageio,python
+webcolors,Utility Libraries,General Utilities,Webcolors,python
+wsproto,Application Integration,RPC & Web Services,Wsproto,python
+tf-keras-nightly,Application Development,Web Frameworks,Tf-keras-nightly,python
+xxhash,Utility Libraries,General Utilities,Xxhash,python
+gcloud-aio-storage,Application Integration,Service Integration Frameworks,Gcloud-aio-storage,python
+oauth2client,Security,Authentication & Authorization,Oauth2client,python
+h5py,Data Management,Data Warehousing,H5py,python
+azure-keyvault-secrets,Security,Secrets Management,Azure-keyvault-secrets,python
+send2trash,Utility Libraries,General Utilities,Send2trash,python
+thrift,Application Integration,RPC & Web Services,Thrift,python
+google-cloud-logging,Observability,Logging,Google-cloud-logging,python
+flatbuffers,Serialization,Binary Formats,Flatbuffers,python
+xgboost,Utility Libraries,General Utilities,Xgboost,python
+schema,Utility Libraries,General Utilities,Schema,python
+google-cloud-dataproc,Deployment & Runtime Platforms,Cloud Platforms,Google-cloud-dataproc,python
+seaborn,Application Development,Web Frameworks,Seaborn,python
+nvidia-nccl-cu12,Utility Libraries,General Utilities,Nvidia-nccl-cu12,python
+inflection,Utility Libraries,General Utilities,Inflection,python
+selenium,Testing & Quality,Testing Frameworks,Selenium,python
+narwhals,Utility Libraries,General Utilities,Narwhals,python
+types-pytz,Utility Libraries,General Utilities,Types-pytz,python
+ipywidgets,Application Development,Component Models,Ipywidgets,python
+appdirs,Utility Libraries,General Utilities,Appdirs,python
+fqdn,Utility Libraries,General Utilities,Fqdn,python
+oscrypto,Security,Transport Security,Oscrypto,python
+pkgutil-resolve-name,Utility Libraries,General Utilities,Pkgutil-resolve-name,python
+async-lru,Utility Libraries,General Utilities,Async-lru,python
+widgetsnbextension,Application Development,Component Models,Widgetsnbextension,python
+isoduration,Utility Libraries,General Utilities,Isoduration,python
+portalocker,Utility Libraries,General Utilities,Portalocker,python
+uri-template,Utility Libraries,General Utilities,Uri-template,python
+rfc3986,Utility Libraries,General Utilities,Rfc3986,python
+aws-lambda-powertools,Utility Libraries,General Utilities,Aws-lambda-powertools,python
+terminado,Developer Tooling,Local Development Runtimes,Terminado,python
+jupyterlab-widgets,Application Development,Component Models,Jupyterlab-widgets,python
+faker,Utility Libraries,General Utilities,Faker,python
+adal,Security,Authentication & Authorization,Adal,python
+confluent-kafka,Application Integration,Message Brokers,Confluent-kafka,python
+triton,Utility Libraries,General Utilities,Triton,python
+rfc3986-validator,Utility Libraries,General Utilities,Rfc3986-validator,python
+types-setuptools,Utility Libraries,General Utilities,Types-setuptools,python
+python-daemon,Utility Libraries,General Utilities,Python-daemon,python
+pymssql,Data Management,ORM & Data Access,Pymssql,python
+notebook-shim,Developer Tooling,Local Development Runtimes,Notebook-shim,python
+plotly,Application Development,Web Frameworks,Plotly,python
+dbt-core,Application Integration,ETL & Data Pipelines,Dbt-core,python
+sagemaker,Application Integration,Service Integration Frameworks,Sagemaker,python
+authlib,Security,Authentication & Authorization,Authlib,python
+jupyter-events,Developer Tooling,Local Development Runtimes,Jupyter-events,python
+dbt-adapters,Developer Tooling,Code Generators,Dbt-adapters,python
+progressbar2,Observability,Metrics,Progressbar2,python
+coloredlogs,Observability,Logging,Coloredlogs,python
+tox,Testing & Quality,Testing Frameworks,Tox,python
+loguru,Observability,Logging,Loguru,python
+yamllint,Testing & Quality,Static Analysis,Yamllint,python
+google-cloud-spanner,Data Management,Relational Databases,Google-cloud-spanner,python
+google-cloud-audit-log,Observability,Logging,Google-cloud-audit-log,python
+google-cloud-bigquery-storage,Data Management,Data Warehousing,Google-cloud-bigquery-storage,python
+hpack,Utility Libraries,General Utilities,Hpack,python
+numba,Utility Libraries,General Utilities,Numba,python
+hyperframe,Application Integration,RPC & Web Services,Hyperframe,python
+microsoft-kiota-authentication-azure,Security,Authentication & Authorization,Microsoft-kiota-authentication-azure,python
+deprecation,Utility Libraries,General Utilities,Deprecation,python
+h2,Application Integration,RPC & Web Services,H2,python
+tensorflow,Application Development,Web Frameworks,Tensorflow,python
+python-utils,Utility Libraries,General Utilities,Python-utils,python
+django,Application Development,Web Frameworks,Django,python
+sshtunnel,Utility Libraries,General Utilities,Sshtunnel,python
+trio,Utility Libraries,General Utilities,Trio,python
+gcloud-aio-bigquery,Application Integration,Service Integration Frameworks,Gcloud-aio-bigquery,python
+jupyter-server-terminals,Developer Tooling,Local Development Runtimes,Jupyter-server-terminals,python
+linkify-it-py,Utility Libraries,General Utilities,Linkify-it-py,python
+antlr4-python3-runtime,Developer Tooling,Code Generators,Antlr4-python3-runtime,python
+langchain-community,Application Development,Web Frameworks,Langchain-community,python
+pytest-rerunfailures,Testing & Quality,Testing Frameworks,Pytest-rerunfailures,python
+delta-spark,Data Management,Data Lakes,Delta-spark,python
+llvmlite,Utility Libraries,General Utilities,Llvm lite,python
+click-plugins,Utility Libraries,General Utilities,Click-plugins,python
+google-cloud-vision,Application Integration,Service Integration Frameworks,Google-cloud-vision,python
+apache-airflow,Application Integration,ETL & Data Pipelines,Apache-airflow,python
+mock,Testing & Quality,Mocking & Fakes,Mock,python
+google-ads,Application Integration,Service Integration Frameworks,Google-ads,python
+sqlalchemy-spanner,Data Management,ORM & Data Access,Sqlalchemy-spanner,python
+flit-core,Developer Tooling,Build Tools,Flit-core,python
+lockfile,Utility Libraries,General Utilities,Lockfile,python
+pydata-google-auth,Application Integration,Service Integration Frameworks,Pydata-google-auth,python
+jupyter-lsp,Developer Tooling,Local Development Runtimes,Jupyter-lsp,python
+kombu,Application Integration,Messaging Protocols,Kombu,python
+graphviz,Utility Libraries,General Utilities,Graphviz,python
+nvidia-nvtx-cu12,Utility Libraries,General Utilities,Nvidia-nvtx-cu12,python
+twine,Developer Tooling,Build Tools,Twine,python
+pathos,Utility Libraries,General Utilities,Pathos,python
+types-urllib3,Utility Libraries,General Utilities,Types-urllib3,python
+duckdb,Data Management,Data Warehousing,Duckdb,python
+google-cloud-bigtable,Application Integration,Service Integration Frameworks,Google-cloud-bigtable,python
+limits,Utility Libraries,General Utilities,Limits,python
+snowballstemmer,Utility Libraries,General Utilities,Snowballstemmer,python
+pipenv,Developer Tooling,Dependency Management,Pipenv,python
+great-expectations,Testing & Quality,Testing Frameworks,Great-expectations,python
+celery,Application Integration,Message Brokers,Celery,python
+entrypoints,Utility Libraries,General Utilities,Entrypoints,python
+google-cloud-dlp,Application Integration,Service Integration Frameworks,Google-cloud-dlp,python
+pox,Utility Libraries,General Utilities,Pox,python
+ppft,Utility Libraries,General Utilities,Ppft,python
+semantic-version,Utility Libraries,General Utilities,Semantic-version,python
+universal-pathlib,Utility Libraries,General Utilities,Universal-pathlib,python
+retrying,Resilience & Control,Retries & Backoff,Retrying,python
+requests-mock,Testing & Quality,Testing Frameworks,Requests-mock,python
+bs4,Utility Libraries,General Utilities,Bs4,python
+readme-renderer,Utility Libraries,General Utilities,Readme-renderer,python
+microsoft-kiota-http,Application Integration,RPC & Web Services,Microsoft-kiota-http,python
+outcome,Utility Libraries,General Utilities,Outcome,python
+moto,Testing & Quality,Mocking & Fakes,Moto,python
+tldextract,Utility Libraries,General Utilities,Tldextract,python
+aws-requests-auth,Security,Authentication & Authorization,Aws-requests-auth,python
+ijson,Serialization,JSON & XML,Ijson,python
+psycopg2,Data Management,Relational Databases,Psycopg2,python
+fastapi-cli,Developer Tooling,Build Tools,Fastapi-cli,python
+vine,Utility Libraries,General Utilities,Vine,python
+sphinxcontrib-serializinghtml,Developer Tooling,Documentation,Sphinxcontrib-serializinghtml,python
+azure-mgmt-core,Application Integration,Service Integration Frameworks,Azure-mgmt-core,python
+amqp,Application Integration,Messaging Protocols,Amqp,python
+mdit-py-plugins,Utility Libraries,General Utilities,Mdit-py-plugins,python
+langchain-text-splitters,Application Development,Web Frameworks,Langchain-text-splitters,python
+billiard,Utility Libraries,General Utilities,Billiard,python
+aiosqlite,Data Management,ORM & Data Access,Aiosqlite,python
+apache-airflow-providers-cncf-kubernetes,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-cncf-kubernetes,python
+dbt-common,Developer Tooling,Code Generators,Dbt-common,python
+smdebug-rulesconfig,Utility Libraries,General Utilities,Smdebug-rulesconfig,python
+omegaconf,Utility Libraries,Configuration Utilities,Omegaconf,python
+gast,Utility Libraries,General Utilities,Gast,python
+google-cloud-monitoring,Application Integration,Service Integration Frameworks,Google-cloud-monitoring,python
+zeep,Application Integration,RPC & Web Services,Zeep,python
+prettytable,Utility Libraries,General Utilities,Prettytable,python
+html5lib,Utility Libraries,General Utilities,Html5lib,python
+trio-websocket,Application Integration,Messaging Protocols,Trio-websocket,python
+humanize,Utility Libraries,General Utilities,Humanize,python
+looker-sdk,Application Integration,Service Integration Frameworks,Looker-sdk,python
+apache-airflow-providers-google,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-google,python
+ipython-pygments-lexers,Developer Tooling,Local Development Runtimes,Ipynb-pygments-lexers,python
+botocore-stubs,Utility Libraries,General Utilities,Botocore-stubs,python
+flask-wtf,Application Development,Web Frameworks,Flask-wtf,python
+gcloud-aio-auth,Application Integration,Service Integration Frameworks,Gcloud-aio-auth,python
+pybind11,Developer Tooling,Build Tools,Pybind11,python
+docker-pycreds,Utility Libraries,General Utilities,Docker-pycreds,python
+pycountry,Utility Libraries,General Utilities,Pycountry,python
+google-cloud-kms,Application Integration,Service Integration Frameworks,Google-cloud-kms,python
+types-awscrt,Utility Libraries,General Utilities,Types-awscrt,python
+boto3-stubs,Utility Libraries,General Utilities,Boto3-stubs,python
+spacy,Application Development,Web Frameworks,Spacy,python
+opencv-python,Application Development,Web Frameworks,Opencv-python,python
+rich-argparse,Utility Libraries,General Utilities,Rich-argparse,python
+nh3,Utility Libraries,General Utilities,Nh3,python
+yapf,Developer Tooling,Build Tools,Yapf,python
+unidecode,Utility Libraries,General Utilities,Unidecode,python
+alabaster,Developer Tooling,Documentation,Alabaster,python
+gspread,Application Integration,Service Integration Frameworks,Gs spread,python
+bitarray,Utility Libraries,General Utilities,Bitarray,python
+click-didyoumean,Utility Libraries,General Utilities,Click-didyoumean,python
+gremlinpython,Application Integration,Service Integration Frameworks,Gremlinpython,python
+freezegun,Testing & Quality,Testing Frameworks,Freezegun,python
+wandb,Observability,Metrics,Wandb,python
+google-cloud-tasks,Application Integration,Service Integration Frameworks,Google-cloud-tasks,python
+brotli,Utility Libraries,General Utilities,Brotli,python
+simple-salesforce,Application Integration,Service Integration Frameworks,Simple-salesforce,python
+pytest-runner,Developer Tooling,Build Tools,Pytest-runner,python
+imagesize,Utility Libraries,General Utilities,Imagesize,python
+thinc,Utility Libraries,General Utilities,Thinc,python
+types-s3transfer,Utility Libraries,General Utilities,Types-s3transfer,python
+torchvision,Utility Libraries,General Utilities,Torchvision,python
+blis,Utility Libraries,General Utilities,Blis,python
+ecdsa,Security,Transport Security,Ecdsa,python
+avro-python3,Serialization,Binary Formats,Avro-python3,python
+eventlet,Utility Libraries,General Utilities,Eventlet,python
+azure-datalake-store,Application Integration,Service Integration Frameworks,Azure-datalake-store,python
+mashumaro,Serialization,JSON & XML,Mashumaro,python
+docopt,Utility Libraries,General Utilities,Docopt,python
+statsmodels,Utility Libraries,General Utilities,Statsmodels,python
+google-cloud-datacatalog,Application Integration,Service Integration Frameworks,Google-cloud-datacatalog,python
+click-repl,Utility Libraries,General Utilities,Click-repl,python
+pywin32,Utility Libraries,General Utilities,Pywin32,python
+mergedeep,Utility Libraries,General Utilities,Mergedeep,python
+sphinxcontrib-htmlhelp,Developer Tooling,Documentation,Sphinxcontrib-htmlhelp,python
+sphinxcontrib-qthelp,Developer Tooling,Documentation,Sphinxcontrib-qthelp,python
+sphinxcontrib-applehelp,Developer Tooling,Documentation,Sphinxcontrib-applehelp,python
+sphinxcontrib-devhelp,Developer Tooling,Documentation,Sphinxcontrib-devhelp,python
+agate,Utility Libraries,Collections & Data Structures,Agate,python
+ujson,Serialization,JSON & XML,Ujson,python
+google-cloud-bigquery-datatransfer,Application Integration,Service Integration Frameworks,Google-cloud-bigquery-datatransfer,python
+mypy-boto3-s3,Utility Libraries,General Utilities,Mypy-boto3-s3,python
+pytimeparse,Utility Libraries,General Utilities,Pytimeparse,python
+google-cloud-language,Application Integration,Service Integration Frameworks,Google-cloud-language,python
+google-cloud-container,Application Integration,Service Integration Frameworks,Google-cloud-container,python
+sphinxcontrib-jsmath,Developer Tooling,Documentation,Sphinxcontrib-jsmath,python
+mlflow,Application Development,Web Frameworks,Mlflow,python
+google-cloud-translate,Application Integration,Service Integration Frameworks,Google-cloud-translate,python
+google-cloud-firestore,Application Integration,Service Integration Frameworks,Google-cloud-firestore,python
+tensorboard-data-server,Observability,Monitoring,Tensorboard-data-server,python
+hypothesis,Testing & Quality,Testing Frameworks,Hypothesis,python
+catalogue,Utility Libraries,General Utilities,Catalogue,python
+google-cloud-videointelligence,Application Integration,Service Integration Frameworks,Google-cloud-videointelligence,python
+preshed,Utility Libraries,General Utilities,Preshed,python
+srsly,Utility Libraries,General Utilities,Srsly,python
+flask-login,Application Development,Web Frameworks,Flask-login,python
+wasabi,Utility Libraries,General Utilities,Wasabi,python
+google-cloud-workflows,Application Integration,Service Integration Frameworks,Google-cloud-workflows,python
+google-cloud-compute,Application Integration,Service Integration Frameworks,Google-cloud-compute,python
+apache-airflow-providers-snowflake,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-snowflake,python
+langcodes,Utility Libraries,General Utilities,Langcodes,python
+ninja,Developer Tooling,Build Tools,Ninja,python
+google-cloud-speech,Application Integration,Service Integration Frameworks,Google-cloud-speech,python
+mlflow-skinny,Application Development,Web Frameworks,Mlflow-skinny,python
+google-cloud-automl,Application Integration,Service Integration Frameworks,Google-cloud-automl,python
+google-cloud-build,Application Integration,Service Integration Frameworks,Google-cloud-build,python
+google-cloud-dataplex,Application Integration,Service Integration Frameworks,Google-cloud-dataplex,python
+monotonic,Utility Libraries,General Utilities,Monotonic,python
+mysqlclient,Data Management,Relational Databases,Mysqlclient,python
+kafka-python,Application Integration,Message Brokers,Kafka-python,python
+dacite,Utility Libraries,General Utilities,Dacite,python
+cymem,Utility Libraries,General Utilities,Cymem,python
+google-cloud-redis,Application Integration,Service Integration Frameworks,Google-cloud-redis,python
+astronomer-cosmos,Utility Libraries,General Utilities,Astronomer-cosmos,python
+murmurhash,Utility Libraries,General Utilities,Murmurhash,python
+jsonpickle,Serialization,JSON & XML,Jsonpickle,python
+patsy,Utility Libraries,General Utilities,Patsy,python
+zope-event,Utility Libraries,General Utilities,Zope-event,python
+cached-property,Utility Libraries,General Utilities,Cached-property,python
+google-cloud-memcache,Application Integration,Service Integration Frameworks,Google-cloud-memcache,python
+ddtrace,Observability,Tracing,Ddtrace,python
+google-cloud-os-login,Application Integration,Service Integration Frameworks,Google-cloud-os-login,python
+types-redis,Utility Libraries,General Utilities,Types-redis,python
+sqlalchemy-jsonfield,Data Management,ORM & Data Access,Sqlalchemy-jsonfield,python
+marshmallow-oneofschema,Serialization,JSON & XML,Marshmallow-oneofschema,python
+google-cloud-orchestration-airflow,Application Integration,ETL & Data Pipelines,Google-cloud-orchestration-airflow,python
+flask-cors,Application Integration,Messaging Protocols,Flask-cors,python
+keras,Application Development,Web Frameworks,Keras,python
+spacy-legacy,Utility Libraries,General Utilities,Spacy-legacy,python
+flask-limiter,Resilience & Control,Rate Limiting,Flask-limiter,python
+httpx-sse,Application Integration,Messaging Protocols,Httpx-sse,python
+spacy-loggers,Observability,Logging,Spacy-loggers,python
+pip-tools,Developer Tooling,Dependency Management,Pip-tools,python
+psycopg,Data Management,Relational Databases,Psycopg,python
+langchain-google-vertexai,Application Integration,Service Integration Frameworks,Langchain-google-vertexai,python
+google-cloud-dataform,Application Integration,Service Integration Frameworks,Google-cloud-dataform,python
+google-cloud-dataproc-metastore,Application Integration,Service Integration Frameworks,Google-cloud-dataproc-metastore,python
+opt-einsum,Utility Libraries,General Utilities,Opt-einsum,python
+jpype1,Utility Libraries,General Utilities,Jpype1,python
+onnxruntime,Utility Libraries,General Utilities,Onnxruntime,python
+google-cloud-texttospeech,Application Integration,Service Integration Frameworks,Google-cloud-texttospeech,python
+confection,Utility Libraries,General Utilities,Confection,python
+pickleshare,Utility Libraries,General Utilities,Pickleshare,python
+apache-airflow-providers-mysql,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-mysql,python
+asyncpg,Data Management,Relational Databases,Asyncpg,python
+msrestazure,Application Integration,Service Integration Frameworks,Msrestazure,python
+asynctest,Testing & Quality,Testing Frameworks,Asynctest,python
+pytest-timeout,Testing & Quality,Testing Frameworks,Pytest-timeout,python
+eval-type-backport,Utility Libraries,General Utilities,Eval-type-backport,python
+backcall,Utility Libraries,General Utilities,Backcall,python
+tensorflow-estimator,Application Development,Web Frameworks,Tensorflow-estimator,python
+apache-airflow-providers-ssh,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-ssh,python
+argparse,Utility Libraries,General Utilities,Argparse,python
+grpcio-gcp,Application Integration,RPC & Web Services,Grpcio-gcp,python
+python-http-client,Application Integration,RPC & Web Services,Python-http-client,python
+cron-descriptor,Utility Libraries,General Utilities,Cron-descriptor,python
+marisa-trie,Utility Libraries,Collections & Data Structures,Marisa-trie,python
+apache-airflow-providers-databricks,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-databricks,python
+parsedatetime,Utility Libraries,Date & Time Utilities,Parsedatetime,python
+microsoft-kiota-abstractions,Utility Libraries,General Utilities,Microsoft-kiota-abstractions,python
+imbalanced-learn,Utility Libraries,Collections & Data Structures,Imbalanced-learn,python
+flask-sqlalchemy,Data Management,ORM & Data Access,Flask-sqlalchemy,python
+types-deprecated,Utility Libraries,General Utilities,Types-deprecated,python
+opentelemetry-instrumentation-asgi,Observability,Tracing,Opentelemetry-instrumentation-asgi,python
+rich-click,Utility Libraries,General Utilities,Rich-click,python
+pydeequ,Application Integration,ETL & Data Pipelines,Pydeequ,python
+elastic-transport,Utility Libraries,General Utilities,Elastic-transport,python
+graphene,Application Development,Web Frameworks,Graphene,python
+types-paramiko,Utility Libraries,General Utilities,Types-paramiko,python
+langchain-openai,Application Integration,Service Integration Frameworks,Langchain-openai,python
+dataclasses,Utility Libraries,General Utilities,Dataclasses,python
+sendgrid,Application Integration,Service Integration Frameworks,Sendgrid,python
+opentelemetry-instrumentation-fastapi,Observability,Tracing,Opentelemetry-instrumentation-fastapi,python
+python-jose,Security,Authentication & Authorization,Python-jose,python
+makefun,Utility Libraries,General Utilities,Makefun,python
+bytecode,Utility Libraries,General Utilities,Bytecode,python
+validators,Utility Libraries,General Utilities,Validators,python
+language-data,Utility Libraries,General Utilities,Language-data,python
+graphql-relay,Application Development,Web Frameworks,Graphql-relay,python
+watchtower,Observability,Logging,Watchtower,python
+azure-cosmos,Application Integration,Service Integration Frameworks,Azure-cosmos,python
+azure-mgmt-resource,Application Integration,Service Integration Frameworks,Azure-mgmt-resource,python
+sqlalchemy-utils,Data Management,ORM & Data Access,Sqlalchemy-utils,python
+databricks-cli,Developer Tooling,Local Development Runtimes,Databricks-cli,python
+envier,Utility Libraries,Configuration Utilities,Envier,python
+types-tabulate,Utility Libraries,General Utilities,Types-tabulate,python
+fasteners,Utility Libraries,General Utilities,Fasteners,python
+types-aiofiles,Utility Libraries,General Utilities,Types-aiofiles,python
+flask-session,Application Development,Component Models,Flask-session,python
+pydot,Utility Libraries,General Utilities,Pydot,python
+google-analytics-admin,Application Integration,Service Integration Frameworks,Google-analytics-admin,python
+aioresponses,Testing & Quality,Testing Frameworks,Aioresponses,python
+dbt-extractor,Developer Tooling,Code Generators,Dbt-extractor,python
+scikit-image,Utility Libraries,Collections & Data Structures,Scikit-image,python
+flask-caching,Data Management,Caching,Flask-caching,python
+leather,Utility Libraries,General Utilities,Leather,python
+pypdf2,Utility Libraries,General Utilities,Pypdf2,python
+uc-micro-py,Utility Libraries,General Utilities,Uc-micro-py,python
+pytest-metadata,Testing & Quality,Testing Frameworks,Pytest-metadata,python
+inflect,Utility Libraries,General Utilities,Inflect,python
+polars,Data Management,Data Warehousing,Polars,python
+azure-servicebus,Application Integration,Service Integration Frameworks,Azure-servicebus,python
+types-docutils,Utility Libraries,General Utilities,Types-docutils,python
+cramjam,Utility Libraries,General Utilities,Cramjam,python
+aws-xray-sdk,Observability,Tracing,Aws-xray-sdk,python
+ml-dtypes,Utility Libraries,General Utilities,Ml-dtypes,python
+lark,Utility Libraries,General Utilities,Lark,python
+google-cloud-dataflow-client,Application Integration,Service Integration Frameworks,Google-cloud-dataflow-client,python
+pyproject-api,Developer Tooling,Build Tools,Pyproject-api,python
+jaydebeapi,Application Integration,Service Integration Frameworks,Jaydebeapi,python
+impyla,Application Integration,Service Integration Frameworks,Impyla,python
+torchaudio,Application Development,Web Frameworks,Torchaudio,python
+mypy-boto3-rds,Utility Libraries,General Utilities,Mypy-boto3-rds,python
+pandas-stubs,Utility Libraries,General Utilities,Pandas-stubs,python
+nvidia-cusparselt-cu12,Utility Libraries,General Utilities,Nvidia-cusparselt-cu12,python
+types-markdown,Utility Libraries,General Utilities,Types-markdown,python
+pypdf,Utility Libraries,General Utilities,Pypdf,python
+wtforms,Application Development,Web Frameworks,Wtforms,python
+pyathena,Application Integration,Service Integration Frameworks,Pyathena,python
+astunparse,Utility Libraries,General Utilities,Astunparse,python
+mmh3,Utility Libraries,General Utilities,Mmh3,python
+retryhttp,Resilience & Control,Retries & Backoff,Retryhttp,python
+apispec,Application Development,Web Frameworks,Apispec,python
+jira,Application Integration,Service Integration Frameworks,Jira,python
+google-cloud-run,Application Integration,Service Integration Frameworks,Google-cloud-run,python
+texttable,Utility Libraries,General Utilities,Texttable,python
+parameterized,Testing & Quality,Testing Frameworks,Parameterized,python
+hdfs,Data Management,Data Lakes,Hdfs,python
+cfn-lint,Testing & Quality,Static Analysis,Cfn-lint,python
+holidays,Utility Libraries,General Utilities,Holidays,python
+dbt-semantic-interfaces,Application Integration,ETL & Data Pipelines,Dbt-semantic-interfaces,python
+types-croniter,Utility Libraries,General Utilities,Types-croniter,python
+google-cloud-storage-transfer,Application Integration,Service Integration Frameworks,Google-cloud-storage-transfer,python
+levenshtein,Utility Libraries,General Utilities,Levenshtein,python
+azure-kusto-data,Application Integration,Service Integration Frameworks,Azure-kusto-data,python
+python-magic,Utility Libraries,General Utilities,Python-magic,python
+azure-mgmt-storage,Application Integration,Service Integration Frameworks,Azure-mgmt-storage,python
+google-cloud-batch,Application Integration,Service Integration Frameworks,Google-cloud-batch,python
+phonenumbers,Utility Libraries,General Utilities,Phonenumbers,python
+accelerate,Utility Libraries,General Utilities,Accelerate,python
+types-pymysql,Utility Libraries,General Utilities,Types-pymysql,python
+azure-storage-queue,Application Integration,Service Integration Frameworks,Azure-storage-queue,python
+oracledb,Data Management,ORM & Data Access,Oracledb,python
+pysftp,Application Integration,Service Integration Frameworks,Pysftp,python
+diskcache,Data Management,Caching,Diskcache,python
+flask-appbuilder,Application Development,Web Frameworks,Flask-appbuilder,python
+djangorestframework,Application Development,Web Frameworks,Djangorestframework,python
+cloudpathlib,Utility Libraries,General Utilities,Cloudpathlib,python
+azure-storage-file-share,Application Integration,Service Integration Frameworks,Azure-storage-file-share,python
+kubernetes-asyncio,Application Integration,Service Integration Frameworks,Kubernetes-asyncio,python
+dateparser,Utility Libraries,General Utilities,Dateparser,python
+sphinx-rtd-theme,Developer Tooling,Documentation,Sphinx-rtd-theme,python
+configparser,Utility Libraries,Configuration Utilities,Configparser,python
+sqlglot,Data Management,ORM & Data Access,Sqlglot,python
+python-gitlab,Application Integration,Service Integration Frameworks,Python-gitlab,python
+psycopg-binary,Data Management,Relational Databases,Psycopg-binary,python
+py-cpuinfo,Utility Libraries,General Utilities,Py-cpuinfo,python
+python-gnupg,Security,Transport Security,Python-gnupg,python
+dask,Data Management,Batch Processing,Dask,python
+pyproj,Utility Libraries,General Utilities,Pyproj,python
+diagrams,Utility Libraries,General Utilities,Diagrams,python
+cachelib,Data Management,Caching,Cachelib,python
+lightgbm,Utility Libraries,General Utilities,Lightgbm,python
+markdownify,Utility Libraries,General Utilities,Markdownify,python
+pyspnego,Security,Authentication & Authorization,Pyspnego,python
+openapi-spec-validator,Utility Libraries,General Utilities,Openapi-spec-validator,python
+cmake,Developer Tooling,Build Tools,Cmake,python
+astor,Utility Libraries,General Utilities,Astor,python
+stevedore,Utility Libraries,General Utilities,Stevedore,python
+anthropic,Application Integration,Service Integration Frameworks,Anthropic,python
+hyperlink,Utility Libraries,General Utilities,Hyperlink,python
+deltalake,Data Management,Data Lakes,Deltalake,python
+streamlit,Application Development,Web Frameworks,Streamlit,python
+apscheduler,Utility Libraries,General Utilities,Apscheduler,python
+libclang,Utility Libraries,General Utilities,Libclang,python
+opencv-python-headless,Utility Libraries,General Utilities,Opencv-python-headless,python
+statsd,Observability,Metrics,Statsd,python
+datetime,Utility Libraries,Date & Time Utilities,Datetime,python
+invoke,Developer Tooling,Build Tools,Invoke,python
+pyroaring,Utility Libraries,Collections & Data Structures,Pyroaring,python
+pyee,Utility Libraries,General Utilities,Pyee,python
+pipdeptree,Developer Tooling,Dependency Management,Pipdeptree,python
+id,Utility Libraries,General Utilities,Id,python
+pdbr,Testing & Quality,Profiling & Debugging,Pdbr,python
+parse,Utility Libraries,General Utilities,Parse,python
+datadog-api-client,Application Integration,Service Integration Frameworks,Datadog-api-client,python
+avro,Serialization,Binary Formats,Avro,python
+msgspec,Serialization,Binary Formats,Msgspec,python
+azure-nspkg,Utility Libraries,General Utilities,Azure-nspkg,python
+apache-airflow-providers-sqlite,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-sqlite,python
+tomli-w,Utility Libraries,General Utilities,Tomli-w,python
+resolvelib,Utility Libraries,General Utilities,Resolvelib,python
+commonmark,Serialization,JSON & XML,Commonmark,python
+opencensus,Observability,Metrics,Opencensus,python
+pandera,Utility Libraries,General Utilities,Pandera,python
+bracex,Utility Libraries,General Utilities,Bracex,python
+azure-mgmt-containerregistry,Application Integration,Service Integration Frameworks,Azure-mgmt-containerregistry,python
+einops,Utility Libraries,General Utilities,Einops,python
+emoji,Utility Libraries,General Utilities,Emoji,python
+fastparquet,Data Management,Data Warehousing,Fastparquet,python
+apache-airflow-providers-http,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-http,python
+office365-rest-python-client,Application Integration,Service Integration Frameworks,Office365-rest-python-client,python
+frozendict,Utility Libraries,General Utilities,Frozendict,python
+pytest-html,Testing & Quality,Testing Frameworks,Pytest-html,python
+opencensus-context,Observability,Tracing,Opencensus-context,python
+aws-sam-translator,Developer Tooling,Build Tools,Aws-sam-translator,python
+lazy-loader,Utility Libraries,General Utilities,Lazy-loader,python
+jupyter,Developer Tooling,Local Development Runtimes,Jupyter,python
+jupyter-console,Developer Tooling,Local Development Runtimes,Jupyter-console,python
+fuzzywuzzy,Utility Libraries,General Utilities,Fuzzywuzzy,python
+cssselect,Utility Libraries,General Utilities,Cssselect,python
+filetype,Utility Libraries,General Utilities,Filetype,python
+gradio,Application Development,Web Frameworks,Gradio,python
+openapi-schema-validator,Utility Libraries,General Utilities,Openapi-schema-validator,python
+pytorch-lightning,Application Development,Web Frameworks,Pytorch-lightning,python
+pydub,Utility Libraries,General Utilities,Pydub,python
+connexion,Application Integration,Service Integration Frameworks,Connexion,python
+playwright,Testing & Quality,Testing Frameworks,Playwright,python
+analytics-python,Application Integration,Service Integration Frameworks,Analytics-python,python
+marshmallow-sqlalchemy,Serialization,JSON & XML,Marshmallow-sqlalchemy,python
+cadwyn,Utility Libraries,General Utilities,Cadwyn,python
+tensorflow-io-gcs-filesystem,Data Management,Data Lakes,Tensorflow-io-gcs-filesystem,python
+sentence-transformers,Utility Libraries,General Utilities,Sentence-transformers,python
+pymdown-extensions,Utility Libraries,General Utilities,Pymdown-extensions,python
+pywin32-ctypes,Utility Libraries,General Utilities,Pywin32-ctypes,python
+crcmod,Utility Libraries,General Utilities,Crcmod,python
+flask-jwt-extended,Security,Authentication & Authorization,Flask-jwt-extended,python
+pymupdf,Utility Libraries,General Utilities,Pymupdf,python
+azure-mgmt-cosmosdb,Application Integration,Service Integration Frameworks,Azure-mgmt-cosmosdb,python
+posthog,Observability,Monitoring,Posthog,python
+pydeck,Application Development,Web Frameworks,Pydeck,python
+azure-mgmt-datafactory,Application Integration,Service Integration Frameworks,Azure-mgmt-datafactory,python
+tifffile,Utility Libraries,General Utilities,Tifffile,python
+userpath,Utility Libraries,General Utilities,Userpath,python
+python-docx,Utility Libraries,General Utilities,Python-docx,python
+openlineage-python,Application Integration,Service Integration Frameworks,Openlineage-python,python
+llama-parse,Utility Libraries,General Utilities,Llama-parse,python
+azure-mgmt-containerinstance,Application Integration,Service Integration Frameworks,Azure-mgmt-containerinstance,python
+azure-keyvault-keys,Security,Identity & Access Management,Azure-keyvault-keys,python
+pathy,Utility Libraries,General Utilities,Pathy,python
+passlib,Security,Authentication & Authorization,Passlib,python
+incremental,Utility Libraries,General Utilities,Incremental,python
+opentelemetry-instrumentation-wsgi,Observability,Tracing,Opentelemetry-instrumentation-wsgi,python
+immutabledict,Utility Libraries,General Utilities,Immutabledict,python
+flask-babel,Application Development,Web Frameworks,Flask-babel,python
+tree-sitter,Utility Libraries,General Utilities,Tree-sitter,python
+nose,Testing & Quality,Testing Frameworks,Nose,python
+pemja,Utility Libraries,General Utilities,Pemja,python
+apache-flink,Application Integration,ETL & Data Pipelines,Apache-flink,python
+configupdater,Utility Libraries,Configuration Utilities,Configupdater,python
+junitparser,Utility Libraries,General Utilities,Junitparser,python
+apache-flink-libraries,Application Integration,ETL & Data Pipelines,Apache-flink-libraries,python
+torchmetrics,Application Development,Reactive Programming,Torchmetrics,python
+requests-ntlm,Security,Authentication & Authorization,Requests-ntlm,python
+click-option-group,Utility Libraries,General Utilities,Click-option-group,python
+ipdb,Testing & Quality,Profiling & Debugging,Ipdb,python
+configargparse,Utility Libraries,Configuration Utilities,Configargparse,python
+azure-batch,Application Integration,Service Integration Frameworks,Azure-batch,python
+tensorflow-serving-api,Application Integration,RPC & Web Services,Tensorflow-serving-api,python
+sagemaker-studio,Application Integration,Service Integration Frameworks,Sagemaker-studio,python
+django-cors-headers,Application Development,Web Frameworks,Django-cors-headers,python
+wcmatch,Utility Libraries,General Utilities,Wcmatch,python
+trino,Data Management,Data Warehousing,Trino,python
+ratelimit,Resilience & Control,Rate Limiting,Ratelimit,python
+ua-parser,Utility Libraries,General Utilities,Ua-parser,python
+apache-airflow-providers-fab,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-fab,python
+backports-zoneinfo,Utility Libraries,Date & Time Utilities,Backports-zoneinfo,python
+pyright,Developer Tooling,Static Analysis,Pyright,python
+openlineage-integration-common,Application Integration,Service Integration Frameworks,Openlineage-integration-common,python
+mkdocs-material,Developer Tooling,Code Generators,Mkdocs-material,python
+ciso8601,Utility Libraries,Date & Time Utilities,Ciso8601,python
+litellm,Utility Libraries,General Utilities,Litellm,python
+google,Utility Libraries,General Utilities,Google,python
+kfp,Application Integration,Service Integration Frameworks,Kfp,python
+typed-ast,Utility Libraries,General Utilities,Typed-ast,python
+xarray,Utility Libraries,Collections & Data Structures,Xarray,python
+cfn-flip,Utility Libraries,General Utilities,Cfn-flip,python
+types-pyopenssl,Utility Libraries,General Utilities,Types-pyopenssl,python
+pdfminer-six,Utility Libraries,General Utilities,Pdfminer-six,python
+adlfs,Data Management,Data Lakes,Adlfs,python
+gql,Application Integration,RPC & Web Services,Gql,python
+thrift-sasl,Application Integration,Messaging Protocols,Thrift-sasl,python
+stripe,Application Integration,RPC & Web Services,Stripe,python
+orderly-set,Utility Libraries,Collections & Data Structures,Orderly-set,python
+starkbank-ecdsa,Security,Transport Security,Starkbank-ecdsa,python
+python-levenshtein,Utility Libraries,General Utilities,Python-levenshtein,python
+towncrier,Developer Tooling,Code Generators,Towncrier,python
+microsoft-kiota-serialization-text,Serialization,JSON & XML,Microsoft-kiota-serialization-text,python
+grpc-interceptor,Application Integration,RPC & Web Services,Grpc-interceptor,python
+cssselect2,Utility Libraries,General Utilities,Cssselect2,python
+pgvector,Data Management,Relational Databases,Pgvector,python
+apache-airflow-providers-slack,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-slack,python
+methodtools,Utility Libraries,General Utilities,Methodtools,python
+mypy-boto3-appflow,Utility Libraries,General Utilities,Mypy-boto3-appflow,python
+azure-storage-common,Application Integration,Service Integration Frameworks,Azure-storage-common,python
+microsoft-kiota-serialization-json,Serialization,JSON & XML,Microsoft-kiota-serialization-json,python
+jax,Utility Libraries,Collections & Data Structures,Jax,python
+pycrypto,Security,Transport Security,Pycrypto,python
+geopandas,Utility Libraries,Collections & Data Structures,Geopandas,python
+junit-xml,Utility Libraries,General Utilities,Junit-xml,python
+pyotp,Security,Authentication & Authorization,Pyotp,python
+langdetect,Utility Libraries,General Utilities,Langdetect,python
+types-toml,Utility Libraries,General Utilities,Types-toml,python
+contextlib2,Utility Libraries,General Utilities,Contextlib2,python
+aiohttp-retry,Resilience & Control,Retries & Backoff,Aiohttp-retry,python
+apache-airflow-providers-ftp,Application Integration,ETL & Data Pipelines,Apache-airflow-providers-ftp,python
+boto,Application Integration,Service Integration Frameworks,Boto,python
+appnope,Utility Libraries,General Utilities,Appnope,python
+lightning-utilities,Utility Libraries,General Utilities,Lightning-utilities,python
+azure-keyvault-certificates,Security,Secrets Management,Azure-keyvault-certificates,python
+pathable,Utility Libraries,General Utilities,Pathable,python
+fire,Developer Tooling,Code Generators,Fire,python
+sphinxcontrib-jquery,Developer Tooling,Code Generators,Sphinxcontrib-jquery,python
+pyserial,Utility Libraries,General Utilities,Pyserial,python
+natsort,Utility Libraries,General Utilities,Natsort,python
+strictyaml,Serialization,JSON & XML,Strictyaml,python
+textual,Application Development,Web Frameworks,Textual,python
+pytest-random-order,Testing & Quality,Testing Frameworks,Pytest-random-order,python
+jellyfish,Utility Libraries,General Utilities,Jellyfish,python
+fasttext-wheel,Utility Libraries,General Utilities,Fasttext-wheel,python
+wirerope,Utility Libraries,General Utilities,Wirerope,python
+geographiclib,Utility Libraries,Collections & Data Structures,Geographiclib,python
+azure-mgmt-datalake-store,Application Integration,Service Integration Frameworks,Azure-mgmt-datalake-store,python
+shap,Utility Libraries,Collections & Data Structures,Shap,python
+timm,Utility Libraries,General Utilities,Timm,python
+atlassian-python-api,Application Integration,Service Integration Frameworks,Atlassian-python-api,python
+slicer,Utility Libraries,General Utilities,Slicer,python
+pep517,Developer Tooling,Build Tools,Pep517,python
+geopy,Utility Libraries,General Utilities,Geopy,python
+weasel,Utility Libraries,General Utilities,Weasel,python
+typing,Utility Libraries,General Utilities,Typing,python
+meson,Developer Tooling,Build Tools,Meson,python
+types-cffi,Utility Libraries,General Utilities,Types-cffi,python
+reportlab,Utility Libraries,General Utilities,Reportlab,python
+pycares,Utility Libraries,General Utilities,Pycares,python
+pathlib-abc,Utility Libraries,General Utilities,Pathlib-abc,python
+azure-keyvault,Security,Secrets Management,Azure-keyvault,python
+aniso8601,Utility Libraries,Date & Time Utilities,Aniso8601,python
+opencensus-ext-azure,Observability,Metrics,Opencensus-ext-azure,python
+prison,Utility Libraries,General Utilities,Prison,python
+factory-boy,Testing & Quality,Testing Frameworks,Factory-boy,python
+pyhcl,Utility Libraries,General Utilities,Pyhcl,python
+ray,Application Development,Web Frameworks,Ray,python
+jsonschema-path,Serialization,JSON & XML,Jsonschema-path,python
+teradatasql,Data Management,Relational Databases,Teradatasql,python
+pyiceberg,Data Management,Data Lakes,Pyiceberg,python
+iso8601,Utility Libraries,Date & Time Utilities,Iso8601,python
+pyarrow-hotfix,Data Management,Data Warehousing,Pyarrow-hotfix,python
+maxminddb,Utility Libraries,General Utilities,Maxminddb,python
+onnx,Utility Libraries,General Utilities,Onnx,python
+opentelemetry-instrumentation-flask,Observability,Tracing,Opentelemetry-instrumentation-flask,python
+jsondiff,Utility Libraries,General Utilities,Jsondiff,python
+bottle,Application Development,Web Frameworks,Bottle,python
+netaddr,Utility Libraries,General Utilities,Netaddr,python
+clickclick,Utility Libraries,General Utilities,Clickclick,python
+iso3166,Utility Libraries,General Utilities,Iso3166,python
+prefect,Application Integration,ETL & Data Pipelines,Prefect,python

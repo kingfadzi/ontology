@@ -1,0 +1,50 @@
+group_id,artifact_id,category,subcategory,framework,ecosystem
+javax,,Utility Libraries,General Utilities,Javax,javax
+javax.activation,,Utility Libraries,General Utilities,Javax Activation,javax
+javax.annotation,,Utility Libraries,Reflection & Metadata,Javax Annotation,javax
+javax.batch,,Data Management,Batch Processing,Javax Batch,javax
+javax.cache,,Data Management,Caching,Javax Cache,javax
+javax.ccpp,,Utility Libraries,General Utilities,Javax Ccpp,javax
+javax.comm,,Application Integration,Messaging Protocols,Javax Comm,javax
+javax.ejb,,Application Development,Component Models,Javax Ejb,javax
+javax.el,,Application Development,Language Extensions,Javax El,javax
+javax.enterprise,,Application Development,Dependency Injection,Javax Enterprise,javax
+javax.faces,,Application Development,Web Frameworks,Javax Faces,javax
+javax.help,,Utility Libraries,General Utilities,Javax Help,javax
+javax.inject,,Application Development,Dependency Injection,Javax Inject,javax
+javax.interceptor,,Application Development,Component Models,Javax Interceptor,javax
+javax.j2ee,,Utility Libraries,General Utilities,Javax J2ee,javax
+javax.javaee,,Utility Libraries,General Utilities,Javax Javaee,javax
+javax.jbi,,Application Integration,Service Integration Frameworks,Javax Jbi,javax
+javax.jcr,,Data Management,NoSQL Databases,Javax Jcr,javax
+javax.jdo,,Data Management,ORM & Data Access,Javax Jdo,javax
+javax.jmdns,,Utility Libraries,General Utilities,Javax Jmdns,javax
+javax.jms,,Application Integration,Messaging Protocols,Javax Jms,javax
+javax.json,,Serialization,JSON & XML,Javax Json,javax
+javax.jts,,Utility Libraries,General Utilities,Javax Jts,javax
+javax.jws,,Application Integration,RPC & Web Services,Javax Jws,javax
+javax.mail,,Application Integration,RPC & Web Services,Javax Mail,javax
+javax.management,,Observability,Monitoring,Javax Management,javax
+javax.measure,,Utility Libraries,General Utilities,Javax Measure,javax
+javax.media,,Utility Libraries,General Utilities,Javax Media,javax
+javax.money,,Utility Libraries,General Utilities,Javax Money,javax
+javax.mvc,,Application Development,Web Frameworks,Javax Mvc,javax
+javax.naming,,Resilience & Control,Service Discovery,Javax Naming,javax
+javax.net,,Utility Libraries,General Utilities,Javax Net,javax
+javax.persistence,,Data Management,ORM & Data Access,Javax Persistence,javax
+javax.portlet,,Application Development,Web Frameworks,Javax Portlet,javax
+javax.resource,,Application Integration,Service Integration Frameworks,Javax Resource,javax
+javax.sdp,,Application Integration,Messaging Protocols,Javax Sdp,javax
+javax.security,,Security,Identity & Access Management,Javax Security,javax
+javax.servlet,,Application Development,Web Frameworks,Javax Servlet,javax
+javax.sip,,Application Integration,Messaging Protocols,Javax Sip,javax
+javax.slee,,Utility Libraries,General Utilities,Javax Slee,javax
+javax.sql,,Data Management,ORM & Data Access,Javax Sql,javax
+javax.transaction,,Data Management,ORM & Data Access,Javax Transaction,javax
+javax.usb,,Utility Libraries,General Utilities,Javax Usb,javax
+javax.validation,,Utility Libraries,General Utilities,Javax Validation,javax
+javax.vecmath,,Utility Libraries,General Utilities,Javax Vecmath,javax
+javax.visrec,,Utility Libraries,General Utilities,Javax Visrec,javax
+javax.websocket,,Application Integration,Messaging Protocols,Javax Websocket,javax
+javax.ws,,Application Integration,RPC & Web Services,Javax Ws,javax
+javax.xml,,Serialization,JSON & XML,Javax Xml,javax

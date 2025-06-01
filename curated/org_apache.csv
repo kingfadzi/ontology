@@ -1,0 +1,127 @@
+group_id,artifact_id,category,subcategory,framework,ecosystem
+org.apache.apache,,Utility Libraries,General Utilities,Apache Apache,apache
+org.apache.aries,,Application Development,Component Models,Apache Aries,apache
+org.apache.arrow,,Data Management,Data Lakes,Apache Arrow,apache
+org.apache.asterix,,Data Management,NoSQL Databases,Apache Asterix,apache
+org.apache.aurora,,Deployment & Runtime Platforms,Orchestration,Apache Aurora,apache
+org.apache.avalon,,Application Development,Component Models,Apache Avalon,apache
+org.apache.avro,,Serialization,Binary Formats,Apache Avro,apache
+org.apache.axis,,Application Integration,RPC & Web Services,Apache Axis,apache
+org.apache.axis2,,Application Integration,RPC & Web Services,Apache Axis2,apache
+org.apache.bcel,,Utility Libraries,General Utilities,Apache Bcel,apache
+org.apache.beam,,Application Integration,ETL & Data Pipelines,Apache Beam,apache
+org.apache.beehive,,Application Development,Application Bootstrapping,Apache Beehive,apache
+org.apache.bigtop,,Utility Libraries,General Utilities,Apache Bigtop,apache
+org.apache.bookkeeper,,Data Management,Batch Processing,Apache Bookkeeper,apache
+org.apache.brooklyn,,Deployment & Runtime Platforms,Orchestration,Apache Brooklyn,apache
+org.apache.bsf,,Application Development,Language Extensions,Apache Bsf,apache
+org.apache.bval,,Application Development,Dependency Injection,Apache Bval,apache
+org.apache.cactus,,Testing & Quality,Testing Frameworks,Apache Cactus,apache
+org.apache.camel,,Application Integration,Service Integration Frameworks,Apache Camel,apache
+org.apache.cassandra,,Data Management,NoSQL Databases,Apache Cassandra,apache
+org.apache.cayenne,,Data Management,ORM & Data Access,Apache Cayenne,apache
+org.apache.cocoon,,Application Development,Web Frameworks,Apache Cocoon,apache
+org.apache.commons,,Utility Libraries,General Utilities,Apache Commons,apache
+org.apache.continuum,,Utility Libraries,General Utilities,Apache Continuum,apache
+org.apache.cordova,,Application Development,Mobile & Embedded,Apache Cordova,apache
+org.apache.cxf,,Application Integration,RPC & Web Services,Apache Cxf,apache
+org.apache.daffodil,,Serialization,Schema Management,Apache Daffodil,apache
+org.apache.datafu,,Data Management,Data Lakes,Apache Datafu,apache
+org.apache.datafusion,,Data Management,Data Warehousing,Apache Datafusion,apache
+org.apache.db,,Utility Libraries,General Utilities,Apache Db,apache
+org.apache.ddlutils,,Data Management,ORM & Data Access,Apache Ddlutils,apache
+org.apache.derby,,Data Management,Relational Databases,Apache Derby,apache
+org.apache.directory,,Security,Identity Management,Apache Directory,apache
+org.apache.drill,,Data Management,Data Warehousing,Apache Drill,apache
+org.apache.droids,,Utility Libraries,General Utilities,Apache Droids,apache
+org.apache.empire-db,,Data Management,ORM & Data Access,Apache Empire-db,apache
+org.apache.eventmesh,,Application Integration,Event Streaming,Apache Eventmesh,apache
+org.apache.excalibur,,Application Development,Component Models,Apache Excalibur,apache
+org.apache.falcon,,Data Management,Data Warehousing,Apache Falcon,apache
+org.apache.flex,,Application Development,Web Frameworks,Apache Flex,apache
+org.apache.flink,,Application Integration,ETL & Data Pipelines,Apache Flink,apache
+org.apache.flume,,Application Integration,ETL & Data Pipelines,Apache Flume,apache
+org.apache.ftpserver,,Deployment & Runtime Platforms,Application Servers,Apache Ftpserver,apache
+org.apache.fulcrum,,Application Development,Component Models,Apache Fulcrum,apache
+org.apache.fury,,Application Integration,RPC & Web Services,Apache Fury,apache
+org.apache.geode,,Data Management,Caching,Apache Geode,apache
+org.apache.geronimo,,Deployment & Runtime Platforms,Application Servers,Apache Geronimo,apache
+org.apache.groovy,,Application Development,Language Extensions,Apache Groovy,apache
+org.apache.hadoop,,Data Management,Data Lakes,Apache Hadoop,apache
+org.apache.hbase,,Data Management,NoSQL Databases,Apache Hbase,apache
+org.apache.helix,,Deployment & Runtime Platforms,Orchestration,Apache Helix,apache
+org.apache.hive,,Data Management,Data Warehousing,Apache Hive,apache
+org.apache.hivemall,,Utility Libraries,General Utilities,Apache Hivemall,apache
+org.apache.hivemind,,Application Development,Dependency Injection,Apache Hivemind,apache
+org.apache.hop,,Application Integration,ETL & Data Pipelines,Apache Hop,apache
+org.apache.httpcomponents,,Application Integration,Remote Procedure Calls,Apache Httpcomponents,apache
+org.apache.hugegraph,,Data Management,NoSQL Databases,Apache Hugegraph,apache
+org.apache.ibatis,,Data Management,ORM & Data Access,Apache Ibatis,apache
+org.apache.iceberg,,Data Management,Data Warehousing,Apache Iceberg,apache
+org.apache.ignite,,Data Management,Caching,Apache Ignite,apache
+org.apache.ivy,,Developer Tooling,Dependency Management,Apache Ivy,apache
+org.apache.jackrabbit,,Data Management,NoSQL Databases,Apache Jackrabbit,apache
+org.apache.james,,Deployment & Runtime Platforms,Application Servers,Apache James,apache
+org.apache.jclouds,,Deployment & Runtime Platforms,Cloud Platforms,Apache Jclouds,apache
+org.apache.jcs,,Data Management,Caching,Apache Jcs,apache
+org.apache.jdbm,,Data Management,NoSQL Databases,Apache Jdbm,apache
+org.apache.jdo,,Data Management,ORM & Data Access,Apache Jdo,apache
+org.apache.jmeter,,Testing & Quality,Testing Frameworks,Apache Jmeter,apache
+org.apache.kafka,,Application Integration,Event Streaming,Apache Kafka,apache
+org.apache.karaf,,Deployment & Runtime Platforms,Application Servers,Apache Karaf,apache
+org.apache.kerby,,Security,Authentication & Authorization,Apache Kerby,apache
+org.apache.logging,,Observability,Logging,Apache Logging,apache
+org.apache.lucene,,Utility Libraries,General Utilities,Apache Lucene,apache
+org.apache.mahout,,Utility Libraries,General Utilities,Apache Mahout,apache
+org.apache.maven,,Developer Tooling,Build Tools,Apache Maven,apache
+org.apache.mesos,,Deployment & Runtime Platforms,Orchestration,Apache Mesos,apache
+org.apache.myfaces,,Application Development,Web Frameworks,Apache Myfaces,apache
+org.apache.neethi,,Application Integration,RPC & Web Services,Apache Neethi,apache
+org.apache.netbeans,,Developer Tooling,Local Development Runtimes,Apache Netbeans,apache
+org.apache.nifi,,Application Integration,ETL & Data Pipelines,Apache Nifi,apache
+org.apache.oozie,,Application Integration,ETL & Data Pipelines,Apache Oozie,apache
+org.apache.openjpa,,Data Management,ORM & Data Access,Apache Openjpa,apache
+org.apache.opennlp,,Utility Libraries,General Utilities,Apache Opennlp,apache
+org.apache.ozone,,Data Management,Data Lakes,Apache Ozone,apache
+org.apache.parquet,,Serialization,Binary Formats,Apache Parquet,apache
+org.apache.pdfbox,,Utility Libraries,General Utilities,Apache Pdfbox,apache
+org.apache.phoenix,,Data Management,Relational Databases,Apache Phoenix,apache
+org.apache.pig,,Application Integration,ETL & Data Pipelines,Apache Pig,apache
+org.apache.poi,,Utility Libraries,General Utilities,Apache Poi,apache
+org.apache.portals,,Application Development,Web Frameworks,Apache Portals,apache
+org.apache.qpid,,Application Integration,Message Brokers,Apache Qpid,apache
+org.apache.ranger,,Security,Access Control,Apache Ranger,apache
+org.apache.rocketmq,,Application Integration,Message Brokers,Apache Rocketmq,apache
+org.apache.samza,,Application Integration,ETL & Data Pipelines,Apache Samza,apache
+org.apache.sentry,,Security,Access Control,Apache Sentry,apache
+org.apache.servicemix,,Application Integration,Service Integration Frameworks,Apache Servicemix,apache
+org.apache.solr,,Data Management,Data Warehousing,Apache Solr,apache
+org.apache.spark,,Application Integration,ETL & Data Pipelines,Apache Spark,apache
+org.apache.sqoop,,Application Integration,ETL & Data Pipelines,Apache Sqoop,apache
+org.apache.sshd,,Security,Transport Security,Apache Sshd,apache
+org.apache.storm,,Application Integration,Event Streaming,Apache Storm,apache
+org.apache.streams,,Application Integration,ETL & Data Pipelines,Apache Streams,apache
+org.apache.struts,,Application Development,Web Frameworks,Apache Struts,apache
+org.apache.synapse,,Application Integration,Service Integration Frameworks,Apache Synapse,apache
+org.apache.taglibs,,Application Development,Template Engines,Apache Taglibs,apache
+org.apache.tapestry,,Application Development,Web Frameworks,Apache Tapestry,apache
+org.apache.thrift,,Application Integration,RPC & Web Services,Apache Thrift,apache
+org.apache.tika,,Serialization,JSON & XML,Apache Tika,apache
+org.apache.tiles,,Application Development,Template Engines,Apache Tiles,apache
+org.apache.tomcat,,Deployment & Runtime Platforms,Application Servers,Apache Tomcat,apache
+org.apache.tomee,,Deployment & Runtime Platforms,Application Servers,Apache Tomee,apache
+org.apache.turbine,,Application Development,Web Frameworks,Apache Turbine,apache
+org.apache.velocity,,Application Development,Template Engines,Apache Velocity,apache
+org.apache.vysper,,Deployment & Runtime Platforms,Application Servers,Apache Vysper,apache
+org.apache.wicket,,Application Development,Web Frameworks,Apache Wicket,apache
+org.apache.wink,,Application Integration,RPC & Web Services,Apache Wink,apache
+org.apache.ws,,Application Integration,RPC & Web Services,Apache Ws,apache
+org.apache.wss4j,,Security,Transport Security,Apache Wss4j,apache
+org.apache.xbean,,Application Development,Dependency Injection,Apache Xbean,apache
+org.apache.xmlbeans,,Serialization,Schema Management,Apache Xmlbeans,apache
+org.apache.xmlrpc,,Application Integration,RPC & Web Services,Apache Xmlrpc,apache
+org.apache.zeppelin,,Developer Tooling,Local Development Runtimes,Apache Zeppelin,apache
+org.apache.zipkin,,Observability,Tracing,Apache Zipkin,apache
+org.apache.zookeeper,,Resilience & Control,Service Discovery,Apache Zookeeper,apache
+,,,,,
+,,,,,
