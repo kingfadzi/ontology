@@ -13,7 +13,7 @@ categories:
     frameworks:
     - name: React-onclickoutside
       patterns:
-      - .*react\-onclickoutside.*
+      - ".*react\\-onclickoutside.*"
   - name: Dependency Injection
     frameworks:
     - name: Inversify
@@ -23,10 +23,10 @@ categories:
     frameworks:
     - name: React-native
       patterns:
-      - .*react\-native.*
+      - ".*react\\-native.*"
     - name: React-native-vector-icons
       patterns:
-      - .*react\-native\-vector\-icons.*
+      - ".*react\\-native\\-vector\\-icons.*"
   - name: Reactive Programming
     frameworks:
     - name: '@angular/animations'
@@ -40,25 +40,25 @@ categories:
       - .*mobx.*
     - name: React-motion
       patterns:
-      - .*react\-motion.*
+      - ".*react\\-motion.*"
     - name: React-redux
       patterns:
-      - .*react\-redux.*
+      - ".*react\\-redux.*"
     - name: React-transition-group
       patterns:
-      - .*react\-transition\-group.*
+      - ".*react\\-transition\\-group.*"
     - name: Redux
       patterns:
       - .*redux.*
     - name: Redux-actions
       patterns:
-      - .*redux\-actions.*
+      - ".*redux\\-actions.*"
     - name: Redux-saga
       patterns:
-      - .*redux\-saga.*
+      - ".*redux\\-saga.*"
     - name: Redux-thunk
       patterns:
-      - .*redux\-thunk.*
+      - ".*redux\\-thunk.*"
     - name: Rx
       patterns:
       - .*rx.*
@@ -67,7 +67,7 @@ categories:
       - .*rxjs.*
     - name: Rxjs-compat
       patterns:
-      - .*rxjs\-compat.*
+      - ".*rxjs\\-compat.*"
   - name: Template Engines
     frameworks:
     - name: Ejs
@@ -81,7 +81,7 @@ categories:
       - .*handlebars.*
     - name: Hogan.js
       patterns:
-      - .*hogan\.js.*
+      - ".*hogan\\.js.*"
     - name: Jade
       patterns:
       - .*jade.*
@@ -99,7 +99,7 @@ categories:
       - .*pug.*
     - name: Styled-components
       patterns:
-      - .*styled\-components.*
+      - ".*styled\\-components.*"
     - name: Swig
       patterns:
       - .*swig.*
@@ -131,13 +131,13 @@ categories:
       - .*@angular/material.*
     - name: '@angular/platform-browser'
       patterns:
-      - .*@angular/platform\-browser.*
+      - ".*@angular/platform\\-browser.*"
     - name: '@angular/platform-browser-dynamic'
       patterns:
-      - .*@angular/platform\-browser\-dynamic.*
+      - ".*@angular/platform\\-browser\\-dynamic.*"
     - name: '@angular/platform-server'
       patterns:
-      - .*@angular/platform\-server.*
+      - ".*@angular/platform\\-server.*"
     - name: '@angular/router'
       patterns:
       - .*@angular/router.*
@@ -149,19 +149,19 @@ categories:
       - .*@emotion/styled.*
     - name: '@fortawesome/fontawesome-svg-core'
       patterns:
-      - .*@fortawesome/fontawesome\-svg\-core.*
+      - ".*@fortawesome/fontawesome\\-svg\\-core.*"
     - name: '@fortawesome/react-fontawesome'
       patterns:
-      - .*@fortawesome/react\-fontawesome.*
+      - ".*@fortawesome/react\\-fontawesome.*"
     - name: '@jupyterlab/application'
       patterns:
       - .*@jupyterlab/application.*
     - name: '@material-ui/core'
       patterns:
-      - .*@material\-ui/core.*
+      - ".*@material\\-ui/core.*"
     - name: '@material-ui/icons'
       patterns:
-      - .*@material\-ui/icons.*
+      - ".*@material\\-ui/icons.*"
     - name: '@phosphor/widgets'
       patterns:
       - .*@phosphor/widgets.*
@@ -173,7 +173,7 @@ categories:
       - .*angular.*
     - name: Angular-animate
       patterns:
-      - .*angular\-animate.*
+      - ".*angular\\-animate.*"
     - name: Antd
       patterns:
       - .*antd.*
@@ -194,7 +194,7 @@ categories:
       - .*bulma.*
     - name: Chart.js
       patterns:
-      - .*chart\.js.*
+      - ".*chart\\.js.*"
     - name: Codemirror
       patterns:
       - .*codemirror.*
@@ -203,28 +203,28 @@ categories:
       - .*connect.*
     - name: Create-react-class
       patterns:
-      - .*create\-react\-class.*
+      - ".*create\\-react\\-class.*"
     - name: D3
       patterns:
       - .*d3.*
     - name: D3-array
       patterns:
-      - .*d3\-array.*
+      - ".*d3\\-array.*"
     - name: D3-selection
       patterns:
-      - .*d3\-selection.*
+      - ".*d3\\-selection.*"
     - name: D3-shape
       patterns:
-      - .*d3\-shape.*
+      - ".*d3\\-shape.*"
     - name: Draft-js
       patterns:
-      - .*draft\-js.*
+      - ".*draft\\-js.*"
     - name: Echarts
       patterns:
       - .*echarts.*
     - name: Element-ui
       patterns:
-      - .*element\-ui.*
+      - ".*element\\-ui.*"
     - name: Express
       patterns:
       - .*express.*
@@ -233,7 +233,7 @@ categories:
       - .*firebase.*
     - name: Font-awesome
       patterns:
-      - .*font\-awesome.*
+      - ".*font\\-awesome.*"
     - name: Hapi
       patterns:
       - .*hapi.*
@@ -242,34 +242,34 @@ categories:
       - .*iview.*
     - name: Jquery-ui
       patterns:
-      - .*jquery\-ui.*
+      - ".*jquery\\-ui.*"
     - name: Koa
       patterns:
       - .*koa.*
     - name: Koa-mount
       patterns:
-      - .*koa\-mount.*
+      - ".*koa\\-mount.*"
     - name: Koa-router
       patterns:
-      - .*koa\-router.*
+      - ".*koa\\-router.*"
     - name: Koa-static
       patterns:
-      - .*koa\-static.*
+      - ".*koa\\-static.*"
     - name: Leaflet
       patterns:
       - .*leaflet.*
     - name: Lit-element
       patterns:
-      - .*lit\-element.*
+      - ".*lit\\-element.*"
     - name: Material-ui
       patterns:
-      - .*material\-ui.*
+      - ".*material\\-ui.*"
     - name: Metalsmith
       patterns:
       - .*metalsmith.*
     - name: Mobx-react
       patterns:
-      - .*mobx\-react.*
+      - ".*mobx\\-react.*"
     - name: Nprogress
       patterns:
       - .*nprogress.*
@@ -281,94 +281,94 @@ categories:
       - .*quill.*
     - name: Rc-slider
       patterns:
-      - .*rc\-slider.*
+      - ".*rc\\-slider.*"
     - name: React
       patterns:
       - .*react.*
     - name: React-addons-css-transition-group
       patterns:
-      - .*react\-addons\-css\-transition\-group.*
+      - ".*react\\-addons\\-css\\-transition\\-group.*"
     - name: React-bootstrap
       patterns:
-      - .*react\-bootstrap.*
+      - ".*react\\-bootstrap.*"
     - name: React-color
       patterns:
-      - .*react\-color.*
+      - ".*react\\-color.*"
     - name: React-datepicker
       patterns:
-      - .*react\-datepicker.*
+      - ".*react\\-datepicker.*"
     - name: React-dnd
       patterns:
-      - .*react\-dnd.*
+      - ".*react\\-dnd.*"
     - name: React-dnd-html5-backend
       patterns:
-      - .*react\-dnd\-html5\-backend.*
+      - ".*react\\-dnd\\-html5\\-backend.*"
     - name: React-dom
       patterns:
-      - .*react\-dom.*
+      - ".*react\\-dom.*"
     - name: React-dropzone
       patterns:
-      - .*react\-dropzone.*
+      - ".*react\\-dropzone.*"
     - name: React-helmet
       patterns:
-      - .*react\-helmet.*
+      - ".*react\\-helmet.*"
     - name: React-hot-loader
       patterns:
-      - .*react\-hot\-loader.*
+      - ".*react\\-hot\\-loader.*"
     - name: React-icons
       patterns:
-      - .*react\-icons.*
+      - ".*react\\-icons.*"
     - name: React-intl
       patterns:
-      - .*react\-intl.*
+      - ".*react\\-intl.*"
     - name: React-lifecycles-compat
       patterns:
-      - .*react\-lifecycles\-compat.*
+      - ".*react\\-lifecycles\\-compat.*"
     - name: React-markdown
       patterns:
-      - .*react\-markdown.*
+      - ".*react\\-markdown.*"
     - name: React-modal
       patterns:
-      - .*react\-modal.*
+      - ".*react\\-modal.*"
     - name: React-router
       patterns:
-      - .*react\-router.*
+      - ".*react\\-router.*"
     - name: React-router-dom
       patterns:
-      - .*react\-router\-dom.*
+      - ".*react\\-router\\-dom.*"
     - name: React-router-redux
       patterns:
-      - .*react\-router\-redux.*
+      - ".*react\\-router\\-redux.*"
     - name: React-select
       patterns:
-      - .*react\-select.*
+      - ".*react\\-select.*"
     - name: React-slick
       patterns:
-      - .*react\-slick.*
+      - ".*react\\-slick.*"
     - name: React-tap-event-plugin
       patterns:
-      - .*react\-tap\-event\-plugin.*
+      - ".*react\\-tap\\-event\\-plugin.*"
     - name: React-virtualized
       patterns:
-      - .*react\-virtualized.*
+      - ".*react\\-virtualized.*"
     - name: Reactstrap
       patterns:
       - .*reactstrap.*
     - name: Redux-form
       patterns:
-      - .*redux\-form.*
+      - ".*redux\\-form.*"
     - name: Restify
       patterns:
       - .*restify.*
     - name: Semantic-ui-react
       patterns:
-      - .*semantic\-ui\-react.*
+      - ".*semantic\\-ui\\-react.*"
     - name: Serve-favicon
       patterns:
-      - .*serve\-favicon.*
+      - ".*serve\\-favicon.*"
     - name: Serve-static
       patterns:
-      - .*serve\-static.*
+      - ".*serve\\-static.*"
     - name: Three
       patterns:
       - .*three.*
@@ -380,19 +380,19 @@ categories:
       - .*vue.*
     - name: Vue-class-component
       patterns:
-      - .*vue\-class\-component.*
+      - ".*vue\\-class\\-component.*"
     - name: Vue-i18n
       patterns:
-      - .*vue\-i18n.*
+      - ".*vue\\-i18n.*"
     - name: Vue-property-decorator
       patterns:
-      - .*vue\-property\-decorator.*
+      - ".*vue\\-property\\-decorator.*"
     - name: Vue-router
       patterns:
-      - .*vue\-router.*
+      - ".*vue\\-router.*"
     - name: Vue-template-compiler
       patterns:
-      - .*vue\-template\-compiler.*
+      - ".*vue\\-template\\-compiler.*"
     - name: Vuex
       patterns:
       - .*vuex.*
@@ -402,10 +402,10 @@ categories:
     frameworks:
     - name: Http-proxy
       patterns:
-      - .*http\-proxy.*
+      - ".*http\\-proxy.*"
     - name: Http-proxy-middleware
       patterns:
-      - .*http\-proxy\-middleware.*
+      - ".*http\\-proxy\\-middleware.*"
   - name: Message Brokers
     frameworks:
     - name: Amqplib
@@ -418,22 +418,22 @@ categories:
     frameworks:
     - name: Cookie-parser
       patterns:
-      - .*cookie\-parser.*
+      - ".*cookie\\-parser.*"
     - name: Discord.js
       patterns:
-      - .*discord\.js.*
+      - ".*discord\\.js.*"
     - name: Express-session
       patterns:
-      - .*express\-session.*
+      - ".*express\\-session.*"
     - name: Socket.io
       patterns:
-      - .*socket\.io.*
+      - ".*socket\\.io.*"
     - name: Socket.io-client
       patterns:
-      - .*socket\.io\-client.*
+      - ".*socket\\.io\\-client.*"
     - name: Sockjs-client
       patterns:
-      - .*sockjs\-client.*
+      - ".*sockjs\\-client.*"
     - name: Websocket
       patterns:
       - .*websocket.*
@@ -450,10 +450,10 @@ categories:
       - .*axios.*
     - name: Cross-fetch
       patterns:
-      - .*cross\-fetch.*
+      - ".*cross\\-fetch.*"
     - name: Follow-redirects
       patterns:
-      - .*follow\-redirects.*
+      - ".*follow\\-redirects.*"
     - name: Formidable
       patterns:
       - .*formidable.*
@@ -471,19 +471,19 @@ categories:
       - .*http.*
     - name: Http-errors
       patterns:
-      - .*http\-errors.*
+      - ".*http\\-errors.*"
     - name: Https-proxy-agent
       patterns:
-      - .*https\-proxy\-agent.*
+      - ".*https\\-proxy\\-agent.*"
     - name: Hyperquest
       patterns:
       - .*hyperquest.*
     - name: Isomorphic-fetch
       patterns:
-      - .*isomorphic\-fetch.*
+      - ".*isomorphic\\-fetch.*"
     - name: Method-override
       patterns:
-      - .*method\-override.*
+      - ".*method\\-override.*"
     - name: Multer
       patterns:
       - .*multer.*
@@ -492,7 +492,7 @@ categories:
       - .*needle.*
     - name: Node-fetch
       patterns:
-      - .*node\-fetch.*
+      - ".*node\\-fetch.*"
     - name: Nodemailer
       patterns:
       - .*nodemailer.*
@@ -501,10 +501,10 @@ categories:
       - .*request.*
     - name: Request-promise
       patterns:
-      - .*request\-promise.*
+      - ".*request\\-promise.*"
     - name: Request-promise-native
       patterns:
-      - .*request\-promise\-native.*
+      - ".*request\\-promise\\-native.*"
     - name: Restler
       patterns:
       - .*restler.*
@@ -519,13 +519,13 @@ categories:
       - .*superagent.*
     - name: Sync-request
       patterns:
-      - .*sync\-request.*
+      - ".*sync\\-request.*"
     - name: Urllib
       patterns:
       - .*urllib.*
     - name: Whatwg-fetch
       patterns:
-      - .*whatwg\-fetch.*
+      - ".*whatwg\\-fetch.*"
     - name: Xhr
       patterns:
       - .*xhr.*
@@ -536,22 +536,22 @@ categories:
     frameworks:
     - name: Apollo-cache-inmemory
       patterns:
-      - .*apollo\-cache\-inmemory.*
+      - ".*apollo\\-cache\\-inmemory.*"
     - name: Apollo-client
       patterns:
-      - .*apollo\-client.*
+      - ".*apollo\\-client.*"
     - name: Apollo-link
       patterns:
-      - .*apollo\-link.*
+      - ".*apollo\\-link.*"
     - name: Apollo-link-http
       patterns:
-      - .*apollo\-link\-http.*
+      - ".*apollo\\-link\\-http.*"
     - name: Connect-mongo
       patterns:
-      - .*connect\-mongo.*
+      - ".*connect\\-mongo.*"
     - name: Connect-redis
       patterns:
-      - .*connect\-redis.*
+      - ".*connect\\-redis.*"
     - name: Datafire
       patterns:
       - .*datafire.*
@@ -560,31 +560,31 @@ categories:
       - .*dockerode.*
     - name: Firebase-admin
       patterns:
-      - .*firebase\-admin.*
+      - ".*firebase\\-admin.*"
     - name: Graphql
       patterns:
       - .*graphql.*
     - name: Graphql-tag
       patterns:
-      - .*graphql\-tag.*
+      - ".*graphql\\-tag.*"
     - name: Graphql-tools
       patterns:
-      - .*graphql\-tools.*
+      - ".*graphql\\-tools.*"
     - name: Inert
       patterns:
       - .*inert.*
     - name: Koa-body
       patterns:
-      - .*koa\-body.*
+      - ".*koa\\-body.*"
     - name: Koa-bodyparser
       patterns:
-      - .*koa\-bodyparser.*
+      - ".*koa\\-bodyparser.*"
     - name: Node-static
       patterns:
-      - .*node\-static.*
+      - ".*node\\-static.*"
     - name: React-apollo
       patterns:
-      - .*react\-apollo.*
+      - ".*react\\-apollo.*"
 - name: Data Management
   subcategories:
   - name: Caching
@@ -597,10 +597,10 @@ categories:
       - .*ioredis.*
     - name: Lru-cache
       patterns:
-      - .*lru\-cache.*
+      - ".*lru\\-cache.*"
     - name: Node-cache
       patterns:
-      - .*node\-cache.*
+      - ".*node\\-cache.*"
     - name: Redis
       patterns:
       - .*redis.*
@@ -667,12 +667,12 @@ categories:
     frameworks:
     - name: Http-server
       patterns:
-      - .*http\-server.*
+      - ".*http\\-server.*"
   - name: Cloud Platforms
     frameworks:
     - name: Aws-sdk
       patterns:
-      - .*aws\-sdk.*
+      - ".*aws\\-sdk.*"
   - name: Local Development Runtimes
     frameworks:
     - name: Electron
@@ -683,17 +683,17 @@ categories:
       - .*phantomjs.*
     - name: Phantomjs-prebuilt
       patterns:
-      - .*phantomjs\-prebuilt.*
+      - ".*phantomjs\\-prebuilt.*"
 - name: Developer Tooling
   subcategories:
   - name: Build Tools
     frameworks:
     - name: '@angular-devkit/core'
       patterns:
-      - .*@angular\-devkit/core.*
+      - ".*@angular\\-devkit/core.*"
     - name: '@angular/compiler-cli'
       patterns:
-      - .*@angular/compiler\-cli.*
+      - ".*@angular/compiler\\-cli.*"
     - name: '@babel/cli'
       patterns:
       - .*@babel/cli.*
@@ -705,34 +705,34 @@ categories:
       - .*@babel/parser.*
     - name: '@babel/plugin-proposal-class-properties'
       patterns:
-      - .*@babel/plugin\-proposal\-class\-properties.*
+      - ".*@babel/plugin\\-proposal\\-class\\-properties.*"
     - name: '@babel/plugin-proposal-decorators'
       patterns:
-      - .*@babel/plugin\-proposal\-decorators.*
+      - ".*@babel/plugin\\-proposal\\-decorators.*"
     - name: '@babel/plugin-proposal-export-default-from'
       patterns:
-      - .*@babel/plugin\-proposal\-export\-default\-from.*
+      - ".*@babel/plugin\\-proposal\\-export\\-default\\-from.*"
     - name: '@babel/plugin-proposal-export-namespace-from'
       patterns:
-      - .*@babel/plugin\-proposal\-export\-namespace\-from.*
+      - ".*@babel/plugin\\-proposal\\-export\\-namespace\\-from.*"
     - name: '@babel/plugin-proposal-object-rest-spread'
       patterns:
-      - .*@babel/plugin\-proposal\-object\-rest\-spread.*
+      - ".*@babel/plugin\\-proposal\\-object\\-rest\\-spread.*"
     - name: '@babel/plugin-syntax-dynamic-import'
       patterns:
-      - .*@babel/plugin\-syntax\-dynamic\-import.*
+      - ".*@babel/plugin\\-syntax\\-dynamic\\-import.*"
     - name: '@babel/plugin-transform-runtime'
       patterns:
-      - .*@babel/plugin\-transform\-runtime.*
+      - ".*@babel/plugin\\-transform\\-runtime.*"
     - name: '@babel/preset-env'
       patterns:
-      - .*@babel/preset\-env.*
+      - ".*@babel/preset\\-env.*"
     - name: '@babel/preset-react'
       patterns:
-      - .*@babel/preset\-react.*
+      - ".*@babel/preset\\-react.*"
     - name: '@babel/preset-typescript'
       patterns:
-      - .*@babel/preset\-typescript.*
+      - ".*@babel/preset\\-typescript.*"
     - name: '@babel/register'
       patterns:
       - .*@babel/register.*
@@ -741,7 +741,7 @@ categories:
       - .*@babel/runtime.*
     - name: '@babel/runtime-corejs2'
       patterns:
-      - .*@babel/runtime\-corejs2.*
+      - ".*@babel/runtime\\-corejs2.*"
     - name: '@babel/traverse'
       patterns:
       - .*@babel/traverse.*
@@ -759,127 +759,127 @@ categories:
       - .*autoprefixer.*
     - name: Awesome-typescript-loader
       patterns:
-      - .*awesome\-typescript\-loader.*
+      - ".*awesome\\-typescript\\-loader.*"
     - name: Babel
       patterns:
       - .*babel.*
     - name: Babel-cli
       patterns:
-      - .*babel\-cli.*
+      - ".*babel\\-cli.*"
     - name: Babel-core
       patterns:
-      - .*babel\-core.*
+      - ".*babel\\-core.*"
     - name: Babel-generator
       patterns:
-      - .*babel\-generator.*
+      - ".*babel\\-generator.*"
     - name: Babel-helper-vue-jsx-merge-props
       patterns:
-      - .*babel\-helper\-vue\-jsx\-merge\-props.*
+      - ".*babel\\-helper\\-vue\\-jsx\\-merge\\-props.*"
     - name: Babel-loader
       patterns:
-      - .*babel\-loader.*
+      - ".*babel\\-loader.*"
     - name: Babel-plugin-add-module-exports
       patterns:
-      - .*babel\-plugin\-add\-module\-exports.*
+      - ".*babel\\-plugin\\-add\\-module\\-exports.*"
     - name: Babel-plugin-dynamic-import-node
       patterns:
-      - .*babel\-plugin\-dynamic\-import\-node.*
+      - ".*babel\\-plugin\\-dynamic\\-import\\-node.*"
     - name: Babel-plugin-import
       patterns:
-      - .*babel\-plugin\-import.*
+      - ".*babel\\-plugin\\-import.*"
     - name: Babel-plugin-lodash
       patterns:
-      - .*babel\-plugin\-lodash.*
+      - ".*babel\\-plugin\\-lodash.*"
     - name: Babel-plugin-module-resolver
       patterns:
-      - .*babel\-plugin\-module\-resolver.*
+      - ".*babel\\-plugin\\-module\\-resolver.*"
     - name: Babel-plugin-named-asset-import
       patterns:
-      - .*babel\-plugin\-named\-asset\-import.*
+      - ".*babel\\-plugin\\-named\\-asset\\-import.*"
     - name: Babel-plugin-syntax-dynamic-import
       patterns:
-      - .*babel\-plugin\-syntax\-dynamic\-import.*
+      - ".*babel\\-plugin\\-syntax\\-dynamic\\-import.*"
     - name: Babel-plugin-syntax-jsx
       patterns:
-      - .*babel\-plugin\-syntax\-jsx.*
+      - ".*babel\\-plugin\\-syntax\\-jsx.*"
     - name: Babel-plugin-transform-async-to-generator
       patterns:
-      - .*babel\-plugin\-transform\-async\-to\-generator.*
+      - ".*babel\\-plugin\\-transform\\-async\\-to\\-generator.*"
     - name: Babel-plugin-transform-class-properties
       patterns:
-      - .*babel\-plugin\-transform\-class\-properties.*
+      - ".*babel\\-plugin\\-transform\\-class\\-properties.*"
     - name: Babel-plugin-transform-decorators-legacy
       patterns:
-      - .*babel\-plugin\-transform\-decorators\-legacy.*
+      - ".*babel\\-plugin\\-transform\\-decorators\\-legacy.*"
     - name: Babel-plugin-transform-es2015-modules-commonjs
       patterns:
-      - .*babel\-plugin\-transform\-es2015\-modules\-commonjs.*
+      - ".*babel\\-plugin\\-transform\\-es2015\\-modules\\-commonjs.*"
     - name: Babel-plugin-transform-object-rest-spread
       patterns:
-      - .*babel\-plugin\-transform\-object\-rest\-spread.*
+      - ".*babel\\-plugin\\-transform\\-object\\-rest\\-spread.*"
     - name: Babel-plugin-transform-react-jsx
       patterns:
-      - .*babel\-plugin\-transform\-react\-jsx.*
+      - ".*babel\\-plugin\\-transform\\-react\\-jsx.*"
     - name: Babel-plugin-transform-react-remove-prop-types
       patterns:
-      - .*babel\-plugin\-transform\-react\-remove\-prop\-types.*
+      - ".*babel\\-plugin\\-transform\\-react\\-remove\\-prop\\-types.*"
     - name: Babel-plugin-transform-regenerator
       patterns:
-      - .*babel\-plugin\-transform\-regenerator.*
+      - ".*babel\\-plugin\\-transform\\-regenerator.*"
     - name: Babel-plugin-transform-runtime
       patterns:
-      - .*babel\-plugin\-transform\-runtime.*
+      - ".*babel\\-plugin\\-transform\\-runtime.*"
     - name: Babel-polyfill
       patterns:
-      - .*babel\-polyfill.*
+      - ".*babel\\-polyfill.*"
     - name: Babel-preset-env
       patterns:
-      - .*babel\-preset\-env.*
+      - ".*babel\\-preset\\-env.*"
     - name: Babel-preset-es2015
       patterns:
-      - .*babel\-preset\-es2015.*
+      - ".*babel\\-preset\\-es2015.*"
     - name: Babel-preset-react
       patterns:
-      - .*babel\-preset\-react.*
+      - ".*babel\\-preset\\-react.*"
     - name: Babel-preset-react-app
       patterns:
-      - .*babel\-preset\-react\-app.*
+      - ".*babel\\-preset\\-react\\-app.*"
     - name: Babel-preset-stage-0
       patterns:
-      - .*babel\-preset\-stage\-0.*
+      - ".*babel\\-preset\\-stage\\-0.*"
     - name: Babel-preset-stage-1
       patterns:
-      - .*babel\-preset\-stage\-1.*
+      - ".*babel\\-preset\\-stage\\-1.*"
     - name: Babel-preset-stage-2
       patterns:
-      - .*babel\-preset\-stage\-2.*
+      - ".*babel\\-preset\\-stage\\-2.*"
     - name: Babel-preset-stage-3
       patterns:
-      - .*babel\-preset\-stage\-3.*
+      - ".*babel\\-preset\\-stage\\-3.*"
     - name: Babel-register
       patterns:
-      - .*babel\-register.*
+      - ".*babel\\-register.*"
     - name: Babel-runtime
       patterns:
-      - .*babel\-runtime.*
+      - ".*babel\\-runtime.*"
     - name: Babel-template
       patterns:
-      - .*babel\-template.*
+      - ".*babel\\-template.*"
     - name: Babel-traverse
       patterns:
-      - .*babel\-traverse.*
+      - ".*babel\\-traverse.*"
     - name: Babel-types
       patterns:
-      - .*babel\-types.*
+      - ".*babel\\-types.*"
     - name: Babelify
       patterns:
       - .*babelify.*
     - name: Broccoli-funnel
       patterns:
-      - .*broccoli\-funnel.*
+      - ".*broccoli\\-funnel.*"
     - name: Broccoli-merge-trees
       patterns:
-      - .*broccoli\-merge\-trees.*
+      - ".*broccoli\\-merge\\-trees.*"
     - name: Browserify
       patterns:
       - .*browserify.*
@@ -888,37 +888,37 @@ categories:
       - .*browserslist.*
     - name: Case-sensitive-paths-webpack-plugin
       patterns:
-      - .*case\-sensitive\-paths\-webpack\-plugin.*
+      - ".*case\\-sensitive\\-paths\\-webpack\\-plugin.*"
     - name: Clean-css
       patterns:
-      - .*clean\-css.*
+      - ".*clean\\-css.*"
     - name: Clean-webpack-plugin
       patterns:
-      - .*clean\-webpack\-plugin.*
+      - ".*clean\\-webpack\\-plugin.*"
     - name: Copy-webpack-plugin
       patterns:
-      - .*copy\-webpack\-plugin.*
+      - ".*copy\\-webpack\\-plugin.*"
     - name: Cross-env
       patterns:
-      - .*cross\-env.*
+      - ".*cross\\-env.*"
     - name: Css
       patterns:
       - .*css.*
     - name: Css-loader
       patterns:
-      - .*css\-loader.*
+      - ".*css\\-loader.*"
     - name: Cssnano
       patterns:
       - .*cssnano.*
     - name: Download-git-repo
       patterns:
-      - .*download\-git\-repo.*
+      - ".*download\\-git\\-repo.*"
     - name: Ember-cli-babel
       patterns:
-      - .*ember\-cli\-babel.*
+      - ".*ember\\-cli\\-babel.*"
     - name: Ember-cli-htmlbars
       patterns:
-      - .*ember\-cli\-htmlbars.*
+      - ".*ember\\-cli\\-htmlbars.*"
     - name: Envify
       patterns:
       - .*envify.*
@@ -930,214 +930,214 @@ categories:
       - .*escodegen.*
     - name: Extract-text-webpack-plugin
       patterns:
-      - .*extract\-text\-webpack\-plugin.*
+      - ".*extract\\-text\\-webpack\\-plugin.*"
     - name: File-loader
       patterns:
-      - .*file\-loader.*
+      - ".*file\\-loader.*"
     - name: Fork-ts-checker-webpack-plugin
       patterns:
-      - .*fork\-ts\-checker\-webpack\-plugin.*
+      - ".*fork\\-ts\\-checker\\-webpack\\-plugin.*"
     - name: Fork-ts-checker-webpack-plugin-alt
       patterns:
-      - .*fork\-ts\-checker\-webpack\-plugin\-alt.*
+      - ".*fork\\-ts\\-checker\\-webpack\\-plugin\\-alt.*"
     - name: Friendly-errors-webpack-plugin
       patterns:
-      - .*friendly\-errors\-webpack\-plugin.*
+      - ".*friendly\\-errors\\-webpack\\-plugin.*"
     - name: Gh-pages
       patterns:
-      - .*gh\-pages.*
+      - ".*gh\\-pages.*"
     - name: Grunt
       patterns:
       - .*grunt.*
     - name: Grunt-contrib-clean
       patterns:
-      - .*grunt\-contrib\-clean.*
+      - ".*grunt\\-contrib\\-clean.*"
     - name: Grunt-contrib-concat
       patterns:
-      - .*grunt\-contrib\-concat.*
+      - ".*grunt\\-contrib\\-concat.*"
     - name: Grunt-contrib-copy
       patterns:
-      - .*grunt\-contrib\-copy.*
+      - ".*grunt\\-contrib\\-copy.*"
     - name: Grunt-contrib-jshint
       patterns:
-      - .*grunt\-contrib\-jshint.*
+      - ".*grunt\\-contrib\\-jshint.*"
     - name: Grunt-contrib-uglify
       patterns:
-      - .*grunt\-contrib\-uglify.*
+      - ".*grunt\\-contrib\\-uglify.*"
     - name: Grunt-contrib-watch
       patterns:
-      - .*grunt\-contrib\-watch.*
+      - ".*grunt\\-contrib\\-watch.*"
     - name: Gulp
       patterns:
       - .*gulp.*
     - name: Gulp-autoprefixer
       patterns:
-      - .*gulp\-autoprefixer.*
+      - ".*gulp\\-autoprefixer.*"
     - name: Gulp-babel
       patterns:
-      - .*gulp\-babel.*
+      - ".*gulp\\-babel.*"
     - name: Gulp-clean-css
       patterns:
-      - .*gulp\-clean\-css.*
+      - ".*gulp\\-clean\\-css.*"
     - name: Gulp-concat
       patterns:
-      - .*gulp\-concat.*
+      - ".*gulp\\-concat.*"
     - name: Gulp-conflict
       patterns:
-      - .*gulp\-conflict.*
+      - ".*gulp\\-conflict.*"
     - name: Gulp-eslint
       patterns:
-      - .*gulp\-eslint.*
+      - ".*gulp\\-eslint.*"
     - name: Gulp-filter
       patterns:
-      - .*gulp\-filter.*
+      - ".*gulp\\-filter.*"
     - name: Gulp-if
       patterns:
-      - .*gulp\-if.*
+      - ".*gulp\\-if.*"
     - name: Gulp-imagemin
       patterns:
-      - .*gulp\-imagemin.*
+      - ".*gulp\\-imagemin.*"
     - name: Gulp-install
       patterns:
-      - .*gulp\-install.*
+      - ".*gulp\\-install.*"
     - name: Gulp-jshint
       patterns:
-      - .*gulp\-jshint.*
+      - ".*gulp\\-jshint.*"
     - name: Gulp-less
       patterns:
-      - .*gulp\-less.*
+      - ".*gulp\\-less.*"
     - name: Gulp-load-plugins
       patterns:
-      - .*gulp\-load\-plugins.*
+      - ".*gulp\\-load\\-plugins.*"
     - name: Gulp-minify-css
       patterns:
-      - .*gulp\-minify\-css.*
+      - ".*gulp\\-minify\\-css.*"
     - name: Gulp-notify
       patterns:
-      - .*gulp\-notify.*
+      - ".*gulp\\-notify.*"
     - name: Gulp-plumber
       patterns:
-      - .*gulp\-plumber.*
+      - ".*gulp\\-plumber.*"
     - name: Gulp-postcss
       patterns:
-      - .*gulp\-postcss.*
+      - ".*gulp\\-postcss.*"
     - name: Gulp-rename
       patterns:
-      - .*gulp\-rename.*
+      - ".*gulp\\-rename.*"
     - name: Gulp-replace
       patterns:
-      - .*gulp\-replace.*
+      - ".*gulp\\-replace.*"
     - name: Gulp-sass
       patterns:
-      - .*gulp\-sass.*
+      - ".*gulp\\-sass.*"
     - name: Gulp-shell
       patterns:
-      - .*gulp\-shell.*
+      - ".*gulp\\-shell.*"
     - name: Gulp-sourcemaps
       patterns:
-      - .*gulp\-sourcemaps.*
+      - ".*gulp\\-sourcemaps.*"
     - name: Gulp-template
       patterns:
-      - .*gulp\-template.*
+      - ".*gulp\\-template.*"
     - name: Gulp-typescript
       patterns:
-      - .*gulp\-typescript.*
+      - ".*gulp\\-typescript.*"
     - name: Gulp-uglify
       patterns:
-      - .*gulp\-uglify.*
+      - ".*gulp\\-uglify.*"
     - name: Gulp-util
       patterns:
-      - .*gulp\-util.*
+      - ".*gulp\\-util.*"
     - name: Gulp-watch
       patterns:
-      - .*gulp\-watch.*
+      - ".*gulp\\-watch.*"
     - name: Html-loader
       patterns:
-      - .*html\-loader.*
+      - ".*html\\-loader.*"
     - name: Html-minifier
       patterns:
-      - .*html\-minifier.*
+      - ".*html\\-minifier.*"
     - name: Html-webpack-plugin
       patterns:
-      - .*html\-webpack\-plugin.*
+      - ".*html\\-webpack\\-plugin.*"
     - name: Imagemin
       patterns:
       - .*imagemin.*
     - name: Imagemin-pngquant
       patterns:
-      - .*imagemin\-pngquant.*
+      - ".*imagemin\\-pngquant.*"
     - name: Json-loader
       patterns:
-      - .*json\-loader.*
+      - ".*json\\-loader.*"
     - name: Less-loader
       patterns:
-      - .*less\-loader.*
+      - ".*less\\-loader.*"
     - name: Lint-staged
       patterns:
-      - .*lint\-staged.*
+      - ".*lint\\-staged.*"
     - name: Loader-utils
       patterns:
-      - .*loader\-utils.*
+      - ".*loader\\-utils.*"
     - name: Mini-css-extract-plugin
       patterns:
-      - .*mini\-css\-extract\-plugin.*
+      - ".*mini\\-css\\-extract\\-plugin.*"
     - name: Node-gyp
       patterns:
-      - .*node\-gyp.*
+      - ".*node\\-gyp.*"
     - name: Node-pre-gyp
       patterns:
-      - .*node\-pre\-gyp.*
+      - ".*node\\-pre\\-gyp.*"
     - name: Node-sass
       patterns:
-      - .*node\-sass.*
+      - ".*node\\-sass.*"
     - name: Npm-run-all
       patterns:
-      - .*npm\-run\-all.*
+      - ".*npm\\-run\\-all.*"
     - name: Optimize-css-assets-webpack-plugin
       patterns:
-      - .*optimize\-css\-assets\-webpack\-plugin.*
+      - ".*optimize\\-css\\-assets\\-webpack\\-plugin.*"
     - name: Pnp-webpack-plugin
       patterns:
-      - .*pnp\-webpack\-plugin.*
+      - ".*pnp\\-webpack\\-plugin.*"
     - name: Postcss
       patterns:
       - .*postcss.*
     - name: Postcss-cssnext
       patterns:
-      - .*postcss\-cssnext.*
+      - ".*postcss\\-cssnext.*"
     - name: Postcss-flexbugs-fixes
       patterns:
-      - .*postcss\-flexbugs\-fixes.*
+      - ".*postcss\\-flexbugs\\-fixes.*"
     - name: Postcss-import
       patterns:
-      - .*postcss\-import.*
+      - ".*postcss\\-import.*"
     - name: Postcss-loader
       patterns:
-      - .*postcss\-loader.*
+      - ".*postcss\\-loader.*"
     - name: Postcss-nested
       patterns:
-      - .*postcss\-nested.*
+      - ".*postcss\\-nested.*"
     - name: Postcss-normalize
       patterns:
-      - .*postcss\-normalize.*
+      - ".*postcss\\-normalize.*"
     - name: Postcss-preset-env
       patterns:
-      - .*postcss\-preset\-env.*
+      - ".*postcss\\-preset\\-env.*"
     - name: Postcss-safe-parser
       patterns:
-      - .*postcss\-safe\-parser.*
+      - ".*postcss\\-safe\\-parser.*"
     - name: Progress-bar-webpack-plugin
       patterns:
-      - .*progress\-bar\-webpack\-plugin.*
+      - ".*progress\\-bar\\-webpack\\-plugin.*"
     - name: Raw-loader
       patterns:
-      - .*raw\-loader.*
+      - ".*raw\\-loader.*"
     - name: React-dev-utils
       patterns:
-      - .*react\-dev\-utils.*
+      - ".*react\\-dev\\-utils.*"
     - name: React-scripts
       patterns:
-      - .*react\-scripts.*
+      - ".*react\\-scripts.*"
     - name: Recast
       patterns:
       - .*recast.*
@@ -1152,85 +1152,85 @@ categories:
       - .*rollup.*
     - name: Rollup-plugin-babel
       patterns:
-      - .*rollup\-plugin\-babel.*
+      - ".*rollup\\-plugin\\-babel.*"
     - name: Rollup-plugin-commonjs
       patterns:
-      - .*rollup\-plugin\-commonjs.*
+      - ".*rollup\\-plugin\\-commonjs.*"
     - name: Rollup-plugin-node-resolve
       patterns:
-      - .*rollup\-plugin\-node\-resolve.*
+      - ".*rollup\\-plugin\\-node\\-resolve.*"
     - name: Rollup-pluginutils
       patterns:
-      - .*rollup\-pluginutils.*
+      - ".*rollup\\-pluginutils.*"
     - name: Run-sequence
       patterns:
-      - .*run\-sequence.*
+      - ".*run\\-sequence.*"
     - name: Sass-loader
       patterns:
-      - .*sass\-loader.*
+      - ".*sass\\-loader.*"
     - name: Shelljs
       patterns:
       - .*shelljs.*
     - name: Source-map
       patterns:
-      - .*source\-map.*
+      - ".*source\\-map.*"
     - name: Source-map-loader
       patterns:
-      - .*source\-map\-loader.*
+      - ".*source\\-map\\-loader.*"
     - name: Source-map-support
       patterns:
-      - .*source\-map\-support.*
+      - ".*source\\-map\\-support.*"
     - name: Style-loader
       patterns:
-      - .*style\-loader.*
+      - ".*style\\-loader.*"
     - name: Stylus
       patterns:
       - .*stylus.*
     - name: Stylus-loader
       patterns:
-      - .*stylus\-loader.*
+      - ".*stylus\\-loader.*"
     - name: Svgo
       patterns:
       - .*svgo.*
     - name: Sw-precache-webpack-plugin
       patterns:
-      - .*sw\-precache\-webpack\-plugin.*
+      - ".*sw\\-precache\\-webpack\\-plugin.*"
     - name: Terser-webpack-plugin
       patterns:
-      - .*terser\-webpack\-plugin.*
+      - ".*terser\\-webpack\\-plugin.*"
     - name: Ts-loader
       patterns:
-      - .*ts\-loader.*
+      - ".*ts\\-loader.*"
     - name: Ts-pnp
       patterns:
-      - .*ts\-pnp.*
+      - ".*ts\\-pnp.*"
     - name: Typescript
       patterns:
       - .*typescript.*
     - name: Uglify-es
       patterns:
-      - .*uglify\-es.*
+      - ".*uglify\\-es.*"
     - name: Uglify-js
       patterns:
-      - .*uglify\-js.*
+      - ".*uglify\\-js.*"
     - name: Uglifyjs-webpack-plugin
       patterns:
-      - .*uglifyjs\-webpack\-plugin.*
+      - ".*uglifyjs\\-webpack\\-plugin.*"
     - name: Url-loader
       patterns:
-      - .*url\-loader.*
+      - ".*url\\-loader.*"
     - name: Vinyl-source-stream
       patterns:
-      - .*vinyl\-source\-stream.*
+      - ".*vinyl\\-source\\-stream.*"
     - name: Vue-hot-reload-api
       patterns:
-      - .*vue\-hot\-reload\-api.*
+      - ".*vue\\-hot\\-reload\\-api.*"
     - name: Vue-loader
       patterns:
-      - .*vue\-loader.*
+      - ".*vue\\-loader.*"
     - name: Vue-style-loader
       patterns:
-      - .*vue\-style\-loader.*
+      - ".*vue\\-style\\-loader.*"
     - name: Watchify
       patterns:
       - .*watchify.*
@@ -1239,45 +1239,45 @@ categories:
       - .*webpack.*
     - name: Webpack-bundle-analyzer
       patterns:
-      - .*webpack\-bundle\-analyzer.*
+      - ".*webpack\\-bundle\\-analyzer.*"
     - name: Webpack-cli
       patterns:
-      - .*webpack\-cli.*
+      - ".*webpack\\-cli.*"
     - name: Webpack-dev-middleware
       patterns:
-      - .*webpack\-dev\-middleware.*
+      - ".*webpack\\-dev\\-middleware.*"
     - name: Webpack-dev-server
       patterns:
-      - .*webpack\-dev\-server.*
+      - ".*webpack\\-dev\\-server.*"
     - name: Webpack-hot-middleware
       patterns:
-      - .*webpack\-hot\-middleware.*
+      - ".*webpack\\-hot\\-middleware.*"
     - name: Webpack-manifest-plugin
       patterns:
-      - .*webpack\-manifest\-plugin.*
+      - ".*webpack\\-manifest\\-plugin.*"
     - name: Webpack-merge
       patterns:
-      - .*webpack\-merge.*
+      - ".*webpack\\-merge.*"
     - name: Webpack-node-externals
       patterns:
-      - .*webpack\-node\-externals.*
+      - ".*webpack\\-node\\-externals.*"
     - name: Webpack-sources
       patterns:
-      - .*webpack\-sources.*
+      - ".*webpack\\-sources.*"
     - name: Workbox-webpack-plugin
       patterns:
-      - .*workbox\-webpack\-plugin.*
+      - ".*workbox\\-webpack\\-plugin.*"
   - name: Code Generators
     frameworks:
     - name: '@angular-devkit/schematics'
       patterns:
-      - .*@angular\-devkit/schematics.*
+      - ".*@angular\\-devkit/schematics.*"
     - name: Jsdoc
       patterns:
       - .*jsdoc.*
     - name: Yeoman-generator
       patterns:
-      - .*yeoman\-generator.*
+      - ".*yeoman\\-generator.*"
   - name: Local Development Runtimes
     frameworks:
     - name: '@oclif/command'
@@ -1288,16 +1288,16 @@ categories:
       - .*@oclif/config.*
     - name: '@oclif/plugin-help'
       patterns:
-      - .*@oclif/plugin\-help.*
+      - ".*@oclif/plugin\\-help.*"
     - name: Bower
       patterns:
       - .*bower.*
     - name: Browser-sync
       patterns:
-      - .*browser\-sync.*
+      - ".*browser\\-sync.*"
     - name: Grunt-cli
       patterns:
-      - .*grunt\-cli.*
+      - ".*grunt\\-cli.*"
     - name: Liftoff
       patterns:
       - .*liftoff.*
@@ -1312,13 +1312,13 @@ categories:
       - .*pm2.*
     - name: React-error-overlay
       patterns:
-      - .*react\-error\-overlay.*
+      - ".*react\\-error\\-overlay.*"
     - name: Ts-node
       patterns:
-      - .*ts\-node.*
+      - ".*ts\\-node.*"
     - name: Yeoman-environment
       patterns:
-      - .*yeoman\-environment.*
+      - ".*yeoman\\-environment.*"
 - name: Observability
   subcategories:
   - name: Logging
@@ -1328,13 +1328,13 @@ categories:
       - .*bunyan.*
     - name: Fancy-log
       patterns:
-      - .*fancy\-log.*
+      - ".*fancy\\-log.*"
     - name: Koa-logger
       patterns:
-      - .*koa\-logger.*
+      - ".*koa\\-logger.*"
     - name: Log-update
       patterns:
-      - .*log\-update.*
+      - ".*log\\-update.*"
     - name: Log4js
       patterns:
       - .*log4js.*
@@ -1352,10 +1352,10 @@ categories:
       - .*pino.*
     - name: Pretty-error
       patterns:
-      - .*pretty\-error.*
+      - ".*pretty\\-error.*"
     - name: Redux-logger
       patterns:
-      - .*redux\-logger.*
+      - ".*redux\\-logger.*"
     - name: Tracer
       patterns:
       - .*tracer.*
@@ -1367,7 +1367,7 @@ categories:
       - .*winston.*
     - name: Winston-daily-rotate-file
       patterns:
-      - .*winston\-daily\-rotate\-file.*
+      - ".*winston\\-daily\\-rotate\\-file.*"
   - name: Monitoring
     frameworks:
     - name: Raven
@@ -1379,13 +1379,13 @@ categories:
     frameworks:
     - name: Basic-auth
       patterns:
-      - .*basic\-auth.*
+      - ".*basic\\-auth.*"
     - name: Bcrypt
       patterns:
       - .*bcrypt.*
     - name: Bcrypt-nodejs
       patterns:
-      - .*bcrypt\-nodejs.*
+      - ".*bcrypt\\-nodejs.*"
     - name: Bcryptjs
       patterns:
       - .*bcryptjs.*
@@ -1394,10 +1394,10 @@ categories:
       - .*jsonwebtoken.*
     - name: Jwt-decode
       patterns:
-      - .*jwt\-decode.*
+      - ".*jwt\\-decode.*"
     - name: Jwt-simple
       patterns:
-      - .*jwt\-simple.*
+      - ".*jwt\\-simple.*"
     - name: Oauth
       patterns:
       - .*oauth.*
@@ -1406,16 +1406,16 @@ categories:
       - .*passport.*
     - name: Passport-local
       patterns:
-      - .*passport\-local.*
+      - ".*passport\\-local.*"
     - name: Passport-oauth
       patterns:
-      - .*passport\-oauth.*
+      - ".*passport\\-oauth.*"
     - name: Passport-oauth2
       patterns:
-      - .*passport\-oauth2.*
+      - ".*passport\\-oauth2.*"
     - name: Passport-strategy
       patterns:
-      - .*passport\-strategy.*
+      - ".*passport\\-strategy.*"
   - name: Transport Security
     frameworks:
     - name: Cors
@@ -1426,7 +1426,7 @@ categories:
       - .*helmet.*
     - name: Node-forge
       patterns:
-      - .*node\-forge.*
+      - ".*node\\-forge.*"
 - name: Serialization
   subcategories:
   - name: Binary Formats
@@ -1441,13 +1441,13 @@ categories:
     frameworks:
     - name: Html-entities
       patterns:
-      - .*html\-entities.*
+      - ".*html\\-entities.*"
     - name: Js-yaml
       patterns:
-      - .*js\-yaml.*
+      - ".*js\\-yaml.*"
     - name: Json-stable-stringify
       patterns:
-      - .*json\-stable\-stringify.*
+      - ".*json\\-stable\\-stringify.*"
     - name: Json5
       patterns:
       - .*json5.*
@@ -1456,10 +1456,10 @@ categories:
       - .*sax.*
     - name: Serialize-javascript
       patterns:
-      - .*serialize\-javascript.*
+      - ".*serialize\\-javascript.*"
     - name: Xml-js
       patterns:
-      - .*xml\-js.*
+      - ".*xml\\-js.*"
     - name: Xml2js
       patterns:
       - .*xml2js.*
@@ -1497,7 +1497,7 @@ categories:
     frameworks:
     - name: Identity-obj-proxy
       patterns:
-      - .*identity\-obj\-proxy.*
+      - ".*identity\\-obj\\-proxy.*"
     - name: Mockjs
       patterns:
       - .*mockjs.*
@@ -1511,70 +1511,70 @@ categories:
     frameworks:
     - name: '@typescript-eslint/eslint-plugin'
       patterns:
-      - .*@typescript\-eslint/eslint\-plugin.*
+      - ".*@typescript\\-eslint/eslint\\-plugin.*"
     - name: '@typescript-eslint/parser'
       patterns:
-      - .*@typescript\-eslint/parser.*
+      - ".*@typescript\\-eslint/parser.*"
     - name: Babel-eslint
       patterns:
-      - .*babel\-eslint.*
+      - ".*babel\\-eslint.*"
     - name: Eslint
       patterns:
       - .*eslint.*
     - name: Eslint-config-airbnb
       patterns:
-      - .*eslint\-config\-airbnb.*
+      - ".*eslint\\-config\\-airbnb.*"
     - name: Eslint-config-airbnb-base
       patterns:
-      - .*eslint\-config\-airbnb\-base.*
+      - ".*eslint\\-config\\-airbnb\\-base.*"
     - name: Eslint-config-prettier
       patterns:
-      - .*eslint\-config\-prettier.*
+      - ".*eslint\\-config\\-prettier.*"
     - name: Eslint-config-react-app
       patterns:
-      - .*eslint\-config\-react\-app.*
+      - ".*eslint\\-config\\-react\\-app.*"
     - name: Eslint-config-standard
       patterns:
-      - .*eslint\-config\-standard.*
+      - ".*eslint\\-config\\-standard.*"
     - name: Eslint-loader
       patterns:
-      - .*eslint\-loader.*
+      - ".*eslint\\-loader.*"
     - name: Eslint-plugin-babel
       patterns:
-      - .*eslint\-plugin\-babel.*
+      - ".*eslint\\-plugin\\-babel.*"
     - name: Eslint-plugin-flowtype
       patterns:
-      - .*eslint\-plugin\-flowtype.*
+      - ".*eslint\\-plugin\\-flowtype.*"
     - name: Eslint-plugin-import
       patterns:
-      - .*eslint\-plugin\-import.*
+      - ".*eslint\\-plugin\\-import.*"
     - name: Eslint-plugin-jest
       patterns:
-      - .*eslint\-plugin\-jest.*
+      - ".*eslint\\-plugin\\-jest.*"
     - name: Eslint-plugin-jsx-a11y
       patterns:
-      - .*eslint\-plugin\-jsx\-a11y.*
+      - ".*eslint\\-plugin\\-jsx\\-a11y.*"
     - name: Eslint-plugin-node
       patterns:
-      - .*eslint\-plugin\-node.*
+      - ".*eslint\\-plugin\\-node.*"
     - name: Eslint-plugin-prettier
       patterns:
-      - .*eslint\-plugin\-prettier.*
+      - ".*eslint\\-plugin\\-prettier.*"
     - name: Eslint-plugin-promise
       patterns:
-      - .*eslint\-plugin\-promise.*
+      - ".*eslint\\-plugin\\-promise.*"
     - name: Eslint-plugin-react
       patterns:
-      - .*eslint\-plugin\-react.*
+      - ".*eslint\\-plugin\\-react.*"
     - name: Eslint-plugin-react-hooks
       patterns:
-      - .*eslint\-plugin\-react\-hooks.*
+      - ".*eslint\\-plugin\\-react\\-hooks.*"
     - name: Eslint-plugin-standard
       patterns:
-      - .*eslint\-plugin\-standard.*
+      - ".*eslint\\-plugin\\-standard.*"
     - name: Eslint-plugin-vue
       patterns:
-      - .*eslint\-plugin\-vue.*
+      - ".*eslint\\-plugin\\-vue.*"
     - name: Esprima
       patterns:
       - .*esprima.*
@@ -1592,22 +1592,22 @@ categories:
       - .*stylelint.*
     - name: Stylelint-config-standard
       patterns:
-      - .*stylelint\-config\-standard.*
+      - ".*stylelint\\-config\\-standard.*"
     - name: Stylelint-order
       patterns:
-      - .*stylelint\-order.*
+      - ".*stylelint\\-order.*"
     - name: Stylelint-scss
       patterns:
-      - .*stylelint\-scss.*
+      - ".*stylelint\\-scss.*"
     - name: Tslint
       patterns:
       - .*tslint.*
     - name: Tslint-config-prettier
       patterns:
-      - .*tslint\-config\-prettier.*
+      - ".*tslint\\-config\\-prettier.*"
     - name: Tslint-react
       patterns:
-      - .*tslint\-react.*
+      - ".*tslint\\-react.*"
   - name: Testing Frameworks
     frameworks:
     - name: '@types/jasmine'
@@ -1624,43 +1624,43 @@ categories:
       - .*assert.*
     - name: Assert-plus
       patterns:
-      - .*assert\-plus.*
+      - ".*assert\\-plus.*"
     - name: Babel-jest
       patterns:
-      - .*babel\-jest.*
+      - ".*babel\\-jest.*"
     - name: Chai
       patterns:
       - .*chai.*
     - name: Chai-as-promised
       patterns:
-      - .*chai\-as\-promised.*
+      - ".*chai\\-as\\-promised.*"
     - name: Enzyme
       patterns:
       - .*enzyme.*
     - name: Enzyme-adapter-react-16
       patterns:
-      - .*enzyme\-adapter\-react\-16.*
+      - ".*enzyme\\-adapter\\-react\\-16.*"
     - name: Jasmine
       patterns:
       - .*jasmine.*
     - name: Jasmine-core
       patterns:
-      - .*jasmine\-core.*
+      - ".*jasmine\\-core.*"
     - name: Jest
       patterns:
       - .*jest.*
     - name: Jest-environment-jsdom-fourteen
       patterns:
-      - .*jest\-environment\-jsdom\-fourteen.*
+      - ".*jest\\-environment\\-jsdom\\-fourteen.*"
     - name: Jest-pnp-resolver
       patterns:
-      - .*jest\-pnp\-resolver.*
+      - ".*jest\\-pnp\\-resolver.*"
     - name: Jest-resolve
       patterns:
-      - .*jest\-resolve.*
+      - ".*jest\\-resolve.*"
     - name: Jest-watch-typeahead
       patterns:
-      - .*jest\-watch\-typeahead.*
+      - ".*jest\\-watch\\-typeahead.*"
     - name: Jsdom
       patterns:
       - .*jsdom.*
@@ -1669,16 +1669,16 @@ categories:
       - .*karma.*
     - name: Karma-chrome-launcher
       patterns:
-      - .*karma\-chrome\-launcher.*
+      - ".*karma\\-chrome\\-launcher.*"
     - name: Karma-jasmine
       patterns:
-      - .*karma\-jasmine.*
+      - ".*karma\\-jasmine.*"
     - name: Karma-mocha
       patterns:
-      - .*karma\-mocha.*
+      - ".*karma\\-mocha.*"
     - name: Karma-phantomjs-launcher
       patterns:
-      - .*karma\-phantomjs\-launcher.*
+      - ".*karma\\-phantomjs\\-launcher.*"
     - name: Mocha
       patterns:
       - .*mocha.*
@@ -1687,16 +1687,16 @@ categories:
       - .*puppeteer.*
     - name: React-test-renderer
       patterns:
-      - .*react\-test\-renderer.*
+      - ".*react\\-test\\-renderer.*"
     - name: Selenium-webdriver
       patterns:
-      - .*selenium\-webdriver.*
+      - ".*selenium\\-webdriver.*"
     - name: Should
       patterns:
       - .*should.*
     - name: Sinon-chai
       patterns:
-      - .*sinon\-chai.*
+      - ".*sinon\\-chai.*"
     - name: Supertest
       patterns:
       - .*supertest.*
@@ -1705,26 +1705,26 @@ categories:
       - .*tape.*
     - name: Ts-jest
       patterns:
-      - .*ts\-jest.*
+      - ".*ts\\-jest.*"
 - name: Utility Libraries
   subcategories:
   - name: Collections & Data Structures
     frameworks:
     - name: Fuse.js
       patterns:
-      - .*fuse\.js.*
+      - ".*fuse\\.js.*"
     - name: Immutable
       patterns:
       - .*immutable.*
     - name: Lodash-es
       patterns:
-      - .*lodash\-es.*
+      - ".*lodash\\-es.*"
     - name: Lodash.flatten
       patterns:
-      - .*lodash\.flatten.*
+      - ".*lodash\\.flatten.*"
     - name: Lodash.map
       patterns:
-      - .*lodash\.map.*
+      - ".*lodash\\.map.*"
     - name: Ramda
       patterns:
       - .*ramda.*
@@ -1747,7 +1747,7 @@ categories:
       - .*dotenv.*
     - name: Dotenv-expand
       patterns:
-      - .*dotenv\-expand.*
+      - ".*dotenv\\-expand.*"
     - name: Ini
       patterns:
       - .*ini.*
@@ -1761,7 +1761,7 @@ categories:
     frameworks:
     - name: Date-fns
       patterns:
-      - .*date\-fns.*
+      - ".*date\\-fns.*"
     - name: Dateformat
       patterns:
       - .*dateformat.*
@@ -1773,10 +1773,10 @@ categories:
       - .*moment.*
     - name: Moment-timezone
       patterns:
-      - .*moment\-timezone.*
+      - ".*moment\\-timezone.*"
     - name: Pretty-ms
       patterns:
-      - .*pretty\-ms.*
+      - ".*pretty\\-ms.*"
   - name: General Utilities
     frameworks:
     - name: '@babel/polyfill'
@@ -1784,7 +1784,7 @@ categories:
       - .*@babel/polyfill.*
     - name: '@fortawesome/free-solid-svg-icons'
       patterns:
-      - .*@fortawesome/free\-solid\-svg\-icons.*
+      - ".*@fortawesome/free\\-solid\\-svg\\-icons.*"
     - name: '@types/bluebird'
       patterns:
       - .*@types/bluebird.*
@@ -1796,7 +1796,7 @@ categories:
       - .*@types/express.*
     - name: '@types/fs-extra'
       patterns:
-      - .*@types/fs\-extra.*
+      - ".*@types/fs\\-extra.*"
     - name: '@types/jquery'
       patterns:
       - .*@types/jquery.*
@@ -1811,7 +1811,7 @@ categories:
       - .*@types/react.*
     - name: '@types/react-dom'
       patterns:
-      - .*@types/react\-dom.*
+      - ".*@types/react\\-dom.*"
     - name: '@types/request'
       patterns:
       - .*@types/request.*
@@ -1823,19 +1823,19 @@ categories:
       - .*accepts.*
     - name: Adm-zip
       patterns:
-      - .*adm\-zip.*
+      - ".*adm\\-zip.*"
     - name: Ajv
       patterns:
       - .*ajv.*
     - name: Ansi-colors
       patterns:
-      - .*ansi\-colors.*
+      - ".*ansi\\-colors.*"
     - name: Ansi-escapes
       patterns:
-      - .*ansi\-escapes.*
+      - ".*ansi\\-escapes.*"
     - name: App-root-path
       patterns:
-      - .*app\-root\-path.*
+      - ".*app\\-root\\-path.*"
     - name: Archiver
       patterns:
       - .*archiver.*
@@ -1850,7 +1850,7 @@ categories:
       - .*async.*
     - name: Async-validator
       patterns:
-      - .*async\-validator.*
+      - ".*async\\-validator.*"
     - name: Atob
       patterns:
       - .*atob.*
@@ -1859,13 +1859,13 @@ categories:
       - .*babylon.*
     - name: Base-64
       patterns:
-      - .*base\-64.*
+      - ".*base\\-64.*"
     - name: Base64-js
       patterns:
-      - .*base64\-js.*
+      - ".*base64\\-js.*"
     - name: Bignumber.js
       patterns:
-      - .*bignumber\.js.*
+      - ".*bignumber\\.js.*"
     - name: Bindings
       patterns:
       - .*bindings.*
@@ -1880,10 +1880,10 @@ categories:
       - .*bluebird.*
     - name: Bn.js
       patterns:
-      - .*bn\.js.*
+      - ".*bn\\.js.*"
     - name: Body-parser
       patterns:
-      - .*body\-parser.*
+      - ".*body\\-parser.*"
     - name: Boom
       patterns:
       - .*boom.*
@@ -1928,13 +1928,13 @@ categories:
       - .*chance.*
     - name: Change-case
       patterns:
-      - .*change\-case.*
+      - ".*change\\-case.*"
     - name: Cheerio
       patterns:
       - .*cheerio.*
     - name: Child-process-promise
       patterns:
-      - .*child\-process\-promise.*
+      - ".*child\\-process\\-promise.*"
     - name: Child_process
       patterns:
       - .*child_process.*
@@ -1952,19 +1952,19 @@ categories:
       - .*cli.*
     - name: Cli-color
       patterns:
-      - .*cli\-color.*
+      - ".*cli\\-color.*"
     - name: Cli-spinner
       patterns:
-      - .*cli\-spinner.*
+      - ".*cli\\-spinner.*"
     - name: Cli-table
       patterns:
-      - .*cli\-table.*
+      - ".*cli\\-table.*"
     - name: Cli-table2
       patterns:
-      - .*cli\-table2.*
+      - ".*cli\\-table2.*"
     - name: Cli-ux
       patterns:
-      - .*cli\-ux.*
+      - ".*cli\\-ux.*"
     - name: Clipboard
       patterns:
       - .*clipboard.*
@@ -1982,10 +1982,10 @@ categories:
       - .*co.*
     - name: Co-prompt
       patterns:
-      - .*co\-prompt.*
+      - ".*co\\-prompt.*"
     - name: Coffee-script
       patterns:
-      - .*coffee\-script.*
+      - ".*coffee\\-script.*"
     - name: Color
       patterns:
       - .*color.*
@@ -1997,79 +1997,79 @@ categories:
       - .*columnify.*
     - name: Command-exists
       patterns:
-      - .*command\-exists.*
+      - ".*command\\-exists.*"
     - name: Command-line-args
       patterns:
-      - .*command\-line\-args.*
+      - ".*command\\-line\\-args.*"
     - name: Command-line-usage
       patterns:
-      - .*command\-line\-usage.*
+      - ".*command\\-line\\-usage.*"
     - name: Commander
       patterns:
       - .*commander.*
     - name: Common-tags
       patterns:
-      - .*common\-tags.*
+      - ".*common\\-tags.*"
     - name: Component-emitter
       patterns:
-      - .*component\-emitter.*
+      - ".*component\\-emitter.*"
     - name: Compression
       patterns:
       - .*compression.*
     - name: Concat-stream
       patterns:
-      - .*concat\-stream.*
+      - ".*concat\\-stream.*"
     - name: Connect-flash
       patterns:
-      - .*connect\-flash.*
+      - ".*connect\\-flash.*"
     - name: Connect-history-api-fallback
       patterns:
-      - .*connect\-history\-api\-fallback.*
+      - ".*connect\\-history\\-api\\-fallback.*"
     - name: Consolidate
       patterns:
       - .*consolidate.*
     - name: Content-type
       patterns:
-      - .*content\-type.*
+      - ".*content\\-type.*"
     - name: Convert-source-map
       patterns:
-      - .*convert\-source\-map.*
+      - ".*convert\\-source\\-map.*"
     - name: Cookie
       patterns:
       - .*cookie.*
     - name: Core-js
       patterns:
-      - .*core\-js.*
+      - ".*core\\-js.*"
     - name: Crc
       patterns:
       - .*crc.*
     - name: Create-hash
       patterns:
-      - .*create\-hash.*
+      - ".*create\\-hash.*"
     - name: Cron
       patterns:
       - .*cron.*
     - name: Cross-spawn
       patterns:
-      - .*cross\-spawn.*
+      - ".*cross\\-spawn.*"
     - name: Crypto
       patterns:
       - .*crypto.*
     - name: Crypto-js
       patterns:
-      - .*crypto\-js.*
+      - ".*crypto\\-js.*"
     - name: Csv
       patterns:
       - .*csv.*
     - name: Csv-parse
       patterns:
-      - .*csv\-parse.*
+      - ".*csv\\-parse.*"
     - name: Cuid
       patterns:
       - .*cuid.*
     - name: D3-scale
       patterns:
-      - .*d3\-scale.*
+      - ".*d3\\-scale.*"
     - name: Deasync
       patterns:
       - .*deasync.*
@@ -2087,16 +2087,16 @@ categories:
       - .*decompress.*
     - name: Deep-assign
       patterns:
-      - .*deep\-assign.*
+      - ".*deep\\-assign.*"
     - name: Deep-diff
       patterns:
-      - .*deep\-diff.*
+      - ".*deep\\-diff.*"
     - name: Deep-equal
       patterns:
-      - .*deep\-equal.*
+      - ".*deep\\-equal.*"
     - name: Deep-extend
       patterns:
-      - .*deep\-extend.*
+      - ".*deep\\-extend.*"
     - name: Deepmerge
       patterns:
       - .*deepmerge.*
@@ -2108,13 +2108,13 @@ categories:
       - .*depd.*
     - name: Detect-port
       patterns:
-      - .*detect\-port.*
+      - ".*detect\\-port.*"
     - name: Diff
       patterns:
       - .*diff.*
     - name: Dom-helpers
       patterns:
-      - .*dom\-helpers.*
+      - ".*dom\\-helpers.*"
     - name: Dot
       patterns:
       - .*dot.*
@@ -2123,7 +2123,7 @@ categories:
       - .*download.*
     - name: Element-resize-detector
       patterns:
-      - .*element\-resize\-detector.*
+      - ".*element\\-resize\\-detector.*"
     - name: Elliptic
       patterns:
       - .*elliptic.*
@@ -2132,22 +2132,22 @@ categories:
       - .*errorhandler.*
     - name: Es6-error
       patterns:
-      - .*es6\-error.*
+      - ".*es6\\-error.*"
     - name: Es6-promise
       patterns:
-      - .*es6\-promise.*
+      - ".*es6\\-promise.*"
     - name: Es6-promisify
       patterns:
-      - .*es6\-promisify.*
+      - ".*es6\\-promisify.*"
     - name: Es6-shim
       patterns:
-      - .*es6\-shim.*
+      - ".*es6\\-shim.*"
     - name: Escape-html
       patterns:
-      - .*escape\-html.*
+      - ".*escape\\-html.*"
     - name: Escape-string-regexp
       patterns:
-      - .*escape\-string\-regexp.*
+      - ".*escape\\-string\\-regexp.*"
     - name: Estraverse
       patterns:
       - .*estraverse.*
@@ -2156,13 +2156,13 @@ categories:
       - .*etag.*
     - name: Ethereumjs-tx
       patterns:
-      - .*ethereumjs\-tx.*
+      - ".*ethereumjs\\-tx.*"
     - name: Ethereumjs-util
       patterns:
-      - .*ethereumjs\-util.*
+      - ".*ethereumjs\\-util.*"
     - name: Event-stream
       patterns:
-      - .*event\-stream.*
+      - ".*event\\-stream.*"
     - name: Eventemitter2
       patterns:
       - .*eventemitter2.*
@@ -2180,16 +2180,16 @@ categories:
       - .*extend.*
     - name: Extend-shallow
       patterns:
-      - .*extend\-shallow.*
+      - ".*extend\\-shallow.*"
     - name: Extract-zip
       patterns:
-      - .*extract\-zip.*
+      - ".*extract\\-zip.*"
     - name: Faker
       patterns:
       - .*faker.*
     - name: Fast-glob
       patterns:
-      - .*fast\-glob.*
+      - ".*fast\\-glob.*"
     - name: Fastclick
       patterns:
       - .*fastclick.*
@@ -2204,10 +2204,10 @@ categories:
       - .*figures.*
     - name: File-saver
       patterns:
-      - .*file\-saver.*
+      - ".*file\\-saver.*"
     - name: File-type
       patterns:
-      - .*file\-type.*
+      - ".*file\\-type.*"
     - name: Filesize
       patterns:
       - .*filesize.*
@@ -2216,37 +2216,37 @@ categories:
       - .*finalhandler.*
     - name: Find-up
       patterns:
-      - .*find\-up.*
+      - ".*find\\-up.*"
     - name: Findup-sync
       patterns:
-      - .*findup\-sync.*
+      - ".*findup\\-sync.*"
     - name: Flat
       patterns:
       - .*flat.*
     - name: Fluent-ffmpeg
       patterns:
-      - .*fluent\-ffmpeg.*
+      - ".*fluent\\-ffmpeg.*"
     - name: Flux
       patterns:
       - .*flux.*
     - name: Form-data
       patterns:
-      - .*form\-data.*
+      - ".*form\\-data.*"
     - name: Fresh
       patterns:
       - .*fresh.*
     - name: Front-matter
       patterns:
-      - .*front\-matter.*
+      - ".*front\\-matter.*"
     - name: Fs
       patterns:
       - .*fs.*
     - name: Fs-extra
       patterns:
-      - .*fs\-extra.*
+      - ".*fs\\-extra.*"
     - name: Fs-promise
       patterns:
-      - .*fs\-promise.*
+      - ".*fs\\-promise.*"
     - name: Fsevents
       patterns:
       - .*fsevents.*
@@ -2261,13 +2261,13 @@ categories:
       - .*gaze.*
     - name: Generic-pool
       patterns:
-      - .*generic\-pool.*
+      - ".*generic\\-pool.*"
     - name: Get-port
       patterns:
-      - .*get\-port.*
+      - ".*get\\-port.*"
     - name: Get-stdin
       patterns:
-      - .*get\-stdin.*
+      - ".*get\\-stdin.*"
     - name: Github
       patterns:
       - .*github.*
@@ -2285,28 +2285,28 @@ categories:
       - .*gm.*
     - name: Graceful-fs
       patterns:
-      - .*graceful\-fs.*
+      - ".*graceful\\-fs.*"
     - name: Gray-matter
       patterns:
-      - .*gray\-matter.*
+      - ".*gray\\-matter.*"
     - name: Gzip-size
       patterns:
-      - .*gzip\-size.*
+      - ".*gzip\\-size.*"
     - name: Hammerjs
       patterns:
       - .*hammerjs.*
     - name: Hash-sum
       patterns:
-      - .*hash\-sum.*
+      - ".*hash\\-sum.*"
     - name: He
       patterns:
       - .*he.*
     - name: Hexlet-pairs
       patterns:
-      - .*hexlet\-pairs.*
+      - ".*hexlet\\-pairs.*"
     - name: Highlight.js
       patterns:
-      - .*highlight\.js.*
+      - ".*highlight\\.js.*"
     - name: History
       patterns:
       - .*history.*
@@ -2315,16 +2315,16 @@ categories:
       - .*hoek.*
     - name: Hoist-non-react-statics
       patterns:
-      - .*hoist\-non\-react\-statics.*
+      - ".*hoist\\-non\\-react\\-statics.*"
     - name: Htmlparser2
       patterns:
       - .*htmlparser2.*
     - name: Http-status
       patterns:
-      - .*http\-status.*
+      - ".*http\\-status.*"
     - name: Http-status-codes
       patterns:
-      - .*http\-status\-codes.*
+      - ".*http\\-status\\-codes.*"
     - name: Https
       patterns:
       - .*https.*
@@ -2339,16 +2339,16 @@ categories:
       - .*i18next.*
     - name: Iconv-lite
       patterns:
-      - .*iconv\-lite.*
+      - ".*iconv\\-lite.*"
     - name: Image-size
       patterns:
-      - .*image\-size.*
+      - ".*image\\-size.*"
     - name: Immer
       patterns:
       - .*immer.*
     - name: Immutability-helper
       patterns:
-      - .*immutability\-helper.*
+      - ".*immutability\\-helper.*"
     - name: Inflection
       patterns:
       - .*inflection.*
@@ -2360,7 +2360,7 @@ categories:
       - .*inquirer.*
     - name: Inquirer-autocomplete-prompt
       patterns:
-      - .*inquirer\-autocomplete\-prompt.*
+      - ".*inquirer\\-autocomplete\\-prompt.*"
     - name: Install
       patterns:
       - .*install.*
@@ -2378,16 +2378,16 @@ categories:
       - .*is.*
     - name: Is-plain-object
       patterns:
-      - .*is\-plain\-object.*
+      - ".*is\\-plain\\-object.*"
     - name: Is-promise
       patterns:
-      - .*is\-promise.*
+      - ".*is\\-promise.*"
     - name: Is-url
       patterns:
-      - .*is\-url.*
+      - ".*is\\-url.*"
     - name: Is-wsl
       patterns:
-      - .*is\-wsl.*
+      - ".*is\\-wsl.*"
     - name: Isobject
       patterns:
       - .*isobject.*
@@ -2405,16 +2405,16 @@ categories:
       - .*jquery.*
     - name: Js-base64
       patterns:
-      - .*js\-base64.*
+      - ".*js\\-base64.*"
     - name: Js-beautify
       patterns:
-      - .*js\-beautify.*
+      - ".*js\\-beautify.*"
     - name: Js-cookie
       patterns:
-      - .*js\-cookie.*
+      - ".*js\\-cookie.*"
     - name: Json-stringify-safe
       patterns:
-      - .*json\-stringify\-safe.*
+      - ".*json\\-stringify\\-safe.*"
     - name: Jsonfile
       patterns:
       - .*jsonfile.*
@@ -2432,10 +2432,10 @@ categories:
       - .*keypress.*
     - name: Koa-compose
       patterns:
-      - .*koa\-compose.*
+      - ".*koa\\-compose.*"
     - name: Left-pad
       patterns:
-      - .*left\-pad.*
+      - ".*left\\-pad.*"
     - name: Listr
       patterns:
       - .*listr.*
@@ -2444,85 +2444,85 @@ categories:
       - .*localforage.*
     - name: Lodash.assign
       patterns:
-      - .*lodash\.assign.*
+      - ".*lodash\\.assign.*"
     - name: Lodash.camelcase
       patterns:
-      - .*lodash\.camelcase.*
+      - ".*lodash\\.camelcase.*"
     - name: Lodash.clonedeep
       patterns:
-      - .*lodash\.clonedeep.*
+      - ".*lodash\\.clonedeep.*"
     - name: Lodash.debounce
       patterns:
-      - .*lodash\.debounce.*
+      - ".*lodash\\.debounce.*"
     - name: Lodash.defaults
       patterns:
-      - .*lodash\.defaults.*
+      - ".*lodash\\.defaults.*"
     - name: Lodash.foreach
       patterns:
-      - .*lodash\.foreach.*
+      - ".*lodash\\.foreach.*"
     - name: Lodash.get
       patterns:
-      - .*lodash\.get.*
+      - ".*lodash\\.get.*"
     - name: Lodash.isempty
       patterns:
-      - .*lodash\.isempty.*
+      - ".*lodash\\.isempty.*"
     - name: Lodash.isequal
       patterns:
-      - .*lodash\.isequal.*
+      - ".*lodash\\.isequal.*"
     - name: Lodash.isfunction
       patterns:
-      - .*lodash\.isfunction.*
+      - ".*lodash\\.isfunction.*"
     - name: Lodash.isobject
       patterns:
-      - .*lodash\.isobject.*
+      - ".*lodash\\.isobject.*"
     - name: Lodash.isplainobject
       patterns:
-      - .*lodash\.isplainobject.*
+      - ".*lodash\\.isplainobject.*"
     - name: Lodash.isstring
       patterns:
-      - .*lodash\.isstring.*
+      - ".*lodash\\.isstring.*"
     - name: Lodash.merge
       patterns:
-      - .*lodash\.merge.*
+      - ".*lodash\\.merge.*"
     - name: Lodash.omit
       patterns:
-      - .*lodash\.omit.*
+      - ".*lodash\\.omit.*"
     - name: Lodash.pick
       patterns:
-      - .*lodash\.pick.*
+      - ".*lodash\\.pick.*"
     - name: Lodash.set
       patterns:
-      - .*lodash\.set.*
+      - ".*lodash\\.set.*"
     - name: Lodash.template
       patterns:
-      - .*lodash\.template.*
+      - ".*lodash\\.template.*"
     - name: Lodash.throttle
       patterns:
-      - .*lodash\.throttle.*
+      - ".*lodash\\.throttle.*"
     - name: Lodash.uniq
       patterns:
-      - .*lodash\.uniq.*
+      - ".*lodash\\.uniq.*"
     - name: Log-symbols
       patterns:
-      - .*log\-symbols.*
+      - ".*log\\-symbols.*"
     - name: Long
       patterns:
       - .*long.*
     - name: Loose-envify
       patterns:
-      - .*loose\-envify.*
+      - ".*loose\\-envify.*"
     - name: Make-dir
       patterns:
-      - .*make\-dir.*
+      - ".*make\\-dir.*"
     - name: Map-stream
       patterns:
-      - .*map\-stream.*
+      - ".*map\\-stream.*"
     - name: Markdown
       patterns:
       - .*markdown.*
     - name: Markdown-it
       patterns:
-      - .*markdown\-it.*
+      - ".*markdown\\-it.*"
     - name: Marked
       patterns:
       - .*marked.*
@@ -2534,13 +2534,13 @@ categories:
       - .*md5.*
     - name: Md5-file
       patterns:
-      - .*md5\-file.*
+      - ".*md5\\-file.*"
     - name: Memoize-one
       patterns:
-      - .*memoize\-one.*
+      - ".*memoize\\-one.*"
     - name: Memory-fs
       patterns:
-      - .*memory\-fs.*
+      - ".*memory\\-fs.*"
     - name: Meow
       patterns:
       - .*meow.*
@@ -2549,7 +2549,7 @@ categories:
       - .*merge.*
     - name: Merge-stream
       patterns:
-      - .*merge\-stream.*
+      - ".*merge\\-stream.*"
     - name: Methods
       patterns:
       - .*methods.*
@@ -2561,7 +2561,7 @@ categories:
       - .*mime.*
     - name: Mime-types
       patterns:
-      - .*mime\-types.*
+      - ".*mime\\-types.*"
     - name: Minimatch
       patterns:
       - .*minimatch.*
@@ -2591,25 +2591,25 @@ categories:
       - .*nib.*
     - name: Node-dir
       patterns:
-      - .*node\-dir.*
+      - ".*node\\-dir.*"
     - name: Node-emoji
       patterns:
-      - .*node\-emoji.*
+      - ".*node\\-emoji.*"
     - name: Node-notifier
       patterns:
-      - .*node\-notifier.*
+      - ".*node\\-notifier.*"
     - name: Node-schedule
       patterns:
-      - .*node\-schedule.*
+      - ".*node\\-schedule.*"
     - name: Node-uuid
       patterns:
-      - .*node\-uuid.*
+      - ".*node\\-uuid.*"
     - name: Node-watch
       patterns:
-      - .*node\-watch.*
+      - ".*node\\-watch.*"
     - name: Node.extend
       patterns:
-      - .*node\.extend.*
+      - ".*node\\.extend.*"
     - name: Nodegit
       patterns:
       - .*nodegit.*
@@ -2621,31 +2621,31 @@ categories:
       - .*nopt.*
     - name: Normalize-url
       patterns:
-      - .*normalize\-url.*
+      - ".*normalize\\-url.*"
     - name: Normalize-wheel
       patterns:
-      - .*normalize\-wheel.*
+      - ".*normalize\\-wheel.*"
     - name: Normalize.css
       patterns:
-      - .*normalize\.css.*
+      - ".*normalize\\.css.*"
     - name: Numeral
       patterns:
       - .*numeral.*
     - name: Object-assign
       patterns:
-      - .*object\-assign.*
+      - ".*object\\-assign.*"
     - name: Object-hash
       patterns:
-      - .*object\-hash.*
+      - ".*object\\-hash.*"
     - name: Object-path
       patterns:
-      - .*object\-path.*
+      - ".*object\\-path.*"
     - name: Object.assign
       patterns:
-      - .*object\.assign.*
+      - ".*object\\.assign.*"
     - name: On-finished
       patterns:
-      - .*on\-finished.*
+      - ".*on\\-finished.*"
     - name: Once
       patterns:
       - .*once.*
@@ -2684,13 +2684,13 @@ categories:
       - .*path.*
     - name: Path-exists
       patterns:
-      - .*path\-exists.*
+      - ".*path\\-exists.*"
     - name: Path-is-absolute
       patterns:
-      - .*path\-is\-absolute.*
+      - ".*path\\-is\\-absolute.*"
     - name: Path-to-regexp
       patterns:
-      - .*path\-to\-regexp.*
+      - ".*path\\-to\\-regexp.*"
     - name: Pify
       patterns:
       - .*pify.*
@@ -2702,7 +2702,7 @@ categories:
       - .*plist.*
     - name: Plugin-error
       patterns:
-      - .*plugin\-error.*
+      - ".*plugin\\-error.*"
     - name: Pluralize
       patterns:
       - .*pluralize.*
@@ -2714,13 +2714,13 @@ categories:
       - .*polished.*
     - name: Popper.js
       patterns:
-      - .*popper\.js.*
+      - ".*popper\\.js.*"
     - name: Portfinder
       patterns:
       - .*portfinder.*
     - name: Pretty-bytes
       patterns:
-      - .*pretty\-bytes.*
+      - ".*pretty\\-bytes.*"
     - name: Prettyjson
       patterns:
       - .*prettyjson.*
@@ -2738,7 +2738,7 @@ categories:
       - .*promise.*
     - name: Promise-polyfill
       patterns:
-      - .*promise\-polyfill.*
+      - ".*promise\\-polyfill.*"
     - name: Prompt
       patterns:
       - .*prompt.*
@@ -2747,10 +2747,10 @@ categories:
       - .*prompts.*
     - name: Prop-types
       patterns:
-      - .*prop\-types.*
+      - ".*prop\\-types.*"
     - name: Pull-stream
       patterns:
-      - .*pull\-stream.*
+      - ".*pull\\-stream.*"
     - name: Pump
       patterns:
       - .*pump.*
@@ -2762,7 +2762,7 @@ categories:
       - .*qs.*
     - name: Query-string
       patterns:
-      - .*query\-string.*
+      - ".*query\\-string.*"
     - name: Querystring
       patterns:
       - .*querystring.*
@@ -2777,52 +2777,52 @@ categories:
       - .*randomstring.*
     - name: Raw-body
       patterns:
-      - .*raw\-body.*
+      - ".*raw\\-body.*"
     - name: Rc
       patterns:
       - .*rc.*
     - name: Rc-util
       patterns:
-      - .*rc\-util.*
+      - ".*rc\\-util.*"
     - name: React-addons-shallow-compare
       patterns:
-      - .*react\-addons\-shallow\-compare.*
+      - ".*react\\-addons\\-shallow\\-compare.*"
     - name: React-app-polyfill
       patterns:
-      - .*react\-app\-polyfill.*
+      - ".*react\\-app\\-polyfill.*"
     - name: Read
       patterns:
       - .*read.*
     - name: Read-pkg
       patterns:
-      - .*read\-pkg.*
+      - ".*read\\-pkg.*"
     - name: Read-pkg-up
       patterns:
-      - .*read\-pkg\-up.*
+      - ".*read\\-pkg\\-up.*"
     - name: Readable-stream
       patterns:
-      - .*readable\-stream.*
+      - ".*readable\\-stream.*"
     - name: Readline
       patterns:
       - .*readline.*
     - name: Readline-sync
       patterns:
-      - .*readline\-sync.*
+      - ".*readline\\-sync.*"
     - name: Recompose
       patterns:
       - .*recompose.*
     - name: Recursive-readdir
       patterns:
-      - .*recursive\-readdir.*
+      - ".*recursive\\-readdir.*"
     - name: Regenerator-runtime
       patterns:
-      - .*regenerator\-runtime.*
+      - ".*regenerator\\-runtime.*"
     - name: Require-all
       patterns:
-      - .*require\-all.*
+      - ".*require\\-all.*"
     - name: Require-dir
       patterns:
-      - .*require\-dir.*
+      - ".*require\\-dir.*"
     - name: Requireindex
       patterns:
       - .*requireindex.*
@@ -2831,22 +2831,22 @@ categories:
       - .*reselect.*
     - name: Resize-observer-polyfill
       patterns:
-      - .*resize\-observer\-polyfill.*
+      - ".*resize\\-observer\\-polyfill.*"
     - name: Resolve-from
       patterns:
-      - .*resolve\-from.*
+      - ".*resolve\\-from.*"
     - name: Rsvp
       patterns:
       - .*rsvp.*
     - name: Safe-buffer
       patterns:
-      - .*safe\-buffer.*
+      - ".*safe\\-buffer.*"
     - name: Sanitize-filename
       patterns:
-      - .*sanitize\-filename.*
+      - ".*sanitize\\-filename.*"
     - name: Sanitize-html
       patterns:
-      - .*sanitize\-html.*
+      - ".*sanitize\\-html.*"
     - name: Secp256k1
       patterns:
       - .*secp256k1.*
@@ -2858,7 +2858,7 @@ categories:
       - .*serialport.*
     - name: Serve-index
       patterns:
-      - .*serve\-index.*
+      - ".*serve\\-index.*"
     - name: Sha1
       patterns:
       - .*sha1.*
@@ -2870,7 +2870,7 @@ categories:
       - .*sharp.*
     - name: Shell-quote
       patterns:
-      - .*shell\-quote.*
+      - ".*shell\\-quote.*"
     - name: Shortid
       patterns:
       - .*shortid.*
@@ -2879,7 +2879,7 @@ categories:
       - .*showdown.*
     - name: Simple-git
       patterns:
-      - .*simple\-git.*
+      - ".*simple\\-git.*"
     - name: Slash
       patterns:
       - .*slash.*
@@ -2900,40 +2900,40 @@ categories:
       - .*sprintf.*
     - name: Sprintf-js
       patterns:
-      - .*sprintf\-js.*
+      - ".*sprintf\\-js.*"
     - name: Ssh2
       patterns:
       - .*ssh2.*
     - name: Stack-trace
       patterns:
-      - .*stack\-trace.*
+      - ".*stack\\-trace.*"
     - name: String
       patterns:
       - .*string.*
     - name: Strip-ansi
       patterns:
-      - .*strip\-ansi.*
+      - ".*strip\\-ansi.*"
     - name: Strip-json-comments
       patterns:
-      - .*strip\-json\-comments.*
+      - ".*strip\\-json\\-comments.*"
     - name: Supports-color
       patterns:
-      - .*supports\-color.*
+      - ".*supports\\-color.*"
     - name: Tar
       patterns:
       - .*tar.*
     - name: Tar-fs
       patterns:
-      - .*tar\-fs.*
+      - ".*tar\\-fs.*"
     - name: Temp
       patterns:
       - .*temp.*
     - name: Text-table
       patterns:
-      - .*text\-table.*
+      - ".*text\\-table.*"
     - name: Throttle-debounce
       patterns:
-      - .*throttle\-debounce.*
+      - ".*throttle\\-debounce.*"
     - name: Through
       patterns:
       - .*through.*
@@ -2954,7 +2954,7 @@ categories:
       - .*touch.*
     - name: Tough-cookie
       patterns:
-      - .*tough\-cookie.*
+      - ".*tough\\-cookie.*"
     - name: Traverse
       patterns:
       - .*traverse.*
@@ -2969,22 +2969,22 @@ categories:
       - .*tweetnacl.*
     - name: Type-is
       patterns:
-      - .*type\-is.*
+      - ".*type\\-is.*"
     - name: Underscore.string
       patterns:
-      - .*underscore\.string.*
+      - ".*underscore\\.string.*"
     - name: Unique-random-array
       patterns:
-      - .*unique\-random\-array.*
+      - ".*unique\\-random\\-array.*"
     - name: Unist-util-visit
       patterns:
-      - .*unist\-util\-visit.*
+      - ".*unist\\-util\\-visit.*"
     - name: Unzip
       patterns:
       - .*unzip.*
     - name: Update-notifier
       patterns:
-      - .*update\-notifier.*
+      - ".*update\\-notifier.*"
     - name: Urijs
       patterns:
       - .*urijs.*
@@ -2993,16 +2993,16 @@ categories:
       - .*url.*
     - name: Url-join
       patterns:
-      - .*url\-join.*
+      - ".*url\\-join.*"
     - name: Url-parse
       patterns:
-      - .*url\-parse.*
+      - ".*url\\-parse.*"
     - name: User
       patterns:
       - .*user.*
     - name: User-home
       patterns:
-      - .*user\-home.*
+      - ".*user\\-home.*"
     - name: Utf8
       patterns:
       - .*utf8.*
@@ -3011,16 +3011,16 @@ categories:
       - .*util.*
     - name: Utils-merge
       patterns:
-      - .*utils\-merge.*
+      - ".*utils\\-merge.*"
     - name: Uuid
       patterns:
       - .*uuid.*
     - name: Valid-url
       patterns:
-      - .*valid\-url.*
+      - ".*valid\\-url.*"
     - name: Validate-npm-package-name
       patterns:
-      - .*validate\-npm\-package\-name.*
+      - ".*validate\\-npm\\-package\\-name.*"
     - name: Validator
       patterns:
       - .*validator.*
@@ -3032,10 +3032,10 @@ categories:
       - .*vinyl.*
     - name: Vinyl-buffer
       patterns:
-      - .*vinyl\-buffer.*
+      - ".*vinyl\\-buffer.*"
     - name: Vinyl-fs
       patterns:
-      - .*vinyl\-fs.*
+      - ".*vinyl\\-fs.*"
     - name: Walk
       patterns:
       - .*walk.*
@@ -3053,7 +3053,7 @@ categories:
       - .*which.*
     - name: Word-wrap
       patterns:
-      - .*word\-wrap.*
+      - ".*word\\-wrap.*"
     - name: Wrench
       patterns:
       - .*wrench.*
@@ -3077,15 +3077,15 @@ categories:
       - .*yargs.*
     - name: Yargs-parser
       patterns:
-      - .*yargs\-parser.*
+      - ".*yargs\\-parser.*"
     - name: Yosay
       patterns:
       - .*yosay.*
     - name: Zone.js
       patterns:
-      - .*zone\.js.*
+      - ".*zone\\.js.*"
   - name: Reflection & Metadata
     frameworks:
     - name: Reflect-metadata
       patterns:
-      - .*reflect\-metadata.*
+      - ".*reflect\\-metadata.*"

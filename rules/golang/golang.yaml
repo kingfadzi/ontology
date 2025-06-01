@@ -5,7 +5,7 @@ categories:
     frameworks:
     - name: AppIndicator Go
       patterns:
-      - .*AppIndicator\ Go.*
+      - ".*AppIndicator\\ Go.*"
     - name: Bubbles
       patterns:
       - .*bubbles.*
@@ -14,7 +14,7 @@ categories:
       - .*bubbletea.*
     - name: Cogent Core
       patterns:
-      - .*Cogent\ Core.*
+      - ".*Cogent\\ Core.*"
     - name: DarwinKit
       patterns:
       - .*DarwinKit.*
@@ -297,7 +297,7 @@ categories:
       - .*Chanify.*
     - name: Confluent Kafka Golang Client
       patterns:
-      - .*Confluent\ Kafka\ Golang\ Client.*
+      - ".*Confluent\\ Kafka\\ Golang\\ Client.*"
     - name: Glue
       patterns:
       - .*Glue.*
@@ -309,7 +309,7 @@ categories:
       - .*NATS.*
     - name: NATS Go Client
       patterns:
-      - .*NATS\ Go\ Client.*
+      - ".*NATS\\ Go\\ Client.*"
     - name: RapidMQ
       patterns:
       - .*RapidMQ.*
@@ -419,7 +419,7 @@ categories:
       - .*melody.*
     - name: mochi mqtt
       patterns:
-      - .*mochi\ mqtt.*
+      - ".*mochi\\ mqtt.*"
     - name: swift
       patterns:
       - .*swift.*
@@ -825,7 +825,7 @@ categories:
       - .*sturdyc.*
     - name: surrealdb.go
       patterns:
-      - .*surrealdb\.go.*
+      - ".*surrealdb\\.go.*"
     - name: tempdb
       patterns:
       - .*tempdb.*
@@ -1201,7 +1201,7 @@ categories:
       - .*complete.*
     - name: Console Closed
       patterns:
-      - .*console\ Closed.*
+      - ".*console\\ Closed.*"
     - name: Dnote
       patterns:
       - .*Dnote.*
@@ -1243,7 +1243,7 @@ categories:
       - .*hashicorp/cli.*
     - name: Hiboot cli
       patterns:
-      - .*hiboot\ cli.*
+      - ".*hiboot\\ cli.*"
     - name: Hollywood
       patterns:
       - .*Hollywood.*
@@ -1276,7 +1276,7 @@ categories:
       - .*mkideal/cli.*
     - name: Mow.cli
       patterns:
-      - .*mow\.cli.*
+      - ".*mow\\.cli.*"
     - name: Ops
       patterns:
       - .*ops.*
@@ -1758,7 +1758,7 @@ categories:
       - .*mp.*
     - name: omg.jsonparser
       patterns:
-      - .*omg\.jsonparser.*
+      - ".*omg\\.jsonparser.*"
     - name: ujson
       patterns:
       - .*ujson.*
@@ -2228,7 +2228,7 @@ categories:
       - .*H3.*
     - name: H3 GeoJSON
       patterns:
-      - .*H3\ GeoJSON.*
+      - ".*H3\\ GeoJSON.*"
     - name: H3GeoDist
       patterns:
       - .*H3GeoDist.*
@@ -2300,10 +2300,10 @@ categories:
       - .*Ratus.*
     - name: S2 geojson
       patterns:
-      - .*S2\ geojson.*
+      - ".*S2\\ geojson.*"
     - name: S2 geometry
       patterns:
-      - .*S2\ geometry.*
+      - ".*S2\\ geometry.*"
     - name: Session
       patterns:
       - .*session.*

@@ -5,147 +5,147 @@ categories:
     frameworks:
     - name: Jakarta Ejb
       patterns:
-      - .*jakarta\.ejb.*
+      - ".*jakarta\\.ejb.*"
     - name: Jakarta Interceptor
       patterns:
-      - .*jakarta\.interceptor.*
+      - ".*jakarta\\.interceptor.*"
   - name: Dependency Injection
     frameworks:
     - name: Jakarta Enterprise
       patterns:
-      - .*jakarta\.enterprise.*
+      - ".*jakarta\\.enterprise.*"
     - name: Jakarta Inject
       patterns:
-      - .*jakarta\.inject.*
+      - ".*jakarta\\.inject.*"
   - name: Language Extensions
     frameworks:
     - name: Jakarta El
       patterns:
-      - .*jakarta\.el.*
+      - ".*jakarta\\.el.*"
   - name: Web Frameworks
     frameworks:
     - name: Jakarta Faces
       patterns:
-      - .*jakarta\.faces.*
+      - ".*jakarta\\.faces.*"
     - name: Jakarta Mvc
       patterns:
-      - .*jakarta\.mvc.*
+      - ".*jakarta\\.mvc.*"
     - name: Jakarta Servlet
       patterns:
-      - .*jakarta\.servlet.*
+      - ".*jakarta\\.servlet.*"
 - name: Application Integration
   subcategories:
   - name: Messaging Protocols
     frameworks:
     - name: Jakarta Jms
       patterns:
-      - .*jakarta\.jms.*
+      - ".*jakarta\\.jms.*"
     - name: Jakarta Websocket
       patterns:
-      - .*jakarta\.websocket.*
+      - ".*jakarta\\.websocket.*"
   - name: RPC & Web Services
     frameworks:
     - name: Jakarta Jws
       patterns:
-      - .*jakarta\.jws.*
+      - ".*jakarta\\.jws.*"
     - name: Jakarta Mail
       patterns:
-      - .*jakarta\.mail.*
+      - ".*jakarta\\.mail.*"
     - name: Jakarta Ws
       patterns:
-      - .*jakarta\.ws.*
+      - ".*jakarta\\.ws.*"
   - name: Service Integration Frameworks
     frameworks:
     - name: Jakarta Resource
       patterns:
-      - .*jakarta\.resource.*
+      - ".*jakarta\\.resource.*"
 - name: Data Management
   subcategories:
   - name: Batch Processing
     frameworks:
     - name: Jakarta Batch
       patterns:
-      - .*jakarta\.batch.*
+      - ".*jakarta\\.batch.*"
   - name: NoSQL Databases
     frameworks:
     - name: Jakarta Nosql
       patterns:
-      - .*jakarta\.nosql.*
+      - ".*jakarta\\.nosql.*"
   - name: ORM & Data Access
     frameworks:
     - name: Jakarta Data
       patterns:
-      - .*jakarta\.data.*
+      - ".*jakarta\\.data.*"
     - name: Jakarta Persistence
       patterns:
-      - .*jakarta\.persistence.*
+      - ".*jakarta\\.persistence.*"
 - name: Observability
   subcategories:
   - name: Monitoring
     frameworks:
     - name: Jakarta Management
       patterns:
-      - .*jakarta\.management.*
+      - ".*jakarta\\.management.*"
 - name: Security
   subcategories:
   - name: Access Control
     frameworks:
     - name: Jakarta Authorization
       patterns:
-      - .*jakarta\.authorization.*
+      - ".*jakarta\\.authorization.*"
   - name: Authentication & Authorization
     frameworks:
     - name: Jakarta Authentication
       patterns:
-      - .*jakarta\.authentication.*
+      - ".*jakarta\\.authentication.*"
   - name: Identity & Access Management
     frameworks:
     - name: Jakarta Security
       patterns:
-      - .*jakarta\.security.*
+      - ".*jakarta\\.security.*"
 - name: Serialization
   subcategories:
   - name: JSON & XML
     frameworks:
     - name: Jakarta Json
       patterns:
-      - .*jakarta\.json.*
+      - ".*jakarta\\.json.*"
     - name: Jakarta Xml
       patterns:
-      - .*jakarta\.xml.*
+      - ".*jakarta\\.xml.*"
 - name: Testing & Quality
   subcategories:
   - name: Testing Frameworks
     frameworks:
     - name: Jakarta Tck
       patterns:
-      - .*jakarta\.tck.*
+      - ".*jakarta\\.tck.*"
 - name: Utility Libraries
   subcategories:
   - name: Configuration Utilities
     frameworks:
     - name: Jakarta Config
       patterns:
-      - .*jakarta\.config.*
+      - ".*jakarta\\.config.*"
   - name: General Utilities
     frameworks:
     - name: Jakarta Activation
       patterns:
-      - .*jakarta\.activation.*
+      - ".*jakarta\\.activation.*"
     - name: Jakarta Platform
       patterns:
-      - .*jakarta\.platform.*
+      - ".*jakarta\\.platform.*"
     - name: Jakarta Regexp
       patterns:
-      - .*jakarta\-regexp.*
+      - ".*jakarta\\-regexp.*"
     - name: Jakarta Transaction
       patterns:
-      - .*jakarta\.transaction.*
+      - ".*jakarta\\.transaction.*"
     - name: Jakarta Validation
       patterns:
-      - .*jakarta\.validation.*
+      - ".*jakarta\\.validation.*"
   - name: Reflection & Metadata
     frameworks:
     - name: Jakarta Annotation
       patterns:
-      - .*jakarta\.annotation.*
+      - ".*jakarta\\.annotation.*"

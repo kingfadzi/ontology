@@ -5,13 +5,13 @@ categories:
     frameworks:
     - name: Flask-session
       patterns:
-      - .*flask\-session.*
+      - ".*flask\\-session.*"
     - name: Ipywidgets
       patterns:
       - .*ipywidgets.*
     - name: Jupyterlab-widgets
       patterns:
-      - .*jupyterlab\-widgets.*
+      - ".*jupyterlab\\-widgets.*"
     - name: Widgetsnbextension
       patterns:
       - .*widgetsnbextension.*
@@ -47,7 +47,7 @@ categories:
       - .*django.*
     - name: Django-cors-headers
       patterns:
-      - .*django\-cors\-headers.*
+      - ".*django\\-cors\\-headers.*"
     - name: Djangorestframework
       patterns:
       - .*djangorestframework.*
@@ -59,16 +59,16 @@ categories:
       - .*flask.*
     - name: Flask-appbuilder
       patterns:
-      - .*flask\-appbuilder.*
+      - ".*flask\\-appbuilder.*"
     - name: Flask-babel
       patterns:
-      - .*flask\-babel.*
+      - ".*flask\\-babel.*"
     - name: Flask-login
       patterns:
-      - .*flask\-login.*
+      - ".*flask\\-login.*"
     - name: Flask-wtf
       patterns:
-      - .*flask\-wtf.*
+      - ".*flask\\-wtf.*"
     - name: Gradio
       patterns:
       - .*gradio.*
@@ -77,7 +77,7 @@ categories:
       - .*graphene.*
     - name: Graphql-relay
       patterns:
-      - .*graphql\-relay.*
+      - ".*graphql\\-relay.*"
     - name: Keras
       patterns:
       - .*keras.*
@@ -86,28 +86,28 @@ categories:
       - .*langchain.*
     - name: Langchain-community
       patterns:
-      - .*langchain\-community.*
+      - ".*langchain\\-community.*"
     - name: Langchain-core
       patterns:
-      - .*langchain\-core.*
+      - ".*langchain\\-core.*"
     - name: Langchain-text-splitters
       patterns:
-      - .*langchain\-text\-splitters.*
+      - ".*langchain\\-text\\-splitters.*"
     - name: Matplotlib
       patterns:
       - .*matplotlib.*
     - name: Matplotlib-inline
       patterns:
-      - .*matplotlib\-inline.*
+      - ".*matplotlib\\-inline.*"
     - name: Mlflow
       patterns:
       - .*mlflow.*
     - name: Mlflow-skinny
       patterns:
-      - .*mlflow\-skinny.*
+      - ".*mlflow\\-skinny.*"
     - name: Opencv-python
       patterns:
-      - .*opencv\-python.*
+      - ".*opencv\\-python.*"
     - name: Openpyxl
       patterns:
       - .*openpyxl.*
@@ -116,13 +116,13 @@ categories:
       - .*plotly.*
     - name: Prompt-toolkit
       patterns:
-      - .*prompt\-toolkit.*
+      - ".*prompt\\-toolkit.*"
     - name: Pydeck
       patterns:
       - .*pydeck.*
     - name: Pytorch-lightning
       patterns:
-      - .*pytorch\-lightning.*
+      - ".*pytorch\\-lightning.*"
     - name: Ray
       patterns:
       - .*ray.*
@@ -143,13 +143,13 @@ categories:
       - .*tensorflow.*
     - name: Tensorflow-estimator
       patterns:
-      - .*tensorflow\-estimator.*
+      - ".*tensorflow\\-estimator.*"
     - name: Textual
       patterns:
       - .*textual.*
     - name: Tf-keras-nightly
       patterns:
-      - .*tf\-keras\-nightly.*
+      - ".*tf\\-keras\\-nightly.*"
     - name: Torch
       patterns:
       - .*torch.*
@@ -177,61 +177,61 @@ categories:
     frameworks:
     - name: Apache-airflow
       patterns:
-      - .*apache\-airflow.*
+      - ".*apache\\-airflow.*"
     - name: Apache-airflow-providers-cncf-kubernetes
       patterns:
-      - .*apache\-airflow\-providers\-cncf\-kubernetes.*
+      - ".*apache\\-airflow\\-providers\\-cncf\\-kubernetes.*"
     - name: Apache-airflow-providers-common-sql
       patterns:
-      - .*apache\-airflow\-providers\-common\-sql.*
+      - ".*apache\\-airflow\\-providers\\-common\\-sql.*"
     - name: Apache-airflow-providers-databricks
       patterns:
-      - .*apache\-airflow\-providers\-databricks.*
+      - ".*apache\\-airflow\\-providers\\-databricks.*"
     - name: Apache-airflow-providers-fab
       patterns:
-      - .*apache\-airflow\-providers\-fab.*
+      - ".*apache\\-airflow\\-providers\\-fab.*"
     - name: Apache-airflow-providers-ftp
       patterns:
-      - .*apache\-airflow\-providers\-ftp.*
+      - ".*apache\\-airflow\\-providers\\-ftp.*"
     - name: Apache-airflow-providers-google
       patterns:
-      - .*apache\-airflow\-providers\-google.*
+      - ".*apache\\-airflow\\-providers\\-google.*"
     - name: Apache-airflow-providers-http
       patterns:
-      - .*apache\-airflow\-providers\-http.*
+      - ".*apache\\-airflow\\-providers\\-http.*"
     - name: Apache-airflow-providers-mysql
       patterns:
-      - .*apache\-airflow\-providers\-mysql.*
+      - ".*apache\\-airflow\\-providers\\-mysql.*"
     - name: Apache-airflow-providers-slack
       patterns:
-      - .*apache\-airflow\-providers\-slack.*
+      - ".*apache\\-airflow\\-providers\\-slack.*"
     - name: Apache-airflow-providers-snowflake
       patterns:
-      - .*apache\-airflow\-providers\-snowflake.*
+      - ".*apache\\-airflow\\-providers\\-snowflake.*"
     - name: Apache-airflow-providers-sqlite
       patterns:
-      - .*apache\-airflow\-providers\-sqlite.*
+      - ".*apache\\-airflow\\-providers\\-sqlite.*"
     - name: Apache-airflow-providers-ssh
       patterns:
-      - .*apache\-airflow\-providers\-ssh.*
+      - ".*apache\\-airflow\\-providers\\-ssh.*"
     - name: Apache-beam
       patterns:
-      - .*apache\-beam.*
+      - ".*apache\\-beam.*"
     - name: Apache-flink
       patterns:
-      - .*apache\-flink.*
+      - ".*apache\\-flink.*"
     - name: Apache-flink-libraries
       patterns:
-      - .*apache\-flink\-libraries.*
+      - ".*apache\\-flink\\-libraries.*"
     - name: Dbt-core
       patterns:
-      - .*dbt\-core.*
+      - ".*dbt\\-core.*"
     - name: Dbt-semantic-interfaces
       patterns:
-      - .*dbt\-semantic\-interfaces.*
+      - ".*dbt\\-semantic\\-interfaces.*"
     - name: Google-cloud-orchestration-airflow
       patterns:
-      - .*google\-cloud\-orchestration\-airflow.*
+      - ".*google\\-cloud\\-orchestration\\-airflow.*"
     - name: Prefect
       patterns:
       - .*prefect.*
@@ -245,10 +245,10 @@ categories:
       - .*celery.*
     - name: Confluent-kafka
       patterns:
-      - .*confluent\-kafka.*
+      - ".*confluent\\-kafka.*"
     - name: Kafka-python
       patterns:
-      - .*kafka\-python.*
+      - ".*kafka\\-python.*"
   - name: Messaging Protocols
     frameworks:
     - name: Amqp
@@ -256,10 +256,10 @@ categories:
       - .*amqp.*
     - name: Flask-cors
       patterns:
-      - .*flask\-cors.*
+      - ".*flask\\-cors.*"
     - name: Httpx-sse
       patterns:
-      - .*httpx\-sse.*
+      - ".*httpx\\-sse.*"
     - name: Kombu
       patterns:
       - .*kombu.*
@@ -268,13 +268,13 @@ categories:
       - .*pyzmq.*
     - name: Thrift-sasl
       patterns:
-      - .*thrift\-sasl.*
+      - ".*thrift\\-sasl.*"
     - name: Trio-websocket
       patterns:
-      - .*trio\-websocket.*
+      - ".*trio\\-websocket.*"
     - name: Websocket-client
       patterns:
-      - .*websocket\-client.*
+      - ".*websocket\\-client.*"
     - name: Websockets
       patterns:
       - .*websockets.*
@@ -291,31 +291,31 @@ categories:
       - .*cachecontrol.*
     - name: Google-auth-httplib2
       patterns:
-      - .*google\-auth\-httplib2.*
+      - ".*google\\-auth\\-httplib2.*"
     - name: Gql
       patterns:
       - .*gql.*
     - name: Grpc-google-iam-v1
       patterns:
-      - .*grpc\-google\-iam\-v1.*
+      - ".*grpc\\-google\\-iam\\-v1.*"
     - name: Grpc-interceptor
       patterns:
-      - .*grpc\-interceptor.*
+      - ".*grpc\\-interceptor.*"
     - name: Grpcio
       patterns:
       - .*grpcio.*
     - name: Grpcio-gcp
       patterns:
-      - .*grpcio\-gcp.*
+      - ".*grpcio\\-gcp.*"
     - name: Grpcio-health-checking
       patterns:
-      - .*grpcio\-health\-checking.*
+      - ".*grpcio\\-health\\-checking.*"
     - name: Grpcio-status
       patterns:
-      - .*grpcio\-status.*
+      - ".*grpcio\\-status.*"
     - name: Grpcio-tools
       patterns:
-      - .*grpcio\-tools.*
+      - ".*grpcio\\-tools.*"
     - name: H11
       patterns:
       - .*h11.*
@@ -339,28 +339,28 @@ categories:
       - .*hyperframe.*
     - name: Microsoft-kiota-http
       patterns:
-      - .*microsoft\-kiota\-http.*
+      - ".*microsoft\\-kiota\\-http.*"
     - name: Pysocks
       patterns:
       - .*pysocks.*
     - name: Python-http-client
       patterns:
-      - .*python\-http\-client.*
+      - ".*python\\-http\\-client.*"
     - name: Requests
       patterns:
       - .*requests.*
     - name: Requests-file
       patterns:
-      - .*requests\-file.*
+      - ".*requests\\-file.*"
     - name: Requests-toolbelt
       patterns:
-      - .*requests\-toolbelt.*
+      - ".*requests\\-toolbelt.*"
     - name: Stripe
       patterns:
       - .*stripe.*
     - name: Tensorflow-serving-api
       patterns:
-      - .*tensorflow\-serving\-api.*
+      - ".*tensorflow\\-serving\\-api.*"
     - name: Thrift
       patterns:
       - .*thrift.*
@@ -391,10 +391,10 @@ categories:
       - .*aiobotocore.*
     - name: Aliyun-python-sdk-core
       patterns:
-      - .*aliyun\-python\-sdk\-core.*
+      - ".*aliyun\\-python\\-sdk\\-core.*"
     - name: Analytics-python
       patterns:
-      - .*analytics\-python.*
+      - ".*analytics\\-python.*"
     - name: Anthropic
       patterns:
       - .*anthropic.*
@@ -403,70 +403,70 @@ categories:
       - .*asgiref.*
     - name: Atlassian-python-api
       patterns:
-      - .*atlassian\-python\-api.*
+      - ".*atlassian\\-python\\-api.*"
     - name: Awswrangler
       patterns:
       - .*awswrangler.*
     - name: Azure-batch
       patterns:
-      - .*azure\-batch.*
+      - ".*azure\\-batch.*"
     - name: Azure-common
       patterns:
-      - .*azure\-common.*
+      - ".*azure\\-common.*"
     - name: Azure-core
       patterns:
-      - .*azure\-core.*
+      - ".*azure\\-core.*"
     - name: Azure-cosmos
       patterns:
-      - .*azure\-cosmos.*
+      - ".*azure\\-cosmos.*"
     - name: Azure-datalake-store
       patterns:
-      - .*azure\-datalake\-store.*
+      - ".*azure\\-datalake\\-store.*"
     - name: Azure-kusto-data
       patterns:
-      - .*azure\-kusto\-data.*
+      - ".*azure\\-kusto\\-data.*"
     - name: Azure-mgmt-containerinstance
       patterns:
-      - .*azure\-mgmt\-containerinstance.*
+      - ".*azure\\-mgmt\\-containerinstance.*"
     - name: Azure-mgmt-containerregistry
       patterns:
-      - .*azure\-mgmt\-containerregistry.*
+      - ".*azure\\-mgmt\\-containerregistry.*"
     - name: Azure-mgmt-core
       patterns:
-      - .*azure\-mgmt\-core.*
+      - ".*azure\\-mgmt\\-core.*"
     - name: Azure-mgmt-cosmosdb
       patterns:
-      - .*azure\-mgmt\-cosmosdb.*
+      - ".*azure\\-mgmt\\-cosmosdb.*"
     - name: Azure-mgmt-datafactory
       patterns:
-      - .*azure\-mgmt\-datafactory.*
+      - ".*azure\\-mgmt\\-datafactory.*"
     - name: Azure-mgmt-datalake-store
       patterns:
-      - .*azure\-mgmt\-datalake\-store.*
+      - ".*azure\\-mgmt\\-datalake\\-store.*"
     - name: Azure-mgmt-resource
       patterns:
-      - .*azure\-mgmt\-resource.*
+      - ".*azure\\-mgmt\\-resource.*"
     - name: Azure-mgmt-storage
       patterns:
-      - .*azure\-mgmt\-storage.*
+      - ".*azure\\-mgmt\\-storage.*"
     - name: Azure-servicebus
       patterns:
-      - .*azure\-servicebus.*
+      - ".*azure\\-servicebus.*"
     - name: Azure-storage-blob
       patterns:
-      - .*azure\-storage\-blob.*
+      - ".*azure\\-storage\\-blob.*"
     - name: Azure-storage-common
       patterns:
-      - .*azure\-storage\-common.*
+      - ".*azure\\-storage\\-common.*"
     - name: Azure-storage-file-datalake
       patterns:
-      - .*azure\-storage\-file\-datalake.*
+      - ".*azure\\-storage\\-file\\-datalake.*"
     - name: Azure-storage-file-share
       patterns:
-      - .*azure\-storage\-file\-share.*
+      - ".*azure\\-storage\\-file\\-share.*"
     - name: Azure-storage-queue
       patterns:
-      - .*azure\-storage\-queue.*
+      - ".*azure\\-storage\\-queue.*"
     - name: Boto
       patterns:
       - .*boto.*
@@ -481,148 +481,148 @@ categories:
       - .*connexion.*
     - name: Databricks-sdk
       patterns:
-      - .*databricks\-sdk.*
+      - ".*databricks\\-sdk.*"
     - name: Databricks-sql-connector
       patterns:
-      - .*databricks\-sql\-connector.*
+      - ".*databricks\\-sql\\-connector.*"
     - name: Datadog-api-client
       patterns:
-      - .*datadog\-api\-client.*
+      - ".*datadog\\-api\\-client.*"
     - name: Elasticsearch
       patterns:
       - .*elasticsearch.*
     - name: Gcloud-aio-auth
       patterns:
-      - .*gcloud\-aio\-auth.*
+      - ".*gcloud\\-aio\\-auth.*"
     - name: Gcloud-aio-bigquery
       patterns:
-      - .*gcloud\-aio\-bigquery.*
+      - ".*gcloud\\-aio\\-bigquery.*"
     - name: Gcloud-aio-storage
       patterns:
-      - .*gcloud\-aio\-storage.*
+      - ".*gcloud\\-aio\\-storage.*"
     - name: Google-ads
       patterns:
-      - .*google\-ads.*
+      - ".*google\\-ads.*"
     - name: Google-analytics-admin
       patterns:
-      - .*google\-analytics\-admin.*
+      - ".*google\\-analytics\\-admin.*"
     - name: Google-api-core
       patterns:
-      - .*google\-api\-core.*
+      - ".*google\\-api\\-core.*"
     - name: Google-api-python-client
       patterns:
-      - .*google\-api\-python\-client.*
+      - ".*google\\-api\\-python\\-client.*"
     - name: Google-cloud-aiplatform
       patterns:
-      - .*google\-cloud\-aiplatform.*
+      - ".*google\\-cloud\\-aiplatform.*"
     - name: Google-cloud-automl
       patterns:
-      - .*google\-cloud\-automl.*
+      - ".*google\\-cloud\\-automl.*"
     - name: Google-cloud-batch
       patterns:
-      - .*google\-cloud\-batch.*
+      - ".*google\\-cloud\\-batch.*"
     - name: Google-cloud-bigquery-datatransfer
       patterns:
-      - .*google\-cloud\-bigquery\-datatransfer.*
+      - ".*google\\-cloud\\-bigquery\\-datatransfer.*"
     - name: Google-cloud-bigtable
       patterns:
-      - .*google\-cloud\-bigtable.*
+      - ".*google\\-cloud\\-bigtable.*"
     - name: Google-cloud-build
       patterns:
-      - .*google\-cloud\-build.*
+      - ".*google\\-cloud\\-build.*"
     - name: Google-cloud-compute
       patterns:
-      - .*google\-cloud\-compute.*
+      - ".*google\\-cloud\\-compute.*"
     - name: Google-cloud-container
       patterns:
-      - .*google\-cloud\-container.*
+      - ".*google\\-cloud\\-container.*"
     - name: Google-cloud-core
       patterns:
-      - .*google\-cloud\-core.*
+      - ".*google\\-cloud\\-core.*"
     - name: Google-cloud-datacatalog
       patterns:
-      - .*google\-cloud\-datacatalog.*
+      - ".*google\\-cloud\\-datacatalog.*"
     - name: Google-cloud-dataflow-client
       patterns:
-      - .*google\-cloud\-dataflow\-client.*
+      - ".*google\\-cloud\\-dataflow\\-client.*"
     - name: Google-cloud-dataform
       patterns:
-      - .*google\-cloud\-dataform.*
+      - ".*google\\-cloud\\-dataform.*"
     - name: Google-cloud-dataplex
       patterns:
-      - .*google\-cloud\-dataplex.*
+      - ".*google\\-cloud\\-dataplex.*"
     - name: Google-cloud-dataproc-metastore
       patterns:
-      - .*google\-cloud\-dataproc\-metastore.*
+      - ".*google\\-cloud\\-dataproc\\-metastore.*"
     - name: Google-cloud-dlp
       patterns:
-      - .*google\-cloud\-dlp.*
+      - ".*google\\-cloud\\-dlp.*"
     - name: Google-cloud-firestore
       patterns:
-      - .*google\-cloud\-firestore.*
+      - ".*google\\-cloud\\-firestore.*"
     - name: Google-cloud-kms
       patterns:
-      - .*google\-cloud\-kms.*
+      - ".*google\\-cloud\\-kms.*"
     - name: Google-cloud-language
       patterns:
-      - .*google\-cloud\-language.*
+      - ".*google\\-cloud\\-language.*"
     - name: Google-cloud-memcache
       patterns:
-      - .*google\-cloud\-memcache.*
+      - ".*google\\-cloud\\-memcache.*"
     - name: Google-cloud-monitoring
       patterns:
-      - .*google\-cloud\-monitoring.*
+      - ".*google\\-cloud\\-monitoring.*"
     - name: Google-cloud-os-login
       patterns:
-      - .*google\-cloud\-os\-login.*
+      - ".*google\\-cloud\\-os\\-login.*"
     - name: Google-cloud-pubsub
       patterns:
-      - .*google\-cloud\-pubsub.*
+      - ".*google\\-cloud\\-pubsub.*"
     - name: Google-cloud-redis
       patterns:
-      - .*google\-cloud\-redis.*
+      - ".*google\\-cloud\\-redis.*"
     - name: Google-cloud-resource-manager
       patterns:
-      - .*google\-cloud\-resource\-manager.*
+      - ".*google\\-cloud\\-resource\\-manager.*"
     - name: Google-cloud-run
       patterns:
-      - .*google\-cloud\-run.*
+      - ".*google\\-cloud\\-run.*"
     - name: Google-cloud-secret-manager
       patterns:
-      - .*google\-cloud\-secret\-manager.*
+      - ".*google\\-cloud\\-secret\\-manager.*"
     - name: Google-cloud-speech
       patterns:
-      - .*google\-cloud\-speech.*
+      - ".*google\\-cloud\\-speech.*"
     - name: Google-cloud-storage
       patterns:
-      - .*google\-cloud\-storage.*
+      - ".*google\\-cloud\\-storage.*"
     - name: Google-cloud-storage-transfer
       patterns:
-      - .*google\-cloud\-storage\-transfer.*
+      - ".*google\\-cloud\\-storage\\-transfer.*"
     - name: Google-cloud-tasks
       patterns:
-      - .*google\-cloud\-tasks.*
+      - ".*google\\-cloud\\-tasks.*"
     - name: Google-cloud-texttospeech
       patterns:
-      - .*google\-cloud\-texttospeech.*
+      - ".*google\\-cloud\\-texttospeech.*"
     - name: Google-cloud-translate
       patterns:
-      - .*google\-cloud\-translate.*
+      - ".*google\\-cloud\\-translate.*"
     - name: Google-cloud-videointelligence
       patterns:
-      - .*google\-cloud\-videointelligence.*
+      - ".*google\\-cloud\\-videointelligence.*"
     - name: Google-cloud-vision
       patterns:
-      - .*google\-cloud\-vision.*
+      - ".*google\\-cloud\\-vision.*"
     - name: Google-cloud-workflows
       patterns:
-      - .*google\-cloud\-workflows.*
+      - ".*google\\-cloud\\-workflows.*"
     - name: Google-resumable-media
       patterns:
-      - .*google\-resumable\-media.*
+      - ".*google\\-resumable\\-media.*"
     - name: Graphql-core
       patterns:
-      - .*graphql\-core.*
+      - ".*graphql\\-core.*"
     - name: Gremlinpython
       patterns:
       - .*gremlinpython.*
@@ -631,7 +631,7 @@ categories:
       - .*gspread.*
     - name: Huggingface-hub
       patterns:
-      - .*huggingface\-hub.*
+      - ".*huggingface\\-hub.*"
     - name: Hvac
       patterns:
       - .*hvac.*
@@ -652,16 +652,16 @@ categories:
       - .*kubernetes.*
     - name: Kubernetes-asyncio
       patterns:
-      - .*kubernetes\-asyncio.*
+      - ".*kubernetes\\-asyncio.*"
     - name: Langchain-google-vertexai
       patterns:
-      - .*langchain\-google\-vertexai.*
+      - ".*langchain\\-google\\-vertexai.*"
     - name: Langchain-openai
       patterns:
-      - .*langchain\-openai.*
+      - ".*langchain\\-openai.*"
     - name: Looker-sdk
       patterns:
-      - .*looker\-sdk.*
+      - ".*looker\\-sdk.*"
     - name: Msrest
       patterns:
       - .*msrest.*
@@ -670,31 +670,31 @@ categories:
       - .*msrestazure.*
     - name: Office365-rest-python-client
       patterns:
-      - .*office365\-rest\-python\-client.*
+      - ".*office365\\-rest\\-python\\-client.*"
     - name: Openai
       patterns:
       - .*openai.*
     - name: Openlineage-integration-common
       patterns:
-      - .*openlineage\-integration\-common.*
+      - ".*openlineage\\-integration\\-common.*"
     - name: Openlineage-python
       patterns:
-      - .*openlineage\-python.*
+      - ".*openlineage\\-python.*"
     - name: Opensearch-py
       patterns:
-      - .*opensearch\-py.*
+      - ".*opensearch\\-py.*"
     - name: Oss2
       patterns:
       - .*oss2.*
     - name: Pandas-gbq
       patterns:
-      - .*pandas\-gbq.*
+      - ".*pandas\\-gbq.*"
     - name: Pyathena
       patterns:
       - .*pyathena.*
     - name: Pydata-google-auth
       patterns:
-      - .*pydata\-google\-auth.*
+      - ".*pydata\\-google\\-auth.*"
     - name: Pygithub
       patterns:
       - .*pygithub.*
@@ -703,34 +703,34 @@ categories:
       - .*pysftp.*
     - name: Python-gitlab
       patterns:
-      - .*python\-gitlab.*
+      - ".*python\\-gitlab.*"
     - name: Python-telegram-bot
       patterns:
-      - .*python\-telegram\-bot.*
+      - ".*python\\-telegram\\-bot.*"
     - name: Sagemaker
       patterns:
       - .*sagemaker.*
     - name: Sagemaker-studio
       patterns:
-      - .*sagemaker\-studio.*
+      - ".*sagemaker\\-studio.*"
     - name: Sendgrid
       patterns:
       - .*sendgrid.*
     - name: Simple-salesforce
       patterns:
-      - .*simple\-salesforce.*
+      - ".*simple\\-salesforce.*"
     - name: Slack-sdk
       patterns:
-      - .*slack\-sdk.*
+      - ".*slack\\-sdk.*"
     - name: Snowflake-connector-python
       patterns:
-      - .*snowflake\-connector\-python.*
+      - ".*snowflake\\-connector\\-python.*"
     - name: Tableauserverclient
       patterns:
       - .*tableauserverclient.*
     - name: Weaviate-client
       patterns:
-      - .*weaviate\-client.*
+      - ".*weaviate\\-client.*"
     - name: Yandexcloud
       patterns:
       - .*yandexcloud.*
@@ -754,7 +754,7 @@ categories:
       - .*diskcache.*
     - name: Flask-caching
       patterns:
-      - .*flask\-caching.*
+      - ".*flask\\-caching.*"
     - name: Redis
       patterns:
       - .*redis.*
@@ -765,7 +765,7 @@ categories:
       - .*adlfs.*
     - name: Delta-spark
       patterns:
-      - .*delta\-spark.*
+      - ".*delta\\-spark.*"
     - name: Deltalake
       patterns:
       - .*deltalake.*
@@ -786,7 +786,7 @@ categories:
       - .*s3transfer.*
     - name: Tensorflow-io-gcs-filesystem
       patterns:
-      - .*tensorflow\-io\-gcs\-filesystem.*
+      - ".*tensorflow\\-io\\-gcs\\-filesystem.*"
   - name: Data Warehousing
     frameworks:
     - name: Duckdb
@@ -797,10 +797,10 @@ categories:
       - .*fastparquet.*
     - name: Google-cloud-bigquery
       patterns:
-      - .*google\-cloud\-bigquery.*
+      - ".*google\\-cloud\\-bigquery.*"
     - name: Google-cloud-bigquery-storage
       patterns:
-      - .*google\-cloud\-bigquery\-storage.*
+      - ".*google\\-cloud\\-bigquery\\-storage.*"
     - name: H5py
       patterns:
       - .*h5py.*
@@ -812,13 +812,13 @@ categories:
       - .*pyarrow.*
     - name: Pyarrow-hotfix
       patterns:
-      - .*pyarrow\-hotfix.*
+      - ".*pyarrow\\-hotfix.*"
     - name: Redshift-connector
       patterns:
-      - .*redshift\-connector.*
+      - ".*redshift\\-connector.*"
     - name: Snowflake-snowpark-python
       patterns:
-      - .*snowflake\-snowpark\-python.*
+      - ".*snowflake\\-snowpark\\-python.*"
     - name: Trino
       patterns:
       - .*trino.*
@@ -837,7 +837,7 @@ categories:
       - .*aiosqlite.*
     - name: Flask-sqlalchemy
       patterns:
-      - .*flask\-sqlalchemy.*
+      - ".*flask\\-sqlalchemy.*"
     - name: Oracledb
       patterns:
       - .*oracledb.*
@@ -852,22 +852,22 @@ categories:
       - .*pyodbc.*
     - name: Snowflake-sqlalchemy
       patterns:
-      - .*snowflake\-sqlalchemy.*
+      - ".*snowflake\\-sqlalchemy.*"
     - name: Sqlalchemy
       patterns:
       - .*sqlalchemy.*
     - name: Sqlalchemy-bigquery
       patterns:
-      - .*sqlalchemy\-bigquery.*
+      - ".*sqlalchemy\\-bigquery.*"
     - name: Sqlalchemy-jsonfield
       patterns:
-      - .*sqlalchemy\-jsonfield.*
+      - ".*sqlalchemy\\-jsonfield.*"
     - name: Sqlalchemy-spanner
       patterns:
-      - .*sqlalchemy\-spanner.*
+      - ".*sqlalchemy\\-spanner.*"
     - name: Sqlalchemy-utils
       patterns:
-      - .*sqlalchemy\-utils.*
+      - ".*sqlalchemy\\-utils.*"
     - name: Sqlglot
       patterns:
       - .*sqlglot.*
@@ -878,10 +878,10 @@ categories:
       - .*asyncpg.*
     - name: Google-cloud-spanner
       patterns:
-      - .*google\-cloud\-spanner.*
+      - ".*google\\-cloud\\-spanner.*"
     - name: Mysql-connector-python
       patterns:
-      - .*mysql\-connector\-python.*
+      - ".*mysql\\-connector\\-python.*"
     - name: Mysqlclient
       patterns:
       - .*mysqlclient.*
@@ -896,13 +896,13 @@ categories:
       - .*psycopg.*
     - name: Psycopg-binary
       patterns:
-      - .*psycopg\-binary.*
+      - ".*psycopg\\-binary.*"
     - name: Psycopg2
       patterns:
       - .*psycopg2.*
     - name: Psycopg2-binary
       patterns:
-      - .*psycopg2\-binary.*
+      - ".*psycopg2\\-binary.*"
     - name: Pymysql
       patterns:
       - .*pymysql.*
@@ -920,7 +920,7 @@ categories:
     frameworks:
     - name: Google-cloud-dataproc
       patterns:
-      - .*google\-cloud\-dataproc.*
+      - ".*google\\-cloud\\-dataproc.*"
   - name: Containerization
     frameworks:
     - name: Docker
@@ -937,7 +937,7 @@ categories:
     frameworks:
     - name: Aws-sam-translator
       patterns:
-      - .*aws\-sam\-translator.*
+      - ".*aws\\-sam\\-translator.*"
     - name: Babel
       patterns:
       - .*babel.*
@@ -955,10 +955,10 @@ categories:
       - .*cython.*
     - name: Fastapi-cli
       patterns:
-      - .*fastapi\-cli.*
+      - ".*fastapi\\-cli.*"
     - name: Flit-core
       patterns:
-      - .*flit\-core.*
+      - ".*flit\\-core.*"
     - name: Hatchling
       patterns:
       - .*hatchling.*
@@ -985,22 +985,22 @@ categories:
       - .*pip.*
     - name: Poetry-core
       patterns:
-      - .*poetry\-core.*
+      - ".*poetry\\-core.*"
     - name: Pybind11
       patterns:
       - .*pybind11.*
     - name: Pyproject-api
       patterns:
-      - .*pyproject\-api.*
+      - ".*pyproject\\-api.*"
     - name: Pytest-runner
       patterns:
-      - .*pytest\-runner.*
+      - ".*pytest\\-runner.*"
     - name: Setuptools
       patterns:
       - .*setuptools.*
     - name: Setuptools-scm
       patterns:
-      - .*setuptools\-scm.*
+      - ".*setuptools\\-scm.*"
     - name: Twine
       patterns:
       - .*twine.*
@@ -1017,22 +1017,22 @@ categories:
       - .*alembic.*
     - name: Antlr4-python3-runtime
       patterns:
-      - .*antlr4\-python3\-runtime.*
+      - ".*antlr4\\-python3\\-runtime.*"
     - name: Dbt-adapters
       patterns:
-      - .*dbt\-adapters.*
+      - ".*dbt\\-adapters.*"
     - name: Dbt-common
       patterns:
-      - .*dbt\-common.*
+      - ".*dbt\\-common.*"
     - name: Dbt-extractor
       patterns:
-      - .*dbt\-extractor.*
+      - ".*dbt\\-extractor.*"
     - name: Fire
       patterns:
       - .*fire.*
     - name: Mkdocs-material
       patterns:
-      - .*mkdocs\-material.*
+      - ".*mkdocs\\-material.*"
     - name: Nbconvert
       patterns:
       - .*nbconvert.*
@@ -1041,7 +1041,7 @@ categories:
       - .*ply.*
     - name: Sphinxcontrib-jquery
       patterns:
-      - .*sphinxcontrib\-jquery.*
+      - ".*sphinxcontrib\\-jquery.*"
     - name: Towncrier
       patterns:
       - .*towncrier.*
@@ -1049,7 +1049,7 @@ categories:
     frameworks:
     - name: Pip-tools
       patterns:
-      - .*pip\-tools.*
+      - ".*pip\\-tools.*"
     - name: Pipdeptree
       patterns:
       - .*pipdeptree.*
@@ -1061,7 +1061,7 @@ categories:
       - .*poetry.*
     - name: Poetry-plugin-export
       patterns:
-      - .*poetry\-plugin\-export.*
+      - ".*poetry\\-plugin\\-export.*"
   - name: Documentation
     frameworks:
     - name: Alabaster
@@ -1069,31 +1069,31 @@ categories:
       - .*alabaster.*
     - name: Docstring-parser
       patterns:
-      - .*docstring\-parser.*
+      - ".*docstring\\-parser.*"
     - name: Sphinx
       patterns:
       - .*sphinx.*
     - name: Sphinx-rtd-theme
       patterns:
-      - .*sphinx\-rtd\-theme.*
+      - ".*sphinx\\-rtd\\-theme.*"
     - name: Sphinxcontrib-applehelp
       patterns:
-      - .*sphinxcontrib\-applehelp.*
+      - ".*sphinxcontrib\\-applehelp.*"
     - name: Sphinxcontrib-devhelp
       patterns:
-      - .*sphinxcontrib\-devhelp.*
+      - ".*sphinxcontrib\\-devhelp.*"
     - name: Sphinxcontrib-htmlhelp
       patterns:
-      - .*sphinxcontrib\-htmlhelp.*
+      - ".*sphinxcontrib\\-htmlhelp.*"
     - name: Sphinxcontrib-jsmath
       patterns:
-      - .*sphinxcontrib\-jsmath.*
+      - ".*sphinxcontrib\\-jsmath.*"
     - name: Sphinxcontrib-qthelp
       patterns:
-      - .*sphinxcontrib\-qthelp.*
+      - ".*sphinxcontrib\\-qthelp.*"
     - name: Sphinxcontrib-serializinghtml
       patterns:
-      - .*sphinxcontrib\-serializinghtml.*
+      - ".*sphinxcontrib\\-serializinghtml.*"
   - name: Local Development Runtimes
     frameworks:
     - name: Awscli
@@ -1101,7 +1101,7 @@ categories:
       - .*awscli.*
     - name: Databricks-cli
       patterns:
-      - .*databricks\-cli.*
+      - ".*databricks\\-cli.*"
     - name: Gitpython
       patterns:
       - .*gitpython.*
@@ -1113,7 +1113,7 @@ categories:
       - .*ipykernel.*
     - name: Ipynb-pygments-lexers
       patterns:
-      - .*ipython\-pygments\-lexers.*
+      - ".*ipython\\-pygments\\-lexers.*"
     - name: Jedi
       patterns:
       - .*jedi.*
@@ -1122,31 +1122,31 @@ categories:
       - .*jupyter.*
     - name: Jupyter-client
       patterns:
-      - .*jupyter\-client.*
+      - ".*jupyter\\-client.*"
     - name: Jupyter-console
       patterns:
-      - .*jupyter\-console.*
+      - ".*jupyter\\-console.*"
     - name: Jupyter-core
       patterns:
-      - .*jupyter\-core.*
+      - ".*jupyter\\-core.*"
     - name: Jupyter-events
       patterns:
-      - .*jupyter\-events.*
+      - ".*jupyter\\-events.*"
     - name: Jupyter-lsp
       patterns:
-      - .*jupyter\-lsp.*
+      - ".*jupyter\\-lsp.*"
     - name: Jupyter-server
       patterns:
-      - .*jupyter\-server.*
+      - ".*jupyter\\-server.*"
     - name: Jupyter-server-terminals
       patterns:
-      - .*jupyter\-server\-terminals.*
+      - ".*jupyter\\-server\\-terminals.*"
     - name: Jupyterlab
       patterns:
       - .*jupyterlab.*
     - name: Jupyterlab-server
       patterns:
-      - .*jupyterlab\-server.*
+      - ".*jupyterlab\\-server.*"
     - name: Nbclient
       patterns:
       - .*nbclient.*
@@ -1158,16 +1158,16 @@ categories:
       - .*notebook.*
     - name: Notebook-shim
       patterns:
-      - .*notebook\-shim.*
+      - ".*notebook\\-shim.*"
     - name: Parso
       patterns:
       - .*parso.*
     - name: Pbs-installer
       patterns:
-      - .*pbs\-installer.*
+      - ".*pbs\\-installer.*"
     - name: Pre-commit
       patterns:
-      - .*pre\-commit.*
+      - ".*pre\\-commit.*"
     - name: Terminado
       patterns:
       - .*terminado.*
@@ -1202,22 +1202,22 @@ categories:
       - .*colorlog.*
     - name: Google-cloud-appengine-logging
       patterns:
-      - .*google\-cloud\-appengine\-logging.*
+      - ".*google\\-cloud\\-appengine\\-logging.*"
     - name: Google-cloud-audit-log
       patterns:
-      - .*google\-cloud\-audit\-log.*
+      - ".*google\\-cloud\\-audit\\-log.*"
     - name: Google-cloud-logging
       patterns:
-      - .*google\-cloud\-logging.*
+      - ".*google\\-cloud\\-logging.*"
     - name: Loguru
       patterns:
       - .*loguru.*
     - name: Python-json-logger
       patterns:
-      - .*python\-json\-logger.*
+      - ".*python\\-json\\-logger.*"
     - name: Spacy-loggers
       patterns:
-      - .*spacy\-loggers.*
+      - ".*spacy\\-loggers.*"
     - name: Structlog
       patterns:
       - .*structlog.*
@@ -1231,22 +1231,22 @@ categories:
       - .*opencensus.*
     - name: Opencensus-ext-azure
       patterns:
-      - .*opencensus\-ext\-azure.*
+      - ".*opencensus\\-ext\\-azure.*"
     - name: Opentelemetry-exporter-prometheus
       patterns:
-      - .*opentelemetry\-exporter\-prometheus.*
+      - ".*opentelemetry\\-exporter\\-prometheus.*"
     - name: Progressbar2
       patterns:
       - .*progressbar2.*
     - name: Prometheus-client
       patterns:
-      - .*prometheus\-client.*
+      - ".*prometheus\\-client.*"
     - name: Statsd
       patterns:
       - .*statsd.*
     - name: Tb-nightly
       patterns:
-      - .*tb\-nightly.*
+      - ".*tb\\-nightly.*"
     - name: Tqdm
       patterns:
       - .*tqdm.*
@@ -1263,76 +1263,76 @@ categories:
       - .*posthog.*
     - name: Sentry-sdk
       patterns:
-      - .*sentry\-sdk.*
+      - ".*sentry\\-sdk.*"
     - name: Tensorboard
       patterns:
       - .*tensorboard.*
     - name: Tensorboard-data-server
       patterns:
-      - .*tensorboard\-data\-server.*
+      - ".*tensorboard\\-data\\-server.*"
   - name: Tracing
     frameworks:
     - name: Aws-xray-sdk
       patterns:
-      - .*aws\-xray\-sdk.*
+      - ".*aws\\-xray\\-sdk.*"
     - name: Ddtrace
       patterns:
       - .*ddtrace.*
     - name: Opencensus-context
       patterns:
-      - .*opencensus\-context.*
+      - ".*opencensus\\-context.*"
     - name: Opentelemetry-api
       patterns:
-      - .*opentelemetry\-api.*
+      - ".*opentelemetry\\-api.*"
     - name: Opentelemetry-exporter-otlp
       patterns:
-      - .*opentelemetry\-exporter\-otlp.*
+      - ".*opentelemetry\\-exporter\\-otlp.*"
     - name: Opentelemetry-exporter-otlp-proto-common
       patterns:
-      - .*opentelemetry\-exporter\-otlp\-proto\-common.*
+      - ".*opentelemetry\\-exporter\\-otlp\\-proto\\-common.*"
     - name: Opentelemetry-exporter-otlp-proto-grpc
       patterns:
-      - .*opentelemetry\-exporter\-otlp\-proto\-grpc.*
+      - ".*opentelemetry\\-exporter\\-otlp\\-proto\\-grpc.*"
     - name: Opentelemetry-exporter-otlp-proto-http
       patterns:
-      - .*opentelemetry\-exporter\-otlp\-proto\-http.*
+      - ".*opentelemetry\\-exporter\\-otlp\\-proto\\-http.*"
     - name: Opentelemetry-instrumentation
       patterns:
-      - .*opentelemetry\-instrumentation.*
+      - ".*opentelemetry\\-instrumentation.*"
     - name: Opentelemetry-instrumentation-asgi
       patterns:
-      - .*opentelemetry\-instrumentation\-asgi.*
+      - ".*opentelemetry\\-instrumentation\\-asgi.*"
     - name: Opentelemetry-instrumentation-fastapi
       patterns:
-      - .*opentelemetry\-instrumentation\-fastapi.*
+      - ".*opentelemetry\\-instrumentation\\-fastapi.*"
     - name: Opentelemetry-instrumentation-flask
       patterns:
-      - .*opentelemetry\-instrumentation\-flask.*
+      - ".*opentelemetry\\-instrumentation\\-flask.*"
     - name: Opentelemetry-instrumentation-requests
       patterns:
-      - .*opentelemetry\-instrumentation\-requests.*
+      - ".*opentelemetry\\-instrumentation\\-requests.*"
     - name: Opentelemetry-instrumentation-wsgi
       patterns:
-      - .*opentelemetry\-instrumentation\-wsgi.*
+      - ".*opentelemetry\\-instrumentation\\-wsgi.*"
     - name: Opentelemetry-proto
       patterns:
-      - .*opentelemetry\-proto.*
+      - ".*opentelemetry\\-proto.*"
     - name: Opentelemetry-sdk
       patterns:
-      - .*opentelemetry\-sdk.*
+      - ".*opentelemetry\\-sdk.*"
     - name: Opentelemetry-semantic-conventions
       patterns:
-      - .*opentelemetry\-semantic\-conventions.*
+      - ".*opentelemetry\\-semantic\\-conventions.*"
     - name: Opentelemetry-util-http
       patterns:
-      - .*opentelemetry\-util\-http.*
+      - ".*opentelemetry\\-util\\-http.*"
 - name: Resilience & Control
   subcategories:
   - name: Rate Limiting
     frameworks:
     - name: Flask-limiter
       patterns:
-      - .*flask\-limiter.*
+      - ".*flask\\-limiter.*"
     - name: Ratelimit
       patterns:
       - .*ratelimit.*
@@ -1340,7 +1340,7 @@ categories:
     frameworks:
     - name: Aiohttp-retry
       patterns:
-      - .*aiohttp\-retry.*
+      - ".*aiohttp\\-retry.*"
     - name: Backoff
       patterns:
       - .*backoff.*
@@ -1367,25 +1367,25 @@ categories:
       - .*adal.*
     - name: Argon2-cffi
       patterns:
-      - .*argon2\-cffi.*
+      - ".*argon2\\-cffi.*"
     - name: Authlib
       patterns:
       - .*authlib.*
     - name: Aws-requests-auth
       patterns:
-      - .*aws\-requests\-auth.*
+      - ".*aws\\-requests\\-auth.*"
     - name: Bcrypt
       patterns:
       - .*bcrypt.*
     - name: Flask-jwt-extended
       patterns:
-      - .*flask\-jwt\-extended.*
+      - ".*flask\\-jwt\\-extended.*"
     - name: Google-auth-oauthlib
       patterns:
-      - .*google\-auth\-oauthlib.*
+      - ".*google\\-auth\\-oauthlib.*"
     - name: Microsoft-kiota-authentication-azure
       patterns:
-      - .*microsoft\-kiota\-authentication\-azure.*
+      - ".*microsoft\\-kiota\\-authentication\\-azure.*"
     - name: Oauth2client
       patterns:
       - .*oauth2client.*
@@ -1406,16 +1406,16 @@ categories:
       - .*pyspnego.*
     - name: Python-jose
       patterns:
-      - .*python\-jose.*
+      - ".*python\\-jose.*"
     - name: Requests-aws4auth
       patterns:
-      - .*requests\-aws4auth.*
+      - ".*requests\\-aws4auth.*"
     - name: Requests-ntlm
       patterns:
-      - .*requests\-ntlm.*
+      - ".*requests\\-ntlm.*"
     - name: Requests-oauthlib
       patterns:
-      - .*requests\-oauthlib.*
+      - ".*requests\\-oauthlib.*"
     - name: Scramp
       patterns:
       - .*scramp.*
@@ -1423,13 +1423,13 @@ categories:
     frameworks:
     - name: Azure-identity
       patterns:
-      - .*azure\-identity.*
+      - ".*azure\\-identity.*"
     - name: Azure-keyvault-keys
       patterns:
-      - .*azure\-keyvault\-keys.*
+      - ".*azure\\-keyvault\\-keys.*"
     - name: Google-auth
       patterns:
-      - .*google\-auth.*
+      - ".*google\\-auth.*"
     - name: Keyring
       patterns:
       - .*keyring.*
@@ -1440,18 +1440,18 @@ categories:
     frameworks:
     - name: Azure-keyvault
       patterns:
-      - .*azure\-keyvault.*
+      - ".*azure\\-keyvault.*"
     - name: Azure-keyvault-certificates
       patterns:
-      - .*azure\-keyvault\-certificates.*
+      - ".*azure\\-keyvault\\-certificates.*"
     - name: Azure-keyvault-secrets
       patterns:
-      - .*azure\-keyvault\-secrets.*
+      - ".*azure\\-keyvault\\-secrets.*"
   - name: Transport Security
     frameworks:
     - name: Argon2-cffi-bindings
       patterns:
-      - .*argon2\-cffi\-bindings.*
+      - ".*argon2\\-cffi\\-bindings.*"
     - name: Asn1crypto
       patterns:
       - .*asn1crypto.*
@@ -1487,13 +1487,13 @@ categories:
       - .*pyopenssl.*
     - name: Python-gnupg
       patterns:
-      - .*python\-gnupg.*
+      - ".*python\\-gnupg.*"
     - name: Rsa
       patterns:
       - .*rsa.*
     - name: Starkbank-ecdsa
       patterns:
-      - .*starkbank\-ecdsa.*
+      - ".*starkbank\\-ecdsa.*"
 - name: Serialization
   subcategories:
   - name: Binary Formats
@@ -1503,7 +1503,7 @@ categories:
       - .*avro.*
     - name: Avro-python3
       patterns:
-      - .*avro\-python3.*
+      - ".*avro\\-python3.*"
     - name: Fastavro
       patterns:
       - .*fastavro.*
@@ -1526,7 +1526,7 @@ categories:
       - .*commonmark.*
     - name: Dataclasses-json
       patterns:
-      - .*dataclasses\-json.*
+      - ".*dataclasses\\-json.*"
     - name: Ijson
       patterns:
       - .*ijson.*
@@ -1538,31 +1538,31 @@ categories:
       - .*jsonpatch.*
     - name: Jsonpath-ng
       patterns:
-      - .*jsonpath\-ng.*
+      - ".*jsonpath\\-ng.*"
     - name: Jsonpickle
       patterns:
       - .*jsonpickle.*
     - name: Jsonschema-path
       patterns:
-      - .*jsonschema\-path.*
+      - ".*jsonschema\\-path.*"
     - name: Marshmallow
       patterns:
       - .*marshmallow.*
     - name: Marshmallow-oneofschema
       patterns:
-      - .*marshmallow\-oneofschema.*
+      - ".*marshmallow\\-oneofschema.*"
     - name: Marshmallow-sqlalchemy
       patterns:
-      - .*marshmallow\-sqlalchemy.*
+      - ".*marshmallow\\-sqlalchemy.*"
     - name: Mashumaro
       patterns:
       - .*mashumaro.*
     - name: Microsoft-kiota-serialization-json
       patterns:
-      - .*microsoft\-kiota\-serialization\-json.*
+      - ".*microsoft\\-kiota\\-serialization\\-json.*"
     - name: Microsoft-kiota-serialization-text
       patterns:
-      - .*microsoft\-kiota\-serialization\-text.*
+      - ".*microsoft\\-kiota\\-serialization\\-text.*"
     - name: Orjson
       patterns:
       - .*orjson.*
@@ -1571,7 +1571,7 @@ categories:
       - .*pyyaml.*
     - name: Ruamel-yaml
       patterns:
-      - .*ruamel\-yaml.*
+      - ".*ruamel\\-yaml.*"
     - name: Simplejson
       patterns:
       - .*simplejson.*
@@ -1588,16 +1588,16 @@ categories:
     frameworks:
     - name: Googleapis-common-protos
       patterns:
-      - .*googleapis\-common\-protos.*
+      - ".*googleapis\\-common\\-protos.*"
     - name: Proto-plus
       patterns:
-      - .*proto\-plus.*
+      - ".*proto\\-plus.*"
     - name: Protobuf
       patterns:
       - .*protobuf.*
     - name: Pyasn1-modules
       patterns:
-      - .*pyasn1\-modules.*
+      - ".*pyasn1\\-modules.*"
 - name: Testing & Quality
   subcategories:
   - name: Code Coverage
@@ -1607,7 +1607,7 @@ categories:
       - .*coverage.*
     - name: Pytest-cov
       patterns:
-      - .*pytest\-cov.*
+      - ".*pytest\\-cov.*"
   - name: Mocking & Fakes
     frameworks:
     - name: Mock
@@ -1618,7 +1618,7 @@ categories:
       - .*moto.*
     - name: Pytest-mock
       patterns:
-      - .*pytest\-mock.*
+      - ".*pytest\\-mock.*"
     - name: Responses
       patterns:
       - .*responses.*
@@ -1634,7 +1634,7 @@ categories:
     frameworks:
     - name: Cfn-lint
       patterns:
-      - .*cfn\-lint.*
+      - ".*cfn\\-lint.*"
     - name: Flake8
       patterns:
       - .*flake8.*
@@ -1669,13 +1669,13 @@ categories:
       - .*crashtest.*
     - name: Factory-boy
       patterns:
-      - .*factory\-boy.*
+      - ".*factory\\-boy.*"
     - name: Freezegun
       patterns:
       - .*freezegun.*
     - name: Great-expectations
       patterns:
-      - .*great\-expectations.*
+      - ".*great\\-expectations.*"
     - name: Hypothesis
       patterns:
       - .*hypothesis.*
@@ -1696,28 +1696,28 @@ categories:
       - .*pytest.*
     - name: Pytest-asyncio
       patterns:
-      - .*pytest\-asyncio.*
+      - ".*pytest\\-asyncio.*"
     - name: Pytest-html
       patterns:
-      - .*pytest\-html.*
+      - ".*pytest\\-html.*"
     - name: Pytest-metadata
       patterns:
-      - .*pytest\-metadata.*
+      - ".*pytest\\-metadata.*"
     - name: Pytest-random-order
       patterns:
-      - .*pytest\-random\-order.*
+      - ".*pytest\\-random\\-order.*"
     - name: Pytest-rerunfailures
       patterns:
-      - .*pytest\-rerunfailures.*
+      - ".*pytest\\-rerunfailures.*"
     - name: Pytest-timeout
       patterns:
-      - .*pytest\-timeout.*
+      - ".*pytest\\-timeout.*"
     - name: Pytest-xdist
       patterns:
-      - .*pytest\-xdist.*
+      - ".*pytest\\-xdist.*"
     - name: Requests-mock
       patterns:
-      - .*requests\-mock.*
+      - ".*requests\\-mock.*"
     - name: Selenium
       patterns:
       - .*selenium.*
@@ -1745,16 +1745,16 @@ categories:
       - .*geopandas.*
     - name: Imbalanced-learn
       patterns:
-      - .*imbalanced\-learn.*
+      - ".*imbalanced\\-learn.*"
     - name: Jax
       patterns:
       - .*jax.*
     - name: Marisa-trie
       patterns:
-      - .*marisa\-trie.*
+      - ".*marisa\\-trie.*"
     - name: More-itertools
       patterns:
-      - .*more\-itertools.*
+      - ".*more\\-itertools.*"
     - name: Networkx
       patterns:
       - .*networkx.*
@@ -1763,10 +1763,10 @@ categories:
       - .*numpy.*
     - name: Ordered-set
       patterns:
-      - .*ordered\-set.*
+      - ".*ordered\\-set.*"
     - name: Orderly-set
       patterns:
-      - .*orderly\-set.*
+      - ".*orderly\\-set.*"
     - name: Pandas
       patterns:
       - .*pandas.*
@@ -1778,13 +1778,13 @@ categories:
       - .*pyrsistent.*
     - name: Rpds-py
       patterns:
-      - .*rpds\-py.*
+      - ".*rpds\\-py.*"
     - name: Scikit-image
       patterns:
-      - .*scikit\-image.*
+      - ".*scikit\\-image.*"
     - name: Scikit-learn
       patterns:
-      - .*scikit\-learn.*
+      - ".*scikit\\-learn.*"
     - name: Scipy
       patterns:
       - .*scipy.*
@@ -1822,7 +1822,7 @@ categories:
       - .*omegaconf.*
     - name: Python-dotenv
       patterns:
-      - .*python\-dotenv.*
+      - ".*python\\-dotenv.*"
   - name: Date & Time Utilities
     frameworks:
     - name: Aniso8601
@@ -1833,7 +1833,7 @@ categories:
       - .*arrow.*
     - name: Backports-zoneinfo
       patterns:
-      - .*backports\-zoneinfo.*
+      - ".*backports\\-zoneinfo.*"
     - name: Ciso8601
       patterns:
       - .*ciso8601.*
@@ -1857,7 +1857,7 @@ categories:
       - .*pendulum.*
     - name: Python-dateutil
       patterns:
-      - .*python\-dateutil.*
+      - ".*python\\-dateutil.*"
     - name: Pytz
       patterns:
       - .*pytz.*
@@ -1874,7 +1874,7 @@ categories:
     frameworks:
     - name: Absl-py
       patterns:
-      - .*absl\-py.*
+      - ".*absl\\-py.*"
     - name: Accelerate
       patterns:
       - .*accelerate.*
@@ -1892,7 +1892,7 @@ categories:
       - .*aiosignal.*
     - name: Annotated-types
       patterns:
-      - .*annotated\-types.*
+      - ".*annotated\\-types.*"
     - name: Anyio
       patterns:
       - .*anyio.*
@@ -1919,7 +1919,7 @@ categories:
       - .*astroid.*
     - name: Astronomer-cosmos
       patterns:
-      - .*astronomer\-cosmos.*
+      - ".*astronomer\\-cosmos.*"
     - name: Asttokens
       patterns:
       - .*asttokens.*
@@ -1928,25 +1928,25 @@ categories:
       - .*astunparse.*
     - name: Async-lru
       patterns:
-      - .*async\-lru.*
+      - ".*async\\-lru.*"
     - name: Async-timeout
       patterns:
-      - .*async\-timeout.*
+      - ".*async\\-timeout.*"
     - name: Attrs
       patterns:
       - .*attrs.*
     - name: Aws-lambda-powertools
       patterns:
-      - .*aws\-lambda\-powertools.*
+      - ".*aws\\-lambda\\-powertools.*"
     - name: Azure-nspkg
       patterns:
-      - .*azure\-nspkg.*
+      - ".*azure\\-nspkg.*"
     - name: Backcall
       patterns:
       - .*backcall.*
     - name: Backports-tarfile
       patterns:
-      - .*backports\-tarfile.*
+      - ".*backports\\-tarfile.*"
     - name: Beautifulsoup4
       patterns:
       - .*beautifulsoup4.*
@@ -1967,10 +1967,10 @@ categories:
       - .*blis.*
     - name: Boto3-stubs
       patterns:
-      - .*boto3\-stubs.*
+      - ".*boto3\\-stubs.*"
     - name: Botocore-stubs
       patterns:
-      - .*botocore\-stubs.*
+      - ".*botocore\\-stubs.*"
     - name: Bracex
       patterns:
       - .*bracex.*
@@ -1985,7 +1985,7 @@ categories:
       - .*bytecode.*
     - name: Cached-property
       patterns:
-      - .*cached\-property.*
+      - ".*cached\\-property.*"
     - name: Cachetools
       patterns:
       - .*cachetools.*
@@ -2006,13 +2006,13 @@ categories:
       - .*cfgv.*
     - name: Cfn-flip
       patterns:
-      - .*cfn\-flip.*
+      - ".*cfn\\-flip.*"
     - name: Chardet
       patterns:
       - .*chardet.*
     - name: Charset-normalizer
       patterns:
-      - .*charset\-normalizer.*
+      - ".*charset\\-normalizer.*"
     - name: Cleo
       patterns:
       - .*cleo.*
@@ -2021,16 +2021,16 @@ categories:
       - .*click.*
     - name: Click-didyoumean
       patterns:
-      - .*click\-didyoumean.*
+      - ".*click\\-didyoumean.*"
     - name: Click-option-group
       patterns:
-      - .*click\-option\-group.*
+      - ".*click\\-option\\-group.*"
     - name: Click-plugins
       patterns:
-      - .*click\-plugins.*
+      - ".*click\\-plugins.*"
     - name: Click-repl
       patterns:
-      - .*click\-repl.*
+      - ".*click\\-repl.*"
     - name: Clickclick
       patterns:
       - .*clickclick.*
@@ -2063,7 +2063,7 @@ categories:
       - .*crcmod.*
     - name: Cron-descriptor
       patterns:
-      - .*cron\-descriptor.*
+      - ".*cron\\-descriptor.*"
     - name: Croniter
       patterns:
       - .*croniter.*
@@ -2087,7 +2087,7 @@ categories:
       - .*dateparser.*
     - name: Db-dtypes
       patterns:
-      - .*db\-dtypes.*
+      - ".*db\\-dtypes.*"
     - name: Decorator
       patterns:
       - .*decorator.*
@@ -2117,7 +2117,7 @@ categories:
       - .*dnspython.*
     - name: Docker-pycreds
       patterns:
-      - .*docker\-pycreds.*
+      - ".*docker\\-pycreds.*"
     - name: Docopt
       patterns:
       - .*docopt.*
@@ -2135,10 +2135,10 @@ categories:
       - .*einops.*
     - name: Elastic-transport
       patterns:
-      - .*elastic\-transport.*
+      - ".*elastic\\-transport.*"
     - name: Email-validator
       patterns:
-      - .*email\-validator.*
+      - ".*email\\-validator.*"
     - name: Emoji
       patterns:
       - .*emoji.*
@@ -2147,10 +2147,10 @@ categories:
       - .*entrypoints.*
     - name: Et-xmlfile
       patterns:
-      - .*et\-xmlfile.*
+      - ".*et\\-xmlfile.*"
     - name: Eval-type-backport
       patterns:
-      - .*eval\-type\-backport.*
+      - ".*eval\\-type\\-backport.*"
     - name: Eventlet
       patterns:
       - .*eventlet.*
@@ -2177,7 +2177,7 @@ categories:
       - .*fastjsonschema.*
     - name: Fasttext-wheel
       patterns:
-      - .*fasttext\-wheel.*
+      - ".*fasttext\\-wheel.*"
     - name: Filelock
       patterns:
       - .*filelock.*
@@ -2222,10 +2222,10 @@ categories:
       - .*google.*
     - name: Google-crc32c
       patterns:
-      - .*google\-crc32c.*
+      - ".*google\\-crc32c.*"
     - name: Google-pasta
       patterns:
-      - .*google\-pasta.*
+      - ".*google\\-pasta.*"
     - name: Graphviz
       patterns:
       - .*graphviz.*
@@ -2237,7 +2237,7 @@ categories:
       - .*gym.*
     - name: Gym-notices
       patterns:
-      - .*gym\-notices.*
+      - ".*gym\\-notices.*"
     - name: Holidays
       patterns:
       - .*holidays.*
@@ -2276,7 +2276,7 @@ categories:
       - .*immutabledict.*
     - name: Importlib-resources
       patterns:
-      - .*importlib\-resources.*
+      - ".*importlib\\-resources.*"
     - name: Incremental
       patterns:
       - .*incremental.*
@@ -2297,13 +2297,13 @@ categories:
       - .*itsdangerous.*
     - name: Jaraco-classes
       patterns:
-      - .*jaraco\-classes.*
+      - ".*jaraco\\-classes.*"
     - name: Jaraco-context
       patterns:
-      - .*jaraco\-context.*
+      - ".*jaraco\\-context.*"
     - name: Jaraco-functools
       patterns:
-      - .*jaraco\-functools.*
+      - ".*jaraco\\-functools.*"
     - name: Jeepney
       patterns:
       - .*jeepney.*
@@ -2333,16 +2333,16 @@ categories:
       - .*jsonschema.*
     - name: Jsonschema-specifications
       patterns:
-      - .*jsonschema\-specifications.*
+      - ".*jsonschema\\-specifications.*"
     - name: Junit-xml
       patterns:
-      - .*junit\-xml.*
+      - ".*junit\\-xml.*"
     - name: Junitparser
       patterns:
       - .*junitparser.*
     - name: Jupyterlab-pygments
       patterns:
-      - .*jupyterlab\-pygments.*
+      - ".*jupyterlab\\-pygments.*"
     - name: Kiwisolver
       patterns:
       - .*kiwisolver.*
@@ -2357,16 +2357,16 @@ categories:
       - .*langsmith.*
     - name: Language-data
       patterns:
-      - .*language\-data.*
+      - ".*language\\-data.*"
     - name: Lark
       patterns:
       - .*lark.*
     - name: Lazy-loader
       patterns:
-      - .*lazy\-loader.*
+      - ".*lazy\\-loader.*"
     - name: Lazy-object-proxy
       patterns:
-      - .*lazy\-object\-proxy.*
+      - ".*lazy\\-object\\-proxy.*"
     - name: Leather
       patterns:
       - .*leather.*
@@ -2381,19 +2381,19 @@ categories:
       - .*lightgbm.*
     - name: Lightning-utilities
       patterns:
-      - .*lightning\-utilities.*
+      - ".*lightning\\-utilities.*"
     - name: Limits
       patterns:
       - .*limits.*
     - name: Linkify-it-py
       patterns:
-      - .*linkify\-it\-py.*
+      - ".*linkify\\-it\\-py.*"
     - name: Litellm
       patterns:
       - .*litellm.*
     - name: Llama-parse
       patterns:
-      - .*llama\-parse.*
+      - ".*llama\\-parse.*"
     - name: Llvm lite
       patterns:
       - .*llvmlite.*
@@ -2414,7 +2414,7 @@ categories:
       - .*markdown.*
     - name: Markdown-it-py
       patterns:
-      - .*markdown\-it\-py.*
+      - ".*markdown\\-it\\-py.*"
     - name: Markdownify
       patterns:
       - .*markdownify.*
@@ -2426,7 +2426,7 @@ categories:
       - .*maxminddb.*
     - name: Mdit-py-plugins
       patterns:
-      - .*mdit\-py\-plugins.*
+      - ".*mdit\\-py\\-plugins.*"
     - name: Mdurl
       patterns:
       - .*mdurl.*
@@ -2438,13 +2438,13 @@ categories:
       - .*methodtools.*
     - name: Microsoft-kiota-abstractions
       patterns:
-      - .*microsoft\-kiota\-abstractions.*
+      - ".*microsoft\\-kiota\\-abstractions.*"
     - name: Mistune
       patterns:
       - .*mistune.*
     - name: Ml-dtypes
       patterns:
-      - .*ml\-dtypes.*
+      - ".*ml\\-dtypes.*"
     - name: Mmh3
       patterns:
       - .*mmh3.*
@@ -2456,7 +2456,7 @@ categories:
       - .*mpmath.*
     - name: Msal-extensions
       patterns:
-      - .*msal\-extensions.*
+      - ".*msal\\-extensions.*"
     - name: Multidict
       patterns:
       - .*multidict.*
@@ -2468,16 +2468,16 @@ categories:
       - .*murmurhash.*
     - name: Mypy-boto3-appflow
       patterns:
-      - .*mypy\-boto3\-appflow.*
+      - ".*mypy\\-boto3\\-appflow.*"
     - name: Mypy-boto3-rds
       patterns:
-      - .*mypy\-boto3\-rds.*
+      - ".*mypy\\-boto3\\-rds.*"
     - name: Mypy-boto3-s3
       patterns:
-      - .*mypy\-boto3\-s3.*
+      - ".*mypy\\-boto3\\-s3.*"
     - name: Mypy-extensions
       patterns:
-      - .*mypy\-extensions.*
+      - ".*mypy\\-extensions.*"
     - name: Narwhals
       patterns:
       - .*narwhals.*
@@ -2486,7 +2486,7 @@ categories:
       - .*natsort.*
     - name: Nest-asyncio
       patterns:
-      - .*nest\-asyncio.*
+      - ".*nest\\-asyncio.*"
     - name: Netaddr
       patterns:
       - .*netaddr.*
@@ -2504,43 +2504,43 @@ categories:
       - .*numba.*
     - name: Nvidia-cublas-cu12
       patterns:
-      - .*nvidia\-cublas\-cu12.*
+      - ".*nvidia\\-cublas\\-cu12.*"
     - name: Nvidia-cuda-cupti-cu12
       patterns:
-      - .*nvidia\-cuda\-cupti\-cu12.*
+      - ".*nvidia\\-cuda\\-cupti\\-cu12.*"
     - name: Nvidia-cuda-nvrtc-cu12
       patterns:
-      - .*nvidia\-cuda\-nvrtc\-cu12.*
+      - ".*nvidia\\-cuda\\-nvrtc\\-cu12.*"
     - name: Nvidia-cuda-runtime-cu12
       patterns:
-      - .*nvidia\-cuda\-runtime\-cu12.*
+      - ".*nvidia\\-cuda\\-runtime\\-cu12.*"
     - name: Nvidia-cudnn-cu12
       patterns:
-      - .*nvidia\-cudnn\-cu12.*
+      - ".*nvidia\\-cudnn\\-cu12.*"
     - name: Nvidia-cufft-cu12
       patterns:
-      - .*nvidia\-cufft\-cu12.*
+      - ".*nvidia\\-cufft\\-cu12.*"
     - name: Nvidia-curand-cu12
       patterns:
-      - .*nvidia\-curand\-cu12.*
+      - ".*nvidia\\-curand\\-cu12.*"
     - name: Nvidia-cusolver-cu12
       patterns:
-      - .*nvidia\-cusolver\-cu12.*
+      - ".*nvidia\\-cusolver\\-cu12.*"
     - name: Nvidia-cusparse-cu12
       patterns:
-      - .*nvidia\-cusparse\-cu12.*
+      - ".*nvidia\\-cusparse\\-cu12.*"
     - name: Nvidia-cusparselt-cu12
       patterns:
-      - .*nvidia\-cusparselt\-cu12.*
+      - ".*nvidia\\-cusparselt\\-cu12.*"
     - name: Nvidia-nccl-cu12
       patterns:
-      - .*nvidia\-nccl\-cu12.*
+      - ".*nvidia\\-nccl\\-cu12.*"
     - name: Nvidia-nvjitlink-cu12
       patterns:
-      - .*nvidia\-nvjitlink\-cu12.*
+      - ".*nvidia\\-nvjitlink\\-cu12.*"
     - name: Nvidia-nvtx-cu12
       patterns:
-      - .*nvidia\-nvtx\-cu12.*
+      - ".*nvidia\\-nvtx\\-cu12.*"
     - name: Onnx
       patterns:
       - .*onnx.*
@@ -2549,16 +2549,16 @@ categories:
       - .*onnxruntime.*
     - name: Openapi-schema-validator
       patterns:
-      - .*openapi\-schema\-validator.*
+      - ".*openapi\\-schema\\-validator.*"
     - name: Openapi-spec-validator
       patterns:
-      - .*openapi\-spec\-validator.*
+      - ".*openapi\\-spec\\-validator.*"
     - name: Opencv-python-headless
       patterns:
-      - .*opencv\-python\-headless.*
+      - ".*opencv\\-python\\-headless.*"
     - name: Opt-einsum
       patterns:
-      - .*opt\-einsum.*
+      - ".*opt\\-einsum.*"
     - name: Outcome
       patterns:
       - .*outcome.*
@@ -2570,7 +2570,7 @@ categories:
       - .*packaging.*
     - name: Pandas-stubs
       patterns:
-      - .*pandas\-stubs.*
+      - ".*pandas\\-stubs.*"
     - name: Pandera
       patterns:
       - .*pandera.*
@@ -2585,7 +2585,7 @@ categories:
       - .*pathable.*
     - name: Pathlib-abc
       patterns:
-      - .*pathlib\-abc.*
+      - ".*pathlib\\-abc.*"
     - name: Pathos
       patterns:
       - .*pathos.*
@@ -2603,7 +2603,7 @@ categories:
       - .*pbr.*
     - name: Pdfminer-six
       patterns:
-      - .*pdfminer\-six.*
+      - ".*pdfminer\\-six.*"
     - name: Pemja
       patterns:
       - .*pemja.*
@@ -2624,7 +2624,7 @@ categories:
       - .*pkginfo.*
     - name: Pkgutil-resolve-name
       patterns:
-      - .*pkgutil\-resolve\-name.*
+      - ".*pkgutil\\-resolve\\-name.*"
     - name: Platformdirs
       patterns:
       - .*platformdirs.*
@@ -2657,13 +2657,13 @@ categories:
       - .*ptyprocess.*
     - name: Pure-eval
       patterns:
-      - .*pure\-eval.*
+      - ".*pure\\-eval.*"
     - name: Py
       patterns:
       - .*py.*
     - name: Py-cpuinfo
       patterns:
-      - .*py\-cpuinfo.*
+      - ".*py\\-cpuinfo.*"
     - name: Py4j
       patterns:
       - .*py4j.*
@@ -2681,10 +2681,10 @@ categories:
       - .*pydantic.*
     - name: Pydantic-core
       patterns:
-      - .*pydantic\-core.*
+      - ".*pydantic\\-core.*"
     - name: Pydantic-settings
       patterns:
-      - .*pydantic\-settings.*
+      - ".*pydantic\\-settings.*"
     - name: Pydot
       patterns:
       - .*pydot.*
@@ -2702,7 +2702,7 @@ categories:
       - .*pyhcl.*
     - name: Pymdown-extensions
       patterns:
-      - .*pymdown\-extensions.*
+      - ".*pymdown\\-extensions.*"
     - name: Pymupdf
       patterns:
       - .*pymupdf.*
@@ -2720,31 +2720,31 @@ categories:
       - .*pyproj.*
     - name: Pyproject-hooks
       patterns:
-      - .*pyproject\-hooks.*
+      - ".*pyproject\\-hooks.*"
     - name: Pyserial
       patterns:
       - .*pyserial.*
     - name: Python-daemon
       patterns:
-      - .*python\-daemon.*
+      - ".*python\\-daemon.*"
     - name: Python-docx
       patterns:
-      - .*python\-docx.*
+      - ".*python\\-docx.*"
     - name: Python-levenshtein
       patterns:
-      - .*python\-levenshtein.*
+      - ".*python\\-levenshtein.*"
     - name: Python-magic
       patterns:
-      - .*python\-magic.*
+      - ".*python\\-magic.*"
     - name: Python-multipart
       patterns:
-      - .*python\-multipart.*
+      - ".*python\\-multipart.*"
     - name: Python-slugify
       patterns:
-      - .*python\-slugify.*
+      - ".*python\\-slugify.*"
     - name: Python-utils
       patterns:
-      - .*python\-utils.*
+      - ".*python\\-utils.*"
     - name: Pytimeparse
       patterns:
       - .*pytimeparse.*
@@ -2753,13 +2753,13 @@ categories:
       - .*pywin32.*
     - name: Pywin32-ctypes
       patterns:
-      - .*pywin32\-ctypes.*
+      - ".*pywin32\\-ctypes.*"
     - name: Rapidfuzz
       patterns:
       - .*rapidfuzz.*
     - name: Readme-renderer
       patterns:
-      - .*readme\-renderer.*
+      - ".*readme\\-renderer.*"
     - name: Referencing
       patterns:
       - .*referencing.*
@@ -2774,28 +2774,28 @@ categories:
       - .*resolvelib.*
     - name: Rfc3339-validator
       patterns:
-      - .*rfc3339\-validator.*
+      - ".*rfc3339\\-validator.*"
     - name: Rfc3986
       patterns:
       - .*rfc3986.*
     - name: Rfc3986-validator
       patterns:
-      - .*rfc3986\-validator.*
+      - ".*rfc3986\\-validator.*"
     - name: Rich
       patterns:
       - .*rich.*
     - name: Rich-argparse
       patterns:
-      - .*rich\-argparse.*
+      - ".*rich\\-argparse.*"
     - name: Rich-click
       patterns:
-      - .*rich\-click.*
+      - ".*rich\\-click.*"
     - name: Rich-toolkit
       patterns:
-      - .*rich\-toolkit.*
+      - ".*rich\\-toolkit.*"
     - name: Ruamel-yaml-clib
       patterns:
-      - .*ruamel\-yaml\-clib.*
+      - ".*ruamel\\-yaml\\-clib.*"
     - name: Safetensors
       patterns:
       - .*safetensors.*
@@ -2804,7 +2804,7 @@ categories:
       - .*schema.*
     - name: Semantic-version
       patterns:
-      - .*semantic\-version.*
+      - ".*semantic\\-version.*"
     - name: Semver
       patterns:
       - .*semver.*
@@ -2813,7 +2813,7 @@ categories:
       - .*send2trash.*
     - name: Sentence-transformers
       patterns:
-      - .*sentence\-transformers.*
+      - ".*sentence\\-transformers.*"
     - name: Sentencepiece
       patterns:
       - .*sentencepiece.*
@@ -2834,10 +2834,10 @@ categories:
       - .*slicer.*
     - name: Smart-open
       patterns:
-      - .*smart\-open.*
+      - ".*smart\\-open.*"
     - name: Smdebug-rulesconfig
       patterns:
-      - .*smdebug\-rulesconfig.*
+      - ".*smdebug\\-rulesconfig.*"
     - name: Smmap
       patterns:
       - .*smmap.*
@@ -2852,7 +2852,7 @@ categories:
       - .*soupsieve.*
     - name: Spacy-legacy
       patterns:
-      - .*spacy\-legacy.*
+      - ".*spacy\\-legacy.*"
     - name: Sqlparse
       patterns:
       - .*sqlparse.*
@@ -2864,7 +2864,7 @@ categories:
       - .*sshtunnel.*
     - name: Stack-data
       patterns:
-      - .*stack\-data.*
+      - ".*stack\\-data.*"
     - name: Statsmodels
       patterns:
       - .*statsmodels.*
@@ -2885,7 +2885,7 @@ categories:
       - .*termcolor.*
     - name: Text-unidecode
       patterns:
-      - .*text\-unidecode.*
+      - ".*text\\-unidecode.*"
     - name: Texttable
       patterns:
       - .*texttable.*
@@ -2903,7 +2903,7 @@ categories:
       - .*tiktoken.*
     - name: Time-machine
       patterns:
-      - .*time\-machine.*
+      - ".*time\\-machine.*"
     - name: Timm
       patterns:
       - .*timm.*
@@ -2924,7 +2924,7 @@ categories:
       - .*tomli.*
     - name: Tomli-w
       patterns:
-      - .*tomli\-w.*
+      - ".*tomli\\-w.*"
     - name: Tomlkit
       patterns:
       - .*tomlkit.*
@@ -2939,7 +2939,7 @@ categories:
       - .*traitlets.*
     - name: Tree-sitter
       patterns:
-      - .*tree\-sitter.*
+      - ".*tree\\-sitter.*"
     - name: Trio
       patterns:
       - .*trio.*
@@ -2948,10 +2948,10 @@ categories:
       - .*triton.*
     - name: Trove-classifiers
       patterns:
-      - .*trove\-classifiers.*
+      - ".*trove\\-classifiers.*"
     - name: Typed-ast
       patterns:
-      - .*typed\-ast.*
+      - ".*typed\\-ast.*"
     - name: Typedload
       patterns:
       - .*typedload.*
@@ -2960,94 +2960,94 @@ categories:
       - .*typeguard.*
     - name: Types-aiofiles
       patterns:
-      - .*types\-aiofiles.*
+      - ".*types\\-aiofiles.*"
     - name: Types-awscrt
       patterns:
-      - .*types\-awscrt.*
+      - ".*types\\-awscrt.*"
     - name: Types-cffi
       patterns:
-      - .*types\-cffi.*
+      - ".*types\\-cffi.*"
     - name: Types-croniter
       patterns:
-      - .*types\-croniter.*
+      - ".*types\\-croniter.*"
     - name: Types-deprecated
       patterns:
-      - .*types\-deprecated.*
+      - ".*types\\-deprecated.*"
     - name: Types-docutils
       patterns:
-      - .*types\-docutils.*
+      - ".*types\\-docutils.*"
     - name: Types-markdown
       patterns:
-      - .*types\-markdown.*
+      - ".*types\\-markdown.*"
     - name: Types-paramiko
       patterns:
-      - .*types\-paramiko.*
+      - ".*types\\-paramiko.*"
     - name: Types-protobuf
       patterns:
-      - .*types\-protobuf.*
+      - ".*types\\-protobuf.*"
     - name: Types-pymysql
       patterns:
-      - .*types\-pymysql.*
+      - ".*types\\-pymysql.*"
     - name: Types-pyopenssl
       patterns:
-      - .*types\-pyopenssl.*
+      - ".*types\\-pyopenssl.*"
     - name: Types-python-dateutil
       patterns:
-      - .*types\-python\-dateutil.*
+      - ".*types\\-python\\-dateutil.*"
     - name: Types-pytz
       patterns:
-      - .*types\-pytz.*
+      - ".*types\\-pytz.*"
     - name: Types-pyyaml
       patterns:
-      - .*types\-pyyaml.*
+      - ".*types\\-pyyaml.*"
     - name: Types-redis
       patterns:
-      - .*types\-redis.*
+      - ".*types\\-redis.*"
     - name: Types-requests
       patterns:
-      - .*types\-requests.*
+      - ".*types\\-requests.*"
     - name: Types-s3transfer
       patterns:
-      - .*types\-s3transfer.*
+      - ".*types\\-s3transfer.*"
     - name: Types-setuptools
       patterns:
-      - .*types\-setuptools.*
+      - ".*types\\-setuptools.*"
     - name: Types-tabulate
       patterns:
-      - .*types\-tabulate.*
+      - ".*types\\-tabulate.*"
     - name: Types-toml
       patterns:
-      - .*types\-toml.*
+      - ".*types\\-toml.*"
     - name: Types-urllib3
       patterns:
-      - .*types\-urllib3.*
+      - ".*types\\-urllib3.*"
     - name: Typing
       patterns:
       - .*typing.*
     - name: Typing-extensions
       patterns:
-      - .*typing\-extensions.*
+      - ".*typing\\-extensions.*"
     - name: Typing-inspect
       patterns:
-      - .*typing\-inspect.*
+      - ".*typing\\-inspect.*"
     - name: Typing-inspection
       patterns:
-      - .*typing\-inspection.*
+      - ".*typing\\-inspection.*"
     - name: Ua-parser
       patterns:
-      - .*ua\-parser.*
+      - ".*ua\\-parser.*"
     - name: Uc-micro-py
       patterns:
-      - .*uc\-micro\-py.*
+      - ".*uc\\-micro\\-py.*"
     - name: Unidecode
       patterns:
       - .*unidecode.*
     - name: Universal-pathlib
       patterns:
-      - .*universal\-pathlib.*
+      - ".*universal\\-pathlib.*"
     - name: Uri-template
       patterns:
-      - .*uri\-template.*
+      - ".*uri\\-template.*"
     - name: Uritemplate
       patterns:
       - .*uritemplate.*
@@ -3110,10 +3110,10 @@ categories:
       - .*zipp.*
     - name: Zope-event
       patterns:
-      - .*zope\-event.*
+      - ".*zope\\-event.*"
     - name: Zope-interface
       patterns:
-      - .*zope\-interface.*
+      - ".*zope\\-interface.*"
     - name: Zstandard
       patterns:
       - .*zstandard.*
@@ -3121,4 +3121,4 @@ categories:
     frameworks:
     - name: Importlib-metadata
       patterns:
-      - .*importlib\-metadata.*
+      - ".*importlib\\-metadata.*"

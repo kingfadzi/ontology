@@ -5,137 +5,137 @@ categories:
     frameworks:
     - name: Javax Ejb
       patterns:
-      - .*javax\.ejb.*
+      - ".*javax\\.ejb.*"
     - name: Javax Interceptor
       patterns:
-      - .*javax\.interceptor.*
+      - ".*javax\\.interceptor.*"
   - name: Dependency Injection
     frameworks:
     - name: Javax Enterprise
       patterns:
-      - .*javax\.enterprise.*
+      - ".*javax\\.enterprise.*"
     - name: Javax Inject
       patterns:
-      - .*javax\.inject.*
+      - ".*javax\\.inject.*"
   - name: Language Extensions
     frameworks:
     - name: Javax El
       patterns:
-      - .*javax\.el.*
+      - ".*javax\\.el.*"
   - name: Web Frameworks
     frameworks:
     - name: Javax Faces
       patterns:
-      - .*javax\.faces.*
+      - ".*javax\\.faces.*"
     - name: Javax Mvc
       patterns:
-      - .*javax\.mvc.*
+      - ".*javax\\.mvc.*"
     - name: Javax Portlet
       patterns:
-      - .*javax\.portlet.*
+      - ".*javax\\.portlet.*"
     - name: Javax Servlet
       patterns:
-      - .*javax\.servlet.*
+      - ".*javax\\.servlet.*"
 - name: Application Integration
   subcategories:
   - name: Messaging Protocols
     frameworks:
     - name: Javax Comm
       patterns:
-      - .*javax\.comm.*
+      - ".*javax\\.comm.*"
     - name: Javax Jms
       patterns:
-      - .*javax\.jms.*
+      - ".*javax\\.jms.*"
     - name: Javax Sdp
       patterns:
-      - .*javax\.sdp.*
+      - ".*javax\\.sdp.*"
     - name: Javax Sip
       patterns:
-      - .*javax\.sip.*
+      - ".*javax\\.sip.*"
     - name: Javax Websocket
       patterns:
-      - .*javax\.websocket.*
+      - ".*javax\\.websocket.*"
   - name: RPC & Web Services
     frameworks:
     - name: Javax Jws
       patterns:
-      - .*javax\.jws.*
+      - ".*javax\\.jws.*"
     - name: Javax Mail
       patterns:
-      - .*javax\.mail.*
+      - ".*javax\\.mail.*"
     - name: Javax Ws
       patterns:
-      - .*javax\.ws.*
+      - ".*javax\\.ws.*"
   - name: Service Integration Frameworks
     frameworks:
     - name: Javax Jbi
       patterns:
-      - .*javax\.jbi.*
+      - ".*javax\\.jbi.*"
     - name: Javax Resource
       patterns:
-      - .*javax\.resource.*
+      - ".*javax\\.resource.*"
 - name: Data Management
   subcategories:
   - name: Batch Processing
     frameworks:
     - name: Javax Batch
       patterns:
-      - .*javax\.batch.*
+      - ".*javax\\.batch.*"
   - name: Caching
     frameworks:
     - name: Javax Cache
       patterns:
-      - .*javax\.cache.*
+      - ".*javax\\.cache.*"
   - name: NoSQL Databases
     frameworks:
     - name: Javax Jcr
       patterns:
-      - .*javax\.jcr.*
+      - ".*javax\\.jcr.*"
   - name: ORM & Data Access
     frameworks:
     - name: Javax Jdo
       patterns:
-      - .*javax\.jdo.*
+      - ".*javax\\.jdo.*"
     - name: Javax Persistence
       patterns:
-      - .*javax\.persistence.*
+      - ".*javax\\.persistence.*"
     - name: Javax Sql
       patterns:
-      - .*javax\.sql.*
+      - ".*javax\\.sql.*"
     - name: Javax Transaction
       patterns:
-      - .*javax\.transaction.*
+      - ".*javax\\.transaction.*"
 - name: Observability
   subcategories:
   - name: Monitoring
     frameworks:
     - name: Javax Management
       patterns:
-      - .*javax\.management.*
+      - ".*javax\\.management.*"
 - name: Resilience & Control
   subcategories:
   - name: Service Discovery
     frameworks:
     - name: Javax Naming
       patterns:
-      - .*javax\.naming.*
+      - ".*javax\\.naming.*"
 - name: Security
   subcategories:
   - name: Identity & Access Management
     frameworks:
     - name: Javax Security
       patterns:
-      - .*javax\.security.*
+      - ".*javax\\.security.*"
 - name: Serialization
   subcategories:
   - name: JSON & XML
     frameworks:
     - name: Javax Json
       patterns:
-      - .*javax\.json.*
+      - ".*javax\\.json.*"
     - name: Javax Xml
       patterns:
-      - .*javax\.xml.*
+      - ".*javax\\.xml.*"
 - name: Utility Libraries
   subcategories:
   - name: General Utilities
@@ -145,54 +145,54 @@ categories:
       - .*javax.*
     - name: Javax Activation
       patterns:
-      - .*javax\.activation.*
+      - ".*javax\\.activation.*"
     - name: Javax Ccpp
       patterns:
-      - .*javax\.ccpp.*
+      - ".*javax\\.ccpp.*"
     - name: Javax Help
       patterns:
-      - .*javax\.help.*
+      - ".*javax\\.help.*"
     - name: Javax J2ee
       patterns:
-      - .*javax\.j2ee.*
+      - ".*javax\\.j2ee.*"
     - name: Javax Javaee
       patterns:
-      - .*javax\.javaee.*
+      - ".*javax\\.javaee.*"
     - name: Javax Jmdns
       patterns:
-      - .*javax\.jmdns.*
+      - ".*javax\\.jmdns.*"
     - name: Javax Jts
       patterns:
-      - .*javax\.jts.*
+      - ".*javax\\.jts.*"
     - name: Javax Measure
       patterns:
-      - .*javax\.measure.*
+      - ".*javax\\.measure.*"
     - name: Javax Media
       patterns:
-      - .*javax\.media.*
+      - ".*javax\\.media.*"
     - name: Javax Money
       patterns:
-      - .*javax\.money.*
+      - ".*javax\\.money.*"
     - name: Javax Net
       patterns:
-      - .*javax\.net.*
+      - ".*javax\\.net.*"
     - name: Javax Slee
       patterns:
-      - .*javax\.slee.*
+      - ".*javax\\.slee.*"
     - name: Javax Usb
       patterns:
-      - .*javax\.usb.*
+      - ".*javax\\.usb.*"
     - name: Javax Validation
       patterns:
-      - .*javax\.validation.*
+      - ".*javax\\.validation.*"
     - name: Javax Vecmath
       patterns:
-      - .*javax\.vecmath.*
+      - ".*javax\\.vecmath.*"
     - name: Javax Visrec
       patterns:
-      - .*javax\.visrec.*
+      - ".*javax\\.visrec.*"
   - name: Reflection & Metadata
     frameworks:
     - name: Javax Annotation
       patterns:
-      - .*javax\.annotation.*
+      - ".*javax\\.annotation.*"
