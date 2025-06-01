@@ -1,0 +1,265 @@
+categories:
+- name: Application Integration
+  subcategories:
+  - name: RPC & Web Services
+    frameworks:
+    - name: Spring Data Rest Core
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-rest\-core.*
+    - name: Spring Data Rest Distribution
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-rest\-distribution.*
+    - name: Spring Data Rest Hal Browser
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-rest\-hal\-browser.*
+    - name: Spring Data Rest Hal Explorer
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-rest\-hal\-explorer.*
+    - name: Spring Data Rest Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-rest\-parent.*
+    - name: Spring Data Rest Repository
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-rest\-repository.*
+    - name: Spring Data Rest Webmvc
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-rest\-webmvc.*
+- name: Data Management
+  subcategories:
+  - name: Caching
+    frameworks:
+    - name: Spring Data Redis
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-redis.*
+  - name: Data Lakes
+    frameworks:
+    - name: Spring Data Hadoop
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop.*
+    - name: Spring Data Hadoop Batch
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-batch.*
+    - name: Spring Data Hadoop Boot
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-boot.*
+    - name: Spring Data Hadoop Build Tests
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-build\-tests.*
+    - name: Spring Data Hadoop Cluster Tests
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-cluster\-tests.*
+    - name: Spring Data Hadoop Config
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-config.*
+    - name: Spring Data Hadoop Core
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-core.*
+    - name: Spring Data Hadoop Hive
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-hive.*
+    - name: Spring Data Hadoop Pig
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-pig.*
+    - name: Spring Data Hadoop Spark
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-spark.*
+    - name: Spring Data Hadoop Sqoop2
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-sqoop2.*
+    - name: Spring Data Hadoop Store
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-store.*
+    - name: Spring Data Hadoop Test
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-test.*
+    - name: Spring Data Hadoop Util
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-util.*
+    - name: Spring Yarn
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn.*
+    - name: Spring Yarn Batch
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-batch.*
+    - name: Spring Yarn Boot
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-boot.*
+    - name: Spring Yarn Boot Build Tests
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-boot\-build\-tests.*
+    - name: Spring Yarn Boot Cli
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-boot\-cli.*
+    - name: Spring Yarn Boot Test
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-boot\-test.*
+    - name: Spring Yarn Build Tests
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-build\-tests.*
+    - name: Spring Yarn Core
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-core.*
+    - name: Spring Yarn Integration
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-integration.*
+    - name: Spring Yarn Test
+      patterns:
+      - .*org\.springframework\.data\.spring\-yarn\-test.*
+  - name: NoSQL Databases
+    frameworks:
+    - name: Spring Data Couchbase
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-couchbase.*
+    - name: Spring Data Elasticsearch
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-elasticsearch.*
+    - name: Spring Data Gemfire
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-gemfire.*
+    - name: Spring Data Gemfire Test
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-gemfire\-test.*
+    - name: Spring Data Geode
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-geode.*
+    - name: Spring Data Geode Distribution
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-geode\-distribution.*
+    - name: Spring Data Geode Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-geode\-parent.*
+    - name: Spring Data Geode Test
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-geode\-test.*
+    - name: Spring Data Hadoop Hbase
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-hadoop\-hbase.*
+    - name: Spring Data Mongodb
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-mongodb.*
+    - name: Spring Data Mongodb Cross Store
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-mongodb\-cross\-store.*
+    - name: Spring Data Mongodb Dist
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-mongodb\-dist.*
+    - name: Spring Data Mongodb Distribution
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-mongodb\-distribution.*
+    - name: Spring Data Mongodb Log4J
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-mongodb\-log4j.*
+    - name: Spring Data Mongodb Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-mongodb\-parent.*
+    - name: Spring Data Neo4J
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j.*
+    - name: Spring Data Neo4J Aspects
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j\-aspects.*
+    - name: Spring Data Neo4J Cross Store
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j\-cross\-store.*
+    - name: Spring Data Neo4J Dist
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j\-dist.*
+    - name: Spring Data Neo4J Distribution
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j\-distribution.*
+    - name: Spring Data Neo4J Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j\-parent.*
+    - name: Spring Data Neo4J Rest
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j\-rest.*
+    - name: Spring Data Neo4J Tx
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-neo4j\-tx.*
+    - name: Spring Data Solr
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-solr.*
+  - name: ORM & Data Access
+    frameworks:
+    - name: Spring Cql
+      patterns:
+      - .*org\.springframework\.data\.spring\-cql.*
+    - name: Spring Data Bom
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-bom.*
+    - name: Spring Data Cassandra
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-cassandra.*
+    - name: Spring Data Cassandra Distribution
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-cassandra\-distribution.*
+    - name: Spring Data Cassandra Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-cassandra\-parent.*
+    - name: Spring Data Commons
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-commons.*
+    - name: Spring Data Commons Core
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-commons\-core.*
+    - name: Spring Data Commons Dist
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-commons\-dist.*
+    - name: Spring Data Commons Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-commons\-parent.*
+    - name: Spring Data Envers
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-envers.*
+    - name: Spring Data Graph Core
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-graph\-core.*
+    - name: Spring Data Graph Dist
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-graph\-dist.*
+    - name: Spring Data Graph Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-graph\-parent.*
+    - name: Spring Data Jdbc
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-jdbc.*
+    - name: Spring Data Jdbc Core
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-jdbc\-core.*
+    - name: Spring Data Jdbc Distribution
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-jdbc\-distribution.*
+    - name: Spring Data Jpa
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-jpa.*
+    - name: Spring Data Jpa Distribution
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-jpa\-distribution.*
+    - name: Spring Data Jpa Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-jpa\-parent.*
+    - name: Spring Data Keyvalue
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-keyvalue.*
+    - name: Spring Data Oracle
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-oracle.*
+    - name: Spring Data R2Dbc
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-r2dbc.*
+    - name: Spring Data Relational
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-relational.*
+    - name: Spring Data Relational Parent
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-relational\-parent.*
+    - name: Spring Data Releasetrain
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-releasetrain.*
+- name: Security
+  subcategories:
+  - name: Identity & Access Management
+    frameworks:
+    - name: Spring Data Ldap
+      patterns:
+      - .*org\.springframework\.data\.spring\-data\-ldap.*

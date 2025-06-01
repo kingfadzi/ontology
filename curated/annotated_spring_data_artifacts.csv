@@ -1,0 +1,83 @@
+group_id,artifact_id,framework,category,subcategory,ecosystem
+org.springframework.data,spring-data-r2dbc,Spring Data R2Dbc,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-relational-parent,Spring Data Relational Parent,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-jdbc-distribution,Spring Data Jdbc Distribution,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-jdbc,Spring Data Jdbc,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-relational,Spring Data Relational,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-redis,Spring Data Redis,Data Management,Caching,spring
+org.springframework.data,spring-data-elasticsearch,Spring Data Elasticsearch,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-rest-core,Spring Data Rest Core,Application Integration,RPC & Web Services,spring
+org.springframework.data,spring-data-rest-distribution,Spring Data Rest Distribution,Application Integration,RPC & Web Services,spring
+org.springframework.data,spring-data-rest-parent,Spring Data Rest Parent,Application Integration,RPC & Web Services,spring
+org.springframework.data,spring-data-rest-hal-explorer,Spring Data Rest Hal Explorer,Application Integration,RPC & Web Services,spring
+org.springframework.data,spring-data-couchbase,Spring Data Couchbase,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-rest-webmvc,Spring Data Rest Webmvc,Application Integration,RPC & Web Services,spring
+org.springframework.data,spring-data-mongodb,Spring Data Mongodb,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-mongodb-distribution,Spring Data Mongodb Distribution,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-mongodb-parent,Spring Data Mongodb Parent,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-cassandra-parent,Spring Data Cassandra Parent,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-cassandra-distribution,Spring Data Cassandra Distribution,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-cassandra,Spring Data Cassandra,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-jpa,Spring Data Jpa,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-ldap,Spring Data Ldap,Security,Identity & Access Management,spring
+org.springframework.data,spring-data-jpa-distribution,Spring Data Jpa Distribution,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-jpa-parent,Spring Data Jpa Parent,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-envers,Spring Data Envers,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-neo4j,Spring Data Neo4J,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-keyvalue,Spring Data Keyvalue,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-commons,Spring Data Commons,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-bom,Spring Data Bom,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-geode-test,Spring Data Geode Test,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-geode-distribution,Spring Data Geode Distribution,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-geode-parent,Spring Data Geode Parent,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-geode,Spring Data Geode,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-solr,Spring Data Solr,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-rest-hal-browser,Spring Data Rest Hal Browser,Application Integration,RPC & Web Services,spring
+org.springframework.data,spring-data-gemfire,Spring Data Gemfire,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-neo4j-distribution,Spring Data Neo4J Distribution,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-neo4j-parent,Spring Data Neo4J Parent,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-gemfire-test,Spring Data Gemfire Test,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-mongodb-cross-store,Spring Data Mongodb Cross Store,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-mongodb-log4j,Spring Data Mongodb Log4J,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-cql,Spring Cql,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-hadoop-config,Spring Data Hadoop Config,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-hbase,Spring Data Hadoop Hbase,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-hadoop-pig,Spring Data Hadoop Pig,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-integration,Spring Yarn Integration,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-cluster-tests,Spring Data Hadoop Cluster Tests,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-boot-build-tests,Spring Yarn Boot Build Tests,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-batch,Spring Yarn Batch,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-test,Spring Yarn Test,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-spark,Spring Data Hadoop Spark,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-batch,Spring Data Hadoop Batch,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-boot-test,Spring Yarn Boot Test,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-core,Spring Data Hadoop Core,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-boot,Spring Yarn Boot,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-boot-cli,Spring Yarn Boot Cli,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-sqoop2,Spring Data Hadoop Sqoop2,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-util,Spring Data Hadoop Util,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-test,Spring Data Hadoop Test,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-build-tests,Spring Yarn Build Tests,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-boot,Spring Data Hadoop Boot,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-hive,Spring Data Hadoop Hive,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn,Spring Yarn,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-build-tests,Spring Data Hadoop Build Tests,Data Management,Data Lakes,spring
+org.springframework.data,spring-yarn-core,Spring Yarn Core,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop,Spring Data Hadoop,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-hadoop-store,Spring Data Hadoop Store,Data Management,Data Lakes,spring
+org.springframework.data,spring-data-neo4j-cross-store,Spring Data Neo4J Cross Store,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-neo4j-aspects,Spring Data Neo4J Aspects,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-neo4j-rest,Spring Data Neo4J Rest,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-neo4j-tx,Spring Data Neo4J Tx,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-oracle,Spring Data Oracle,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-jdbc-core,Spring Data Jdbc Core,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-releasetrain,Spring Data Releasetrain,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-mongodb-dist,Spring Data Mongodb Dist,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-commons-core,Spring Data Commons Core,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-commons-dist,Spring Data Commons Dist,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-commons-parent,Spring Data Commons Parent,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-rest-repository,Spring Data Rest Repository,Application Integration,RPC & Web Services,spring
+org.springframework.data,spring-data-neo4j-dist,Spring Data Neo4J Dist,Data Management,NoSQL Databases,spring
+org.springframework.data,spring-data-graph-dist,Spring Data Graph Dist,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-graph-parent,Spring Data Graph Parent,Data Management,ORM & Data Access,spring
+org.springframework.data,spring-data-graph-core,Spring Data Graph Core,Data Management,ORM & Data Access,spring

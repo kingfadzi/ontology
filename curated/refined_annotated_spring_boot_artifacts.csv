@@ -1,0 +1,123 @@
+group_id,artifact_id,framework,category,subcategory,ecosystem
+org.springframework.boot,org.springframework.boot.gradle.plugin,Org.Springframework.Boot.Gradle.Plugin,Developer Tooling,Build Tools,spring
+org.springframework.boot,spring-boot,Spring Boot,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-actuator,Actuator,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-actuator-autoconfigure,Actuator Autoconfigure,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-antlib,Antlib,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-autoconfigure,Autoconfigure,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-autoconfigure-processor,Autoconfigure Processor,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-buildpack-platform,Buildpack Platform,Deployment & Runtime Platforms,Containerization,spring
+org.springframework.boot,spring-boot-cli,Cli,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-configuration-metadata,Configuration Metadata,Developer Tooling,Dependency Management,spring
+org.springframework.boot,spring-boot-configuration-processor,Configuration Processor,Developer Tooling,Dependency Management,spring
+org.springframework.boot,spring-boot-dependencies,Dependencies,Developer Tooling,Dependency Management,spring
+org.springframework.boot,spring-boot-devtools,Devtools,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-docker-compose,Docker Compose,Deployment & Runtime Platforms,Containerization,spring
+org.springframework.boot,spring-boot-gradle-plugin,Gradle Plugin,Developer Tooling,Build Tools,spring
+org.springframework.boot,spring-boot-jarmode-tools,Jarmode Tools,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-loader,Loader,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-loader-classic,Loader Classic,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-loader-tools,Loader Tools,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-maven-plugin,Maven Plugin,Developer Tooling,Build Tools,spring
+org.springframework.boot,spring-boot-parent,Parent,Developer Tooling,Dependency Management,spring
+org.springframework.boot,spring-boot-properties-migrator,Properties Migrator,Developer Tooling,Dependency Management,spring
+org.springframework.boot,spring-boot-starter,Starter,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-starter-activemq,Starter Activemq,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-actuator,Starter Actuator,Observability,Metrics,spring
+org.springframework.boot,spring-boot-starter-amqp,Starter Amqp,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-starter-aop,Starter Aop,Application Development,Component Models,spring
+org.springframework.boot,spring-boot-starter-artemis,Starter Artemis,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-batch,Starter Batch,Data Management,Batch Processing,spring
+org.springframework.boot,spring-boot-starter-cache,Starter Cache,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-starter-data-cassandra,Starter Data Cassandra,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-data-cassandra-reactive,Starter Data Cassandra Reactive,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-data-couchbase,Starter Data Couchbase,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-data-couchbase-reactive,Starter Data Couchbase Reactive,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-data-elasticsearch,Starter Data Elasticsearch,Data Management,Data Lakes,spring
+org.springframework.boot,spring-boot-starter-data-jdbc,Starter Data Jdbc,Data Management,ORM & Data Access,spring
+org.springframework.boot,spring-boot-starter-data-jpa,Starter Data Jpa,Data Management,ORM & Data Access,spring
+org.springframework.boot,spring-boot-starter-data-mongodb,Starter Data Mongodb,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-data-mongodb-reactive,Starter Data Mongodb Reactive,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-data-neo4j,Starter Data Neo4J,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-data-r2dbc,Starter Data R2Dbc,Data Management,ORM & Data Access,spring
+org.springframework.boot,spring-boot-starter-data-redis,Starter Data Redis,Data Management,Caching,spring
+org.springframework.boot,spring-boot-starter-data-redis-reactive,Starter Data Redis Reactive,Data Management,Caching,spring
+org.springframework.boot,spring-boot-starter-data-rest,Starter Data Rest,Data Management,Data Lakes,spring
+org.springframework.boot,spring-boot-starter-freemarker,Starter Freemarker,Application Development,Template Engines,spring
+org.springframework.boot,spring-boot-starter-graphql,Starter Graphql,Application Integration,API Gateways,spring
+org.springframework.boot,spring-boot-starter-groovy-templates,Starter Groovy Templates,Application Development,Template Engines,spring
+org.springframework.boot,spring-boot-starter-hateoas,Starter Hateoas,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-jdbc,Starter Jdbc,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-jetty,Starter Jetty,Deployment & Runtime Platforms,Application Servers,spring
+org.springframework.boot,spring-boot-starter-jooq,Starter Jooq,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-mail,Starter Mail,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-starter-mustache,Starter Mustache,Application Development,Template Engines,spring
+org.springframework.boot,spring-boot-starter-oauth2-authorization-server,Starter Oauth2 Authorization Server,Security,Authentication & Authorization,spring
+org.springframework.boot,spring-boot-starter-oauth2-client,Starter Oauth2 Client,Security,Authentication & Authorization,spring
+org.springframework.boot,spring-boot-starter-oauth2-resource-server,Starter Oauth2 Resource Server,Security,Authentication & Authorization,spring
+org.springframework.boot,spring-boot-starter-parent,Starter Parent,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-pulsar,Starter Pulsar,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-starter-pulsar-reactive,Starter Pulsar Reactive,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-quartz,Starter Quartz,Data Management,Batch Processing,spring
+org.springframework.boot,spring-boot-starter-reactor-netty,Starter Reactor Netty,Application Development,Reactive Programming,spring
+org.springframework.boot,spring-boot-starter-rsocket,Starter Rsocket,Application Development,Reactive Programming,spring
+org.springframework.boot,spring-boot-starter-security,Starter Security,Security,Authentication & Authorization,spring
+org.springframework.boot,spring-boot-starter-test,Starter Test,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-starter-thymeleaf,Starter Thymeleaf,Application Development,Template Engines,spring
+org.springframework.boot,spring-boot-starter-tomcat,Starter Tomcat,Deployment & Runtime Platforms,Application Servers,spring
+org.springframework.boot,spring-boot-starter-undertow,Starter Undertow,Deployment & Runtime Platforms,Application Servers,spring
+org.springframework.boot,spring-boot-starter-validation,Starter Validation,Application Development,Component Models,spring
+org.springframework.boot,spring-boot-starter-web,Starter Web,Application Development,Web Frameworks,spring
+org.springframework.boot,spring-boot-starter-webflux,Starter Webflux,Application Development,Reactive Programming,spring
+org.springframework.boot,spring-boot-test,Test,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-test-autoconfigure,Test Autoconfigure,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-testcontainers,Testcontainers,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-jarmode-layertools,Jarmode Layertools,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-starter-jta-atomikos,Starter Jta Atomikos,Security,Identity & Access Management,spring
+org.springframework.boot,spring-boot-starter-data-solr,Starter Data Solr,Data Management,NoSQL Databases,spring
+org.springframework.boot,spring-boot-starter-jta-bitronix,Starter Jta Bitronix,Security,Identity & Access Management,spring
+org.springframework.boot,spring-boot-docs,Docs,Developer Tooling,Build Tools,spring
+org.springframework.boot,spring-boot-tools,Tools,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-starter-cloud-connectors,Starter Cloud Connectors,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-starters,Starters,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-security-test-web-helloworld,Security Test Web Helloworld,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-starter-social-linkedin,Starter Social Linkedin,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-build,Build,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-starter-social-facebook,Starter Social Facebook,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-full-build,Full Build,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-actuator-docs,Actuator Docs,Developer Tooling,Build Tools,spring
+org.springframework.boot,spring-boot-starter-mobile,Starter Mobile,Application Development,Mobile & Embedded,spring
+org.springframework.boot,spring-boot-starter-remote-shell,Starter Remote Shell,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-starter-data-gemfire,Starter Data Gemfire,Data Management,Data Lakes,spring
+org.springframework.boot,spring-boot-starter-social-twitter,Starter Social Twitter,Application Integration,Service Integration Frameworks,spring
+org.springframework.boot,spring-boot-project,Project,Developer Tooling,Dependency Management,spring
+org.springframework.boot,spring-boot-legacy,Legacy,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-security-tests,Security Tests,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-deployment-test-wildfly,Deployment Test Wildfly,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-gradle-tests,Gradle Tests,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-deployment-tests,Deployment Tests,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-deployment-test-wlp,Deployment Test Wlp,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-deployment-test-tomcat,Deployment Test Tomcat,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-deployment-test-tomee,Deployment Test Tomee,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-deployment-test-glassfish,Deployment Test Glassfish,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-launch-script-tests,Launch Script Tests,Developer Tooling,Local Development Runtimes,spring
+org.springframework.boot,spring-boot-devtools-tests,Devtools Tests,Testing & Quality,Testing Frameworks,spring
+org.springframework.boot,spring-boot-starter-hornetq,Starter Hornetq,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-starter-ws,Starter Ws,Application Development,Web Frameworks,spring
+org.springframework.boot,spring-boot-starter-velocity,Starter Velocity,Application Development,Template Engines,spring
+org.springframework.boot,spring-boot-starter-log4j,Starter Log4J,Application Development,Application Bootstrapping,spring
+org.springframework.boot,spring-boot-dependency-tools,Dependency Tools,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-versions,Versions,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-security-tests-web-helloworld,Security Tests Web Helloworld,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-sample-xml-archetype,Sample Xml Archetype,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-archetypes,Archetypes,Utility Libraries,General Utilities,spring
+org.springframework.boot,spring-boot-starter-data-ldap,Spring Boot Starter Data Ldap,Data Management,NoSQL Databases
+org.springframework.boot,spring-boot-starter-integration,Spring Boot Starter Integration,Application Integration,Service Integration Frameworks
+org.springframework.boot,spring-boot-starter-jersey,Spring Boot Starter Jersey,Application Development,Web Frameworks
+org.springframework.boot,spring-boot-starter-json,Spring Boot Starter Json,Serialization,JSON & XML
+org.springframework.boot,spring-boot-starter-logging,Spring Boot Starter Logging,Observability,Logging
+org.springframework.boot,spring-boot-starter-web-services,Spring Boot Starter Web Services,Application Integration,RPC & Web Services
+org.springframework.boot,spring-boot-starter-websocket,Spring Boot Starter Websocket,Application Integration,Messaging Protocols
+org.springframework.boot,spring-boot-starter-jta-narayana,Spring Boot Starter Jta Narayana,Application Development,Component Models
+org.springframework.boot,spring-boot-starter-redis,Spring Boot Starter Redis,Data Management,Caching
+org.springframework.boot,spring-boot-starter-log4j,Spring Boot Starter Log4J,Observability,Logging
