@@ -1,0 +1,100 @@
+categories:
+  - name: "Infrastructure Management"
+    subcategories:
+      - name: "Infrastructure Provisioning"
+      - name: "Configuration Management"
+      - name: "Infrastructure as Code"
+      - name: "Secrets Management"
+
+  - name: "Deployment & Runtime Platforms"
+    subcategories:
+      - name: "Containerization"
+      - name: "Orchestration"
+      - name: "Application Servers"
+      - name: "Cloud Platforms"
+      - name: "Function-as-a-Service"
+
+  - name: "Data Management"
+    subcategories:
+      - name: "Relational Databases"
+      - name: "NoSQL Databases"
+      - name: "Data Lakes"
+      - name: "Data Warehousing"
+      - name: "ORM & Data Access"
+      - name: "Caching"
+      - name: "Batch Processing"
+
+  - name: "Application Integration"
+    subcategories:
+      - name: "ETL & Data Pipelines"
+      - name: "Message Brokers"
+      - name: "Event Streaming"
+      - name: "Messaging Protocols"
+      - name: "Service Integration Frameworks"
+      - name: "API Gateways"
+      - name: "Service Mesh"
+      - name: "Remote Procedure Calls"
+      - name: "RPC & Web Services"
+
+  - name: "Application Development"
+    subcategories:
+      - name: "Web Frameworks"
+      - name: "Component Models"
+      - name: "Dependency Injection"
+      - name: "Reactive Programming"
+      - name: "Application Bootstrapping"
+      - name: "Template Engines"
+      - name: "Language Extensions"
+      - name: "Mobile & Embedded"
+
+  - name: "Serialization"
+    subcategories:
+      - name: "JSON & XML"
+      - name: "Binary Formats"
+      - name: "Schema Management"
+
+  - name: "Security"
+    subcategories:
+      - name: "Authentication & Authorization"
+      - name: "Identity & Access Management"
+      - name: "Transport Security"
+      - name: "Identity Management"
+      - name: "Access Control"
+
+  - name: "Observability"
+    subcategories:
+      - name: "Logging"
+      - name: "Metrics"
+      - name: "Tracing"
+      - name: "Monitoring"
+      - name: "Health Checks"
+
+  - name: "Resilience & Control"
+    subcategories:
+      - name: "Circuit Breakers"
+      - name: "Rate Limiting"
+      - name: "Retries & Backoff"
+      - name: "Service Discovery"
+
+  - name: "Developer Tooling"
+    subcategories:
+      - name: "Build Tools"
+      - name: "Dependency Management"
+      - name: "Local Development Runtimes"
+      - name: "Code Generators"
+
+  - name: "Testing & Quality"
+    subcategories:
+      - name: "Testing Frameworks"
+      - name: "Static Analysis"
+      - name: "Code Coverage"
+      - name: "Profiling & Debugging"
+      - name: "Mocking & Fakes"
+
+  - name: "Utility Libraries"
+    subcategories:
+      - name: "General Utilities"
+      - name: "Collections & Data Structures"
+      - name: "Date & Time Utilities"
+      - name: "Reflection & Metadata"
+      - name: "Configuration Utilities"
