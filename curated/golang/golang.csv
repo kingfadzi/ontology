@@ -98,7 +98,6 @@ lipgloss,Application Development,Component Models,Lipgloss,go
 marker,Utility Libraries,General Utilities,Marker,go
 mpb,Utility Libraries,General Utilities,Mpb,go
 progressbar,Observability,Metrics,Progressbar,go
-group_id,category,subcategory,framework,ecosystem
 pterm,Utility Libraries,General Utilities,Pterm,go
 simpletable,Utility Libraries,General Utilities,Simpletable,go
 spinner,Utility Libraries,General Utilities,Spinner,go
