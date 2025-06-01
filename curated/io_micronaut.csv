@@ -1,0 +1,110 @@
+group_id,artifact_id,version,description,category,subcategory,framework,ecosystem
+io.micronaut,micronaut-websocket,4.8.14,,Application Integration,Messaging Protocols,Micronaut,micronaut
+io.micronaut,micronaut-router,4.8.14,,Application Integration,API Gateways,Micronaut,micronaut
+io.micronaut,micronaut-runtime,4.8.14,,Deployment & Runtime Platforms,Local Development Runtimes,Micronaut,micronaut
+io.micronaut,micronaut-runtime-osx,4.8.14,,Deployment & Runtime Platforms,Local Development Runtimes,Micronaut,micronaut
+io.micronaut,micronaut-retry,4.8.14,,Resilience & Control,Retries & Backoff,Micronaut,micronaut
+io.micronaut,micronaut-json-core,4.8.14,,Serialization,JSON & XML,Micronaut,micronaut
+io.micronaut,micronaut-management,4.8.14,,Observability,Monitoring,Micronaut,micronaut
+io.micronaut,micronaut-messaging,4.8.14,,Application Integration,Messaging Protocols,Micronaut,micronaut
+io.micronaut,micronaut-jackson-databind,4.8.14,,Serialization,JSON & XML,Micronaut,micronaut
+io.micronaut,micronaut-inject-java-test,4.8.14,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-inject-kotlin,4.8.14,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,micronaut-inject-kotlin-test,4.8.14,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-jackson-core,4.8.14,,Serialization,JSON & XML,Micronaut,micronaut
+io.micronaut,micronaut-inject-groovy,4.8.14,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,micronaut-inject-groovy-test,4.8.14,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-inject-java,4.8.14,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,micronaut-inject,4.8.14,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,micronaut-http-server-netty,4.8.14,,Deployment & Runtime Platforms,Application Servers,Micronaut,micronaut
+io.micronaut,micronaut-http-server-tck,4.8.14,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-http-tck,4.8.14,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-http-validation,4.8.14,,Utility Libraries,General Utilities,Micronaut,micronaut
+io.micronaut,micronaut-http-client-tck,4.8.14,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-http-netty,4.8.14,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,micronaut-http-server,4.8.14,,Deployment & Runtime Platforms,Application Servers,Micronaut,micronaut
+io.micronaut,micronaut-http-client-jdk,4.8.14,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,micronaut-http,4.8.14,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,micronaut-http-client,4.8.14,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,micronaut-http-client-core,4.8.14,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,micronaut-graal,4.8.14,,Deployment & Runtime Platforms,Local Development Runtimes,Micronaut,micronaut
+io.micronaut,micronaut-discovery-core,4.8.14,,Resilience & Control,Service Discovery,Micronaut,micronaut
+io.micronaut,micronaut-function,4.8.14,,Deployment & Runtime Platforms,Function-as-a-Service,Micronaut,micronaut
+io.micronaut,micronaut-function-client,4.8.14,,Deployment & Runtime Platforms,Function-as-a-Service,Micronaut,micronaut
+io.micronaut,micronaut-function-web,4.8.14,,Application Development,Web Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-core,4.8.14,,Application Development,Application Bootstrapping,Micronaut,micronaut
+io.micronaut,micronaut-core-bom,4.8.14,,Developer Tooling,Dependency Management,Micronaut,micronaut
+io.micronaut,micronaut-core-processor,4.8.14,,Developer Tooling,Code Generators,Micronaut,micronaut
+io.micronaut,micronaut-core-reactive,4.8.14,,Application Development,Reactive Programming,Micronaut,micronaut
+io.micronaut,micronaut-aop,4.8.14,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,micronaut-buffer-netty,4.8.14,,Utility Libraries,General Utilities,Micronaut,micronaut
+io.micronaut,micronaut-context,4.8.14,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,micronaut-context-propagation,4.8.14,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,micronaut-session,3.10.4,,Application Development,Web Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-validation,3.10.4,,Application Development,Language Extensions,Micronaut,micronaut
+io.micronaut,micronaut-bom,3.10.4,,Developer Tooling,Dependency Management,Micronaut,micronaut
+io.micronaut,micronaut-parent,4.0.0-M1,,Developer Tooling,Dependency Management,Micronaut,micronaut
+io.micronaut,micronaut-tracing,3.3.0-M1,,Observability,Tracing,Micronaut,micronaut
+io.micronaut,micronaut-multitenancy,2.2.3,,Application Development,Application Bootstrapping,Micronaut,micronaut
+io.micronaut,micronaut-test-utils,2.0.1,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-test-suite-kotlin,2.0.1,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-test-suite-helper,2.0.1,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-test-suite-groovy,2.0.1,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-test-suite,2.0.1,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-benchmarks,2.0.1,,Observability,Metrics,Micronaut,micronaut
+io.micronaut,micronaut-discovery-client,2.0.1,,Resilience & Control,Service Discovery,Micronaut,micronaut
+io.micronaut,micronaut-acme,1.0.0.RC1,,Security,Identity & Access Management,Micronaut,micronaut
+io.micronaut,micronaut-jdbc,2.2.6,,Data Management,ORM & Data Access,Micronaut,micronaut
+io.micronaut,micronaut-runtime-groovy,2.0.0.M2,,Deployment & Runtime Platforms,Local Development Runtimes,Micronaut,micronaut
+io.micronaut,micronaut-function-groovy,2.0.0.M2,,Deployment & Runtime Platforms,Function-as-a-Service,Micronaut,micronaut
+io.micronaut,micronaut-function-aws,2.0.0.M3,,Deployment & Runtime Platforms,Function-as-a-Service,Micronaut,micronaut
+io.micronaut,micronaut-views-velocity,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-views-thymeleaf,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-views-soy,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-views-rocker,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-views-handlebars,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-views-freemarker,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-views-core,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-views,1.3.2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,micronaut-security-session,2.0.0.M2,,Security,Access Control,Micronaut,micronaut
+io.micronaut,micronaut-security-jwt,2.0.0.M2,,Security,Authentication & Authorization,Micronaut,micronaut
+io.micronaut,micronaut-security-annotations,2.0.0.M2,,Security,Authentication & Authorization,Micronaut,micronaut
+io.micronaut,micronaut-security,2.0.0.M2,,Security,Authentication & Authorization,Micronaut,micronaut
+io.micronaut,micronaut-spring,2.0.1,,Application Integration,Service Integration Frameworks,Micronaut,micronaut
+io.micronaut,micronaut-cli,2.0.0.M2,,Developer Tooling,Code Generators,Micronaut,micronaut
+io.micronaut,views,1.0.0.RC2,,Application Development,Template Engines,Micronaut,micronaut
+io.micronaut,validation,1.0.0.RC2,,Application Development,Language Extensions,Micronaut,micronaut
+io.micronaut,tracing,1.0.0.RC2,,Observability,Tracing,Micronaut,micronaut
+io.micronaut,spring,1.0.0.RC2,,Application Integration,Service Integration Frameworks,Micronaut,micronaut
+io.micronaut,session,1.0.0.RC2,,Application Development,Web Frameworks,Micronaut,micronaut
+io.micronaut,security-session,1.0.0.RC2,,Security,Access Control,Micronaut,micronaut
+io.micronaut,security-jwt,1.0.0.RC2,,Security,Authentication & Authorization,Micronaut,micronaut
+io.micronaut,security,1.0.0.RC2,,Security,Authentication & Authorization,Micronaut,micronaut
+io.micronaut,runtime-groovy,1.0.0.RC2,,Deployment & Runtime Platforms,Local Development Runtimes,Micronaut,micronaut
+io.micronaut,runtime,1.0.0.RC2,,Deployment & Runtime Platforms,Local Development Runtimes,Micronaut,micronaut
+io.micronaut,router,1.0.0.RC2,,Application Integration,API Gateways,Micronaut,micronaut
+io.micronaut,multitenancy,1.0.0.RC2,,Application Development,Application Bootstrapping,Micronaut,micronaut
+io.micronaut,messaging,1.0.0.RC2,,Application Integration,Messaging Protocols,Micronaut,micronaut
+io.micronaut,management,1.0.0.RC2,,Observability,Monitoring,Micronaut,micronaut
+io.micronaut,jdbc,1.0.0.RC2,,Data Management,ORM & Data Access,Micronaut,micronaut
+io.micronaut,inject-java-test,1.0.0.RC2,,Testing & Quality,Testing Frameworks,Micronaut,micronaut
+io.micronaut,inject-java,1.0.0.RC2,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,inject-groovy,1.0.0.RC2,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,inject,1.0.0.RC2,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,http-server-netty,1.0.0.RC2,,Deployment & Runtime Platforms,Application Servers,Micronaut,micronaut
+io.micronaut,http-server,1.0.0.RC2,,Deployment & Runtime Platforms,Application Servers,Micronaut,micronaut
+io.micronaut,http-netty,1.0.0.RC2,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,http-client,1.0.0.RC2,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,http,1.0.0.RC2,,Application Integration,RPC & Web Services,Micronaut,micronaut
+io.micronaut,graal,1.0.0.RC2,,Deployment & Runtime Platforms,Local Development Runtimes,Micronaut,micronaut
+io.micronaut,function-web,1.0.0.RC2,,Application Development,Web Frameworks,Micronaut,micronaut
+io.micronaut,function-groovy,1.0.0.RC2,,Deployment & Runtime Platforms,Function-as-a-Service,Micronaut,micronaut
+io.micronaut,function-client,1.0.0.RC2,,Deployment & Runtime Platforms,Function-as-a-Service,Micronaut,micronaut
+io.micronaut,function-aws,1.0.0.RC2,,Deployment & Runtime Platforms,Function-as-a-Service,Micronaut,micronaut
+io.micronaut,discovery-client,1.0.0.RC2,,Resilience & Control,Service Discovery,Micronaut,micronaut
+io.micronaut,core,1.0.0.RC2,,Application Development,Application Bootstrapping,Micronaut,micronaut
+io.micronaut,cli,1.0.0.RC2,,Developer Tooling,Code Generators,Micronaut,micronaut
+io.micronaut,buffer-netty,1.0.0.RC2,,Utility Libraries,General Utilities,Micronaut,micronaut
+io.micronaut,bom,1.0.0.RC2,,Developer Tooling,Dependency Management,Micronaut,micronaut
+io.micronaut,aop,1.0.0.RC2,,Application Development,Dependency Injection,Micronaut,micronaut
+io.micronaut,websocket,1.0.0.RC2,,Application Integration,Messaging Protocols,Micronaut,micronaut

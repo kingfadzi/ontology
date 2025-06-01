@@ -1,0 +1,1000 @@
+package_name,category,subcategory,framework,ecosystem
+chalk,Utility Libraries,General Utilities,Chalk,javascript
+request,Application Integration,RPC & Web Services,Request,javascript
+commander,Utility Libraries,General Utilities,Commander,javascript
+react,Application Development,Web Frameworks,React,javascript
+express,Application Development,Web Frameworks,Express,javascript
+debug,Utility Libraries,General Utilities,Debug,javascript
+async,Utility Libraries,General Utilities,Async,javascript
+fs-extra,Utility Libraries,General Utilities,Fs-extra,javascript
+moment,Utility Libraries,Date & Time Utilities,Moment,javascript
+prop-types,Utility Libraries,General Utilities,Prop-types,javascript
+react-dom,Application Development,Web Frameworks,React-dom,javascript
+bluebird,Utility Libraries,General Utilities,Bluebird,javascript
+underscore,Utility Libraries,Collections & Data Structures,Underscore,javascript
+vue,Application Development,Web Frameworks,Vue,javascript
+axios,Application Integration,RPC & Web Services,Axios,javascript
+tslib,Utility Libraries,General Utilities,Tslib,javascript
+mkdirp,Utility Libraries,General Utilities,Mkdirp,javascript
+glob,Utility Libraries,General Utilities,Glob,javascript
+yargs,Utility Libraries,General Utilities,Yargs,javascript
+colors,Utility Libraries,General Utilities,Colors,javascript
+inquirer,Utility Libraries,General Utilities,Inquirer,javascript
+webpack,Developer Tooling,Build Tools,Webpack,javascript
+uuid,Utility Libraries,General Utilities,Uuid,javascript
+classnames,Utility Libraries,General Utilities,Classnames,javascript
+minimist,Utility Libraries,General Utilities,Minimist,javascript
+body-parser,Utility Libraries,General Utilities,Body-parser,javascript
+rxjs,Application Development,Reactive Programming,Rxjs,javascript
+babel-runtime,Developer Tooling,Build Tools,Babel-runtime,javascript
+jquery,Utility Libraries,General Utilities,Jquery,javascript
+yeoman-generator,Developer Tooling,Code Generators,Yeoman-generator,javascript
+through2,Utility Libraries,General Utilities,Through2,javascript
+babel-core,Developer Tooling,Build Tools,Babel-core,javascript
+core-js,Utility Libraries,General Utilities,Core-js,javascript
+semver,Utility Libraries,General Utilities,Semver,javascript
+babel-loader,Developer Tooling,Build Tools,Babel-loader,javascript
+cheerio,Utility Libraries,General Utilities,Cheerio,javascript
+rimraf,Developer Tooling,Build Tools,Rimraf,javascript
+q,Utility Libraries,General Utilities,Q,javascript
+eslint,Testing & Quality,Static Analysis,Eslint,javascript
+css-loader,Developer Tooling,Build Tools,Css-loader,javascript
+shelljs,Developer Tooling,Build Tools,Shelljs,javascript
+dotenv,Utility Libraries,Configuration Utilities,Dotenv,javascript
+typescript,Developer Tooling,Build Tools,Typescript,javascript
+@types/node,Utility Libraries,General Utilities,@types/node,javascript
+@angular/core,Application Development,Web Frameworks,@angular/core,javascript
+js-yaml,Serialization,JSON & XML,Js-yaml,javascript
+style-loader,Developer Tooling,Build Tools,Style-loader,javascript
+winston,Observability,Logging,Winston,javascript
+@angular/common,Application Development,Web Frameworks,@angular/common,javascript
+redux,Application Development,Reactive Programming,Redux,javascript
+object-assign,Utility Libraries,General Utilities,Object-assign,javascript
+zone.js,Utility Libraries,General Utilities,Zone.js,javascript
+babel-eslint,Testing & Quality,Static Analysis,Babel-eslint,javascript
+gulp,Developer Tooling,Build Tools,Gulp,javascript
+gulp-util,Developer Tooling,Build Tools,Gulp-util,javascript
+file-loader,Developer Tooling,Build Tools,File-loader,javascript
+ora,Utility Libraries,General Utilities,Ora,javascript
+node-fetch,Application Integration,RPC & Web Services,Node-fetch,javascript
+@angular/platform-browser,Application Development,Web Frameworks,@angular/platform-browser,javascript
+@babel/runtime,Developer Tooling,Build Tools,@babel/runtime,javascript
+handlebars,Application Development,Template Engines,Handlebars,javascript
+eslint-plugin-import,Testing & Quality,Static Analysis,Eslint-plugin-import,javascript
+@angular/compiler,Application Development,Web Frameworks,@angular/compiler,javascript
+eslint-plugin-react,Testing & Quality,Static Analysis,Eslint-plugin-react,javascript
+aws-sdk,Deployment & Runtime Platforms,Cloud Platforms,Aws-sdk,javascript
+yosay,Utility Libraries,General Utilities,Yosay,javascript
+url-loader,Developer Tooling,Build Tools,Url-loader,javascript
+@angular/forms,Application Development,Web Frameworks,@angular/forms,javascript
+webpack-dev-server,Developer Tooling,Build Tools,Webpack-dev-server,javascript
+@angular/platform-browser-dynamic,Application Development,Web Frameworks,@angular/platform-browser-dynamic,javascript
+mocha,Testing & Quality,Testing Frameworks,Mocha,javascript
+html-webpack-plugin,Developer Tooling,Build Tools,Html-webpack-plugin,javascript
+socket.io,Application Integration,Messaging Protocols,Socket.io,javascript
+ws,Application Integration,Messaging Protocols,Ws,javascript
+babel-preset-es2015,Developer Tooling,Build Tools,Babel-preset-es2015,javascript
+postcss-loader,Developer Tooling,Build Tools,Postcss-loader,javascript
+node-sass,Developer Tooling,Build Tools,Node-sass,javascript
+ember-cli-babel,Developer Tooling,Build Tools,Ember-cli-babel,javascript
+babel-polyfill,Developer Tooling,Build Tools,Babel-polyfill,javascript
+@angular/router,Application Development,Web Frameworks,@angular/router,javascript
+ramda,Utility Libraries,Collections & Data Structures,Ramda,javascript
+react-redux,Application Development,Reactive Programming,React-redux,javascript
+@babel/core,Developer Tooling,Build Tools,@babel/core,javascript
+@angular/http,Application Development,Web Frameworks,@angular/http,javascript
+ejs,Application Development,Template Engines,Ejs,javascript
+coffee-script,Utility Libraries,General Utilities,Coffee-script,javascript
+superagent,Application Integration,RPC & Web Services,Superagent,javascript
+request-promise,Application Integration,RPC & Web Services,Request-promise,javascript
+autoprefixer,Developer Tooling,Build Tools,Autoprefixer,javascript
+path,Utility Libraries,General Utilities,Path,javascript
+mongodb,Data Management,NoSQL Databases,Mongodb,javascript
+chai,Testing & Quality,Testing Frameworks,Chai,javascript
+mongoose,Data Management,ORM & Data Access,Mongoose,javascript
+xml2js,Serialization,JSON & XML,Xml2js,javascript
+bootstrap,Application Development,Web Frameworks,Bootstrap,javascript
+jest,Testing & Quality,Testing Frameworks,Jest,javascript
+sass-loader,Developer Tooling,Build Tools,Sass-loader,javascript
+redis,Data Management,Caching,Redis,javascript
+vue-router,Application Development,Web Frameworks,Vue-router,javascript
+chokidar,Utility Libraries,General Utilities,Chokidar,javascript
+co,Utility Libraries,General Utilities,Co,javascript
+eslint-plugin-jsx-a11y,Testing & Quality,Static Analysis,Eslint-plugin-jsx-a11y,javascript
+nan,Utility Libraries,General Utilities,Nan,javascript
+optimist,Utility Libraries,General Utilities,Optimist,javascript
+promise,Utility Libraries,General Utilities,Promise,javascript
+@angular/animations,Application Development,Reactive Programming,@angular/animations,javascript
+postcss,Developer Tooling,Build Tools,Postcss,javascript
+morgan,Observability,Logging,Morgan,javascript
+less,Application Development,Template Engines,Less,javascript
+immutable,Utility Libraries,Collections & Data Structures,Immutable,javascript
+qs,Utility Libraries,General Utilities,Qs,javascript
+loader-utils,Developer Tooling,Build Tools,Loader-utils,javascript
+fs,Utility Libraries,General Utilities,Fs,javascript
+extract-text-webpack-plugin,Developer Tooling,Build Tools,Extract-text-webpack-plugin,javascript
+marked,Utility Libraries,General Utilities,Marked,javascript
+mime,Utility Libraries,General Utilities,Mime,javascript
+@alifd/next,Application Development,Web Frameworks,@alifd/next,javascript
+meow,Utility Libraries,General Utilities,Meow,javascript
+styled-components,Application Development,Template Engines,Styled-components,javascript
+resolve,Developer Tooling,Build Tools,Resolve,javascript
+reflect-metadata,Utility Libraries,Reflection & Metadata,Reflect-metadata,javascript
+babel-preset-react,Developer Tooling,Build Tools,Babel-preset-react,javascript
+jsonwebtoken,Security,Authentication & Authorization,Jsonwebtoken,javascript
+react-router-dom,Application Development,Web Frameworks,React-router-dom,javascript
+extend,Utility Libraries,General Utilities,Extend,javascript
+cookie-parser,Application Integration,Messaging Protocols,Cookie-parser,javascript
+whatwg-fetch,Application Integration,RPC & Web Services,Whatwg-fetch,javascript
+babel-preset-env,Developer Tooling,Build Tools,Babel-preset-env,javascript
+babel-jest,Testing & Quality,Testing Frameworks,Babel-jest,javascript
+mysql,Data Management,Relational Databases,Mysql,javascript
+joi,Utility Libraries,General Utilities,Joi,javascript
+minimatch,Utility Libraries,General Utilities,Minimatch,javascript
+eslint-loader,Testing & Quality,Static Analysis,Eslint-loader,javascript
+react-dev-utils,Developer Tooling,Build Tools,React-dev-utils,javascript
+node-uuid,Utility Libraries,General Utilities,Node-uuid,javascript
+es6-promise,Utility Libraries,General Utilities,Es6-promise,javascript
+cross-spawn,Utility Libraries,General Utilities,Cross-spawn,javascript
+case-sensitive-paths-webpack-plugin,Developer Tooling,Build Tools,Case-sensitive-paths-webpack-plugin,javascript
+uglify-js,Developer Tooling,Build Tools,Uglify-js,javascript
+cors,Security,Transport Security,Cors,javascript
+eslint-plugin-flowtype,Testing & Quality,Static Analysis,Eslint-plugin-flowtype,javascript
+react-router,Application Development,Web Frameworks,React-router,javascript
+@babel/preset-env,Developer Tooling,Build Tools,@babel/preset-env,javascript
+deepmerge,Utility Libraries,General Utilities,Deepmerge,javascript
+socket.io-client,Application Integration,Messaging Protocols,Socket.io-client,javascript
+npm,Developer Tooling,Local Development Runtimes,Npm,javascript
+webpack-manifest-plugin,Developer Tooling,Build Tools,Webpack-manifest-plugin,javascript
+koa,Application Development,Web Frameworks,Koa,javascript
+isomorphic-fetch,Application Integration,RPC & Web Services,Isomorphic-fetch,javascript
+babel-cli,Developer Tooling,Build Tools,Babel-cli,javascript
+del,Utility Libraries,General Utilities,Del,javascript
+postcss-flexbugs-fixes,Developer Tooling,Build Tools,Postcss-flexbugs-fixes,javascript
+compression,Utility Libraries,General Utilities,Compression,javascript
+update-notifier,Utility Libraries,General Utilities,Update-notifier,javascript
+babel-preset-react-app,Developer Tooling,Build Tools,Babel-preset-react-app,javascript
+jade,Application Development,Template Engines,Jade,javascript
+prompt,Utility Libraries,General Utilities,Prompt,javascript
+gulp-rename,Developer Tooling,Build Tools,Gulp-rename,javascript
+angular,Application Development,Web Frameworks,Angular,javascript
+underscore.string,Utility Libraries,General Utilities,Underscore.string,javascript
+graphql,Application Integration,Service Integration Frameworks,Graphql,javascript
+execa,Utility Libraries,General Utilities,Execa,javascript
+browserify,Developer Tooling,Build Tools,Browserify,javascript
+opn,Utility Libraries,General Utilities,Opn,javascript
+validator,Utility Libraries,General Utilities,Validator,javascript
+eslint-config-react-app,Testing & Quality,Static Analysis,Eslint-config-react-app,javascript
+vuex,Application Development,Web Frameworks,Vuex,javascript
+prettier,Testing & Quality,Static Analysis,Prettier,javascript
+invariant,Utility Libraries,General Utilities,Invariant,javascript
+jsdom,Testing & Quality,Testing Frameworks,Jsdom,javascript
+@types/react,Utility Libraries,General Utilities,@types/react,javascript
+redux-thunk,Application Development,Reactive Programming,Redux-thunk,javascript
+mini-css-extract-plugin,Developer Tooling,Build Tools,Mini-css-extract-plugin,javascript
+globby,Utility Libraries,General Utilities,Globby,javascript
+pg,Data Management,Relational Databases,Pg,javascript
+got,Application Integration,RPC & Web Services,Got,javascript
+ajv,Utility Libraries,General Utilities,Ajv,javascript
+xtend,Utility Libraries,General Utilities,Xtend,javascript
+ember-cli-htmlbars,Developer Tooling,Build Tools,Ember-cli-htmlbars,javascript
+babel-plugin-transform-runtime,Developer Tooling,Build Tools,Babel-plugin-transform-runtime,javascript
+nodemailer,Application Integration,RPC & Web Services,Nodemailer,javascript
+source-map-support,Developer Tooling,Build Tools,Source-map-support,javascript
+express-session,Application Integration,Messaging Protocols,Express-session,javascript
+d3,Application Development,Web Frameworks,D3,javascript
+less-loader,Developer Tooling,Build Tools,Less-loader,javascript
+fsevents,Utility Libraries,General Utilities,Fsevents,javascript
+babel-preset-stage-0,Developer Tooling,Build Tools,Babel-preset-stage-0,javascript
+download-git-repo,Developer Tooling,Build Tools,Download-git-repo,javascript
+query-string,Utility Libraries,General Utilities,Query-string,javascript
+font-awesome,Application Development,Web Frameworks,Font-awesome,javascript
+open,Utility Libraries,General Utilities,Open,javascript
+passport,Security,Authentication & Authorization,Passport,javascript
+@types/lodash,Utility Libraries,General Utilities,@types/lodash,javascript
+grunt,Developer Tooling,Build Tools,Grunt,javascript
+path-to-regexp,Utility Libraries,General Utilities,Path-to-regexp,javascript
+mustache,Application Development,Template Engines,Mustache,javascript
+inherits,Utility Libraries,General Utilities,Inherits,javascript
+tmp,Utility Libraries,General Utilities,Tmp,javascript
+md5,Utility Libraries,General Utilities,Md5,javascript
+dotenv-expand,Utility Libraries,Configuration Utilities,Dotenv-expand,javascript
+crypto-js,Utility Libraries,General Utilities,Crypto-js,javascript
+request-promise-native,Application Integration,RPC & Web Services,Request-promise-native,javascript
+through,Utility Libraries,General Utilities,Through,javascript
+connect,Application Development,Web Frameworks,Connect,javascript
+raf,Utility Libraries,General Utilities,Raf,javascript
+react-scripts,Developer Tooling,Build Tools,React-scripts,javascript
+readable-stream,Utility Libraries,General Utilities,Readable-stream,javascript
+highlight.js,Utility Libraries,General Utilities,Highlight.js,javascript
+@babel/polyfill,Utility Libraries,General Utilities,@babel/polyfill,javascript
+progress,Utility Libraries,General Utilities,Progress,javascript
+optimize-css-assets-webpack-plugin,Developer Tooling,Build Tools,Optimize-css-assets-webpack-plugin,javascript
+iconv-lite,Utility Libraries,General Utilities,Iconv-lite,javascript
+bunyan,Observability,Logging,Bunyan,javascript
+gulp-uglify,Developer Tooling,Build Tools,Gulp-uglify,javascript
+koa-router,Application Development,Web Frameworks,Koa-router,javascript
+ncp,Utility Libraries,General Utilities,Ncp,javascript
+lodash.merge,Utility Libraries,General Utilities,Lodash.merge,javascript
+lru-cache,Data Management,Caching,Lru-cache,javascript
+moment-timezone,Utility Libraries,Date & Time Utilities,Moment-timezone,javascript
+figlet,Utility Libraries,General Utilities,Figlet,javascript
+history,Utility Libraries,General Utilities,History,javascript
+readline-sync,Utility Libraries,General Utilities,Readline-sync,javascript
+pluralize,Utility Libraries,General Utilities,Pluralize,javascript
+url,Utility Libraries,General Utilities,Url,javascript
+log4js,Observability,Logging,Log4js,javascript
+cli-table,Utility Libraries,General Utilities,Cli-table,javascript
+webpack-merge,Developer Tooling,Build Tools,Webpack-merge,javascript
+archiver,Utility Libraries,General Utilities,Archiver,javascript
+babel-register,Developer Tooling,Build Tools,Babel-register,javascript
+eslint-config-airbnb,Testing & Quality,Static Analysis,Eslint-config-airbnb,javascript
+clone,Utility Libraries,General Utilities,Clone,javascript
+jsonfile,Utility Libraries,General Utilities,Jsonfile,javascript
+puppeteer,Testing & Quality,Testing Frameworks,Puppeteer,javascript
+shortid,Utility Libraries,General Utilities,Shortid,javascript
+@babel/plugin-proposal-class-properties,Developer Tooling,Build Tools,@babel/plugin-proposal-class-properties,javascript
+querystring,Utility Libraries,General Utilities,Querystring,javascript
+serve-static,Application Development,Web Frameworks,Serve-static,javascript
+tslint,Testing & Quality,Static Analysis,Tslint,javascript
+pug,Application Development,Template Engines,Pug,javascript
+config,Utility Libraries,Configuration Utilities,Config,javascript
+source-map,Developer Tooling,Build Tools,Source-map,javascript
+antd,Application Development,Web Frameworks,Antd,javascript
+concat-stream,Utility Libraries,General Utilities,Concat-stream,javascript
+element-ui,Application Development,Web Frameworks,Element-ui,javascript
+lodash.get,Utility Libraries,General Utilities,Lodash.get,javascript
+@babel/preset-react,Developer Tooling,Build Tools,@babel/preset-react,javascript
+serve-favicon,Application Development,Web Frameworks,Serve-favicon,javascript
+stylus,Developer Tooling,Build Tools,Stylus,javascript
+date-fns,Utility Libraries,Date & Time Utilities,Date-fns,javascript
+esprima,Testing & Quality,Static Analysis,Esprima,javascript
+sequelize,Data Management,ORM & Data Access,Sequelize,javascript
+babel-plugin-transform-object-rest-spread,Developer Tooling,Build Tools,Babel-plugin-transform-object-rest-spread,javascript
+bindings,Utility Libraries,General Utilities,Bindings,javascript
+events,Utility Libraries,General Utilities,Events,javascript
+graceful-fs,Utility Libraries,General Utilities,Graceful-fs,javascript
+normalize.css,Utility Libraries,General Utilities,Normalize.css,javascript
+crypto,Utility Libraries,General Utilities,Crypto,javascript
+cross-env,Developer Tooling,Build Tools,Cross-env,javascript
+mime-types,Utility Libraries,General Utilities,Mime-types,javascript
+event-stream,Utility Libraries,General Utilities,Event-stream,javascript
+hoist-non-react-statics,Utility Libraries,General Utilities,Hoist-non-react-statics,javascript
+gulp-concat,Developer Tooling,Build Tools,Gulp-concat,javascript
+terser-webpack-plugin,Developer Tooling,Build Tools,Terser-webpack-plugin,javascript
+json-loader,Developer Tooling,Build Tools,Json-loader,javascript
+warning,Observability,Logging,Warning,javascript
+bignumber.js,Utility Libraries,General Utilities,Bignumber.js,javascript
+eventemitter3,Utility Libraries,General Utilities,Eventemitter3,javascript
+webpack-cli,Developer Tooling,Build Tools,Webpack-cli,javascript
+strip-ansi,Utility Libraries,General Utilities,Strip-ansi,javascript
+cli-color,Utility Libraries,General Utilities,Cli-color,javascript
+form-data,Utility Libraries,General Utilities,Form-data,javascript
+web3,Utility Libraries,General Utilities,Web3,javascript
+gulp-sourcemaps,Developer Tooling,Build Tools,Gulp-sourcemaps,javascript
+webpack-dev-middleware,Developer Tooling,Build Tools,Webpack-dev-middleware,javascript
+ip,Utility Libraries,General Utilities,Ip,javascript
+camelcase,Utility Libraries,General Utilities,Camelcase,javascript
+sw-precache-webpack-plugin,Developer Tooling,Build Tools,Sw-precache-webpack-plugin,javascript
+merge,Utility Libraries,General Utilities,Merge,javascript
+http-proxy,Application Integration,API Gateways,Http-proxy,javascript
+react-transition-group,Application Development,Reactive Programming,React-transition-group,javascript
+multer,Application Integration,RPC & Web Services,Multer,javascript
+deep-equal,Utility Libraries,General Utilities,Deep-equal,javascript
+browser-sync,Developer Tooling,Local Development Runtimes,Browser-sync,javascript
+babel,Developer Tooling,Build Tools,Babel,javascript
+dateformat,Utility Libraries,Date & Time Utilities,Dateformat,javascript
+postcss-preset-env,Developer Tooling,Build Tools,Postcss-preset-env,javascript
+uglifyjs-webpack-plugin,Developer Tooling,Build Tools,Uglifyjs-webpack-plugin,javascript
+@polymer/polymer,Application Development,Web Frameworks,@polymer/polymer,javascript
+sinon,Testing & Quality,Mocking & Fakes,Sinon,javascript
+eslint-config-prettier,Testing & Quality,Static Analysis,Eslint-config-prettier,javascript
+gulp-sass,Developer Tooling,Build Tools,Gulp-sass,javascript
+identity-obj-proxy,Testing & Quality,Mocking & Fakes,Identity-obj-proxy,javascript
+ts-loader,Developer Tooling,Build Tools,Ts-loader,javascript
+react-hot-loader,Application Development,Web Frameworks,React-hot-loader,javascript
+sqlite3,Data Management,Relational Databases,Sqlite3,javascript
+popper.js,Utility Libraries,General Utilities,Popper.js,javascript
+which,Utility Libraries,General Utilities,Which,javascript
+markdown-it,Utility Libraries,General Utilities,Markdown-it,javascript
+tar,Utility Libraries,General Utilities,Tar,javascript
+vue-template-compiler,Application Development,Web Frameworks,Vue-template-compiler,javascript
+babel-plugin-transform-class-properties,Developer Tooling,Build Tools,Babel-plugin-transform-class-properties,javascript
+js-beautify,Utility Libraries,General Utilities,Js-beautify,javascript
+log-symbols,Utility Libraries,General Utilities,Log-symbols,javascript
+webpack-hot-middleware,Developer Tooling,Build Tools,Webpack-hot-middleware,javascript
+rollup,Developer Tooling,Build Tools,Rollup,javascript
+copy-webpack-plugin,Developer Tooling,Build Tools,Copy-webpack-plugin,javascript
+nodemon,Developer Tooling,Local Development Runtimes,Nodemon,javascript
+boom,Utility Libraries,General Utilities,Boom,javascript
+xmldom,Serialization,JSON & XML,Xmldom,javascript
+recompose,Utility Libraries,General Utilities,Recompose,javascript
+util,Utility Libraries,General Utilities,Util,javascript
+ini,Utility Libraries,Configuration Utilities,Ini,javascript
+pify,Utility Libraries,General Utilities,Pify,javascript
+command-line-args,Utility Libraries,General Utilities,Command-line-args,javascript
+vinyl,Utility Libraries,General Utilities,Vinyl,javascript
+mz,Utility Libraries,General Utilities,Mz,javascript
+lodash.debounce,Utility Libraries,General Utilities,Lodash.debounce,javascript
+html-minifier,Developer Tooling,Build Tools,Html-minifier,javascript
+ts-node,Developer Tooling,Local Development Runtimes,Ts-node,javascript
+nconf,Utility Libraries,Configuration Utilities,Nconf,javascript
+recursive-readdir,Utility Libraries,General Utilities,Recursive-readdir,javascript
+vue-loader,Developer Tooling,Build Tools,Vue-loader,javascript
+@types/express,Utility Libraries,General Utilities,@types/express,javascript
+datafire,Application Integration,Service Integration Frameworks,Datafire,javascript
+@types/react-dom,Utility Libraries,General Utilities,@types/react-dom,javascript
+babel-plugin-transform-decorators-legacy,Developer Tooling,Build Tools,Babel-plugin-transform-decorators-legacy,javascript
+clean-css,Developer Tooling,Build Tools,Clean-css,javascript
+hoek,Utility Libraries,General Utilities,Hoek,javascript
+cookie,Utility Libraries,General Utilities,Cookie,javascript
+@babel/plugin-transform-runtime,Developer Tooling,Build Tools,@babel/plugin-transform-runtime,javascript
+when,Utility Libraries,General Utilities,When,javascript
+babel-plugin-named-asset-import,Developer Tooling,Build Tools,Babel-plugin-named-asset-import,javascript
+postcss-safe-parser,Developer Tooling,Build Tools,Postcss-safe-parser,javascript
+bcrypt,Security,Authentication & Authorization,Bcrypt,javascript
+@material-ui/core,Application Development,Web Frameworks,@material-ui/core,javascript
+@babel/plugin-syntax-dynamic-import,Developer Tooling,Build Tools,@babel/plugin-syntax-dynamic-import,javascript
+nunjucks,Application Development,Template Engines,Nunjucks,javascript
+eslint-plugin-promise,Testing & Quality,Static Analysis,Eslint-plugin-promise,javascript
+react-native,Application Development,Mobile & Embedded,React-native,javascript
+lodash.isequal,Utility Libraries,General Utilities,Lodash.isequal,javascript
+workbox-webpack-plugin,Developer Tooling,Build Tools,Workbox-webpack-plugin,javascript
+acorn,Developer Tooling,Build Tools,Acorn,javascript
+amqplib,Application Integration,Message Brokers,Amqplib,javascript
+@svgr/webpack,Developer Tooling,Build Tools,@svgr/webpack,javascript
+color,Utility Libraries,General Utilities,Color,javascript
+ms,Utility Libraries,General Utilities,Ms,javascript
+js-cookie,Utility Libraries,General Utilities,Js-cookie,javascript
+temp,Utility Libraries,General Utilities,Temp,javascript
+simple-git,Utility Libraries,General Utilities,Simple-git,javascript
+cssnano,Developer Tooling,Build Tools,Cssnano,javascript
+reselect,Utility Libraries,General Utilities,Reselect,javascript
+yamljs,Utility Libraries,General Utilities,Yamljs,javascript
+ioredis,Data Management,Caching,Ioredis,javascript
+koa-static,Application Development,Web Frameworks,Koa-static,javascript
+react-app-polyfill,Utility Libraries,General Utilities,React-app-polyfill,javascript
+react-select,Application Development,Web Frameworks,React-select,javascript
+escape-string-regexp,Utility Libraries,General Utilities,Escape-string-regexp,javascript
+firebase,Application Development,Web Frameworks,Firebase,javascript
+bn.js,Utility Libraries,General Utilities,Bn.js,javascript
+escodegen,Developer Tooling,Build Tools,Escodegen,javascript
+react-bootstrap,Application Development,Web Frameworks,React-bootstrap,javascript
+babelify,Developer Tooling,Build Tools,Babelify,javascript
+helmet,Security,Transport Security,Helmet,javascript
+nopt,Utility Libraries,General Utilities,Nopt,javascript
+eslint-plugin-prettier,Testing & Quality,Static Analysis,Eslint-plugin-prettier,javascript
+jest-resolve,Testing & Quality,Testing Frameworks,Jest-resolve,javascript
+knex,Data Management,ORM & Data Access,Knex,javascript
+pnp-webpack-plugin,Developer Tooling,Build Tools,Pnp-webpack-plugin,javascript
+gulp-if,Developer Tooling,Build Tools,Gulp-if,javascript
+assert,Testing & Quality,Testing Frameworks,Assert,javascript
+global,Utility Libraries,General Utilities,Global,javascript
+npmlog,Observability,Logging,Npmlog,javascript
+backbone,Application Development,Web Frameworks,Backbone,javascript
+graphql-tag,Application Integration,Service Integration Frameworks,Graphql-tag,javascript
+raw-loader,Developer Tooling,Build Tools,Raw-loader,javascript
+run-sequence,Developer Tooling,Build Tools,Run-sequence,javascript
+lodash.clonedeep,Utility Libraries,General Utilities,Lodash.clonedeep,javascript
+@oclif/command,Developer Tooling,Local Development Runtimes,@oclif/command,javascript
+http-proxy-middleware,Application Integration,API Gateways,Http-proxy-middleware,javascript
+gulp-babel,Developer Tooling,Build Tools,Gulp-babel,javascript
+@oclif/config,Developer Tooling,Local Development Runtimes,@oclif/config,javascript
+vinyl-fs,Utility Libraries,General Utilities,Vinyl-fs,javascript
+lodash.throttle,Utility Libraries,General Utilities,Lodash.throttle,javascript
+passport-local,Security,Authentication & Authorization,Passport-local,javascript
+eventemitter2,Utility Libraries,General Utilities,Eventemitter2,javascript
+mqtt,Application Integration,Message Brokers,Mqtt,javascript
+unique-random-array,Utility Libraries,General Utilities,Unique-random-array,javascript
+buffer,Utility Libraries,General Utilities,Buffer,javascript
+redux-saga,Application Development,Reactive Programming,Redux-saga,javascript
+react-router-redux,Application Development,Web Frameworks,React-router-redux,javascript
+jszip,Utility Libraries,General Utilities,Jszip,javascript
+koa-bodyparser,Application Integration,Service Integration Frameworks,Koa-bodyparser,javascript
+async-validator,Utility Libraries,General Utilities,Async-validator,javascript
+babel-preset-stage-2,Developer Tooling,Build Tools,Babel-preset-stage-2,javascript
+node-notifier,Utility Libraries,General Utilities,Node-notifier,javascript
+eslint-config-airbnb-base,Testing & Quality,Static Analysis,Eslint-config-airbnb-base,javascript
+material-ui,Application Development,Web Frameworks,Material-ui,javascript
+validate-npm-package-name,Utility Libraries,General Utilities,Validate-npm-package-name,javascript
+clean-webpack-plugin,Developer Tooling,Build Tools,Clean-webpack-plugin,javascript
+hammerjs,Utility Libraries,General Utilities,Hammerjs,javascript
+redux-logger,Observability,Logging,Redux-logger,javascript
+htmlparser2,Utility Libraries,General Utilities,Htmlparser2,javascript
+html-loader,Developer Tooling,Build Tools,Html-loader,javascript
+filesize,Utility Libraries,General Utilities,Filesize,javascript
+gulp-plumber,Developer Tooling,Build Tools,Gulp-plumber,javascript
+consolidate,Utility Libraries,General Utilities,Consolidate,javascript
+pkginfo,Utility Libraries,General Utilities,Pkginfo,javascript
+serialport,Utility Libraries,General Utilities,Serialport,javascript
+clear,Utility Libraries,General Utilities,Clear,javascript
+should,Testing & Quality,Testing Frameworks,Should,javascript
+json5,Serialization,JSON & XML,Json5,javascript
+change-case,Utility Libraries,General Utilities,Change-case,javascript
+@babel/plugin-proposal-object-rest-spread,Developer Tooling,Build Tools,@babel/plugin-proposal-object-rest-spread,javascript
+eslint-plugin-node,Testing & Quality,Static Analysis,Eslint-plugin-node,javascript
+app-root-path,Utility Libraries,General Utilities,App-root-path,javascript
+create-react-class,Application Development,Web Frameworks,Create-react-class,javascript
+postcss-import,Developer Tooling,Build Tools,Postcss-import,javascript
+@angular/cdk,Application Development,Web Frameworks,@angular/cdk,javascript
+webpack-bundle-analyzer,Developer Tooling,Build Tools,Webpack-bundle-analyzer,javascript
+JSONStream,Utility Libraries,General Utilities,JSONStream,javascript
+pump,Utility Libraries,General Utilities,Pump,javascript
+babylon,Utility Libraries,General Utilities,Babylon,javascript
+mobx,Application Development,Reactive Programming,Mobx,javascript
+adm-zip,Utility Libraries,General Utilities,Adm-zip,javascript
+deep-extend,Utility Libraries,General Utilities,Deep-extend,javascript
+rc,Utility Libraries,General Utilities,Rc,javascript
+http,Application Integration,RPC & Web Services,Http,javascript
+@angular/material,Application Development,Web Frameworks,@angular/material,javascript
+eslint-config-standard,Testing & Quality,Static Analysis,Eslint-config-standard,javascript
+eslint-plugin-standard,Testing & Quality,Static Analysis,Eslint-plugin-standard,javascript
+once,Utility Libraries,General Utilities,Once,javascript
+numeral,Utility Libraries,General Utilities,Numeral,javascript
+@typescript-eslint/parser,Testing & Quality,Static Analysis,@typescript-eslint/parser,javascript
+prismjs,Utility Libraries,General Utilities,Prismjs,javascript
+hapi,Application Development,Web Frameworks,Hapi,javascript
+url-parse,Utility Libraries,General Utilities,Url-parse,javascript
+@babel/cli,Developer Tooling,Build Tools,@babel/cli,javascript
+eslint-plugin-react-hooks,Testing & Quality,Static Analysis,Eslint-plugin-react-hooks,javascript
+plugin-error,Utility Libraries,General Utilities,Plugin-error,javascript
+@typescript-eslint/eslint-plugin,Testing & Quality,Static Analysis,@typescript-eslint/eslint-plugin,javascript
+require-dir,Utility Libraries,General Utilities,Require-dir,javascript
+gulp-autoprefixer,Developer Tooling,Build Tools,Gulp-autoprefixer,javascript
+url-join,Utility Libraries,General Utilities,Url-join,javascript
+istanbul,Testing & Quality,Code Coverage,Istanbul,javascript
+echarts,Application Development,Web Frameworks,Echarts,javascript
+bower,Developer Tooling,Local Development Runtimes,Bower,javascript
+resize-observer-polyfill,Utility Libraries,General Utilities,Resize-observer-polyfill,javascript
+bcryptjs,Security,Authentication & Authorization,Bcryptjs,javascript
+lodash.assign,Utility Libraries,General Utilities,Lodash.assign,javascript
+gm,Utility Libraries,General Utilities,Gm,javascript
+babel-plugin-add-module-exports,Developer Tooling,Build Tools,Babel-plugin-add-module-exports,javascript
+diff,Utility Libraries,General Utilities,Diff,javascript
+argparse,Utility Libraries,General Utilities,Argparse,javascript
+react-helmet,Application Development,Web Frameworks,React-helmet,javascript
+stylelint,Testing & Quality,Static Analysis,Stylelint,javascript
+string,Utility Libraries,General Utilities,String,javascript
+protobufjs,Serialization,Schema Management,Protobufjs,javascript
+find-up,Utility Libraries,General Utilities,Find-up,javascript
+esm,Developer Tooling,Build Tools,Es m,javascript
+sprintf-js,Utility Libraries,General Utilities,Sprintf-js,javascript
+rollup-plugin-node-resolve,Developer Tooling,Build Tools,Rollup-plugin-node-resolve,javascript
+configstore,Utility Libraries,Configuration Utilities,Configstore,javascript
+download,Utility Libraries,General Utilities,Download,javascript
+traverse,Utility Libraries,General Utilities,Traverse,javascript
+websocket,Application Integration,Messaging Protocols,Websocket,javascript
+codemirror,Application Development,Web Frameworks,Codemirror,javascript
+bs58,Utility Libraries,General Utilities,Bs58,javascript
+googleapis,Application Integration,RPC & Web Services,Googleapis,javascript
+method-override,Application Integration,RPC & Web Services,Method-override,javascript
+formidable,Application Integration,RPC & Web Services,Formidable,javascript
+tape,Testing & Quality,Testing Frameworks,Tape,javascript
+karma,Testing & Quality,Testing Frameworks,Karma,javascript
+json-stringify-safe,Utility Libraries,General Utilities,Json-stringify-safe,javascript
+elasticsearch,Data Management,NoSQL Databases,Elasticsearch,javascript
+split,Utility Libraries,General Utilities,Split,javascript
+safe-buffer,Utility Libraries,General Utilities,Safe-buffer,javascript
+rsvp,Utility Libraries,General Utilities,Rsvp,javascript
+@oclif/plugin-help,Developer Tooling,Local Development Runtimes,@oclif/plugin-help,javascript
+github,Utility Libraries,General Utilities,Github,javascript
+xlsx,Utility Libraries,General Utilities,Xlsx,javascript
+tinycolor2,Utility Libraries,General Utilities,Tinycolor2,javascript
+lodash-es,Utility Libraries,Collections & Data Structures,Lodash-es,javascript
+@babel/plugin-proposal-decorators,Developer Tooling,Build Tools,@babel/plugin-proposal-decorators,javascript
+connect-history-api-fallback,Utility Libraries,General Utilities,Connect-history-api-fallback,javascript
+@material-ui/icons,Application Development,Web Frameworks,@material-ui/icons,javascript
+jsonschema,Utility Libraries,General Utilities,Jsonschema,javascript
+portfinder,Utility Libraries,General Utilities,Portfinder,javascript
+fbjs,Utility Libraries,General Utilities,Fbjs,javascript
+boxen,Utility Libraries,General Utilities,Boxen,javascript
+css,Developer Tooling,Build Tools,Css,javascript
+elliptic,Utility Libraries,General Utilities,Elliptic,javascript
+sharp,Utility Libraries,General Utilities,Sharp,javascript
+http-errors,Application Integration,RPC & Web Services,Http-errors,javascript
+co-prompt,Utility Libraries,General Utilities,Co-prompt,javascript
+walk,Utility Libraries,General Utilities,Walk,javascript
+restify,Application Development,Web Frameworks,Restify,javascript
+three,Application Development,Web Frameworks,Three,javascript
+metalsmith,Application Development,Web Frameworks,Metalsmith,javascript
+json-stable-stringify,Serialization,JSON & XML,Json-stable-stringify,javascript
+webpack-node-externals,Developer Tooling,Build Tools,Webpack-node-externals,javascript
+requirejs,Application Development,Application Bootstrapping,Requirejs,javascript
+regenerator-runtime,Utility Libraries,General Utilities,Regenerator-runtime,javascript
+xmlbuilder,Serialization,JSON & XML,Xmlbuilder,javascript
+unzip,Utility Libraries,General Utilities,Unzip,javascript
+path-exists,Utility Libraries,General Utilities,Path-exists,javascript
+rollup-plugin-commonjs,Developer Tooling,Build Tools,Rollup-plugin-commonjs,javascript
+throttle-debounce,Utility Libraries,General Utilities,Throttle-debounce,javascript
+user-home,Utility Libraries,General Utilities,User-home,javascript
+cron,Utility Libraries,General Utilities,Cron,javascript
+xmlhttprequest,Application Integration,RPC & Web Services,Xmlhttprequest,javascript
+faker,Utility Libraries,General Utilities,Faker,javascript
+systemjs,Application Development,Application Bootstrapping,Systemjs,javascript
+inflection,Utility Libraries,General Utilities,Inflection,javascript
+canvas,Utility Libraries,General Utilities,Canvas,javascript
+get-stdin,Utility Libraries,General Utilities,Get-stdin,javascript
+babel-types,Developer Tooling,Build Tools,Babel-types,javascript
+read-pkg-up,Utility Libraries,General Utilities,Read-pkg-up,javascript
+graphql-tools,Application Integration,Service Integration Frameworks,Graphql-tools,javascript
+@types/jest,Testing & Quality,Testing Frameworks,@types/jest,javascript
+escape-html,Utility Libraries,General Utilities,Escape-html,javascript
+broccoli-merge-trees,Developer Tooling,Build Tools,Broccoli-merge-trees,javascript
+ssh2,Utility Libraries,General Utilities,Ssh2,javascript
+sax,Serialization,JSON & XML,Sax,javascript
+child_process,Utility Libraries,General Utilities,Child_process,javascript
+leaflet,Application Development,Web Frameworks,Leaflet,javascript
+wrench,Utility Libraries,General Utilities,Wrench,javascript
+rx,Application Development,Reactive Programming,Rx,javascript
+ethereumjs-util,Utility Libraries,General Utilities,Ethereumjs-util,javascript
+jimp,Utility Libraries,General Utilities,Jimp,javascript
+enzyme,Testing & Quality,Testing Frameworks,Enzyme,javascript
+prettyjson,Utility Libraries,General Utilities,Prettyjson,javascript
+image-size,Utility Libraries,General Utilities,Image-size,javascript
+bfj,Serialization,Binary Formats,Bfj,javascript
+micromatch,Utility Libraries,General Utilities,Micromatch,javascript
+gulp-watch,Developer Tooling,Build Tools,Gulp-watch,javascript
+redux-actions,Application Development,Reactive Programming,Redux-actions,javascript
+lit-element,Application Development,Web Frameworks,Lit-element,javascript
+discord.js,Application Integration,Messaging Protocols,Discord.js,javascript
+gulp-less,Developer Tooling,Build Tools,Gulp-less,javascript
+jshint,Testing & Quality,Static Analysis,Jshint,javascript
+vinyl-source-stream,Developer Tooling,Build Tools,Vinyl-source-stream,javascript
+send,Application Integration,RPC & Web Services,Send,javascript
+mysql2,Data Management,Relational Databases,Mysql2,javascript
+@types/jquery,Utility Libraries,General Utilities,@types/jquery,javascript
+user,Utility Libraries,General Utilities,User,javascript
+slash,Utility Libraries,General Utilities,Slash,javascript
+es6-shim,Utility Libraries,General Utilities,Es6-shim,javascript
+watch,Utility Libraries,General Utilities,Watch,javascript
+debounce,Utility Libraries,General Utilities,Debounce,javascript
+d3-scale,Utility Libraries,General Utilities,D3-scale,javascript
+babel-helper-vue-jsx-merge-props,Developer Tooling,Build Tools,Babel-helper-vue-jsx-merge-props,javascript
+file-saver,Utility Libraries,General Utilities,File-saver,javascript
+pull-stream,Utility Libraries,General Utilities,Pull-stream,javascript
+lodash.omit,Utility Libraries,General Utilities,Lodash.omit,javascript
+koa-compose,Utility Libraries,General Utilities,Koa-compose,javascript
+chart.js,Application Development,Web Frameworks,Chart.js,javascript
+gulp-replace,Developer Tooling,Build Tools,Gulp-replace,javascript
+shallowequal,Utility Libraries,General Utilities,Shallowequal,javascript
+cli-spinner,Utility Libraries,General Utilities,Cli-spinner,javascript
+object-path,Utility Libraries,General Utilities,Object-path,javascript
+react-intl,Application Development,Web Frameworks,React-intl,javascript
+mobx-react,Application Development,Web Frameworks,Mobx-react,javascript
+webpack-sources,Developer Tooling,Build Tools,Webpack-sources,javascript
+flat,Utility Libraries,General Utilities,Flat,javascript
+methods,Utility Libraries,General Utilities,Methods,javascript
+jasmine,Testing & Quality,Testing Frameworks,Jasmine,javascript
+jest-watch-typeahead,Testing & Quality,Testing Frameworks,Jest-watch-typeahead,javascript
+react-dnd,Application Development,Web Frameworks,React-dnd,javascript
+object-hash,Utility Libraries,General Utilities,Object-hash,javascript
+eslint-plugin-babel,Testing & Quality,Static Analysis,Eslint-plugin-babel,javascript
+parse5,Utility Libraries,General Utilities,Parse5,javascript
+friendly-errors-webpack-plugin,Developer Tooling,Build Tools,Friendly-errors-webpack-plugin,javascript
+gulp-template,Developer Tooling,Build Tools,Gulp-template,javascript
+broccoli-funnel,Developer Tooling,Build Tools,Broccoli-funnel,javascript
+@emotion/core,Application Development,Web Frameworks,@emotion/core,javascript
+lodash.pick,Utility Libraries,General Utilities,Lodash.pick,javascript
+listr,Utility Libraries,General Utilities,Listr,javascript
+text-table,Utility Libraries,General Utilities,Text-table,javascript
+babel-plugin-transform-es2015-modules-commonjs,Developer Tooling,Build Tools,Babel-plugin-transform-es2015-modules-commonjs,javascript
+lodash.set,Utility Libraries,General Utilities,Lodash.set,javascript
+watchify,Developer Tooling,Build Tools,Watchify,javascript
+estraverse,Utility Libraries,General Utilities,Estraverse,javascript
+unist-util-visit,Utility Libraries,General Utilities,Unist-util-visit,javascript
+@fortawesome/fontawesome-svg-core,Application Development,Web Frameworks,@fortawesome/fontawesome-svg-core,javascript
+@angular/compiler-cli,Developer Tooling,Build Tools,@angular/compiler-cli,javascript
+strip-json-comments,Utility Libraries,General Utilities,Strip-json-comments,javascript
+randomstring,Utility Libraries,General Utilities,Randomstring,javascript
+node-emoji,Utility Libraries,General Utilities,Node-emoji,javascript
+react-addons-css-transition-group,Application Development,Web Frameworks,React-addons-css-transition-group,javascript
+clui,Utility Libraries,General Utilities,Clui,javascript
+babel-plugin-import,Developer Tooling,Build Tools,Babel-plugin-import,javascript
+tslint-react,Testing & Quality,Static Analysis,Tslint-react,javascript
+errorhandler,Utility Libraries,General Utilities,Errorhandler,javascript
+blessed,Application Development,Web Frameworks,Blessed,javascript
+electron,Deployment & Runtime Platforms,Local Development Runtimes,Electron,javascript
+eslint-plugin-jest,Testing & Quality,Static Analysis,Eslint-plugin-jest,javascript
+bytes,Utility Libraries,General Utilities,Bytes,javascript
+deasync,Utility Libraries,General Utilities,Deasync,javascript
+vue-hot-reload-api,Developer Tooling,Build Tools,Vue-hot-reload-api,javascript
+swig,Application Development,Template Engines,Swig,javascript
+jest-pnp-resolver,Testing & Quality,Testing Frameworks,Jest-pnp-resolver,javascript
+node-schedule,Utility Libraries,General Utilities,Node-schedule,javascript
+rollup-plugin-babel,Developer Tooling,Build Tools,Rollup-plugin-babel,javascript
+figures,Utility Libraries,General Utilities,Figures,javascript
+oauth,Security,Authentication & Authorization,Oauth,javascript
+nedb,Data Management,NoSQL Databases,Nedb,javascript
+detect-port,Utility Libraries,General Utilities,Detect-port,javascript
+liftoff,Developer Tooling,Local Development Runtimes,Liftoff,javascript
+@types/fs-extra,Utility Libraries,General Utilities,@types/fs-extra,javascript
+get-port,Utility Libraries,General Utilities,Get-port,javascript
+stylelint-config-standard,Testing & Quality,Static Analysis,Stylelint-config-standard,javascript
+gulp-imagemin,Developer Tooling,Build Tools,Gulp-imagemin,javascript
+husky,Utility Libraries,General Utilities,Husky,javascript
+@babel/register,Developer Tooling,Build Tools,@babel/register,javascript
+gulp-install,Developer Tooling,Build Tools,Gulp-install,javascript
+gzip-size,Utility Libraries,General Utilities,Gzip-size,javascript
+node-gyp,Developer Tooling,Build Tools,Node-gyp,javascript
+node-forge,Security,Transport Security,Node-forge,javascript
+grunt-contrib-clean,Developer Tooling,Build Tools,Grunt-contrib-clean,javascript
+pm2,Developer Tooling,Local Development Runtimes,Pm2,javascript
+plist,Utility Libraries,General Utilities,Plist,javascript
+polished,Utility Libraries,General Utilities,Polished,javascript
+@fortawesome/free-solid-svg-icons,Utility Libraries,General Utilities,@fortawesome/free-solid-svg-icons,javascript
+ts-jest,Testing & Quality,Testing Frameworks,Ts-jest,javascript
+react-test-renderer,Testing & Quality,Testing Frameworks,React-test-renderer,javascript
+grunt-contrib-watch,Developer Tooling,Build Tools,Grunt-contrib-watch,javascript
+loglevel,Observability,Logging,Loglevel,javascript
+on-finished,Utility Libraries,General Utilities,On-finished,javascript
+fs-promise,Utility Libraries,General Utilities,Fs-promise,javascript
+levelup,Data Management,NoSQL Databases,Levelup,javascript
+nomnom,Utility Libraries,General Utilities,Nomnom,javascript
+@angular-devkit/core,Developer Tooling,Build Tools,@angular-devkit/core,javascript
+react-dnd-html5-backend,Application Development,Web Frameworks,React-dnd-html5-backend,javascript
+react-motion,Application Development,Reactive Programming,React-motion,javascript
+command-line-usage,Utility Libraries,General Utilities,Command-line-usage,javascript
+readline,Utility Libraries,General Utilities,Readline,javascript
+grunt-contrib-uglify,Developer Tooling,Build Tools,Grunt-contrib-uglify,javascript
+csv-parse,Utility Libraries,General Utilities,Csv-parse,javascript
+js-base64,Utility Libraries,General Utilities,Js-base64,javascript
+level,Data Management,NoSQL Databases,Level,javascript
+dayjs,Utility Libraries,Date & Time Utilities,Dayjs,javascript
+parseurl,Utility Libraries,General Utilities,Parseurl,javascript
+babel-preset-stage-1,Developer Tooling,Build Tools,Babel-preset-stage-1,javascript
+read,Utility Libraries,General Utilities,Read,javascript
+lodash.defaults,Utility Libraries,General Utilities,Lodash.defaults,javascript
+requireindex,Utility Libraries,General Utilities,Requireindex,javascript
+tough-cookie,Utility Libraries,General Utilities,Tough-cookie,javascript
+cli,Utility Libraries,General Utilities,Cli,javascript
+emotion,Application Development,Template Engines,Emotion,javascript
+map-stream,Utility Libraries,General Utilities,Map-stream,javascript
+fancy-log,Observability,Logging,Fancy-log,javascript
+gulp-load-plugins,Developer Tooling,Build Tools,Gulp-load-plugins,javascript
+svgo,Developer Tooling,Build Tools,Svgo,javascript
+cross-fetch,Application Integration,RPC & Web Services,Cross-fetch,javascript
+is-plain-object,Utility Libraries,General Utilities,Is-plain-object,javascript
+source-map-loader,Developer Tooling,Build Tools,Source-map-loader,javascript
+@octokit/rest,Application Integration,RPC & Web Services,@octokit/rest,javascript
+multimatch,Utility Libraries,General Utilities,Multimatch,javascript
+pretty-bytes,Utility Libraries,General Utilities,Pretty-bytes,javascript
+urijs,Utility Libraries,General Utilities,Urijs,javascript
+i18next,Utility Libraries,General Utilities,I18next,javascript
+@babel/types,Developer Tooling,Build Tools,@babel/types,javascript
+html-entities,Serialization,JSON & XML,Html-entities,javascript
+cosmiconfig,Utility Libraries,Configuration Utilities,Cosmiconfig,javascript
+pino,Observability,Logging,Pino,javascript
+verror,Utility Libraries,General Utilities,Verror,javascript
+gulp-notify,Developer Tooling,Build Tools,Gulp-notify,javascript
+merge-stream,Utility Libraries,General Utilities,Merge-stream,javascript
+npm-run-all,Developer Tooling,Build Tools,Npm-run-all,javascript
+stylus-loader,Developer Tooling,Build Tools,Stylus-loader,javascript
+@babel/preset-typescript,Developer Tooling,Build Tools,@babel/preset-typescript,javascript
+grpc,Application Integration,RPC & Web Services,Grpc,javascript
+he,Utility Libraries,General Utilities,He,javascript
+supports-color,Utility Libraries,General Utilities,Supports-color,javascript
+vue-style-loader,Developer Tooling,Build Tools,Vue-style-loader,javascript
+create-hash,Utility Libraries,General Utilities,Create-hash,javascript
+touch,Utility Libraries,General Utilities,Touch,javascript
+csv,Utility Libraries,General Utilities,Csv,javascript
+tslint-config-prettier,Testing & Quality,Static Analysis,Tslint-config-prettier,javascript
+lodash.camelcase,Utility Libraries,General Utilities,Lodash.camelcase,javascript
+log-update,Observability,Logging,Log-update,javascript
+lodash.isplainobject,Utility Libraries,General Utilities,Lodash.isplainobject,javascript
+apollo-client,Application Integration,Service Integration Frameworks,Apollo-client,javascript
+gulp-conflict,Developer Tooling,Build Tools,Gulp-conflict,javascript
+@types/cordova,Utility Libraries,General Utilities,@types/cordova,javascript
+mathjs,Utility Libraries,General Utilities,Mathjs,javascript
+inversify,Application Development,Dependency Injection,Inversify,javascript
+react-dropzone,Application Development,Web Frameworks,React-dropzone,javascript
+yargs-parser,Utility Libraries,General Utilities,Yargs-parser,javascript
+babel-traverse,Developer Tooling,Build Tools,Babel-traverse,javascript
+babel-plugin-syntax-dynamic-import,Developer Tooling,Build Tools,Babel-plugin-syntax-dynamic-import,javascript
+raw-body,Utility Libraries,General Utilities,Raw-body,javascript
+@babel/runtime-corejs2,Developer Tooling,Build Tools,@babel/runtime-corejs2,javascript
+sync-request,Application Integration,RPC & Web Services,Sync-request,javascript
+@types/jasmine,Testing & Quality,Testing Frameworks,@types/jasmine,javascript
+valid-url,Utility Libraries,General Utilities,Valid-url,javascript
+react-tap-event-plugin,Application Development,Web Frameworks,React-tap-event-plugin,javascript
+babel-plugin-transform-react-remove-prop-types,Developer Tooling,Build Tools,Babel-plugin-transform-react-remove-prop-types,javascript
+draft-js,Application Development,Web Frameworks,Draft-js,javascript
+cuid,Utility Libraries,General Utilities,Cuid,javascript
+slug,Utility Libraries,General Utilities,Slug,javascript
+bcrypt-nodejs,Security,Authentication & Authorization,Bcrypt-nodejs,javascript
+@babel/parser,Developer Tooling,Build Tools,@babel/parser,javascript
+jwt-decode,Security,Authentication & Authorization,Jwt-decode,javascript
+postcss-cssnext,Developer Tooling,Build Tools,Postcss-cssnext,javascript
+react-icons,Application Development,Web Frameworks,React-icons,javascript
+install,Utility Libraries,General Utilities,Install,javascript
+basic-auth,Security,Authentication & Authorization,Basic-auth,javascript
+memory-fs,Utility Libraries,General Utilities,Memory-fs,javascript
+d3-selection,Application Development,Web Frameworks,D3-selection,javascript
+@angular-devkit/schematics,Developer Tooling,Code Generators,@angular-devkit/schematics,javascript
+es6-promisify,Utility Libraries,General Utilities,Es6-promisify,javascript
+react-modal,Application Development,Web Frameworks,React-modal,javascript
+redux-form,Application Development,Web Frameworks,Redux-form,javascript
+lodash.uniq,Utility Libraries,General Utilities,Lodash.uniq,javascript
+gulp-postcss,Developer Tooling,Build Tools,Gulp-postcss,javascript
+karma-chrome-launcher,Testing & Quality,Testing Frameworks,Karma-chrome-launcher,javascript
+fast-glob,Utility Libraries,General Utilities,Fast-glob,javascript
+file-type,Utility Libraries,General Utilities,File-type,javascript
+child-process-promise,Utility Libraries,General Utilities,Child-process-promise,javascript
+babel-plugin-transform-react-jsx,Developer Tooling,Build Tools,Babel-plugin-transform-react-jsx,javascript
+phantomjs-prebuilt,Deployment & Runtime Platforms,Local Development Runtimes,Phantomjs-prebuilt,javascript
+@angular/platform-server,Application Development,Web Frameworks,@angular/platform-server,javascript
+brfs,Utility Libraries,General Utilities,Brfs,javascript
+tar-fs,Utility Libraries,General Utilities,Tar-fs,javascript
+clipboard,Utility Libraries,General Utilities,Clipboard,javascript
+nyc,Testing & Quality,Code Coverage,Nyc,javascript
+phantomjs,Deployment & Runtime Platforms,Local Development Runtimes,Phantomjs,javascript
+vinyl-buffer,Utility Libraries,General Utilities,Vinyl-buffer,javascript
+clipboardy,Utility Libraries,General Utilities,Clipboardy,javascript
+lodash.isfunction,Utility Libraries,General Utilities,Lodash.isfunction,javascript
+btoa,Utility Libraries,General Utilities,Btoa,javascript
+rxjs-compat,Application Development,Reactive Programming,Rxjs-compat,javascript
+fork-ts-checker-webpack-plugin,Developer Tooling,Build Tools,Fork-ts-checker-webpack-plugin,javascript
+@types/request,Utility Libraries,General Utilities,@types/request,javascript
+recast,Developer Tooling,Build Tools,Recast,javascript
+d3-array,Application Development,Web Frameworks,D3-array,javascript
+gulp-jshint,Developer Tooling,Build Tools,Gulp-jshint,javascript
+base-64,Utility Libraries,General Utilities,Base-64,javascript
+make-dir,Utility Libraries,General Utilities,Make-dir,javascript
+https,Utility Libraries,General Utilities,Https,javascript
+sanitize-filename,Utility Libraries,General Utilities,Sanitize-filename,javascript
+bip39,Utility Libraries,General Utilities,Bip39,javascript
+vue-class-component,Application Development,Web Frameworks,Vue-class-component,javascript
+needle,Application Integration,RPC & Web Services,Needle,javascript
+keycode,Utility Libraries,General Utilities,Keycode,javascript
+grunt-contrib-copy,Developer Tooling,Build Tools,Grunt-contrib-copy,javascript
+selenium-webdriver,Testing & Quality,Testing Frameworks,Selenium-webdriver,javascript
+opener,Utility Libraries,General Utilities,Opener,javascript
+common-tags,Utility Libraries,General Utilities,Common-tags,javascript
+is-wsl,Utility Libraries,General Utilities,Is-wsl,javascript
+koa-body,Application Integration,Service Integration Frameworks,Koa-body,javascript
+lodash.isstring,Utility Libraries,General Utilities,Lodash.isstring,javascript
+lodash.template,Utility Libraries,General Utilities,Lodash.template,javascript
+nodegit,Utility Libraries,General Utilities,Nodegit,javascript
+command-exists,Utility Libraries,General Utilities,Command-exists,javascript
+fstream,Utility Libraries,General Utilities,Fstream,javascript
+node-cache,Data Management,Caching,Node-cache,javascript
+node-watch,Utility Libraries,General Utilities,Node-watch,javascript
+convert-source-map,Utility Libraries,General Utilities,Convert-source-map,javascript
+@types/uuid,Utility Libraries,General Utilities,@types/uuid,javascript
+imagemin,Developer Tooling,Build Tools,Imagemin,javascript
+gulp-filter,Developer Tooling,Build Tools,Gulp-filter,javascript
+vue-property-decorator,Application Development,Web Frameworks,Vue-property-decorator,javascript
+gaze,Utility Libraries,General Utilities,Gaze,javascript
+supertest,Testing & Quality,Testing Frameworks,Supertest,javascript
+stack-trace,Utility Libraries,General Utilities,Stack-trace,javascript
+gulp-clean-css,Developer Tooling,Build Tools,Gulp-clean-css,javascript
+chance,Utility Libraries,General Utilities,Chance,javascript
+gulp-typescript,Developer Tooling,Build Tools,Gulp-typescript,javascript
+lowdb,Data Management,NoSQL Databases,Lowdb,javascript
+generic-pool,Utility Libraries,General Utilities,Generic-pool,javascript
+assert-plus,Testing & Quality,Testing Frameworks,Assert-plus,javascript
+eslint-plugin-vue,Testing & Quality,Static Analysis,Eslint-plugin-vue,javascript
+gulp-minify-css,Developer Tooling,Build Tools,Gulp-minify-css,javascript
+is-url,Utility Libraries,General Utilities,Is-url,javascript
+urllib,Application Integration,RPC & Web Services,Urllib,javascript
+babel-generator,Developer Tooling,Build Tools,Babel-generator,javascript
+immer,Utility Libraries,General Utilities,Immer,javascript
+sha1,Utility Libraries,General Utilities,Sha1,javascript
+grunt-contrib-jshint,Developer Tooling,Build Tools,Grunt-contrib-jshint,javascript
+mockjs,Testing & Quality,Mocking & Fakes,Mockjs,javascript
+node.extend,Utility Libraries,General Utilities,Node.extend,javascript
+connect-redis,Application Integration,Service Integration Frameworks,Connect-redis,javascript
+babel-plugin-module-resolver,Developer Tooling,Build Tools,Babel-plugin-module-resolver,javascript
+prompts,Utility Libraries,General Utilities,Prompts,javascript
+memoize-one,Utility Libraries,General Utilities,Memoize-one,javascript
+shell-quote,Utility Libraries,General Utilities,Shell-quote,javascript
+hyperquest,Application Integration,RPC & Web Services,Hyperquest,javascript
+https-proxy-agent,Application Integration,RPC & Web Services,Https-proxy-agent,javascript
+long,Utility Libraries,General Utilities,Long,javascript
+chai-as-promised,Testing & Quality,Testing Frameworks,Chai-as-promised,javascript
+secp256k1,Utility Libraries,General Utilities,Secp256k1,javascript
+http-server,Deployment & Runtime Platforms,Application Servers,Http-server,javascript
+utf8,Utility Libraries,General Utilities,Utf8,javascript
+type-is,Utility Libraries,General Utilities,Type-is,javascript
+vorpal,Application Development,Web Frameworks,Vorpal,javascript
+rollup-pluginutils,Developer Tooling,Build Tools,Rollup-pluginutils,javascript
+finalhandler,Utility Libraries,General Utilities,Finalhandler,javascript
+tweetnacl,Utility Libraries,General Utilities,Tweetnacl,javascript
+apollo-link,Application Integration,Service Integration Frameworks,Apollo-link,javascript
+coveralls,Testing & Quality,Code Coverage,Coveralls,javascript
+d3-shape,Application Development,Web Frameworks,D3-shape,javascript
+postcss-normalize,Developer Tooling,Build Tools,Postcss-normalize,javascript
+showdown,Utility Libraries,General Utilities,Showdown,javascript
+promise-polyfill,Utility Libraries,General Utilities,Promise-polyfill,javascript
+node-pre-gyp,Developer Tooling,Build Tools,Node-pre-gyp,javascript
+path-is-absolute,Utility Libraries,General Utilities,Path-is-absolute,javascript
+@fortawesome/react-fontawesome,Application Development,Web Frameworks,@fortawesome/react-fontawesome,javascript
+preact,Application Development,Web Frameworks,Preact,javascript
+crc,Utility Libraries,General Utilities,Crc,javascript
+babel-plugin-transform-async-to-generator,Developer Tooling,Build Tools,Babel-plugin-transform-async-to-generator,javascript
+osenv,Utility Libraries,General Utilities,Osenv,javascript
+hiredis,Data Management,Caching,Hiredis,javascript
+lodash.isempty,Utility Libraries,General Utilities,Lodash.isempty,javascript
+@babel/traverse,Developer Tooling,Build Tools,@babel/traverse,javascript
+serve-index,Utility Libraries,General Utilities,Serve-index,javascript
+lodash.map,Utility Libraries,Collections & Data Structures,Lodash.map,javascript
+highland,Application Development,Reactive Programming,Highland,javascript
+localforage,Utility Libraries,General Utilities,Localforage,javascript
+winston-daily-rotate-file,Observability,Logging,Winston-daily-rotate-file,javascript
+deep-diff,Utility Libraries,General Utilities,Deep-diff,javascript
+passport-oauth,Security,Authentication & Authorization,Passport-oauth,javascript
+passport-strategy,Security,Authentication & Authorization,Passport-strategy,javascript
+iview,Application Development,Web Frameworks,Iview,javascript
+dom-helpers,Utility Libraries,General Utilities,Dom-helpers,javascript
+tildify,Utility Libraries,General Utilities,Tildify,javascript
+ethereumjs-tx,Utility Libraries,General Utilities,Ethereumjs-tx,javascript
+babel-template,Developer Tooling,Build Tools,Babel-template,javascript
+leveldown,Data Management,NoSQL Databases,Leveldown,javascript
+gulp-eslint,Developer Tooling,Build Tools,Gulp-eslint,javascript
+rc-util,Utility Libraries,General Utilities,Rc-util,javascript
+depd,Utility Libraries,General Utilities,Depd,javascript
+content-type,Utility Libraries,General Utilities,Content-type,javascript
+nanoid,Utility Libraries,General Utilities,Nanoid,javascript
+babel-plugin-syntax-jsx,Developer Tooling,Build Tools,Babel-plugin-syntax-jsx,javascript
+bl,Utility Libraries,General Utilities,Bl,javascript
+read-pkg,Utility Libraries,General Utilities,Read-pkg,javascript
+markdown,Utility Libraries,General Utilities,Markdown,javascript
+jest-environment-jsdom-fourteen,Testing & Quality,Testing Frameworks,Jest-environment-jsdom-fourteen,javascript
+react-error-overlay,Developer Tooling,Local Development Runtimes,React-error-overlay,javascript
+serialize-javascript,Serialization,JSON & XML,Serialize-javascript,javascript
+nprogress,Application Development,Web Frameworks,Nprogress,javascript
+accepts,Utility Libraries,General Utilities,Accepts,javascript
+bizcharts,Application Development,Web Frameworks,Bizcharts,javascript
+require-all,Utility Libraries,General Utilities,Require-all,javascript
+base64-js,Utility Libraries,General Utilities,Base64-js,javascript
+component-emitter,Utility Libraries,General Utilities,Component-emitter,javascript
+connect-flash,Utility Libraries,General Utilities,Connect-flash,javascript
+koa-logger,Observability,Logging,Koa-logger,javascript
+react-color,Application Development,Web Frameworks,React-color,javascript
+findup-sync,Utility Libraries,General Utilities,Findup-sync,javascript
+passport-oauth2,Security,Authentication & Authorization,Passport-oauth2,javascript
+dockerode,Application Integration,Service Integration Frameworks,Dockerode,javascript
+enzyme-adapter-react-16,Testing & Quality,Testing Frameworks,Enzyme-adapter-react-16,javascript
+etag,Utility Libraries,General Utilities,Etag,javascript
+immutability-helper,Utility Libraries,General Utilities,Immutability-helper,javascript
+grunt-cli,Developer Tooling,Local Development Runtimes,Grunt-cli,javascript
+front-matter,Utility Libraries,General Utilities,Front-matter,javascript
+mssql,Data Management,Relational Databases,Mssql,javascript
+react-native-vector-icons,Application Development,Mobile & Embedded,React-native-vector-icons,javascript
+react-virtualized,Application Development,Web Frameworks,React-virtualized,javascript
+fork-ts-checker-webpack-plugin-alt,Developer Tooling,Build Tools,Fork-ts-checker-webpack-plugin-alt,javascript
+slugify,Utility Libraries,General Utilities,Slugify,javascript
+node-dir,Utility Libraries,General Utilities,Node-dir,javascript
+babel-plugin-transform-regenerator,Developer Tooling,Build Tools,Babel-plugin-transform-regenerator,javascript
+keypress,Utility Libraries,General Utilities,Keypress,javascript
+@types/bluebird,Utility Libraries,General Utilities,@types/bluebird,javascript
+lodash.foreach,Utility Libraries,General Utilities,Lodash.foreach,javascript
+grunt-contrib-concat,Developer Tooling,Build Tools,Grunt-contrib-concat,javascript
+split2,Utility Libraries,General Utilities,Split2,javascript
+extend-shallow,Utility Libraries,General Utilities,Extend-shallow,javascript
+@phosphor/widgets,Application Development,Web Frameworks,@phosphor/widgets,javascript
+xregexp,Utility Libraries,General Utilities,Xregexp,javascript
+awesome-typescript-loader,Developer Tooling,Build Tools,Awesome-typescript-loader,javascript
+hash-sum,Utility Libraries,General Utilities,Hash-sum,javascript
+apollo-link-http,Application Integration,Service Integration Frameworks,Apollo-link-http,javascript
+babel-preset-stage-3,Developer Tooling,Build Tools,Babel-preset-stage-3,javascript
+restler,Application Integration,RPC & Web Services,Restler,javascript
+lodash.flatten,Utility Libraries,Collections & Data Structures,Lodash.flatten,javascript
+react-apollo,Application Integration,Service Integration Frameworks,React-apollo,javascript
+intl,Utility Libraries,General Utilities,Intl,javascript
+babel-plugin-dynamic-import-node,Developer Tooling,Build Tools,Babel-plugin-dynamic-import-node,javascript
+uglify-es,Developer Tooling,Build Tools,Uglify-es,javascript
+react-lifecycles-compat,Application Development,Web Frameworks,React-lifecycles-compat,javascript
+lint-staged,Developer Tooling,Build Tools,Lint-staged,javascript
+@babel/plugin-proposal-export-default-from,Developer Tooling,Build Tools,@babel/plugin-proposal-export-default-from,javascript
+normalize-wheel,Utility Libraries,General Utilities,Normalize-wheel,javascript
+is-promise,Utility Libraries,General Utilities,Is-promise,javascript
+pako,Utility Libraries,General Utilities,Pako,javascript
+pngjs,Utility Libraries,General Utilities,Pngjs,javascript
+utils-merge,Utility Libraries,General Utilities,Utils-merge,javascript
+gray-matter,Utility Libraries,General Utilities,Gray-matter,javascript
+postcss-nested,Developer Tooling,Build Tools,Postcss-nested,javascript
+pretty-error,Observability,Logging,Pretty-error,javascript
+rc-slider,Application Development,Web Frameworks,Rc-slider,javascript
+node-static,Application Integration,Service Integration Frameworks,Node-static,javascript
+decompress,Utility Libraries,General Utilities,Decompress,javascript
+gh-pages,Developer Tooling,Build Tools,Gh-pages,javascript
+cli-table2,Utility Libraries,General Utilities,Cli-table2,javascript
+os,Utility Libraries,General Utilities,Os,javascript
+reactstrap,Application Development,Web Frameworks,Reactstrap,javascript
+sanitize-html,Utility Libraries,General Utilities,Sanitize-html,javascript
+extract-zip,Utility Libraries,General Utilities,Extract-zip,javascript
+gulp-shell,Developer Tooling,Build Tools,Gulp-shell,javascript
+vue-i18n,Application Development,Web Frameworks,Vue-i18n,javascript
+@types/mocha,Testing & Quality,Testing Frameworks,@types/mocha,javascript
+http-status-codes,Utility Libraries,General Utilities,Http-status-codes,javascript
+hogan.js,Application Development,Template Engines,Hogan.js,javascript
+quill,Application Development,Web Frameworks,Quill,javascript
+soap,Application Integration,RPC & Web Services,Soap,javascript
+randombytes,Utility Libraries,General Utilities,Randombytes,javascript
+decamelize,Utility Libraries,General Utilities,Decamelize,javascript
+bson,Serialization,Binary Formats,Bson,javascript
+imagemin-pngquant,Developer Tooling,Build Tools,Imagemin-pngquant,javascript
+arrify,Utility Libraries,General Utilities,Arrify,javascript
+bytebuffer,Utility Libraries,General Utilities,Bytebuffer,javascript
+xml2json,Serialization,JSON & XML,Xml2json,javascript
+lodash.isobject,Utility Libraries,General Utilities,Lodash.isobject,javascript
+columnify,Utility Libraries,General Utilities,Columnify,javascript
+fluent-ffmpeg,Utility Libraries,General Utilities,Fluent-ffmpeg,javascript
+xml-js,Serialization,JSON & XML,Xml-js,javascript
+sockjs-client,Application Integration,Messaging Protocols,Sockjs-client,javascript
+@emotion/styled,Application Development,Web Frameworks,@emotion/styled,javascript
+resolve-from,Utility Libraries,General Utilities,Resolve-from,javascript
+es6-error,Utility Libraries,General Utilities,Es6-error,javascript
+react-slick,Application Development,Web Frameworks,React-slick,javascript
+typeorm,Data Management,ORM & Data Access,Typeorm,javascript
+sprintf,Utility Libraries,General Utilities,Sprintf,javascript
+apollo-cache-inmemory,Application Integration,Service Integration Frameworks,Apollo-cache-inmemory,javascript
+babel-plugin-lodash,Developer Tooling,Build Tools,Babel-plugin-lodash,javascript
+hexlet-pairs,Utility Libraries,General Utilities,Hexlet-pairs,javascript
+pretty-ms,Utility Libraries,Date & Time Utilities,Pretty-ms,javascript
+pouchdb,Data Management,NoSQL Databases,Pouchdb,javascript
+md5-file,Utility Libraries,General Utilities,Md5-file,javascript
+react-markdown,Application Development,Web Frameworks,React-markdown,javascript
+is,Utility Libraries,General Utilities,Is,javascript
+yeoman-environment,Developer Tooling,Local Development Runtimes,Yeoman-environment,javascript
+progress-bar-webpack-plugin,Developer Tooling,Build Tools,Progress-bar-webpack-plugin,javascript
+left-pad,Utility Libraries,General Utilities,Left-pad,javascript
+stylelint-order,Testing & Quality,Static Analysis,Stylelint-order,javascript
+follow-redirects,Application Integration,RPC & Web Services,Follow-redirects,javascript
+stylelint-scss,Testing & Quality,Static Analysis,Stylelint-scss,javascript
+koa-mount,Application Development,Web Frameworks,Koa-mount,javascript
+busboy,Utility Libraries,General Utilities,Busboy,javascript
+sinon-chai,Testing & Quality,Testing Frameworks,Sinon-chai,javascript
+jasmine-core,Testing & Quality,Testing Frameworks,Jasmine-core,javascript
+loose-envify,Utility Libraries,General Utilities,Loose-envify,javascript
+process,Utility Libraries,General Utilities,Process,javascript
+envify,Developer Tooling,Build Tools,Envify,javascript
+bufferutil,Utility Libraries,General Utilities,Bufferutil,javascript
+normalize-url,Utility Libraries,General Utilities,Normalize-url,javascript
+angular-animate,Application Development,Web Frameworks,Angular-animate,javascript
+tv4,Utility Libraries,General Utilities,Tv4,javascript
+karma-mocha,Testing & Quality,Testing Frameworks,Karma-mocha,javascript
+karma-phantomjs-launcher,Testing & Quality,Testing Frameworks,Karma-phantomjs-launcher,javascript
+ts-pnp,Developer Tooling,Build Tools,Ts-pnp,javascript
+atob,Utility Libraries,General Utilities,Atob,javascript
+connect-mongo,Application Integration,Service Integration Frameworks,Connect-mongo,javascript
+@jupyterlab/application,Application Development,Web Frameworks,@jupyterlab/application,javascript
+@babel/plugin-proposal-export-namespace-from,Developer Tooling,Build Tools,@babel/plugin-proposal-export-namespace-from,javascript
+http-status,Utility Libraries,General Utilities,Http-status,javascript
+bulma,Application Development,Web Frameworks,Bulma,javascript
+cli-ux,Utility Libraries,General Utilities,Cli-ux,javascript
+iniparser,Utility Libraries,Configuration Utilities,Iniparser,javascript
+nock,Testing & Quality,Mocking & Fakes,Nock,javascript
+object.assign,Utility Libraries,General Utilities,Object.assign,javascript
+flux,Utility Libraries,General Utilities,Flux,javascript
+semantic-ui-react,Application Development,Web Frameworks,Semantic-ui-react,javascript
+fastclick,Utility Libraries,General Utilities,Fastclick,javascript
+karma-jasmine,Testing & Quality,Testing Frameworks,Karma-jasmine,javascript
+fuse.js,Utility Libraries,Collections & Data Structures,Fuse.js,javascript
+inert,Application Integration,Service Integration Frameworks,Inert,javascript
+jwt-simple,Security,Authentication & Authorization,Jwt-simple,javascript
+isobject,Utility Libraries,General Utilities,Isobject,javascript
+jsdoc,Developer Tooling,Code Generators,Jsdoc,javascript
+element-resize-detector,Utility Libraries,General Utilities,Element-resize-detector,javascript
+react-datepicker,Application Development,Web Frameworks,React-datepicker,javascript
+standard,Testing & Quality,Static Analysis,Standard,javascript
+react-onclickoutside,Application Development,Component Models,React-onclickoutside,javascript
+react-addons-shallow-compare,Utility Libraries,General Utilities,React-addons-shallow-compare,javascript
+dot,Utility Libraries,General Utilities,Dot,javascript
+browserslist,Developer Tooling,Build Tools,Browserslist,javascript
+firebase-admin,Application Integration,Service Integration Frameworks,Firebase-admin,javascript
+nib,Utility Libraries,General Utilities,Nib,javascript
+fuzzy,Utility Libraries,General Utilities,Fuzzy,javascript
+word-wrap,Utility Libraries,General Utilities,Word-wrap,javascript
+ansi-colors,Utility Libraries,General Utilities,Ansi-colors,javascript
+tracer,Observability,Logging,Tracer,javascript
+yaml,Serialization,JSON & XML,Yaml,javascript
+ansi-escapes,Utility Libraries,General Utilities,Ansi-escapes,javascript
+jquery-ui,Application Development,Web Frameworks,Jquery-ui,javascript
+raven,Observability,Monitoring,Raven,javascript
+i,Utility Libraries,General Utilities,I,javascript
+xhr,Application Integration,RPC & Web Services,Xhr,javascript
+deep-assign,Utility Libraries,General Utilities,Deep-assign,javascript
+inquirer-autocomplete-prompt,Utility Libraries,General Utilities,Inquirer-autocomplete-prompt,javascript
+xpath,Utility Libraries,General Utilities,Xpath,javascript
+fresh,Utility Libraries,General Utilities,Fresh,javascript
