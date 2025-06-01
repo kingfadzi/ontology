@@ -1,0 +1,2 @@
+group_id,category,subcategory,framework,ecosystem,fetch_artifacts
+io.micronaut,Application Development,Web Frameworks,Micronaut,micronaut,true

@@ -1,0 +1,240 @@
+categories:
+- name: Application Development
+  subcategories:
+  - name: Application Bootstrapping
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.core.*
+      - .*io\.micronaut\.micronaut\-core.*
+      - .*io\.micronaut\.micronaut\-multitenancy.*
+      - .*io\.micronaut\.multitenancy.*
+  - name: Dependency Injection
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.aop.*
+      - .*io\.micronaut\.inject.*
+      - .*io\.micronaut\.inject\-groovy.*
+      - .*io\.micronaut\.inject\-java.*
+      - .*io\.micronaut\.micronaut\-aop.*
+      - .*io\.micronaut\.micronaut\-context.*
+      - .*io\.micronaut\.micronaut\-context\-propagation.*
+      - .*io\.micronaut\.micronaut\-inject.*
+      - .*io\.micronaut\.micronaut\-inject\-groovy.*
+      - .*io\.micronaut\.micronaut\-inject\-java.*
+      - .*io\.micronaut\.micronaut\-inject\-kotlin.*
+  - name: Language Extensions
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-validation.*
+      - .*io\.micronaut\.validation.*
+  - name: Reactive Programming
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-core\-reactive.*
+  - name: Template Engines
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-views.*
+      - .*io\.micronaut\.micronaut\-views\-core.*
+      - .*io\.micronaut\.micronaut\-views\-freemarker.*
+      - .*io\.micronaut\.micronaut\-views\-handlebars.*
+      - .*io\.micronaut\.micronaut\-views\-rocker.*
+      - .*io\.micronaut\.micronaut\-views\-soy.*
+      - .*io\.micronaut\.micronaut\-views\-thymeleaf.*
+      - .*io\.micronaut\.micronaut\-views\-velocity.*
+      - .*io\.micronaut\.views.*
+  - name: Web Frameworks
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.function\-web.*
+      - .*io\.micronaut\.micronaut\-function\-web.*
+      - .*io\.micronaut\.micronaut\-session.*
+      - .*io\.micronaut\.session.*
+- name: Application Integration
+  subcategories:
+  - name: API Gateways
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-router.*
+      - .*io\.micronaut\.router.*
+  - name: Messaging Protocols
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.messaging.*
+      - .*io\.micronaut\.micronaut\-messaging.*
+      - .*io\.micronaut\.micronaut\-websocket.*
+      - .*io\.micronaut\.websocket.*
+  - name: RPC & Web Services
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.http.*
+      - .*io\.micronaut\.http\-client.*
+      - .*io\.micronaut\.http\-netty.*
+      - .*io\.micronaut\.micronaut\-http.*
+      - .*io\.micronaut\.micronaut\-http\-client.*
+      - .*io\.micronaut\.micronaut\-http\-client\-core.*
+      - .*io\.micronaut\.micronaut\-http\-client\-jdk.*
+      - .*io\.micronaut\.micronaut\-http\-netty.*
+  - name: Service Integration Frameworks
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-spring.*
+      - .*io\.micronaut\.spring.*
+- name: Data Management
+  subcategories:
+  - name: ORM & Data Access
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.jdbc.*
+      - .*io\.micronaut\.micronaut\-jdbc.*
+- name: Deployment & Runtime Platforms
+  subcategories:
+  - name: Application Servers
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.http\-server.*
+      - .*io\.micronaut\.http\-server\-netty.*
+      - .*io\.micronaut\.micronaut\-http\-server.*
+      - .*io\.micronaut\.micronaut\-http\-server\-netty.*
+  - name: Function-as-a-Service
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.function\-aws.*
+      - .*io\.micronaut\.function\-client.*
+      - .*io\.micronaut\.function\-groovy.*
+      - .*io\.micronaut\.micronaut\-function.*
+      - .*io\.micronaut\.micronaut\-function\-aws.*
+      - .*io\.micronaut\.micronaut\-function\-client.*
+      - .*io\.micronaut\.micronaut\-function\-groovy.*
+  - name: Local Development Runtimes
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.graal.*
+      - .*io\.micronaut\.micronaut\-graal.*
+      - .*io\.micronaut\.micronaut\-runtime.*
+      - .*io\.micronaut\.micronaut\-runtime\-groovy.*
+      - .*io\.micronaut\.micronaut\-runtime\-osx.*
+      - .*io\.micronaut\.runtime.*
+      - .*io\.micronaut\.runtime\-groovy.*
+- name: Developer Tooling
+  subcategories:
+  - name: Code Generators
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.cli.*
+      - .*io\.micronaut\.micronaut\-cli.*
+      - .*io\.micronaut\.micronaut\-core\-processor.*
+  - name: Dependency Management
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.bom.*
+      - .*io\.micronaut\.micronaut\-bom.*
+      - .*io\.micronaut\.micronaut\-core\-bom.*
+      - .*io\.micronaut\.micronaut\-parent.*
+- name: Observability
+  subcategories:
+  - name: Metrics
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-benchmarks.*
+  - name: Monitoring
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.management.*
+      - .*io\.micronaut\.micronaut\-management.*
+  - name: Tracing
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-tracing.*
+      - .*io\.micronaut\.tracing.*
+- name: Resilience & Control
+  subcategories:
+  - name: Retries & Backoff
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-retry.*
+  - name: Service Discovery
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.discovery\-client.*
+      - .*io\.micronaut\.micronaut\-discovery\-client.*
+      - .*io\.micronaut\.micronaut\-discovery\-core.*
+- name: Security
+  subcategories:
+  - name: Access Control
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-security\-session.*
+      - .*io\.micronaut\.security\-session.*
+  - name: Authentication & Authorization
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-security.*
+      - .*io\.micronaut\.micronaut\-security\-annotations.*
+      - .*io\.micronaut\.micronaut\-security\-jwt.*
+      - .*io\.micronaut\.security.*
+      - .*io\.micronaut\.security\-jwt.*
+  - name: Identity & Access Management
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-acme.*
+- name: Serialization
+  subcategories:
+  - name: JSON & XML
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.micronaut\-jackson\-core.*
+      - .*io\.micronaut\.micronaut\-jackson\-databind.*
+      - .*io\.micronaut\.micronaut\-json\-core.*
+- name: Testing & Quality
+  subcategories:
+  - name: Testing Frameworks
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.inject\-java\-test.*
+      - .*io\.micronaut\.micronaut\-http\-client\-tck.*
+      - .*io\.micronaut\.micronaut\-http\-server\-tck.*
+      - .*io\.micronaut\.micronaut\-http\-tck.*
+      - .*io\.micronaut\.micronaut\-inject\-groovy\-test.*
+      - .*io\.micronaut\.micronaut\-inject\-java\-test.*
+      - .*io\.micronaut\.micronaut\-inject\-kotlin\-test.*
+      - .*io\.micronaut\.micronaut\-test\-suite.*
+      - .*io\.micronaut\.micronaut\-test\-suite\-groovy.*
+      - .*io\.micronaut\.micronaut\-test\-suite\-helper.*
+      - .*io\.micronaut\.micronaut\-test\-suite\-kotlin.*
+      - .*io\.micronaut\.micronaut\-test\-utils.*
+- name: Utility Libraries
+  subcategories:
+  - name: General Utilities
+    frameworks:
+    - name: Micronaut
+      patterns:
+      - .*io\.micronaut\.buffer\-netty.*
+      - .*io\.micronaut\.micronaut\-buffer\-netty.*
+      - .*io\.micronaut\.micronaut\-http\-validation.*

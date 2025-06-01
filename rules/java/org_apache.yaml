@@ -1,0 +1,471 @@
+categories:
+- name: Application Development
+  subcategories:
+  - name: Application Bootstrapping
+    frameworks:
+    - name: Apache Beehive
+      patterns:
+      - .*org\.apache\.beehive.*
+  - name: Component Models
+    frameworks:
+    - name: Apache Aries
+      patterns:
+      - .*org\.apache\.aries.*
+    - name: Apache Avalon
+      patterns:
+      - .*org\.apache\.avalon.*
+    - name: Apache Excalibur
+      patterns:
+      - .*org\.apache\.excalibur.*
+    - name: Apache Fulcrum
+      patterns:
+      - .*org\.apache\.fulcrum.*
+  - name: Dependency Injection
+    frameworks:
+    - name: Apache Bval
+      patterns:
+      - .*org\.apache\.bval.*
+    - name: Apache Hivemind
+      patterns:
+      - .*org\.apache\.hivemind.*
+    - name: Apache Xbean
+      patterns:
+      - .*org\.apache\.xbean.*
+  - name: Language Extensions
+    frameworks:
+    - name: Apache Bsf
+      patterns:
+      - .*org\.apache\.bsf.*
+    - name: Apache Groovy
+      patterns:
+      - .*org\.apache\.groovy.*
+  - name: Mobile & Embedded
+    frameworks:
+    - name: Apache Cordova
+      patterns:
+      - .*org\.apache\.cordova.*
+  - name: Template Engines
+    frameworks:
+    - name: Apache Taglibs
+      patterns:
+      - .*org\.apache\.taglibs.*
+    - name: Apache Tiles
+      patterns:
+      - .*org\.apache\.tiles.*
+    - name: Apache Velocity
+      patterns:
+      - .*org\.apache\.velocity.*
+  - name: Web Frameworks
+    frameworks:
+    - name: Apache Cocoon
+      patterns:
+      - .*org\.apache\.cocoon.*
+    - name: Apache Flex
+      patterns:
+      - .*org\.apache\.flex.*
+    - name: Apache Myfaces
+      patterns:
+      - .*org\.apache\.myfaces.*
+    - name: Apache Portals
+      patterns:
+      - .*org\.apache\.portals.*
+    - name: Apache Struts
+      patterns:
+      - .*org\.apache\.struts.*
+    - name: Apache Tapestry
+      patterns:
+      - .*org\.apache\.tapestry.*
+    - name: Apache Turbine
+      patterns:
+      - .*org\.apache\.turbine.*
+    - name: Apache Wicket
+      patterns:
+      - .*org\.apache\.wicket.*
+- name: Application Integration
+  subcategories:
+  - name: ETL & Data Pipelines
+    frameworks:
+    - name: Apache Beam
+      patterns:
+      - .*org\.apache\.beam.*
+    - name: Apache Flink
+      patterns:
+      - .*org\.apache\.flink.*
+    - name: Apache Flume
+      patterns:
+      - .*org\.apache\.flume.*
+    - name: Apache Hop
+      patterns:
+      - .*org\.apache\.hop.*
+    - name: Apache Nifi
+      patterns:
+      - .*org\.apache\.nifi.*
+    - name: Apache Oozie
+      patterns:
+      - .*org\.apache\.oozie.*
+    - name: Apache Pig
+      patterns:
+      - .*org\.apache\.pig.*
+    - name: Apache Samza
+      patterns:
+      - .*org\.apache\.samza.*
+    - name: Apache Spark
+      patterns:
+      - .*org\.apache\.spark.*
+    - name: Apache Sqoop
+      patterns:
+      - .*org\.apache\.sqoop.*
+    - name: Apache Streams
+      patterns:
+      - .*org\.apache\.streams.*
+  - name: Event Streaming
+    frameworks:
+    - name: Apache Eventmesh
+      patterns:
+      - .*org\.apache\.eventmesh.*
+    - name: Apache Kafka
+      patterns:
+      - .*org\.apache\.kafka.*
+    - name: Apache Storm
+      patterns:
+      - .*org\.apache\.storm.*
+  - name: Message Brokers
+    frameworks:
+    - name: Apache Qpid
+      patterns:
+      - .*org\.apache\.qpid.*
+    - name: Apache Rocketmq
+      patterns:
+      - .*org\.apache\.rocketmq.*
+  - name: RPC & Web Services
+    frameworks:
+    - name: Apache Axis
+      patterns:
+      - .*org\.apache\.axis.*
+    - name: Apache Axis2
+      patterns:
+      - .*org\.apache\.axis2.*
+    - name: Apache Cxf
+      patterns:
+      - .*org\.apache\.cxf.*
+    - name: Apache Fury
+      patterns:
+      - .*org\.apache\.fury.*
+    - name: Apache Neethi
+      patterns:
+      - .*org\.apache\.neethi.*
+    - name: Apache Thrift
+      patterns:
+      - .*org\.apache\.thrift.*
+    - name: Apache Wink
+      patterns:
+      - .*org\.apache\.wink.*
+    - name: Apache Ws
+      patterns:
+      - .*org\.apache\.ws.*
+    - name: Apache Xmlrpc
+      patterns:
+      - .*org\.apache\.xmlrpc.*
+  - name: Remote Procedure Calls
+    frameworks:
+    - name: Apache Httpcomponents
+      patterns:
+      - .*org\.apache\.httpcomponents.*
+  - name: Service Integration Frameworks
+    frameworks:
+    - name: Apache Camel
+      patterns:
+      - .*org\.apache\.camel.*
+    - name: Apache Servicemix
+      patterns:
+      - .*org\.apache\.servicemix.*
+    - name: Apache Synapse
+      patterns:
+      - .*org\.apache\.synapse.*
+- name: Data Management
+  subcategories:
+  - name: Batch Processing
+    frameworks:
+    - name: Apache Bookkeeper
+      patterns:
+      - .*org\.apache\.bookkeeper.*
+  - name: Caching
+    frameworks:
+    - name: Apache Geode
+      patterns:
+      - .*org\.apache\.geode.*
+    - name: Apache Ignite
+      patterns:
+      - .*org\.apache\.ignite.*
+    - name: Apache Jcs
+      patterns:
+      - .*org\.apache\.jcs.*
+  - name: Data Lakes
+    frameworks:
+    - name: Apache Arrow
+      patterns:
+      - .*org\.apache\.arrow.*
+    - name: Apache Datafu
+      patterns:
+      - .*org\.apache\.datafu.*
+    - name: Apache Hadoop
+      patterns:
+      - .*org\.apache\.hadoop.*
+    - name: Apache Ozone
+      patterns:
+      - .*org\.apache\.ozone.*
+  - name: Data Warehousing
+    frameworks:
+    - name: Apache Datafusion
+      patterns:
+      - .*org\.apache\.datafusion.*
+    - name: Apache Drill
+      patterns:
+      - .*org\.apache\.drill.*
+    - name: Apache Falcon
+      patterns:
+      - .*org\.apache\.falcon.*
+    - name: Apache Hive
+      patterns:
+      - .*org\.apache\.hive.*
+    - name: Apache Iceberg
+      patterns:
+      - .*org\.apache\.iceberg.*
+    - name: Apache Solr
+      patterns:
+      - .*org\.apache\.solr.*
+  - name: NoSQL Databases
+    frameworks:
+    - name: Apache Asterix
+      patterns:
+      - .*org\.apache\.asterix.*
+    - name: Apache Cassandra
+      patterns:
+      - .*org\.apache\.cassandra.*
+    - name: Apache Hbase
+      patterns:
+      - .*org\.apache\.hbase.*
+    - name: Apache Hugegraph
+      patterns:
+      - .*org\.apache\.hugegraph.*
+    - name: Apache Jackrabbit
+      patterns:
+      - .*org\.apache\.jackrabbit.*
+    - name: Apache Jdbm
+      patterns:
+      - .*org\.apache\.jdbm.*
+  - name: ORM & Data Access
+    frameworks:
+    - name: Apache Cayenne
+      patterns:
+      - .*org\.apache\.cayenne.*
+    - name: Apache Ddlutils
+      patterns:
+      - .*org\.apache\.ddlutils.*
+    - name: Apache Empire-db
+      patterns:
+      - .*org\.apache\.empire\-db.*
+    - name: Apache Ibatis
+      patterns:
+      - .*org\.apache\.ibatis.*
+    - name: Apache Jdo
+      patterns:
+      - .*org\.apache\.jdo.*
+    - name: Apache Openjpa
+      patterns:
+      - .*org\.apache\.openjpa.*
+  - name: Relational Databases
+    frameworks:
+    - name: Apache Derby
+      patterns:
+      - .*org\.apache\.derby.*
+    - name: Apache Phoenix
+      patterns:
+      - .*org\.apache\.phoenix.*
+- name: Deployment & Runtime Platforms
+  subcategories:
+  - name: Application Servers
+    frameworks:
+    - name: Apache Ftpserver
+      patterns:
+      - .*org\.apache\.ftpserver.*
+    - name: Apache Geronimo
+      patterns:
+      - .*org\.apache\.geronimo.*
+    - name: Apache James
+      patterns:
+      - .*org\.apache\.james.*
+    - name: Apache Karaf
+      patterns:
+      - .*org\.apache\.karaf.*
+    - name: Apache Tomcat
+      patterns:
+      - .*org\.apache\.tomcat.*
+    - name: Apache Tomee
+      patterns:
+      - .*org\.apache\.tomee.*
+    - name: Apache Vysper
+      patterns:
+      - .*org\.apache\.vysper.*
+  - name: Cloud Platforms
+    frameworks:
+    - name: Apache Jclouds
+      patterns:
+      - .*org\.apache\.jclouds.*
+  - name: Orchestration
+    frameworks:
+    - name: Apache Aurora
+      patterns:
+      - .*org\.apache\.aurora.*
+    - name: Apache Brooklyn
+      patterns:
+      - .*org\.apache\.brooklyn.*
+    - name: Apache Helix
+      patterns:
+      - .*org\.apache\.helix.*
+    - name: Apache Mesos
+      patterns:
+      - .*org\.apache\.mesos.*
+- name: Developer Tooling
+  subcategories:
+  - name: Build Tools
+    frameworks:
+    - name: Apache Maven
+      patterns:
+      - .*org\.apache\.maven.*
+  - name: Dependency Management
+    frameworks:
+    - name: Apache Ivy
+      patterns:
+      - .*org\.apache\.ivy.*
+  - name: Local Development Runtimes
+    frameworks:
+    - name: Apache Netbeans
+      patterns:
+      - .*org\.apache\.netbeans.*
+    - name: Apache Zeppelin
+      patterns:
+      - .*org\.apache\.zeppelin.*
+- name: Observability
+  subcategories:
+  - name: Logging
+    frameworks:
+    - name: Apache Logging
+      patterns:
+      - .*org\.apache\.logging.*
+  - name: Tracing
+    frameworks:
+    - name: Apache Zipkin
+      patterns:
+      - .*org\.apache\.zipkin.*
+- name: Resilience & Control
+  subcategories:
+  - name: Service Discovery
+    frameworks:
+    - name: Apache Zookeeper
+      patterns:
+      - .*org\.apache\.zookeeper.*
+- name: Security
+  subcategories:
+  - name: Access Control
+    frameworks:
+    - name: Apache Ranger
+      patterns:
+      - .*org\.apache\.ranger.*
+    - name: Apache Sentry
+      patterns:
+      - .*org\.apache\.sentry.*
+  - name: Authentication & Authorization
+    frameworks:
+    - name: Apache Kerby
+      patterns:
+      - .*org\.apache\.kerby.*
+  - name: Identity Management
+    frameworks:
+    - name: Apache Directory
+      patterns:
+      - .*org\.apache\.directory.*
+  - name: Transport Security
+    frameworks:
+    - name: Apache Sshd
+      patterns:
+      - .*org\.apache\.sshd.*
+    - name: Apache Wss4j
+      patterns:
+      - .*org\.apache\.wss4j.*
+- name: Serialization
+  subcategories:
+  - name: Binary Formats
+    frameworks:
+    - name: Apache Avro
+      patterns:
+      - .*org\.apache\.avro.*
+    - name: Apache Parquet
+      patterns:
+      - .*org\.apache\.parquet.*
+  - name: JSON & XML
+    frameworks:
+    - name: Apache Tika
+      patterns:
+      - .*org\.apache\.tika.*
+  - name: Schema Management
+    frameworks:
+    - name: Apache Daffodil
+      patterns:
+      - .*org\.apache\.daffodil.*
+    - name: Apache Xmlbeans
+      patterns:
+      - .*org\.apache\.xmlbeans.*
+- name: Testing & Quality
+  subcategories:
+  - name: Testing Frameworks
+    frameworks:
+    - name: Apache Cactus
+      patterns:
+      - .*org\.apache\.cactus.*
+    - name: Apache Jmeter
+      patterns:
+      - .*org\.apache\.jmeter.*
+- name: Utility Libraries
+  subcategories:
+  - name: General Utilities
+    frameworks:
+    - name: Apache Apache
+      patterns:
+      - .*org\.apache\.apache.*
+    - name: Apache Bcel
+      patterns:
+      - .*org\.apache\.bcel.*
+    - name: Apache Bigtop
+      patterns:
+      - .*org\.apache\.bigtop.*
+    - name: Apache Commons
+      patterns:
+      - .*org\.apache\.commons.*
+    - name: Apache Continuum
+      patterns:
+      - .*org\.apache\.continuum.*
+    - name: Apache Db
+      patterns:
+      - .*org\.apache\.db.*
+    - name: Apache Droids
+      patterns:
+      - .*org\.apache\.droids.*
+    - name: Apache Hivemall
+      patterns:
+      - .*org\.apache\.hivemall.*
+    - name: Apache Lucene
+      patterns:
+      - .*org\.apache\.lucene.*
+    - name: Apache Mahout
+      patterns:
+      - .*org\.apache\.mahout.*
+    - name: Apache Opennlp
+      patterns:
+      - .*org\.apache\.opennlp.*
+    - name: Apache Pdfbox
+      patterns:
+      - .*org\.apache\.pdfbox.*
+    - name: Apache Poi
+      patterns:
+      - .*org\.apache\.poi.*

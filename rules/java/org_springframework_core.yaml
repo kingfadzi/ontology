@@ -1,0 +1,202 @@
+categories:
+- name: API Management
+  subcategories:
+  - name: GraphQL & Query APIs
+    frameworks:
+    - name: Spring GraphQL
+      patterns:
+      - .*org\.springframework\.graphql.*
+  - name: RPC & Web Services
+    frameworks:
+    - name: Spring gRPC
+      patterns:
+      - .*org\.springframework\.grpc.*
+- name: Application Development
+  subcategories:
+  - name: Application Bootstrapping
+    frameworks:
+    - name: Spring Boot
+      patterns:
+      - .*org\.springframework\.boot.*
+  - name: Component Models
+    frameworks:
+    - name: Spring Framework
+      patterns:
+      - .*org\.springframework.*
+    - name: Spring Modulith
+      patterns:
+      - .*org\.springframework\.modulith.*
+  - name: Dependency Injection
+    frameworks:
+    - name: Spring Guice
+      patterns:
+      - .*org\.springframework\.guice.*
+    - name: Spring JavaConfig
+      patterns:
+      - .*org\.springframework\.javaconfig.*
+  - name: Language Extensions
+    frameworks:
+    - name: Spring AI
+      patterns:
+      - .*org\.springframework\.ai.*
+  - name: Mobile & Embedded
+    frameworks:
+    - name: Spring Android
+      patterns:
+      - .*org\.springframework\.android.*
+    - name: Spring Mobile
+      patterns:
+      - .*org\.springframework\.mobile.*
+  - name: Web Frameworks
+    frameworks:
+    - name: Spring Flex
+      patterns:
+      - .*org\.springframework\.flex.*
+    - name: Spring HATEOAS
+      patterns:
+      - .*org\.springframework\.hateoas.*
+    - name: Spring Web Flow
+      patterns:
+      - .*org\.springframework\.webflow.*
+- name: Application Integration
+  subcategories:
+  - name: Event Streaming
+    frameworks:
+    - name: Spring Kafka
+      patterns:
+      - .*org\.springframework\.kafka.*
+  - name: Message Brokers
+    frameworks:
+    - name: Spring AMQP
+      patterns:
+      - .*org\.springframework\.amqp.*
+    - name: Spring Pulsar
+      patterns:
+      - .*org\.springframework\.pulsar.*
+  - name: RPC & Web Services
+    frameworks:
+    - name: Spring Web Services
+      patterns:
+      - .*org\.springframework\.ws.*
+  - name: Service Integration Frameworks
+    frameworks:
+    - name: Spring Cloud
+      patterns:
+      - .*org\.springframework\.cloud.*
+    - name: Spring Integration
+      patterns:
+      - .*org\.springframework\.integration.*
+    - name: Spring Social
+      patterns:
+      - .*org\.springframework\.social.*
+- name: Data Management
+  subcategories:
+  - name: Batch Processing
+    frameworks:
+    - name: Spring Batch
+      patterns:
+      - .*org\.springframework\.batch.*
+    - name: Spring XD
+      patterns:
+      - .*org\.springframework\.xd.*
+  - name: NoSQL Databases
+    frameworks:
+    - name: Spring Geode
+      patterns:
+      - .*org\.springframework\.geode.*
+  - name: ORM & Data Access
+    frameworks:
+    - name: Spring Data
+      patterns:
+      - .*org\.springframework\.data.*
+- name: Deployment & Runtime Platforms
+  subcategories:
+  - name: Application Servers
+    frameworks:
+    - name: Spring OSGi
+      patterns:
+      - .*org\.springframework\.osgi.*
+  - name: Cloud Platforms
+    frameworks:
+    - name: Spring Cloud AWS
+      patterns:
+      - .*org\.springframework\.aws.*
+- name: Developer Tooling
+  subcategories:
+  - name: Build Tools
+    frameworks:
+    - name: Spring Build
+      patterns:
+      - .*org\.springframework\.build.*
+    - name: Spring Maven
+      patterns:
+      - .*org\.springframework\.maven.*
+  - name: Code Generators
+    frameworks:
+    - name: Spring Experimental
+      patterns:
+      - .*org\.springframework\.experimental.*
+    - name: Spring REST Docs
+      patterns:
+      - .*org\.springframework\.restdocs.*
+    - name: Spring Roo
+      patterns:
+      - .*org\.springframework\.roo.*
+    - name: Spring Shell
+      patterns:
+      - .*org\.springframework\.shell.*
+- name: Observability
+  subcategories:
+  - name: Metrics
+    frameworks:
+    - name: Spring Analytics
+      patterns:
+      - .*org\.springframework\.analytics.*
+    - name: Spring Metrics
+      patterns:
+      - .*org\.springframework\.metrics.*
+- name: Resilience & Control
+  subcategories:
+  - name: Retries & Backoff
+    frameworks:
+    - name: Spring Retry
+      patterns:
+      - .*org\.springframework\.retry.*
+  - name: Service Discovery
+    frameworks:
+    - name: Spring Statemachine
+      patterns:
+      - .*org\.springframework\.statemachine.*
+- name: Security
+  subcategories:
+  - name: Authentication
+    frameworks:
+    - name: Spring Security
+      patterns:
+      - .*org\.springframework\.security.*
+  - name: Identity & Access Management
+    frameworks:
+    - name: Spring LDAP
+      patterns:
+      - .*org\.springframework\.ldap.*
+    - name: Spring Session
+      patterns:
+      - .*org\.springframework\.session.*
+  - name: Secrets & Key Management
+    frameworks:
+    - name: Spring CredHub
+      patterns:
+      - .*org\.springframework\.credhub.*
+    - name: Spring Vault
+      patterns:
+      - .*org\.springframework\.vault.*
+- name: Utility Libraries
+  subcategories:
+  - name: General Utilities
+    frameworks:
+    - name: Spring Commons
+      patterns:
+      - .*org\.springframework\.commons.*
+    - name: Spring Plugin
+      patterns:
+      - .*org\.springframework\.plugin.*

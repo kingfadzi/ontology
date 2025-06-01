@@ -1,0 +1,3091 @@
+categories:
+- name: Application Development
+  subcategories:
+  - name: Application Bootstrapping
+    frameworks:
+    - name: Requirejs
+      patterns:
+      - .*requirejs.*
+    - name: Systemjs
+      patterns:
+      - .*systemjs.*
+  - name: Component Models
+    frameworks:
+    - name: React-onclickoutside
+      patterns:
+      - .*react\-onclickoutside.*
+  - name: Dependency Injection
+    frameworks:
+    - name: Inversify
+      patterns:
+      - .*inversify.*
+  - name: Mobile & Embedded
+    frameworks:
+    - name: React-native
+      patterns:
+      - .*react\-native.*
+    - name: React-native-vector-icons
+      patterns:
+      - .*react\-native\-vector\-icons.*
+  - name: Reactive Programming
+    frameworks:
+    - name: '@angular/animations'
+      patterns:
+      - .*@angular/animations.*
+    - name: Highland
+      patterns:
+      - .*highland.*
+    - name: Mobx
+      patterns:
+      - .*mobx.*
+    - name: React-motion
+      patterns:
+      - .*react\-motion.*
+    - name: React-redux
+      patterns:
+      - .*react\-redux.*
+    - name: React-transition-group
+      patterns:
+      - .*react\-transition\-group.*
+    - name: Redux
+      patterns:
+      - .*redux.*
+    - name: Redux-actions
+      patterns:
+      - .*redux\-actions.*
+    - name: Redux-saga
+      patterns:
+      - .*redux\-saga.*
+    - name: Redux-thunk
+      patterns:
+      - .*redux\-thunk.*
+    - name: Rx
+      patterns:
+      - .*rx.*
+    - name: Rxjs
+      patterns:
+      - .*rxjs.*
+    - name: Rxjs-compat
+      patterns:
+      - .*rxjs\-compat.*
+  - name: Template Engines
+    frameworks:
+    - name: Ejs
+      patterns:
+      - .*ejs.*
+    - name: Emotion
+      patterns:
+      - .*emotion.*
+    - name: Handlebars
+      patterns:
+      - .*handlebars.*
+    - name: Hogan.js
+      patterns:
+      - .*hogan\.js.*
+    - name: Jade
+      patterns:
+      - .*jade.*
+    - name: Less
+      patterns:
+      - .*less.*
+    - name: Mustache
+      patterns:
+      - .*mustache.*
+    - name: Nunjucks
+      patterns:
+      - .*nunjucks.*
+    - name: Pug
+      patterns:
+      - .*pug.*
+    - name: Styled-components
+      patterns:
+      - .*styled\-components.*
+    - name: Swig
+      patterns:
+      - .*swig.*
+  - name: Web Frameworks
+    frameworks:
+    - name: '@alifd/next'
+      patterns:
+      - .*@alifd/next.*
+    - name: '@angular/cdk'
+      patterns:
+      - .*@angular/cdk.*
+    - name: '@angular/common'
+      patterns:
+      - .*@angular/common.*
+    - name: '@angular/compiler'
+      patterns:
+      - .*@angular/compiler.*
+    - name: '@angular/core'
+      patterns:
+      - .*@angular/core.*
+    - name: '@angular/forms'
+      patterns:
+      - .*@angular/forms.*
+    - name: '@angular/http'
+      patterns:
+      - .*@angular/http.*
+    - name: '@angular/material'
+      patterns:
+      - .*@angular/material.*
+    - name: '@angular/platform-browser'
+      patterns:
+      - .*@angular/platform\-browser.*
+    - name: '@angular/platform-browser-dynamic'
+      patterns:
+      - .*@angular/platform\-browser\-dynamic.*
+    - name: '@angular/platform-server'
+      patterns:
+      - .*@angular/platform\-server.*
+    - name: '@angular/router'
+      patterns:
+      - .*@angular/router.*
+    - name: '@emotion/core'
+      patterns:
+      - .*@emotion/core.*
+    - name: '@emotion/styled'
+      patterns:
+      - .*@emotion/styled.*
+    - name: '@fortawesome/fontawesome-svg-core'
+      patterns:
+      - .*@fortawesome/fontawesome\-svg\-core.*
+    - name: '@fortawesome/react-fontawesome'
+      patterns:
+      - .*@fortawesome/react\-fontawesome.*
+    - name: '@jupyterlab/application'
+      patterns:
+      - .*@jupyterlab/application.*
+    - name: '@material-ui/core'
+      patterns:
+      - .*@material\-ui/core.*
+    - name: '@material-ui/icons'
+      patterns:
+      - .*@material\-ui/icons.*
+    - name: '@phosphor/widgets'
+      patterns:
+      - .*@phosphor/widgets.*
+    - name: '@polymer/polymer'
+      patterns:
+      - .*@polymer/polymer.*
+    - name: Angular
+      patterns:
+      - .*angular.*
+    - name: Angular-animate
+      patterns:
+      - .*angular\-animate.*
+    - name: Antd
+      patterns:
+      - .*antd.*
+    - name: Backbone
+      patterns:
+      - .*backbone.*
+    - name: Bizcharts
+      patterns:
+      - .*bizcharts.*
+    - name: Blessed
+      patterns:
+      - .*blessed.*
+    - name: Bootstrap
+      patterns:
+      - .*bootstrap.*
+    - name: Bulma
+      patterns:
+      - .*bulma.*
+    - name: Chart.js
+      patterns:
+      - .*chart\.js.*
+    - name: Codemirror
+      patterns:
+      - .*codemirror.*
+    - name: Connect
+      patterns:
+      - .*connect.*
+    - name: Create-react-class
+      patterns:
+      - .*create\-react\-class.*
+    - name: D3
+      patterns:
+      - .*d3.*
+    - name: D3-array
+      patterns:
+      - .*d3\-array.*
+    - name: D3-selection
+      patterns:
+      - .*d3\-selection.*
+    - name: D3-shape
+      patterns:
+      - .*d3\-shape.*
+    - name: Draft-js
+      patterns:
+      - .*draft\-js.*
+    - name: Echarts
+      patterns:
+      - .*echarts.*
+    - name: Element-ui
+      patterns:
+      - .*element\-ui.*
+    - name: Express
+      patterns:
+      - .*express.*
+    - name: Firebase
+      patterns:
+      - .*firebase.*
+    - name: Font-awesome
+      patterns:
+      - .*font\-awesome.*
+    - name: Hapi
+      patterns:
+      - .*hapi.*
+    - name: Iview
+      patterns:
+      - .*iview.*
+    - name: Jquery-ui
+      patterns:
+      - .*jquery\-ui.*
+    - name: Koa
+      patterns:
+      - .*koa.*
+    - name: Koa-mount
+      patterns:
+      - .*koa\-mount.*
+    - name: Koa-router
+      patterns:
+      - .*koa\-router.*
+    - name: Koa-static
+      patterns:
+      - .*koa\-static.*
+    - name: Leaflet
+      patterns:
+      - .*leaflet.*
+    - name: Lit-element
+      patterns:
+      - .*lit\-element.*
+    - name: Material-ui
+      patterns:
+      - .*material\-ui.*
+    - name: Metalsmith
+      patterns:
+      - .*metalsmith.*
+    - name: Mobx-react
+      patterns:
+      - .*mobx\-react.*
+    - name: Nprogress
+      patterns:
+      - .*nprogress.*
+    - name: Preact
+      patterns:
+      - .*preact.*
+    - name: Quill
+      patterns:
+      - .*quill.*
+    - name: Rc-slider
+      patterns:
+      - .*rc\-slider.*
+    - name: React
+      patterns:
+      - .*react.*
+    - name: React-addons-css-transition-group
+      patterns:
+      - .*react\-addons\-css\-transition\-group.*
+    - name: React-bootstrap
+      patterns:
+      - .*react\-bootstrap.*
+    - name: React-color
+      patterns:
+      - .*react\-color.*
+    - name: React-datepicker
+      patterns:
+      - .*react\-datepicker.*
+    - name: React-dnd
+      patterns:
+      - .*react\-dnd.*
+    - name: React-dnd-html5-backend
+      patterns:
+      - .*react\-dnd\-html5\-backend.*
+    - name: React-dom
+      patterns:
+      - .*react\-dom.*
+    - name: React-dropzone
+      patterns:
+      - .*react\-dropzone.*
+    - name: React-helmet
+      patterns:
+      - .*react\-helmet.*
+    - name: React-hot-loader
+      patterns:
+      - .*react\-hot\-loader.*
+    - name: React-icons
+      patterns:
+      - .*react\-icons.*
+    - name: React-intl
+      patterns:
+      - .*react\-intl.*
+    - name: React-lifecycles-compat
+      patterns:
+      - .*react\-lifecycles\-compat.*
+    - name: React-markdown
+      patterns:
+      - .*react\-markdown.*
+    - name: React-modal
+      patterns:
+      - .*react\-modal.*
+    - name: React-router
+      patterns:
+      - .*react\-router.*
+    - name: React-router-dom
+      patterns:
+      - .*react\-router\-dom.*
+    - name: React-router-redux
+      patterns:
+      - .*react\-router\-redux.*
+    - name: React-select
+      patterns:
+      - .*react\-select.*
+    - name: React-slick
+      patterns:
+      - .*react\-slick.*
+    - name: React-tap-event-plugin
+      patterns:
+      - .*react\-tap\-event\-plugin.*
+    - name: React-virtualized
+      patterns:
+      - .*react\-virtualized.*
+    - name: Reactstrap
+      patterns:
+      - .*reactstrap.*
+    - name: Redux-form
+      patterns:
+      - .*redux\-form.*
+    - name: Restify
+      patterns:
+      - .*restify.*
+    - name: Semantic-ui-react
+      patterns:
+      - .*semantic\-ui\-react.*
+    - name: Serve-favicon
+      patterns:
+      - .*serve\-favicon.*
+    - name: Serve-static
+      patterns:
+      - .*serve\-static.*
+    - name: Three
+      patterns:
+      - .*three.*
+    - name: Vorpal
+      patterns:
+      - .*vorpal.*
+    - name: Vue
+      patterns:
+      - .*vue.*
+    - name: Vue-class-component
+      patterns:
+      - .*vue\-class\-component.*
+    - name: Vue-i18n
+      patterns:
+      - .*vue\-i18n.*
+    - name: Vue-property-decorator
+      patterns:
+      - .*vue\-property\-decorator.*
+    - name: Vue-router
+      patterns:
+      - .*vue\-router.*
+    - name: Vue-template-compiler
+      patterns:
+      - .*vue\-template\-compiler.*
+    - name: Vuex
+      patterns:
+      - .*vuex.*
+- name: Application Integration
+  subcategories:
+  - name: API Gateways
+    frameworks:
+    - name: Http-proxy
+      patterns:
+      - .*http\-proxy.*
+    - name: Http-proxy-middleware
+      patterns:
+      - .*http\-proxy\-middleware.*
+  - name: Message Brokers
+    frameworks:
+    - name: Amqplib
+      patterns:
+      - .*amqplib.*
+    - name: Mqtt
+      patterns:
+      - .*mqtt.*
+  - name: Messaging Protocols
+    frameworks:
+    - name: Cookie-parser
+      patterns:
+      - .*cookie\-parser.*
+    - name: Discord.js
+      patterns:
+      - .*discord\.js.*
+    - name: Express-session
+      patterns:
+      - .*express\-session.*
+    - name: Socket.io
+      patterns:
+      - .*socket\.io.*
+    - name: Socket.io-client
+      patterns:
+      - .*socket\.io\-client.*
+    - name: Sockjs-client
+      patterns:
+      - .*sockjs\-client.*
+    - name: Websocket
+      patterns:
+      - .*websocket.*
+    - name: Ws
+      patterns:
+      - .*ws.*
+  - name: RPC & Web Services
+    frameworks:
+    - name: '@octokit/rest'
+      patterns:
+      - .*@octokit/rest.*
+    - name: Axios
+      patterns:
+      - .*axios.*
+    - name: Cross-fetch
+      patterns:
+      - .*cross\-fetch.*
+    - name: Follow-redirects
+      patterns:
+      - .*follow\-redirects.*
+    - name: Formidable
+      patterns:
+      - .*formidable.*
+    - name: Googleapis
+      patterns:
+      - .*googleapis.*
+    - name: Got
+      patterns:
+      - .*got.*
+    - name: Grpc
+      patterns:
+      - .*grpc.*
+    - name: Http
+      patterns:
+      - .*http.*
+    - name: Http-errors
+      patterns:
+      - .*http\-errors.*
+    - name: Https-proxy-agent
+      patterns:
+      - .*https\-proxy\-agent.*
+    - name: Hyperquest
+      patterns:
+      - .*hyperquest.*
+    - name: Isomorphic-fetch
+      patterns:
+      - .*isomorphic\-fetch.*
+    - name: Method-override
+      patterns:
+      - .*method\-override.*
+    - name: Multer
+      patterns:
+      - .*multer.*
+    - name: Needle
+      patterns:
+      - .*needle.*
+    - name: Node-fetch
+      patterns:
+      - .*node\-fetch.*
+    - name: Nodemailer
+      patterns:
+      - .*nodemailer.*
+    - name: Request
+      patterns:
+      - .*request.*
+    - name: Request-promise
+      patterns:
+      - .*request\-promise.*
+    - name: Request-promise-native
+      patterns:
+      - .*request\-promise\-native.*
+    - name: Restler
+      patterns:
+      - .*restler.*
+    - name: Send
+      patterns:
+      - .*send.*
+    - name: Soap
+      patterns:
+      - .*soap.*
+    - name: Superagent
+      patterns:
+      - .*superagent.*
+    - name: Sync-request
+      patterns:
+      - .*sync\-request.*
+    - name: Urllib
+      patterns:
+      - .*urllib.*
+    - name: Whatwg-fetch
+      patterns:
+      - .*whatwg\-fetch.*
+    - name: Xhr
+      patterns:
+      - .*xhr.*
+    - name: Xmlhttprequest
+      patterns:
+      - .*xmlhttprequest.*
+  - name: Service Integration Frameworks
+    frameworks:
+    - name: Apollo-cache-inmemory
+      patterns:
+      - .*apollo\-cache\-inmemory.*
+    - name: Apollo-client
+      patterns:
+      - .*apollo\-client.*
+    - name: Apollo-link
+      patterns:
+      - .*apollo\-link.*
+    - name: Apollo-link-http
+      patterns:
+      - .*apollo\-link\-http.*
+    - name: Connect-mongo
+      patterns:
+      - .*connect\-mongo.*
+    - name: Connect-redis
+      patterns:
+      - .*connect\-redis.*
+    - name: Datafire
+      patterns:
+      - .*datafire.*
+    - name: Dockerode
+      patterns:
+      - .*dockerode.*
+    - name: Firebase-admin
+      patterns:
+      - .*firebase\-admin.*
+    - name: Graphql
+      patterns:
+      - .*graphql.*
+    - name: Graphql-tag
+      patterns:
+      - .*graphql\-tag.*
+    - name: Graphql-tools
+      patterns:
+      - .*graphql\-tools.*
+    - name: Inert
+      patterns:
+      - .*inert.*
+    - name: Koa-body
+      patterns:
+      - .*koa\-body.*
+    - name: Koa-bodyparser
+      patterns:
+      - .*koa\-bodyparser.*
+    - name: Node-static
+      patterns:
+      - .*node\-static.*
+    - name: React-apollo
+      patterns:
+      - .*react\-apollo.*
+- name: Data Management
+  subcategories:
+  - name: Caching
+    frameworks:
+    - name: Hiredis
+      patterns:
+      - .*hiredis.*
+    - name: Ioredis
+      patterns:
+      - .*ioredis.*
+    - name: Lru-cache
+      patterns:
+      - .*lru\-cache.*
+    - name: Node-cache
+      patterns:
+      - .*node\-cache.*
+    - name: Redis
+      patterns:
+      - .*redis.*
+  - name: NoSQL Databases
+    frameworks:
+    - name: Elasticsearch
+      patterns:
+      - .*elasticsearch.*
+    - name: Level
+      patterns:
+      - .*level.*
+    - name: Leveldown
+      patterns:
+      - .*leveldown.*
+    - name: Levelup
+      patterns:
+      - .*levelup.*
+    - name: Lowdb
+      patterns:
+      - .*lowdb.*
+    - name: Mongodb
+      patterns:
+      - .*mongodb.*
+    - name: Nedb
+      patterns:
+      - .*nedb.*
+    - name: Pouchdb
+      patterns:
+      - .*pouchdb.*
+  - name: ORM & Data Access
+    frameworks:
+    - name: Knex
+      patterns:
+      - .*knex.*
+    - name: Mongoose
+      patterns:
+      - .*mongoose.*
+    - name: Sequelize
+      patterns:
+      - .*sequelize.*
+    - name: Typeorm
+      patterns:
+      - .*typeorm.*
+  - name: Relational Databases
+    frameworks:
+    - name: Mssql
+      patterns:
+      - .*mssql.*
+    - name: Mysql
+      patterns:
+      - .*mysql.*
+    - name: Mysql2
+      patterns:
+      - .*mysql2.*
+    - name: Pg
+      patterns:
+      - .*pg.*
+    - name: Sqlite3
+      patterns:
+      - .*sqlite3.*
+- name: Deployment & Runtime Platforms
+  subcategories:
+  - name: Application Servers
+    frameworks:
+    - name: Http-server
+      patterns:
+      - .*http\-server.*
+  - name: Cloud Platforms
+    frameworks:
+    - name: Aws-sdk
+      patterns:
+      - .*aws\-sdk.*
+  - name: Local Development Runtimes
+    frameworks:
+    - name: Electron
+      patterns:
+      - .*electron.*
+    - name: Phantomjs
+      patterns:
+      - .*phantomjs.*
+    - name: Phantomjs-prebuilt
+      patterns:
+      - .*phantomjs\-prebuilt.*
+- name: Developer Tooling
+  subcategories:
+  - name: Build Tools
+    frameworks:
+    - name: '@angular-devkit/core'
+      patterns:
+      - .*@angular\-devkit/core.*
+    - name: '@angular/compiler-cli'
+      patterns:
+      - .*@angular/compiler\-cli.*
+    - name: '@babel/cli'
+      patterns:
+      - .*@babel/cli.*
+    - name: '@babel/core'
+      patterns:
+      - .*@babel/core.*
+    - name: '@babel/parser'
+      patterns:
+      - .*@babel/parser.*
+    - name: '@babel/plugin-proposal-class-properties'
+      patterns:
+      - .*@babel/plugin\-proposal\-class\-properties.*
+    - name: '@babel/plugin-proposal-decorators'
+      patterns:
+      - .*@babel/plugin\-proposal\-decorators.*
+    - name: '@babel/plugin-proposal-export-default-from'
+      patterns:
+      - .*@babel/plugin\-proposal\-export\-default\-from.*
+    - name: '@babel/plugin-proposal-export-namespace-from'
+      patterns:
+      - .*@babel/plugin\-proposal\-export\-namespace\-from.*
+    - name: '@babel/plugin-proposal-object-rest-spread'
+      patterns:
+      - .*@babel/plugin\-proposal\-object\-rest\-spread.*
+    - name: '@babel/plugin-syntax-dynamic-import'
+      patterns:
+      - .*@babel/plugin\-syntax\-dynamic\-import.*
+    - name: '@babel/plugin-transform-runtime'
+      patterns:
+      - .*@babel/plugin\-transform\-runtime.*
+    - name: '@babel/preset-env'
+      patterns:
+      - .*@babel/preset\-env.*
+    - name: '@babel/preset-react'
+      patterns:
+      - .*@babel/preset\-react.*
+    - name: '@babel/preset-typescript'
+      patterns:
+      - .*@babel/preset\-typescript.*
+    - name: '@babel/register'
+      patterns:
+      - .*@babel/register.*
+    - name: '@babel/runtime'
+      patterns:
+      - .*@babel/runtime.*
+    - name: '@babel/runtime-corejs2'
+      patterns:
+      - .*@babel/runtime\-corejs2.*
+    - name: '@babel/traverse'
+      patterns:
+      - .*@babel/traverse.*
+    - name: '@babel/types'
+      patterns:
+      - .*@babel/types.*
+    - name: '@svgr/webpack'
+      patterns:
+      - .*@svgr/webpack.*
+    - name: Acorn
+      patterns:
+      - .*acorn.*
+    - name: Autoprefixer
+      patterns:
+      - .*autoprefixer.*
+    - name: Awesome-typescript-loader
+      patterns:
+      - .*awesome\-typescript\-loader.*
+    - name: Babel
+      patterns:
+      - .*babel.*
+    - name: Babel-cli
+      patterns:
+      - .*babel\-cli.*
+    - name: Babel-core
+      patterns:
+      - .*babel\-core.*
+    - name: Babel-generator
+      patterns:
+      - .*babel\-generator.*
+    - name: Babel-helper-vue-jsx-merge-props
+      patterns:
+      - .*babel\-helper\-vue\-jsx\-merge\-props.*
+    - name: Babel-loader
+      patterns:
+      - .*babel\-loader.*
+    - name: Babel-plugin-add-module-exports
+      patterns:
+      - .*babel\-plugin\-add\-module\-exports.*
+    - name: Babel-plugin-dynamic-import-node
+      patterns:
+      - .*babel\-plugin\-dynamic\-import\-node.*
+    - name: Babel-plugin-import
+      patterns:
+      - .*babel\-plugin\-import.*
+    - name: Babel-plugin-lodash
+      patterns:
+      - .*babel\-plugin\-lodash.*
+    - name: Babel-plugin-module-resolver
+      patterns:
+      - .*babel\-plugin\-module\-resolver.*
+    - name: Babel-plugin-named-asset-import
+      patterns:
+      - .*babel\-plugin\-named\-asset\-import.*
+    - name: Babel-plugin-syntax-dynamic-import
+      patterns:
+      - .*babel\-plugin\-syntax\-dynamic\-import.*
+    - name: Babel-plugin-syntax-jsx
+      patterns:
+      - .*babel\-plugin\-syntax\-jsx.*
+    - name: Babel-plugin-transform-async-to-generator
+      patterns:
+      - .*babel\-plugin\-transform\-async\-to\-generator.*
+    - name: Babel-plugin-transform-class-properties
+      patterns:
+      - .*babel\-plugin\-transform\-class\-properties.*
+    - name: Babel-plugin-transform-decorators-legacy
+      patterns:
+      - .*babel\-plugin\-transform\-decorators\-legacy.*
+    - name: Babel-plugin-transform-es2015-modules-commonjs
+      patterns:
+      - .*babel\-plugin\-transform\-es2015\-modules\-commonjs.*
+    - name: Babel-plugin-transform-object-rest-spread
+      patterns:
+      - .*babel\-plugin\-transform\-object\-rest\-spread.*
+    - name: Babel-plugin-transform-react-jsx
+      patterns:
+      - .*babel\-plugin\-transform\-react\-jsx.*
+    - name: Babel-plugin-transform-react-remove-prop-types
+      patterns:
+      - .*babel\-plugin\-transform\-react\-remove\-prop\-types.*
+    - name: Babel-plugin-transform-regenerator
+      patterns:
+      - .*babel\-plugin\-transform\-regenerator.*
+    - name: Babel-plugin-transform-runtime
+      patterns:
+      - .*babel\-plugin\-transform\-runtime.*
+    - name: Babel-polyfill
+      patterns:
+      - .*babel\-polyfill.*
+    - name: Babel-preset-env
+      patterns:
+      - .*babel\-preset\-env.*
+    - name: Babel-preset-es2015
+      patterns:
+      - .*babel\-preset\-es2015.*
+    - name: Babel-preset-react
+      patterns:
+      - .*babel\-preset\-react.*
+    - name: Babel-preset-react-app
+      patterns:
+      - .*babel\-preset\-react\-app.*
+    - name: Babel-preset-stage-0
+      patterns:
+      - .*babel\-preset\-stage\-0.*
+    - name: Babel-preset-stage-1
+      patterns:
+      - .*babel\-preset\-stage\-1.*
+    - name: Babel-preset-stage-2
+      patterns:
+      - .*babel\-preset\-stage\-2.*
+    - name: Babel-preset-stage-3
+      patterns:
+      - .*babel\-preset\-stage\-3.*
+    - name: Babel-register
+      patterns:
+      - .*babel\-register.*
+    - name: Babel-runtime
+      patterns:
+      - .*babel\-runtime.*
+    - name: Babel-template
+      patterns:
+      - .*babel\-template.*
+    - name: Babel-traverse
+      patterns:
+      - .*babel\-traverse.*
+    - name: Babel-types
+      patterns:
+      - .*babel\-types.*
+    - name: Babelify
+      patterns:
+      - .*babelify.*
+    - name: Broccoli-funnel
+      patterns:
+      - .*broccoli\-funnel.*
+    - name: Broccoli-merge-trees
+      patterns:
+      - .*broccoli\-merge\-trees.*
+    - name: Browserify
+      patterns:
+      - .*browserify.*
+    - name: Browserslist
+      patterns:
+      - .*browserslist.*
+    - name: Case-sensitive-paths-webpack-plugin
+      patterns:
+      - .*case\-sensitive\-paths\-webpack\-plugin.*
+    - name: Clean-css
+      patterns:
+      - .*clean\-css.*
+    - name: Clean-webpack-plugin
+      patterns:
+      - .*clean\-webpack\-plugin.*
+    - name: Copy-webpack-plugin
+      patterns:
+      - .*copy\-webpack\-plugin.*
+    - name: Cross-env
+      patterns:
+      - .*cross\-env.*
+    - name: Css
+      patterns:
+      - .*css.*
+    - name: Css-loader
+      patterns:
+      - .*css\-loader.*
+    - name: Cssnano
+      patterns:
+      - .*cssnano.*
+    - name: Download-git-repo
+      patterns:
+      - .*download\-git\-repo.*
+    - name: Ember-cli-babel
+      patterns:
+      - .*ember\-cli\-babel.*
+    - name: Ember-cli-htmlbars
+      patterns:
+      - .*ember\-cli\-htmlbars.*
+    - name: Envify
+      patterns:
+      - .*envify.*
+    - name: Es m
+      patterns:
+      - .*esm.*
+    - name: Escodegen
+      patterns:
+      - .*escodegen.*
+    - name: Extract-text-webpack-plugin
+      patterns:
+      - .*extract\-text\-webpack\-plugin.*
+    - name: File-loader
+      patterns:
+      - .*file\-loader.*
+    - name: Fork-ts-checker-webpack-plugin
+      patterns:
+      - .*fork\-ts\-checker\-webpack\-plugin.*
+    - name: Fork-ts-checker-webpack-plugin-alt
+      patterns:
+      - .*fork\-ts\-checker\-webpack\-plugin\-alt.*
+    - name: Friendly-errors-webpack-plugin
+      patterns:
+      - .*friendly\-errors\-webpack\-plugin.*
+    - name: Gh-pages
+      patterns:
+      - .*gh\-pages.*
+    - name: Grunt
+      patterns:
+      - .*grunt.*
+    - name: Grunt-contrib-clean
+      patterns:
+      - .*grunt\-contrib\-clean.*
+    - name: Grunt-contrib-concat
+      patterns:
+      - .*grunt\-contrib\-concat.*
+    - name: Grunt-contrib-copy
+      patterns:
+      - .*grunt\-contrib\-copy.*
+    - name: Grunt-contrib-jshint
+      patterns:
+      - .*grunt\-contrib\-jshint.*
+    - name: Grunt-contrib-uglify
+      patterns:
+      - .*grunt\-contrib\-uglify.*
+    - name: Grunt-contrib-watch
+      patterns:
+      - .*grunt\-contrib\-watch.*
+    - name: Gulp
+      patterns:
+      - .*gulp.*
+    - name: Gulp-autoprefixer
+      patterns:
+      - .*gulp\-autoprefixer.*
+    - name: Gulp-babel
+      patterns:
+      - .*gulp\-babel.*
+    - name: Gulp-clean-css
+      patterns:
+      - .*gulp\-clean\-css.*
+    - name: Gulp-concat
+      patterns:
+      - .*gulp\-concat.*
+    - name: Gulp-conflict
+      patterns:
+      - .*gulp\-conflict.*
+    - name: Gulp-eslint
+      patterns:
+      - .*gulp\-eslint.*
+    - name: Gulp-filter
+      patterns:
+      - .*gulp\-filter.*
+    - name: Gulp-if
+      patterns:
+      - .*gulp\-if.*
+    - name: Gulp-imagemin
+      patterns:
+      - .*gulp\-imagemin.*
+    - name: Gulp-install
+      patterns:
+      - .*gulp\-install.*
+    - name: Gulp-jshint
+      patterns:
+      - .*gulp\-jshint.*
+    - name: Gulp-less
+      patterns:
+      - .*gulp\-less.*
+    - name: Gulp-load-plugins
+      patterns:
+      - .*gulp\-load\-plugins.*
+    - name: Gulp-minify-css
+      patterns:
+      - .*gulp\-minify\-css.*
+    - name: Gulp-notify
+      patterns:
+      - .*gulp\-notify.*
+    - name: Gulp-plumber
+      patterns:
+      - .*gulp\-plumber.*
+    - name: Gulp-postcss
+      patterns:
+      - .*gulp\-postcss.*
+    - name: Gulp-rename
+      patterns:
+      - .*gulp\-rename.*
+    - name: Gulp-replace
+      patterns:
+      - .*gulp\-replace.*
+    - name: Gulp-sass
+      patterns:
+      - .*gulp\-sass.*
+    - name: Gulp-shell
+      patterns:
+      - .*gulp\-shell.*
+    - name: Gulp-sourcemaps
+      patterns:
+      - .*gulp\-sourcemaps.*
+    - name: Gulp-template
+      patterns:
+      - .*gulp\-template.*
+    - name: Gulp-typescript
+      patterns:
+      - .*gulp\-typescript.*
+    - name: Gulp-uglify
+      patterns:
+      - .*gulp\-uglify.*
+    - name: Gulp-util
+      patterns:
+      - .*gulp\-util.*
+    - name: Gulp-watch
+      patterns:
+      - .*gulp\-watch.*
+    - name: Html-loader
+      patterns:
+      - .*html\-loader.*
+    - name: Html-minifier
+      patterns:
+      - .*html\-minifier.*
+    - name: Html-webpack-plugin
+      patterns:
+      - .*html\-webpack\-plugin.*
+    - name: Imagemin
+      patterns:
+      - .*imagemin.*
+    - name: Imagemin-pngquant
+      patterns:
+      - .*imagemin\-pngquant.*
+    - name: Json-loader
+      patterns:
+      - .*json\-loader.*
+    - name: Less-loader
+      patterns:
+      - .*less\-loader.*
+    - name: Lint-staged
+      patterns:
+      - .*lint\-staged.*
+    - name: Loader-utils
+      patterns:
+      - .*loader\-utils.*
+    - name: Mini-css-extract-plugin
+      patterns:
+      - .*mini\-css\-extract\-plugin.*
+    - name: Node-gyp
+      patterns:
+      - .*node\-gyp.*
+    - name: Node-pre-gyp
+      patterns:
+      - .*node\-pre\-gyp.*
+    - name: Node-sass
+      patterns:
+      - .*node\-sass.*
+    - name: Npm-run-all
+      patterns:
+      - .*npm\-run\-all.*
+    - name: Optimize-css-assets-webpack-plugin
+      patterns:
+      - .*optimize\-css\-assets\-webpack\-plugin.*
+    - name: Pnp-webpack-plugin
+      patterns:
+      - .*pnp\-webpack\-plugin.*
+    - name: Postcss
+      patterns:
+      - .*postcss.*
+    - name: Postcss-cssnext
+      patterns:
+      - .*postcss\-cssnext.*
+    - name: Postcss-flexbugs-fixes
+      patterns:
+      - .*postcss\-flexbugs\-fixes.*
+    - name: Postcss-import
+      patterns:
+      - .*postcss\-import.*
+    - name: Postcss-loader
+      patterns:
+      - .*postcss\-loader.*
+    - name: Postcss-nested
+      patterns:
+      - .*postcss\-nested.*
+    - name: Postcss-normalize
+      patterns:
+      - .*postcss\-normalize.*
+    - name: Postcss-preset-env
+      patterns:
+      - .*postcss\-preset\-env.*
+    - name: Postcss-safe-parser
+      patterns:
+      - .*postcss\-safe\-parser.*
+    - name: Progress-bar-webpack-plugin
+      patterns:
+      - .*progress\-bar\-webpack\-plugin.*
+    - name: Raw-loader
+      patterns:
+      - .*raw\-loader.*
+    - name: React-dev-utils
+      patterns:
+      - .*react\-dev\-utils.*
+    - name: React-scripts
+      patterns:
+      - .*react\-scripts.*
+    - name: Recast
+      patterns:
+      - .*recast.*
+    - name: Resolve
+      patterns:
+      - .*resolve.*
+    - name: Rimraf
+      patterns:
+      - .*rimraf.*
+    - name: Rollup
+      patterns:
+      - .*rollup.*
+    - name: Rollup-plugin-babel
+      patterns:
+      - .*rollup\-plugin\-babel.*
+    - name: Rollup-plugin-commonjs
+      patterns:
+      - .*rollup\-plugin\-commonjs.*
+    - name: Rollup-plugin-node-resolve
+      patterns:
+      - .*rollup\-plugin\-node\-resolve.*
+    - name: Rollup-pluginutils
+      patterns:
+      - .*rollup\-pluginutils.*
+    - name: Run-sequence
+      patterns:
+      - .*run\-sequence.*
+    - name: Sass-loader
+      patterns:
+      - .*sass\-loader.*
+    - name: Shelljs
+      patterns:
+      - .*shelljs.*
+    - name: Source-map
+      patterns:
+      - .*source\-map.*
+    - name: Source-map-loader
+      patterns:
+      - .*source\-map\-loader.*
+    - name: Source-map-support
+      patterns:
+      - .*source\-map\-support.*
+    - name: Style-loader
+      patterns:
+      - .*style\-loader.*
+    - name: Stylus
+      patterns:
+      - .*stylus.*
+    - name: Stylus-loader
+      patterns:
+      - .*stylus\-loader.*
+    - name: Svgo
+      patterns:
+      - .*svgo.*
+    - name: Sw-precache-webpack-plugin
+      patterns:
+      - .*sw\-precache\-webpack\-plugin.*
+    - name: Terser-webpack-plugin
+      patterns:
+      - .*terser\-webpack\-plugin.*
+    - name: Ts-loader
+      patterns:
+      - .*ts\-loader.*
+    - name: Ts-pnp
+      patterns:
+      - .*ts\-pnp.*
+    - name: Typescript
+      patterns:
+      - .*typescript.*
+    - name: Uglify-es
+      patterns:
+      - .*uglify\-es.*
+    - name: Uglify-js
+      patterns:
+      - .*uglify\-js.*
+    - name: Uglifyjs-webpack-plugin
+      patterns:
+      - .*uglifyjs\-webpack\-plugin.*
+    - name: Url-loader
+      patterns:
+      - .*url\-loader.*
+    - name: Vinyl-source-stream
+      patterns:
+      - .*vinyl\-source\-stream.*
+    - name: Vue-hot-reload-api
+      patterns:
+      - .*vue\-hot\-reload\-api.*
+    - name: Vue-loader
+      patterns:
+      - .*vue\-loader.*
+    - name: Vue-style-loader
+      patterns:
+      - .*vue\-style\-loader.*
+    - name: Watchify
+      patterns:
+      - .*watchify.*
+    - name: Webpack
+      patterns:
+      - .*webpack.*
+    - name: Webpack-bundle-analyzer
+      patterns:
+      - .*webpack\-bundle\-analyzer.*
+    - name: Webpack-cli
+      patterns:
+      - .*webpack\-cli.*
+    - name: Webpack-dev-middleware
+      patterns:
+      - .*webpack\-dev\-middleware.*
+    - name: Webpack-dev-server
+      patterns:
+      - .*webpack\-dev\-server.*
+    - name: Webpack-hot-middleware
+      patterns:
+      - .*webpack\-hot\-middleware.*
+    - name: Webpack-manifest-plugin
+      patterns:
+      - .*webpack\-manifest\-plugin.*
+    - name: Webpack-merge
+      patterns:
+      - .*webpack\-merge.*
+    - name: Webpack-node-externals
+      patterns:
+      - .*webpack\-node\-externals.*
+    - name: Webpack-sources
+      patterns:
+      - .*webpack\-sources.*
+    - name: Workbox-webpack-plugin
+      patterns:
+      - .*workbox\-webpack\-plugin.*
+  - name: Code Generators
+    frameworks:
+    - name: '@angular-devkit/schematics'
+      patterns:
+      - .*@angular\-devkit/schematics.*
+    - name: Jsdoc
+      patterns:
+      - .*jsdoc.*
+    - name: Yeoman-generator
+      patterns:
+      - .*yeoman\-generator.*
+  - name: Local Development Runtimes
+    frameworks:
+    - name: '@oclif/command'
+      patterns:
+      - .*@oclif/command.*
+    - name: '@oclif/config'
+      patterns:
+      - .*@oclif/config.*
+    - name: '@oclif/plugin-help'
+      patterns:
+      - .*@oclif/plugin\-help.*
+    - name: Bower
+      patterns:
+      - .*bower.*
+    - name: Browser-sync
+      patterns:
+      - .*browser\-sync.*
+    - name: Grunt-cli
+      patterns:
+      - .*grunt\-cli.*
+    - name: Liftoff
+      patterns:
+      - .*liftoff.*
+    - name: Nodemon
+      patterns:
+      - .*nodemon.*
+    - name: Npm
+      patterns:
+      - .*npm.*
+    - name: Pm2
+      patterns:
+      - .*pm2.*
+    - name: React-error-overlay
+      patterns:
+      - .*react\-error\-overlay.*
+    - name: Ts-node
+      patterns:
+      - .*ts\-node.*
+    - name: Yeoman-environment
+      patterns:
+      - .*yeoman\-environment.*
+- name: Observability
+  subcategories:
+  - name: Logging
+    frameworks:
+    - name: Bunyan
+      patterns:
+      - .*bunyan.*
+    - name: Fancy-log
+      patterns:
+      - .*fancy\-log.*
+    - name: Koa-logger
+      patterns:
+      - .*koa\-logger.*
+    - name: Log-update
+      patterns:
+      - .*log\-update.*
+    - name: Log4js
+      patterns:
+      - .*log4js.*
+    - name: Loglevel
+      patterns:
+      - .*loglevel.*
+    - name: Morgan
+      patterns:
+      - .*morgan.*
+    - name: Npmlog
+      patterns:
+      - .*npmlog.*
+    - name: Pino
+      patterns:
+      - .*pino.*
+    - name: Pretty-error
+      patterns:
+      - .*pretty\-error.*
+    - name: Redux-logger
+      patterns:
+      - .*redux\-logger.*
+    - name: Tracer
+      patterns:
+      - .*tracer.*
+    - name: Warning
+      patterns:
+      - .*warning.*
+    - name: Winston
+      patterns:
+      - .*winston.*
+    - name: Winston-daily-rotate-file
+      patterns:
+      - .*winston\-daily\-rotate\-file.*
+  - name: Monitoring
+    frameworks:
+    - name: Raven
+      patterns:
+      - .*raven.*
+- name: Security
+  subcategories:
+  - name: Authentication & Authorization
+    frameworks:
+    - name: Basic-auth
+      patterns:
+      - .*basic\-auth.*
+    - name: Bcrypt
+      patterns:
+      - .*bcrypt.*
+    - name: Bcrypt-nodejs
+      patterns:
+      - .*bcrypt\-nodejs.*
+    - name: Bcryptjs
+      patterns:
+      - .*bcryptjs.*
+    - name: Jsonwebtoken
+      patterns:
+      - .*jsonwebtoken.*
+    - name: Jwt-decode
+      patterns:
+      - .*jwt\-decode.*
+    - name: Jwt-simple
+      patterns:
+      - .*jwt\-simple.*
+    - name: Oauth
+      patterns:
+      - .*oauth.*
+    - name: Passport
+      patterns:
+      - .*passport.*
+    - name: Passport-local
+      patterns:
+      - .*passport\-local.*
+    - name: Passport-oauth
+      patterns:
+      - .*passport\-oauth.*
+    - name: Passport-oauth2
+      patterns:
+      - .*passport\-oauth2.*
+    - name: Passport-strategy
+      patterns:
+      - .*passport\-strategy.*
+  - name: Transport Security
+    frameworks:
+    - name: Cors
+      patterns:
+      - .*cors.*
+    - name: Helmet
+      patterns:
+      - .*helmet.*
+    - name: Node-forge
+      patterns:
+      - .*node\-forge.*
+- name: Serialization
+  subcategories:
+  - name: Binary Formats
+    frameworks:
+    - name: Bfj
+      patterns:
+      - .*bfj.*
+    - name: Bson
+      patterns:
+      - .*bson.*
+  - name: JSON & XML
+    frameworks:
+    - name: Html-entities
+      patterns:
+      - .*html\-entities.*
+    - name: Js-yaml
+      patterns:
+      - .*js\-yaml.*
+    - name: Json-stable-stringify
+      patterns:
+      - .*json\-stable\-stringify.*
+    - name: Json5
+      patterns:
+      - .*json5.*
+    - name: Sax
+      patterns:
+      - .*sax.*
+    - name: Serialize-javascript
+      patterns:
+      - .*serialize\-javascript.*
+    - name: Xml-js
+      patterns:
+      - .*xml\-js.*
+    - name: Xml2js
+      patterns:
+      - .*xml2js.*
+    - name: Xml2json
+      patterns:
+      - .*xml2json.*
+    - name: Xmlbuilder
+      patterns:
+      - .*xmlbuilder.*
+    - name: Xmldom
+      patterns:
+      - .*xmldom.*
+    - name: Yaml
+      patterns:
+      - .*yaml.*
+  - name: Schema Management
+    frameworks:
+    - name: Protobufjs
+      patterns:
+      - .*protobufjs.*
+- name: Testing & Quality
+  subcategories:
+  - name: Code Coverage
+    frameworks:
+    - name: Coveralls
+      patterns:
+      - .*coveralls.*
+    - name: Istanbul
+      patterns:
+      - .*istanbul.*
+    - name: Nyc
+      patterns:
+      - .*nyc.*
+  - name: Mocking & Fakes
+    frameworks:
+    - name: Identity-obj-proxy
+      patterns:
+      - .*identity\-obj\-proxy.*
+    - name: Mockjs
+      patterns:
+      - .*mockjs.*
+    - name: Nock
+      patterns:
+      - .*nock.*
+    - name: Sinon
+      patterns:
+      - .*sinon.*
+  - name: Static Analysis
+    frameworks:
+    - name: '@typescript-eslint/eslint-plugin'
+      patterns:
+      - .*@typescript\-eslint/eslint\-plugin.*
+    - name: '@typescript-eslint/parser'
+      patterns:
+      - .*@typescript\-eslint/parser.*
+    - name: Babel-eslint
+      patterns:
+      - .*babel\-eslint.*
+    - name: Eslint
+      patterns:
+      - .*eslint.*
+    - name: Eslint-config-airbnb
+      patterns:
+      - .*eslint\-config\-airbnb.*
+    - name: Eslint-config-airbnb-base
+      patterns:
+      - .*eslint\-config\-airbnb\-base.*
+    - name: Eslint-config-prettier
+      patterns:
+      - .*eslint\-config\-prettier.*
+    - name: Eslint-config-react-app
+      patterns:
+      - .*eslint\-config\-react\-app.*
+    - name: Eslint-config-standard
+      patterns:
+      - .*eslint\-config\-standard.*
+    - name: Eslint-loader
+      patterns:
+      - .*eslint\-loader.*
+    - name: Eslint-plugin-babel
+      patterns:
+      - .*eslint\-plugin\-babel.*
+    - name: Eslint-plugin-flowtype
+      patterns:
+      - .*eslint\-plugin\-flowtype.*
+    - name: Eslint-plugin-import
+      patterns:
+      - .*eslint\-plugin\-import.*
+    - name: Eslint-plugin-jest
+      patterns:
+      - .*eslint\-plugin\-jest.*
+    - name: Eslint-plugin-jsx-a11y
+      patterns:
+      - .*eslint\-plugin\-jsx\-a11y.*
+    - name: Eslint-plugin-node
+      patterns:
+      - .*eslint\-plugin\-node.*
+    - name: Eslint-plugin-prettier
+      patterns:
+      - .*eslint\-plugin\-prettier.*
+    - name: Eslint-plugin-promise
+      patterns:
+      - .*eslint\-plugin\-promise.*
+    - name: Eslint-plugin-react
+      patterns:
+      - .*eslint\-plugin\-react.*
+    - name: Eslint-plugin-react-hooks
+      patterns:
+      - .*eslint\-plugin\-react\-hooks.*
+    - name: Eslint-plugin-standard
+      patterns:
+      - .*eslint\-plugin\-standard.*
+    - name: Eslint-plugin-vue
+      patterns:
+      - .*eslint\-plugin\-vue.*
+    - name: Esprima
+      patterns:
+      - .*esprima.*
+    - name: Jshint
+      patterns:
+      - .*jshint.*
+    - name: Prettier
+      patterns:
+      - .*prettier.*
+    - name: Standard
+      patterns:
+      - .*standard.*
+    - name: Stylelint
+      patterns:
+      - .*stylelint.*
+    - name: Stylelint-config-standard
+      patterns:
+      - .*stylelint\-config\-standard.*
+    - name: Stylelint-order
+      patterns:
+      - .*stylelint\-order.*
+    - name: Stylelint-scss
+      patterns:
+      - .*stylelint\-scss.*
+    - name: Tslint
+      patterns:
+      - .*tslint.*
+    - name: Tslint-config-prettier
+      patterns:
+      - .*tslint\-config\-prettier.*
+    - name: Tslint-react
+      patterns:
+      - .*tslint\-react.*
+  - name: Testing Frameworks
+    frameworks:
+    - name: '@types/jasmine'
+      patterns:
+      - .*@types/jasmine.*
+    - name: '@types/jest'
+      patterns:
+      - .*@types/jest.*
+    - name: '@types/mocha'
+      patterns:
+      - .*@types/mocha.*
+    - name: Assert
+      patterns:
+      - .*assert.*
+    - name: Assert-plus
+      patterns:
+      - .*assert\-plus.*
+    - name: Babel-jest
+      patterns:
+      - .*babel\-jest.*
+    - name: Chai
+      patterns:
+      - .*chai.*
+    - name: Chai-as-promised
+      patterns:
+      - .*chai\-as\-promised.*
+    - name: Enzyme
+      patterns:
+      - .*enzyme.*
+    - name: Enzyme-adapter-react-16
+      patterns:
+      - .*enzyme\-adapter\-react\-16.*
+    - name: Jasmine
+      patterns:
+      - .*jasmine.*
+    - name: Jasmine-core
+      patterns:
+      - .*jasmine\-core.*
+    - name: Jest
+      patterns:
+      - .*jest.*
+    - name: Jest-environment-jsdom-fourteen
+      patterns:
+      - .*jest\-environment\-jsdom\-fourteen.*
+    - name: Jest-pnp-resolver
+      patterns:
+      - .*jest\-pnp\-resolver.*
+    - name: Jest-resolve
+      patterns:
+      - .*jest\-resolve.*
+    - name: Jest-watch-typeahead
+      patterns:
+      - .*jest\-watch\-typeahead.*
+    - name: Jsdom
+      patterns:
+      - .*jsdom.*
+    - name: Karma
+      patterns:
+      - .*karma.*
+    - name: Karma-chrome-launcher
+      patterns:
+      - .*karma\-chrome\-launcher.*
+    - name: Karma-jasmine
+      patterns:
+      - .*karma\-jasmine.*
+    - name: Karma-mocha
+      patterns:
+      - .*karma\-mocha.*
+    - name: Karma-phantomjs-launcher
+      patterns:
+      - .*karma\-phantomjs\-launcher.*
+    - name: Mocha
+      patterns:
+      - .*mocha.*
+    - name: Puppeteer
+      patterns:
+      - .*puppeteer.*
+    - name: React-test-renderer
+      patterns:
+      - .*react\-test\-renderer.*
+    - name: Selenium-webdriver
+      patterns:
+      - .*selenium\-webdriver.*
+    - name: Should
+      patterns:
+      - .*should.*
+    - name: Sinon-chai
+      patterns:
+      - .*sinon\-chai.*
+    - name: Supertest
+      patterns:
+      - .*supertest.*
+    - name: Tape
+      patterns:
+      - .*tape.*
+    - name: Ts-jest
+      patterns:
+      - .*ts\-jest.*
+- name: Utility Libraries
+  subcategories:
+  - name: Collections & Data Structures
+    frameworks:
+    - name: Fuse.js
+      patterns:
+      - .*fuse\.js.*
+    - name: Immutable
+      patterns:
+      - .*immutable.*
+    - name: Lodash-es
+      patterns:
+      - .*lodash\-es.*
+    - name: Lodash.flatten
+      patterns:
+      - .*lodash\.flatten.*
+    - name: Lodash.map
+      patterns:
+      - .*lodash\.map.*
+    - name: Ramda
+      patterns:
+      - .*ramda.*
+    - name: Underscore
+      patterns:
+      - .*underscore.*
+  - name: Configuration Utilities
+    frameworks:
+    - name: Config
+      patterns:
+      - .*config.*
+    - name: Configstore
+      patterns:
+      - .*configstore.*
+    - name: Cosmiconfig
+      patterns:
+      - .*cosmiconfig.*
+    - name: Dotenv
+      patterns:
+      - .*dotenv.*
+    - name: Dotenv-expand
+      patterns:
+      - .*dotenv\-expand.*
+    - name: Ini
+      patterns:
+      - .*ini.*
+    - name: Iniparser
+      patterns:
+      - .*iniparser.*
+    - name: Nconf
+      patterns:
+      - .*nconf.*
+  - name: Date & Time Utilities
+    frameworks:
+    - name: Date-fns
+      patterns:
+      - .*date\-fns.*
+    - name: Dateformat
+      patterns:
+      - .*dateformat.*
+    - name: Dayjs
+      patterns:
+      - .*dayjs.*
+    - name: Moment
+      patterns:
+      - .*moment.*
+    - name: Moment-timezone
+      patterns:
+      - .*moment\-timezone.*
+    - name: Pretty-ms
+      patterns:
+      - .*pretty\-ms.*
+  - name: General Utilities
+    frameworks:
+    - name: '@babel/polyfill'
+      patterns:
+      - .*@babel/polyfill.*
+    - name: '@fortawesome/free-solid-svg-icons'
+      patterns:
+      - .*@fortawesome/free\-solid\-svg\-icons.*
+    - name: '@types/bluebird'
+      patterns:
+      - .*@types/bluebird.*
+    - name: '@types/cordova'
+      patterns:
+      - .*@types/cordova.*
+    - name: '@types/express'
+      patterns:
+      - .*@types/express.*
+    - name: '@types/fs-extra'
+      patterns:
+      - .*@types/fs\-extra.*
+    - name: '@types/jquery'
+      patterns:
+      - .*@types/jquery.*
+    - name: '@types/lodash'
+      patterns:
+      - .*@types/lodash.*
+    - name: '@types/node'
+      patterns:
+      - .*@types/node.*
+    - name: '@types/react'
+      patterns:
+      - .*@types/react.*
+    - name: '@types/react-dom'
+      patterns:
+      - .*@types/react\-dom.*
+    - name: '@types/request'
+      patterns:
+      - .*@types/request.*
+    - name: '@types/uuid'
+      patterns:
+      - .*@types/uuid.*
+    - name: Accepts
+      patterns:
+      - .*accepts.*
+    - name: Adm-zip
+      patterns:
+      - .*adm\-zip.*
+    - name: Ajv
+      patterns:
+      - .*ajv.*
+    - name: Ansi-colors
+      patterns:
+      - .*ansi\-colors.*
+    - name: Ansi-escapes
+      patterns:
+      - .*ansi\-escapes.*
+    - name: App-root-path
+      patterns:
+      - .*app\-root\-path.*
+    - name: Archiver
+      patterns:
+      - .*archiver.*
+    - name: Argparse
+      patterns:
+      - .*argparse.*
+    - name: Arrify
+      patterns:
+      - .*arrify.*
+    - name: Async
+      patterns:
+      - .*async.*
+    - name: Async-validator
+      patterns:
+      - .*async\-validator.*
+    - name: Atob
+      patterns:
+      - .*atob.*
+    - name: Babylon
+      patterns:
+      - .*babylon.*
+    - name: Base-64
+      patterns:
+      - .*base\-64.*
+    - name: Base64-js
+      patterns:
+      - .*base64\-js.*
+    - name: Bignumber.js
+      patterns:
+      - .*bignumber\.js.*
+    - name: Bindings
+      patterns:
+      - .*bindings.*
+    - name: Bip39
+      patterns:
+      - .*bip39.*
+    - name: Bl
+      patterns:
+      - .*bl.*
+    - name: Bluebird
+      patterns:
+      - .*bluebird.*
+    - name: Bn.js
+      patterns:
+      - .*bn\.js.*
+    - name: Body-parser
+      patterns:
+      - .*body\-parser.*
+    - name: Boom
+      patterns:
+      - .*boom.*
+    - name: Boxen
+      patterns:
+      - .*boxen.*
+    - name: Brfs
+      patterns:
+      - .*brfs.*
+    - name: Bs58
+      patterns:
+      - .*bs58.*
+    - name: Btoa
+      patterns:
+      - .*btoa.*
+    - name: Buffer
+      patterns:
+      - .*buffer.*
+    - name: Bufferutil
+      patterns:
+      - .*bufferutil.*
+    - name: Busboy
+      patterns:
+      - .*busboy.*
+    - name: Bytebuffer
+      patterns:
+      - .*bytebuffer.*
+    - name: Bytes
+      patterns:
+      - .*bytes.*
+    - name: Camelcase
+      patterns:
+      - .*camelcase.*
+    - name: Canvas
+      patterns:
+      - .*canvas.*
+    - name: Chalk
+      patterns:
+      - .*chalk.*
+    - name: Chance
+      patterns:
+      - .*chance.*
+    - name: Change-case
+      patterns:
+      - .*change\-case.*
+    - name: Cheerio
+      patterns:
+      - .*cheerio.*
+    - name: Child-process-promise
+      patterns:
+      - .*child\-process\-promise.*
+    - name: Child_process
+      patterns:
+      - .*child_process.*
+    - name: Chokidar
+      patterns:
+      - .*chokidar.*
+    - name: Classnames
+      patterns:
+      - .*classnames.*
+    - name: Clear
+      patterns:
+      - .*clear.*
+    - name: Cli
+      patterns:
+      - .*cli.*
+    - name: Cli-color
+      patterns:
+      - .*cli\-color.*
+    - name: Cli-spinner
+      patterns:
+      - .*cli\-spinner.*
+    - name: Cli-table
+      patterns:
+      - .*cli\-table.*
+    - name: Cli-table2
+      patterns:
+      - .*cli\-table2.*
+    - name: Cli-ux
+      patterns:
+      - .*cli\-ux.*
+    - name: Clipboard
+      patterns:
+      - .*clipboard.*
+    - name: Clipboardy
+      patterns:
+      - .*clipboardy.*
+    - name: Clone
+      patterns:
+      - .*clone.*
+    - name: Clui
+      patterns:
+      - .*clui.*
+    - name: Co
+      patterns:
+      - .*co.*
+    - name: Co-prompt
+      patterns:
+      - .*co\-prompt.*
+    - name: Coffee-script
+      patterns:
+      - .*coffee\-script.*
+    - name: Color
+      patterns:
+      - .*color.*
+    - name: Colors
+      patterns:
+      - .*colors.*
+    - name: Columnify
+      patterns:
+      - .*columnify.*
+    - name: Command-exists
+      patterns:
+      - .*command\-exists.*
+    - name: Command-line-args
+      patterns:
+      - .*command\-line\-args.*
+    - name: Command-line-usage
+      patterns:
+      - .*command\-line\-usage.*
+    - name: Commander
+      patterns:
+      - .*commander.*
+    - name: Common-tags
+      patterns:
+      - .*common\-tags.*
+    - name: Component-emitter
+      patterns:
+      - .*component\-emitter.*
+    - name: Compression
+      patterns:
+      - .*compression.*
+    - name: Concat-stream
+      patterns:
+      - .*concat\-stream.*
+    - name: Connect-flash
+      patterns:
+      - .*connect\-flash.*
+    - name: Connect-history-api-fallback
+      patterns:
+      - .*connect\-history\-api\-fallback.*
+    - name: Consolidate
+      patterns:
+      - .*consolidate.*
+    - name: Content-type
+      patterns:
+      - .*content\-type.*
+    - name: Convert-source-map
+      patterns:
+      - .*convert\-source\-map.*
+    - name: Cookie
+      patterns:
+      - .*cookie.*
+    - name: Core-js
+      patterns:
+      - .*core\-js.*
+    - name: Crc
+      patterns:
+      - .*crc.*
+    - name: Create-hash
+      patterns:
+      - .*create\-hash.*
+    - name: Cron
+      patterns:
+      - .*cron.*
+    - name: Cross-spawn
+      patterns:
+      - .*cross\-spawn.*
+    - name: Crypto
+      patterns:
+      - .*crypto.*
+    - name: Crypto-js
+      patterns:
+      - .*crypto\-js.*
+    - name: Csv
+      patterns:
+      - .*csv.*
+    - name: Csv-parse
+      patterns:
+      - .*csv\-parse.*
+    - name: Cuid
+      patterns:
+      - .*cuid.*
+    - name: D3-scale
+      patterns:
+      - .*d3\-scale.*
+    - name: Deasync
+      patterns:
+      - .*deasync.*
+    - name: Debounce
+      patterns:
+      - .*debounce.*
+    - name: Debug
+      patterns:
+      - .*debug.*
+    - name: Decamelize
+      patterns:
+      - .*decamelize.*
+    - name: Decompress
+      patterns:
+      - .*decompress.*
+    - name: Deep-assign
+      patterns:
+      - .*deep\-assign.*
+    - name: Deep-diff
+      patterns:
+      - .*deep\-diff.*
+    - name: Deep-equal
+      patterns:
+      - .*deep\-equal.*
+    - name: Deep-extend
+      patterns:
+      - .*deep\-extend.*
+    - name: Deepmerge
+      patterns:
+      - .*deepmerge.*
+    - name: Del
+      patterns:
+      - .*del.*
+    - name: Depd
+      patterns:
+      - .*depd.*
+    - name: Detect-port
+      patterns:
+      - .*detect\-port.*
+    - name: Diff
+      patterns:
+      - .*diff.*
+    - name: Dom-helpers
+      patterns:
+      - .*dom\-helpers.*
+    - name: Dot
+      patterns:
+      - .*dot.*
+    - name: Download
+      patterns:
+      - .*download.*
+    - name: Element-resize-detector
+      patterns:
+      - .*element\-resize\-detector.*
+    - name: Elliptic
+      patterns:
+      - .*elliptic.*
+    - name: Errorhandler
+      patterns:
+      - .*errorhandler.*
+    - name: Es6-error
+      patterns:
+      - .*es6\-error.*
+    - name: Es6-promise
+      patterns:
+      - .*es6\-promise.*
+    - name: Es6-promisify
+      patterns:
+      - .*es6\-promisify.*
+    - name: Es6-shim
+      patterns:
+      - .*es6\-shim.*
+    - name: Escape-html
+      patterns:
+      - .*escape\-html.*
+    - name: Escape-string-regexp
+      patterns:
+      - .*escape\-string\-regexp.*
+    - name: Estraverse
+      patterns:
+      - .*estraverse.*
+    - name: Etag
+      patterns:
+      - .*etag.*
+    - name: Ethereumjs-tx
+      patterns:
+      - .*ethereumjs\-tx.*
+    - name: Ethereumjs-util
+      patterns:
+      - .*ethereumjs\-util.*
+    - name: Event-stream
+      patterns:
+      - .*event\-stream.*
+    - name: Eventemitter2
+      patterns:
+      - .*eventemitter2.*
+    - name: Eventemitter3
+      patterns:
+      - .*eventemitter3.*
+    - name: Events
+      patterns:
+      - .*events.*
+    - name: Execa
+      patterns:
+      - .*execa.*
+    - name: Extend
+      patterns:
+      - .*extend.*
+    - name: Extend-shallow
+      patterns:
+      - .*extend\-shallow.*
+    - name: Extract-zip
+      patterns:
+      - .*extract\-zip.*
+    - name: Faker
+      patterns:
+      - .*faker.*
+    - name: Fast-glob
+      patterns:
+      - .*fast\-glob.*
+    - name: Fastclick
+      patterns:
+      - .*fastclick.*
+    - name: Fbjs
+      patterns:
+      - .*fbjs.*
+    - name: Figlet
+      patterns:
+      - .*figlet.*
+    - name: Figures
+      patterns:
+      - .*figures.*
+    - name: File-saver
+      patterns:
+      - .*file\-saver.*
+    - name: File-type
+      patterns:
+      - .*file\-type.*
+    - name: Filesize
+      patterns:
+      - .*filesize.*
+    - name: Finalhandler
+      patterns:
+      - .*finalhandler.*
+    - name: Find-up
+      patterns:
+      - .*find\-up.*
+    - name: Findup-sync
+      patterns:
+      - .*findup\-sync.*
+    - name: Flat
+      patterns:
+      - .*flat.*
+    - name: Fluent-ffmpeg
+      patterns:
+      - .*fluent\-ffmpeg.*
+    - name: Flux
+      patterns:
+      - .*flux.*
+    - name: Form-data
+      patterns:
+      - .*form\-data.*
+    - name: Fresh
+      patterns:
+      - .*fresh.*
+    - name: Front-matter
+      patterns:
+      - .*front\-matter.*
+    - name: Fs
+      patterns:
+      - .*fs.*
+    - name: Fs-extra
+      patterns:
+      - .*fs\-extra.*
+    - name: Fs-promise
+      patterns:
+      - .*fs\-promise.*
+    - name: Fsevents
+      patterns:
+      - .*fsevents.*
+    - name: Fstream
+      patterns:
+      - .*fstream.*
+    - name: Fuzzy
+      patterns:
+      - .*fuzzy.*
+    - name: Gaze
+      patterns:
+      - .*gaze.*
+    - name: Generic-pool
+      patterns:
+      - .*generic\-pool.*
+    - name: Get-port
+      patterns:
+      - .*get\-port.*
+    - name: Get-stdin
+      patterns:
+      - .*get\-stdin.*
+    - name: Github
+      patterns:
+      - .*github.*
+    - name: Glob
+      patterns:
+      - .*glob.*
+    - name: Global
+      patterns:
+      - .*global.*
+    - name: Globby
+      patterns:
+      - .*globby.*
+    - name: Gm
+      patterns:
+      - .*gm.*
+    - name: Graceful-fs
+      patterns:
+      - .*graceful\-fs.*
+    - name: Gray-matter
+      patterns:
+      - .*gray\-matter.*
+    - name: Gzip-size
+      patterns:
+      - .*gzip\-size.*
+    - name: Hammerjs
+      patterns:
+      - .*hammerjs.*
+    - name: Hash-sum
+      patterns:
+      - .*hash\-sum.*
+    - name: He
+      patterns:
+      - .*he.*
+    - name: Hexlet-pairs
+      patterns:
+      - .*hexlet\-pairs.*
+    - name: Highlight.js
+      patterns:
+      - .*highlight\.js.*
+    - name: History
+      patterns:
+      - .*history.*
+    - name: Hoek
+      patterns:
+      - .*hoek.*
+    - name: Hoist-non-react-statics
+      patterns:
+      - .*hoist\-non\-react\-statics.*
+    - name: Htmlparser2
+      patterns:
+      - .*htmlparser2.*
+    - name: Http-status
+      patterns:
+      - .*http\-status.*
+    - name: Http-status-codes
+      patterns:
+      - .*http\-status\-codes.*
+    - name: Https
+      patterns:
+      - .*https.*
+    - name: Husky
+      patterns:
+      - .*husky.*
+    - name: I
+      patterns:
+      - .*i.*
+    - name: I18next
+      patterns:
+      - .*i18next.*
+    - name: Iconv-lite
+      patterns:
+      - .*iconv\-lite.*
+    - name: Image-size
+      patterns:
+      - .*image\-size.*
+    - name: Immer
+      patterns:
+      - .*immer.*
+    - name: Immutability-helper
+      patterns:
+      - .*immutability\-helper.*
+    - name: Inflection
+      patterns:
+      - .*inflection.*
+    - name: Inherits
+      patterns:
+      - .*inherits.*
+    - name: Inquirer
+      patterns:
+      - .*inquirer.*
+    - name: Inquirer-autocomplete-prompt
+      patterns:
+      - .*inquirer\-autocomplete\-prompt.*
+    - name: Install
+      patterns:
+      - .*install.*
+    - name: Intl
+      patterns:
+      - .*intl.*
+    - name: Invariant
+      patterns:
+      - .*invariant.*
+    - name: Ip
+      patterns:
+      - .*ip.*
+    - name: Is
+      patterns:
+      - .*is.*
+    - name: Is-plain-object
+      patterns:
+      - .*is\-plain\-object.*
+    - name: Is-promise
+      patterns:
+      - .*is\-promise.*
+    - name: Is-url
+      patterns:
+      - .*is\-url.*
+    - name: Is-wsl
+      patterns:
+      - .*is\-wsl.*
+    - name: Isobject
+      patterns:
+      - .*isobject.*
+    - name: JSONStream
+      patterns:
+      - .*JSONStream.*
+    - name: Jimp
+      patterns:
+      - .*jimp.*
+    - name: Joi
+      patterns:
+      - .*joi.*
+    - name: Jquery
+      patterns:
+      - .*jquery.*
+    - name: Js-base64
+      patterns:
+      - .*js\-base64.*
+    - name: Js-beautify
+      patterns:
+      - .*js\-beautify.*
+    - name: Js-cookie
+      patterns:
+      - .*js\-cookie.*
+    - name: Json-stringify-safe
+      patterns:
+      - .*json\-stringify\-safe.*
+    - name: Jsonfile
+      patterns:
+      - .*jsonfile.*
+    - name: Jsonschema
+      patterns:
+      - .*jsonschema.*
+    - name: Jszip
+      patterns:
+      - .*jszip.*
+    - name: Keycode
+      patterns:
+      - .*keycode.*
+    - name: Keypress
+      patterns:
+      - .*keypress.*
+    - name: Koa-compose
+      patterns:
+      - .*koa\-compose.*
+    - name: Left-pad
+      patterns:
+      - .*left\-pad.*
+    - name: Listr
+      patterns:
+      - .*listr.*
+    - name: Localforage
+      patterns:
+      - .*localforage.*
+    - name: Lodash.assign
+      patterns:
+      - .*lodash\.assign.*
+    - name: Lodash.camelcase
+      patterns:
+      - .*lodash\.camelcase.*
+    - name: Lodash.clonedeep
+      patterns:
+      - .*lodash\.clonedeep.*
+    - name: Lodash.debounce
+      patterns:
+      - .*lodash\.debounce.*
+    - name: Lodash.defaults
+      patterns:
+      - .*lodash\.defaults.*
+    - name: Lodash.foreach
+      patterns:
+      - .*lodash\.foreach.*
+    - name: Lodash.get
+      patterns:
+      - .*lodash\.get.*
+    - name: Lodash.isempty
+      patterns:
+      - .*lodash\.isempty.*
+    - name: Lodash.isequal
+      patterns:
+      - .*lodash\.isequal.*
+    - name: Lodash.isfunction
+      patterns:
+      - .*lodash\.isfunction.*
+    - name: Lodash.isobject
+      patterns:
+      - .*lodash\.isobject.*
+    - name: Lodash.isplainobject
+      patterns:
+      - .*lodash\.isplainobject.*
+    - name: Lodash.isstring
+      patterns:
+      - .*lodash\.isstring.*
+    - name: Lodash.merge
+      patterns:
+      - .*lodash\.merge.*
+    - name: Lodash.omit
+      patterns:
+      - .*lodash\.omit.*
+    - name: Lodash.pick
+      patterns:
+      - .*lodash\.pick.*
+    - name: Lodash.set
+      patterns:
+      - .*lodash\.set.*
+    - name: Lodash.template
+      patterns:
+      - .*lodash\.template.*
+    - name: Lodash.throttle
+      patterns:
+      - .*lodash\.throttle.*
+    - name: Lodash.uniq
+      patterns:
+      - .*lodash\.uniq.*
+    - name: Log-symbols
+      patterns:
+      - .*log\-symbols.*
+    - name: Long
+      patterns:
+      - .*long.*
+    - name: Loose-envify
+      patterns:
+      - .*loose\-envify.*
+    - name: Make-dir
+      patterns:
+      - .*make\-dir.*
+    - name: Map-stream
+      patterns:
+      - .*map\-stream.*
+    - name: Markdown
+      patterns:
+      - .*markdown.*
+    - name: Markdown-it
+      patterns:
+      - .*markdown\-it.*
+    - name: Marked
+      patterns:
+      - .*marked.*
+    - name: Mathjs
+      patterns:
+      - .*mathjs.*
+    - name: Md5
+      patterns:
+      - .*md5.*
+    - name: Md5-file
+      patterns:
+      - .*md5\-file.*
+    - name: Memoize-one
+      patterns:
+      - .*memoize\-one.*
+    - name: Memory-fs
+      patterns:
+      - .*memory\-fs.*
+    - name: Meow
+      patterns:
+      - .*meow.*
+    - name: Merge
+      patterns:
+      - .*merge.*
+    - name: Merge-stream
+      patterns:
+      - .*merge\-stream.*
+    - name: Methods
+      patterns:
+      - .*methods.*
+    - name: Micromatch
+      patterns:
+      - .*micromatch.*
+    - name: Mime
+      patterns:
+      - .*mime.*
+    - name: Mime-types
+      patterns:
+      - .*mime\-types.*
+    - name: Minimatch
+      patterns:
+      - .*minimatch.*
+    - name: Minimist
+      patterns:
+      - .*minimist.*
+    - name: Mkdirp
+      patterns:
+      - .*mkdirp.*
+    - name: Ms
+      patterns:
+      - .*ms.*
+    - name: Multimatch
+      patterns:
+      - .*multimatch.*
+    - name: Mz
+      patterns:
+      - .*mz.*
+    - name: Nanoid
+      patterns:
+      - .*nanoid.*
+    - name: Ncp
+      patterns:
+      - .*ncp.*
+    - name: Nib
+      patterns:
+      - .*nib.*
+    - name: Node-dir
+      patterns:
+      - .*node\-dir.*
+    - name: Node-emoji
+      patterns:
+      - .*node\-emoji.*
+    - name: Node-notifier
+      patterns:
+      - .*node\-notifier.*
+    - name: Node-schedule
+      patterns:
+      - .*node\-schedule.*
+    - name: Node-uuid
+      patterns:
+      - .*node\-uuid.*
+    - name: Node-watch
+      patterns:
+      - .*node\-watch.*
+    - name: Node.extend
+      patterns:
+      - .*node\.extend.*
+    - name: Nodegit
+      patterns:
+      - .*nodegit.*
+    - name: Nomnom
+      patterns:
+      - .*nomnom.*
+    - name: Nopt
+      patterns:
+      - .*nopt.*
+    - name: Normalize-url
+      patterns:
+      - .*normalize\-url.*
+    - name: Normalize-wheel
+      patterns:
+      - .*normalize\-wheel.*
+    - name: Normalize.css
+      patterns:
+      - .*normalize\.css.*
+    - name: Numeral
+      patterns:
+      - .*numeral.*
+    - name: Object-assign
+      patterns:
+      - .*object\-assign.*
+    - name: Object-hash
+      patterns:
+      - .*object\-hash.*
+    - name: Object-path
+      patterns:
+      - .*object\-path.*
+    - name: Object.assign
+      patterns:
+      - .*object\.assign.*
+    - name: On-finished
+      patterns:
+      - .*on\-finished.*
+    - name: Once
+      patterns:
+      - .*once.*
+    - name: Open
+      patterns:
+      - .*open.*
+    - name: Opener
+      patterns:
+      - .*opener.*
+    - name: Opn
+      patterns:
+      - .*opn.*
+    - name: Optimist
+      patterns:
+      - .*optimist.*
+    - name: Ora
+      patterns:
+      - .*ora.*
+    - name: Os
+      patterns:
+      - .*os.*
+    - name: Osenv
+      patterns:
+      - .*osenv.*
+    - name: Pako
+      patterns:
+      - .*pako.*
+    - name: Parse5
+      patterns:
+      - .*parse5.*
+    - name: Parseurl
+      patterns:
+      - .*parseurl.*
+    - name: Path
+      patterns:
+      - .*path.*
+    - name: Path-exists
+      patterns:
+      - .*path\-exists.*
+    - name: Path-is-absolute
+      patterns:
+      - .*path\-is\-absolute.*
+    - name: Path-to-regexp
+      patterns:
+      - .*path\-to\-regexp.*
+    - name: Pify
+      patterns:
+      - .*pify.*
+    - name: Pkginfo
+      patterns:
+      - .*pkginfo.*
+    - name: Plist
+      patterns:
+      - .*plist.*
+    - name: Plugin-error
+      patterns:
+      - .*plugin\-error.*
+    - name: Pluralize
+      patterns:
+      - .*pluralize.*
+    - name: Pngjs
+      patterns:
+      - .*pngjs.*
+    - name: Polished
+      patterns:
+      - .*polished.*
+    - name: Popper.js
+      patterns:
+      - .*popper\.js.*
+    - name: Portfinder
+      patterns:
+      - .*portfinder.*
+    - name: Pretty-bytes
+      patterns:
+      - .*pretty\-bytes.*
+    - name: Prettyjson
+      patterns:
+      - .*prettyjson.*
+    - name: Prismjs
+      patterns:
+      - .*prismjs.*
+    - name: Process
+      patterns:
+      - .*process.*
+    - name: Progress
+      patterns:
+      - .*progress.*
+    - name: Promise
+      patterns:
+      - .*promise.*
+    - name: Promise-polyfill
+      patterns:
+      - .*promise\-polyfill.*
+    - name: Prompt
+      patterns:
+      - .*prompt.*
+    - name: Prompts
+      patterns:
+      - .*prompts.*
+    - name: Prop-types
+      patterns:
+      - .*prop\-types.*
+    - name: Pull-stream
+      patterns:
+      - .*pull\-stream.*
+    - name: Pump
+      patterns:
+      - .*pump.*
+    - name: Q
+      patterns:
+      - .*q.*
+    - name: Qs
+      patterns:
+      - .*qs.*
+    - name: Query-string
+      patterns:
+      - .*query\-string.*
+    - name: Querystring
+      patterns:
+      - .*querystring.*
+    - name: Raf
+      patterns:
+      - .*raf.*
+    - name: Randombytes
+      patterns:
+      - .*randombytes.*
+    - name: Randomstring
+      patterns:
+      - .*randomstring.*
+    - name: Raw-body
+      patterns:
+      - .*raw\-body.*
+    - name: Rc
+      patterns:
+      - .*rc.*
+    - name: Rc-util
+      patterns:
+      - .*rc\-util.*
+    - name: React-addons-shallow-compare
+      patterns:
+      - .*react\-addons\-shallow\-compare.*
+    - name: React-app-polyfill
+      patterns:
+      - .*react\-app\-polyfill.*
+    - name: Read
+      patterns:
+      - .*read.*
+    - name: Read-pkg
+      patterns:
+      - .*read\-pkg.*
+    - name: Read-pkg-up
+      patterns:
+      - .*read\-pkg\-up.*
+    - name: Readable-stream
+      patterns:
+      - .*readable\-stream.*
+    - name: Readline
+      patterns:
+      - .*readline.*
+    - name: Readline-sync
+      patterns:
+      - .*readline\-sync.*
+    - name: Recompose
+      patterns:
+      - .*recompose.*
+    - name: Recursive-readdir
+      patterns:
+      - .*recursive\-readdir.*
+    - name: Regenerator-runtime
+      patterns:
+      - .*regenerator\-runtime.*
+    - name: Require-all
+      patterns:
+      - .*require\-all.*
+    - name: Require-dir
+      patterns:
+      - .*require\-dir.*
+    - name: Requireindex
+      patterns:
+      - .*requireindex.*
+    - name: Reselect
+      patterns:
+      - .*reselect.*
+    - name: Resize-observer-polyfill
+      patterns:
+      - .*resize\-observer\-polyfill.*
+    - name: Resolve-from
+      patterns:
+      - .*resolve\-from.*
+    - name: Rsvp
+      patterns:
+      - .*rsvp.*
+    - name: Safe-buffer
+      patterns:
+      - .*safe\-buffer.*
+    - name: Sanitize-filename
+      patterns:
+      - .*sanitize\-filename.*
+    - name: Sanitize-html
+      patterns:
+      - .*sanitize\-html.*
+    - name: Secp256k1
+      patterns:
+      - .*secp256k1.*
+    - name: Semver
+      patterns:
+      - .*semver.*
+    - name: Serialport
+      patterns:
+      - .*serialport.*
+    - name: Serve-index
+      patterns:
+      - .*serve\-index.*
+    - name: Sha1
+      patterns:
+      - .*sha1.*
+    - name: Shallowequal
+      patterns:
+      - .*shallowequal.*
+    - name: Sharp
+      patterns:
+      - .*sharp.*
+    - name: Shell-quote
+      patterns:
+      - .*shell\-quote.*
+    - name: Shortid
+      patterns:
+      - .*shortid.*
+    - name: Showdown
+      patterns:
+      - .*showdown.*
+    - name: Simple-git
+      patterns:
+      - .*simple\-git.*
+    - name: Slash
+      patterns:
+      - .*slash.*
+    - name: Slug
+      patterns:
+      - .*slug.*
+    - name: Slugify
+      patterns:
+      - .*slugify.*
+    - name: Split
+      patterns:
+      - .*split.*
+    - name: Split2
+      patterns:
+      - .*split2.*
+    - name: Sprintf
+      patterns:
+      - .*sprintf.*
+    - name: Sprintf-js
+      patterns:
+      - .*sprintf\-js.*
+    - name: Ssh2
+      patterns:
+      - .*ssh2.*
+    - name: Stack-trace
+      patterns:
+      - .*stack\-trace.*
+    - name: String
+      patterns:
+      - .*string.*
+    - name: Strip-ansi
+      patterns:
+      - .*strip\-ansi.*
+    - name: Strip-json-comments
+      patterns:
+      - .*strip\-json\-comments.*
+    - name: Supports-color
+      patterns:
+      - .*supports\-color.*
+    - name: Tar
+      patterns:
+      - .*tar.*
+    - name: Tar-fs
+      patterns:
+      - .*tar\-fs.*
+    - name: Temp
+      patterns:
+      - .*temp.*
+    - name: Text-table
+      patterns:
+      - .*text\-table.*
+    - name: Throttle-debounce
+      patterns:
+      - .*throttle\-debounce.*
+    - name: Through
+      patterns:
+      - .*through.*
+    - name: Through2
+      patterns:
+      - .*through2.*
+    - name: Tildify
+      patterns:
+      - .*tildify.*
+    - name: Tinycolor2
+      patterns:
+      - .*tinycolor2.*
+    - name: Tmp
+      patterns:
+      - .*tmp.*
+    - name: Touch
+      patterns:
+      - .*touch.*
+    - name: Tough-cookie
+      patterns:
+      - .*tough\-cookie.*
+    - name: Traverse
+      patterns:
+      - .*traverse.*
+    - name: Tslib
+      patterns:
+      - .*tslib.*
+    - name: Tv4
+      patterns:
+      - .*tv4.*
+    - name: Tweetnacl
+      patterns:
+      - .*tweetnacl.*
+    - name: Type-is
+      patterns:
+      - .*type\-is.*
+    - name: Underscore.string
+      patterns:
+      - .*underscore\.string.*
+    - name: Unique-random-array
+      patterns:
+      - .*unique\-random\-array.*
+    - name: Unist-util-visit
+      patterns:
+      - .*unist\-util\-visit.*
+    - name: Unzip
+      patterns:
+      - .*unzip.*
+    - name: Update-notifier
+      patterns:
+      - .*update\-notifier.*
+    - name: Urijs
+      patterns:
+      - .*urijs.*
+    - name: Url
+      patterns:
+      - .*url.*
+    - name: Url-join
+      patterns:
+      - .*url\-join.*
+    - name: Url-parse
+      patterns:
+      - .*url\-parse.*
+    - name: User
+      patterns:
+      - .*user.*
+    - name: User-home
+      patterns:
+      - .*user\-home.*
+    - name: Utf8
+      patterns:
+      - .*utf8.*
+    - name: Util
+      patterns:
+      - .*util.*
+    - name: Utils-merge
+      patterns:
+      - .*utils\-merge.*
+    - name: Uuid
+      patterns:
+      - .*uuid.*
+    - name: Valid-url
+      patterns:
+      - .*valid\-url.*
+    - name: Validate-npm-package-name
+      patterns:
+      - .*validate\-npm\-package\-name.*
+    - name: Validator
+      patterns:
+      - .*validator.*
+    - name: Verror
+      patterns:
+      - .*verror.*
+    - name: Vinyl
+      patterns:
+      - .*vinyl.*
+    - name: Vinyl-buffer
+      patterns:
+      - .*vinyl\-buffer.*
+    - name: Vinyl-fs
+      patterns:
+      - .*vinyl\-fs.*
+    - name: Walk
+      patterns:
+      - .*walk.*
+    - name: Watch
+      patterns:
+      - .*watch.*
+    - name: Web3
+      patterns:
+      - .*web3.*
+    - name: When
+      patterns:
+      - .*when.*
+    - name: Which
+      patterns:
+      - .*which.*
+    - name: Word-wrap
+      patterns:
+      - .*word\-wrap.*
+    - name: Wrench
+      patterns:
+      - .*wrench.*
+    - name: Xlsx
+      patterns:
+      - .*xlsx.*
+    - name: Xpath
+      patterns:
+      - .*xpath.*
+    - name: Xregexp
+      patterns:
+      - .*xregexp.*
+    - name: Xtend
+      patterns:
+      - .*xtend.*
+    - name: Yamljs
+      patterns:
+      - .*yamljs.*
+    - name: Yargs
+      patterns:
+      - .*yargs.*
+    - name: Yargs-parser
+      patterns:
+      - .*yargs\-parser.*
+    - name: Yosay
+      patterns:
+      - .*yosay.*
+    - name: Zone.js
+      patterns:
+      - .*zone\.js.*
+  - name: Reflection & Metadata
+    frameworks:
+    - name: Reflect-metadata
+      patterns:
+      - .*reflect\-metadata.*

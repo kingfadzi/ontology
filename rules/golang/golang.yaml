@@ -1,0 +1,2912 @@
+categories:
+- name: Application Development
+  subcategories:
+  - name: Component Models
+    frameworks:
+    - name: AppIndicator Go
+      patterns:
+      - .*AppIndicator\ Go.*
+    - name: Bubbles
+      patterns:
+      - .*bubbles.*
+    - name: Bubbletea
+      patterns:
+      - .*bubbletea.*
+    - name: Cogent Core
+      patterns:
+      - .*Cogent\ Core.*
+    - name: DarwinKit
+      patterns:
+      - .*DarwinKit.*
+    - name: Goey
+      patterns:
+      - .*Goey.*
+    - name: Interaction
+      patterns:
+      - .*Interaction.*
+    - name: Lipgloss
+      patterns:
+      - .*lipgloss.*
+    - name: ProtoActor
+      patterns:
+      - .*ProtoActor.*
+    - name: Spot
+      patterns:
+      - .*Spot.*
+    - name: Wails
+      patterns:
+      - .*Wails.*
+    - name: app
+      patterns:
+      - .*app.*
+    - name: cimgui
+      patterns:
+      - .*cimgui.*
+    - name: energy
+      patterns:
+      - .*energy.*
+    - name: fyne
+      patterns:
+      - .*fyne.*
+    - name: gio
+      patterns:
+      - .*gio.*
+    - name: goradd/html5tag
+      patterns:
+      - .*goradd/html5tag.*
+    - name: gosx
+      patterns:
+      - .*gosx.*
+    - name: gotk3
+      patterns:
+      - .*gotk3.*
+    - name: gowd
+      patterns:
+      - .*gowd.*
+    - name: mac
+      patterns:
+      - .*mac.*
+    - name: qt
+      patterns:
+      - .*qt.*
+    - name: robotgo
+      patterns:
+      - .*robotgo.*
+    - name: systray
+      patterns:
+      - .*systray.*
+    - name: trayhost
+      patterns:
+      - .*trayhost.*
+    - name: ui
+      patterns:
+      - .*ui.*
+    - name: unison
+      patterns:
+      - .*unison.*
+    - name: walk
+      patterns:
+      - .*walk.*
+    - name: webview
+      patterns:
+      - .*webview.*
+    - name: zenity
+      patterns:
+      - .*zenity.*
+  - name: Language Extensions
+    frameworks:
+    - name: cel
+      patterns:
+      - .*cel.*
+    - name: effdsl
+      patterns:
+      - .*effdsl.*
+  - name: Reactive Programming
+    frameworks:
+    - name: async
+      patterns:
+      - .*async.*
+    - name: channelify
+      patterns:
+      - .*channelify.*
+    - name: conc
+      patterns:
+      - .*conc.*
+    - name: concurrency
+      patterns:
+      - .*concurrency.*
+    - name: conexec
+      patterns:
+      - .*conexec.*
+    - name: cyclicbarrier
+      patterns:
+      - .*cyclicbarrier.*
+    - name: execpool
+      patterns:
+      - .*execpool.*
+    - name: flowmatic
+      patterns:
+      - .*flowmatic.*
+    - name: goccm
+      patterns:
+      - .*goccm.*
+    - name: gohive
+      patterns:
+      - .*gohive.*
+    - name: gollback
+      patterns:
+      - .*gollback.*
+    - name: goworker
+      patterns:
+      - .*goworker.*
+    - name: gowp
+      patterns:
+      - .*gowp.*
+    - name: gpool
+      patterns:
+      - .*gpool.*
+    - name: grpool
+      patterns:
+      - .*grpool.*
+    - name: neilotoole/errgroup
+      patterns:
+      - .*neilotoole/errgroup.*
+    - name: nursery
+      patterns:
+      - .*nursery.*
+    - name: oversight
+      patterns:
+      - .*oversight.*
+    - name: parallel
+      patterns:
+      - .*parallel.*
+    - name: pond
+      patterns:
+      - .*pond.*
+    - name: pool
+      patterns:
+      - .*pool.*
+    - name: rill
+      patterns:
+      - .*rill.*
+    - name: routine
+      patterns:
+      - .*routine.*
+    - name: stl
+      patterns:
+      - .*stl.*
+    - name: threadpool
+      patterns:
+      - .*threadpool.*
+    - name: tunny
+      patterns:
+      - .*tunny.*
+    - name: worker
+      patterns:
+      - .*worker.*
+    - name: workerpool
+      patterns:
+      - .*workerpool.*
+  - name: Web Frameworks
+    frameworks:
+    - name: Bubble
+      patterns:
+      - .*bubble.*
+    - name: Ergo
+      patterns:
+      - .*Ergo.*
+    - name: Falcon
+      patterns:
+      - .*Falcon.*
+    - name: Gno
+      patterns:
+      - .*gno.*
+    - name: Goakt
+      patterns:
+      - .*Goakt.*
+    - name: Gocui
+      patterns:
+      - .*gocui.*
+    - name: Gogu
+      patterns:
+      - .*gogu.*
+    - name: Kratos
+      patterns:
+      - .*Kratos.*
+    - name: Langchaingo
+      patterns:
+      - .*langchaingo.*
+    - name: LocalAI
+      patterns:
+      - .*LocalAI.*
+    - name: Maddy
+      patterns:
+      - .*Maddy.*
+    - name: Ollama
+      patterns:
+      - .*Ollama.*
+    - name: OllamaFarm
+      patterns:
+      - .*OllamaFarm.*
+    - name: bedrock
+      patterns:
+      - .*bedrock.*
+    - name: celeriac
+      patterns:
+      - .*celeriac.*
+    - name: chasquid
+      patterns:
+      - .*chasquid.*
+    - name: micro
+      patterns:
+      - .*micro.*
+    - name: pgweb
+      patterns:
+      - .*pgweb.*
+    - name: rain
+      patterns:
+      - .*rain.*
+- name: Application Integration
+  subcategories:
+  - name: API Gateways
+    frameworks:
+    - name: gatewayd
+      patterns:
+      - .*gatewayd.*
+    - name: lura
+      patterns:
+      - .*lura.*
+    - name: pREST
+      patterns:
+      - .*pREST.*
+  - name: ETL & Data Pipelines
+    frameworks:
+    - name: Parapipe
+      patterns:
+      - .*parapipe.*
+    - name: Pipeline
+      patterns:
+      - .*pipeline.*
+  - name: Event Streaming
+    frameworks:
+    - name: Benthos
+      patterns:
+      - .*Benthos.*
+    - name: EventBus
+      patterns:
+      - .*EventBus.*
+    - name: gleam
+      patterns:
+      - .*gleam.*
+    - name: liftbridge
+      patterns:
+      - .*liftbridge.*
+  - name: Message Brokers
+    frameworks:
+    - name: Asynq
+      patterns:
+      - .*Asynq.*
+    - name: Bus
+      patterns:
+      - .*Bus.*
+    - name: Centrifugo
+      patterns:
+      - .*Centrifugo.*
+    - name: Chanify
+      patterns:
+      - .*Chanify.*
+    - name: Confluent Kafka Golang Client
+      patterns:
+      - .*Confluent\ Kafka\ Golang\ Client.*
+    - name: Glue
+      patterns:
+      - .*Glue.*
+    - name: Mercure
+      patterns:
+      - .*Mercure.*
+    - name: NATS
+      patterns:
+      - .*NATS.*
+    - name: NATS Go Client
+      patterns:
+      - .*NATS\ Go\ Client.*
+    - name: RapidMQ
+      patterns:
+      - .*RapidMQ.*
+    - name: Uniqush
+      patterns:
+      - .*Uniqush.*
+    - name: Watermill
+      patterns:
+      - .*Watermill.*
+    - name: ami
+      patterns:
+      - .*ami.*
+    - name: amqp
+      patterns:
+      - .*amqp.*
+    - name: gaurun
+      patterns:
+      - .*gaurun.*
+    - name: golongpoll
+      patterns:
+      - .*golongpoll.*
+    - name: gopush
+      patterns:
+      - .*gopush.*
+    - name: gorush
+      patterns:
+      - .*gorush.*
+    - name: guble
+      patterns:
+      - .*guble.*
+    - name: hermes
+      patterns:
+      - .*hermes.*
+    - name: hub
+      patterns:
+      - .*hub.*
+    - name: jazz
+      patterns:
+      - .*jazz.*
+    - name: machinery
+      patterns:
+      - .*machinery.*
+    - name: mangos
+      patterns:
+      - .*mangos.*
+    - name: messagebus
+      patterns:
+      - .*messagebus.*
+    - name: nsq
+      patterns:
+      - .*nsq.*
+    - name: oplog
+      patterns:
+      - .*oplog.*
+    - name: pubsub
+      patterns:
+      - .*pubsub.*
+    - name: rabbitroutine
+      patterns:
+      - .*rabbitroutine.*
+    - name: rabbus
+      patterns:
+      - .*rabbus.*
+    - name: rabtap
+      patterns:
+      - .*rabtap.*
+    - name: redisqueue
+      patterns:
+      - .*redisqueue.*
+    - name: rmqconn
+      patterns:
+      - .*rmqconn.*
+    - name: sarama
+      patterns:
+      - .*sarama.*
+    - name: zmq4
+      patterns:
+      - .*zmq4.*
+  - name: Messaging Protocols
+    frameworks:
+    - name: Arikawa
+      patterns:
+      - .*arikawa.*
+    - name: Gollum
+      patterns:
+      - .*Gollum.*
+    - name: Slack
+      patterns:
+      - .*slack.*
+    - name: Slacker
+      patterns:
+      - .*slacker.*
+    - name: Telebot
+      patterns:
+      - .*telebot.*
+    - name: Telego
+      patterns:
+      - .*telego.*
+    - name: Telegram
+      patterns:
+      - .*telegram.*
+    - name: dbus
+      patterns:
+      - .*dbus.*
+    - name: melody
+      patterns:
+      - .*melody.*
+    - name: mochi mqtt
+      patterns:
+      - .*mochi\ mqtt.*
+    - name: swift
+      patterns:
+      - .*swift.*
+  - name: RPC & Web Services
+    frameworks:
+    - name: avatica
+      patterns:
+      - .*avatica.*
+    - name: httpin
+      patterns:
+      - .*httpin.*
+    - name: ofxgo
+      patterns:
+      - .*ofxgo.*
+  - name: Remote Procedure Calls
+    frameworks:
+    - name: Kitex
+      patterns:
+      - .*Kitex.*
+    - name: Lnd
+      patterns:
+      - .*lnd.*
+    - name: arpc
+      patterns:
+      - .*arpc.*
+    - name: email
+      patterns:
+      - .*email.*
+    - name: gorpc
+      patterns:
+      - .*gorpc.*
+    - name: grpc
+      patterns:
+      - .*grpc.*
+    - name: hprose
+      patterns:
+      - .*hprose.*
+    - name: jsonrpc
+      patterns:
+      - .*jsonrpc.*
+    - name: metacall
+      patterns:
+      - .*metacall.*
+    - name: opc
+      patterns:
+      - .*opc.*
+    - name: pjrpc
+      patterns:
+      - .*pjrpc.*
+    - name: rpcx
+      patterns:
+      - .*rpcx.*
+    - name: smtp
+      patterns:
+      - .*smtp.*
+    - name: trpc
+      patterns:
+      - .*trpc.*
+  - name: Service Integration Frameworks
+    frameworks:
+    - name: APNs2
+      patterns:
+      - .*APNs2.*
+    - name: Beaver
+      patterns:
+      - .*Beaver.*
+    - name: Cosmos
+      patterns:
+      - .*cosmos.*
+    - name: Dragonfly
+      patterns:
+      - .*Dragonfly.*
+    - name: K8gb
+      patterns:
+      - .*K8gb.*
+    - name: Quamina
+      patterns:
+      - .*Quamina.*
+    - name: SendGrid
+      patterns:
+      - .*SendGrid.*
+    - name: Solana
+      patterns:
+      - .*solana.*
+    - name: Temporal
+      patterns:
+      - .*Temporal.*
+    - name: ach
+      patterns:
+      - .*ach.*
+    - name: bqb
+      patterns:
+      - .*bqb.*
+    - name: chproxy
+      patterns:
+      - .*chproxy.*
+    - name: digota
+      patterns:
+      - .*digota.*
+    - name: dragonboat
+      patterns:
+      - .*dragonboat.*
+    - name: elastic
+      patterns:
+      - .*elastic.*
+    - name: elastigo
+      patterns:
+      - .*elastigo.*
+    - name: gmsec
+      patterns:
+      - .*gmsec.*
+    - name: gosd
+      patterns:
+      - .*gosd.*
+    - name: mailchain
+      patterns:
+      - .*mailchain.*
+    - name: mailgun
+      patterns:
+      - .*mailgun.*
+    - name: outboxer
+      patterns:
+      - .*outboxer.*
+    - name: payme
+      patterns:
+      - .*payme.*
+    - name: resgate
+      patterns:
+      - .*resgate.*
+    - name: sleet
+      patterns:
+      - .*sleet.*
+    - name: zoekt
+      patterns:
+      - .*zoekt.*
+  - name: Service Mesh
+    frameworks:
+    - name: dht
+      patterns:
+      - .*dht.*
+- name: Data Management
+  subcategories:
+  - name: Caching
+    frameworks:
+    - name: Bcache
+      patterns:
+      - .*bcache.*
+    - name: BigCache
+      patterns:
+      - .*BigCache.*
+    - name: Cache
+      patterns:
+      - .*cache.*
+    - name: Cache2go
+      patterns:
+      - .*cache2go.*
+    - name: Cachego
+      patterns:
+      - .*cachego.*
+    - name: ClusteredBigCache
+      patterns:
+      - .*clusteredBigCache.*
+    - name: Coherence
+      patterns:
+      - .*coherence.*
+    - name: Couchcache
+      patterns:
+      - .*couchcache.*
+    - name: Fastcache
+      patterns:
+      - .*fastcache.*
+    - name: GCache
+      patterns:
+      - .*GCache.*
+    - name: Gdcache
+      patterns:
+      - .*gdcache.*
+    - name: Gocache
+      patterns:
+      - .*gocache.*
+    - name: Groupcache
+      patterns:
+      - .*groupcache.*
+    - name: Icache
+      patterns:
+      - .*icache.*
+    - name: Imcache
+      patterns:
+      - .*imcache.*
+    - name: Nscache
+      patterns:
+      - .*nscache.*
+    - name: Pocache
+      patterns:
+      - .*pocache.*
+    - name: Ristretto
+      patterns:
+      - .*ristretto.*
+    - name: godscache
+      patterns:
+      - .*godscache.*
+    - name: gokv
+      patterns:
+      - .*gokv.*
+    - name: gomemcache
+      patterns:
+      - .*gomemcache.*
+    - name: gomemcached
+      patterns:
+      - .*gomemcached.*
+    - name: redeo
+      patterns:
+      - .*redeo.*
+    - name: redigo
+      patterns:
+      - .*redigo.*
+    - name: redis
+      patterns:
+      - .*redis.*
+    - name: rueidis
+      patterns:
+      - .*rueidis.*
+    - name: ttlcache
+      patterns:
+      - .*ttlcache.*
+    - name: xredis
+      patterns:
+      - .*xredis.*
+  - name: Data Warehousing
+    frameworks:
+    - name: clickhouse
+      patterns:
+      - .*clickhouse.*
+    - name: column
+      patterns:
+      - .*column.*
+    - name: parquet
+      patterns:
+      - .*parquet.*
+  - name: NoSQL Databases
+    frameworks:
+    - name: Bitcask
+      patterns:
+      - .*Bitcask.*
+    - name: Bleve
+      patterns:
+      - .*bleve.*
+    - name: Coffer
+      patterns:
+      - .*Coffer.*
+    - name: Databunker
+      patterns:
+      - .*Databunker.*
+    - name: DiceDB
+      patterns:
+      - .*DiceDB.*
+    - name: Kivik
+      patterns:
+      - .*Kivik.*
+    - name: LinDB
+      patterns:
+      - .*LinDB.*
+    - name: Milvus
+      patterns:
+      - .*Milvus.*
+    - name: Tile38
+      patterns:
+      - .*Tile38.*
+    - name: Vasto
+      patterns:
+      - .*Vasto.*
+    - name: VictoriaMetrics
+      patterns:
+      - .*VictoriaMetrics.*
+    - name: aerospike
+      patterns:
+      - .*aerospike.*
+    - name: arangolite
+      patterns:
+      - .*arangolite.*
+    - name: atlas
+      patterns:
+      - .*atlas.*
+    - name: badger
+      patterns:
+      - .*badger.*
+    - name: bbolt
+      patterns:
+      - .*bbolt.*
+    - name: buntdb
+      patterns:
+      - .*buntdb.*
+    - name: cayley
+      patterns:
+      - .*cayley.*
+    - name: clover
+      patterns:
+      - .*clover.*
+    - name: dgraph
+      patterns:
+      - .*dgraph.*
+    - name: diskv
+      patterns:
+      - .*diskv.*
+    - name: dynamo
+      patterns:
+      - .*dynamo.*
+    - name: eliasdb
+      patterns:
+      - .*eliasdb.*
+    - name: forestdb
+      patterns:
+      - .*forestdb.*
+    - name: gocb
+      patterns:
+      - .*gocb.*
+    - name: gocosmos
+      patterns:
+      - .*gocosmos.*
+    - name: gocql
+      patterns:
+      - .*gocql.*
+    - name: godis
+      patterns:
+      - .*godis.*
+    - name: goleveldb
+      patterns:
+      - .*goleveldb.*
+    - name: gorethink
+      patterns:
+      - .*gorethink.*
+    - name: goriak
+      patterns:
+      - .*goriak.*
+    - name: hare
+      patterns:
+      - .*hare.*
+    - name: immudb
+      patterns:
+      - .*immudb.*
+    - name: influxdb
+      patterns:
+      - .*influxdb.*
+    - name: ledisdb
+      patterns:
+      - .*ledisdb.*
+    - name: levigo
+      patterns:
+      - .*levigo.*
+    - name: lotusdb
+      patterns:
+      - .*lotusdb.*
+    - name: mgo
+      patterns:
+      - .*mgo.*
+    - name: mongo
+      patterns:
+      - .*mongo.*
+    - name: moss
+      patterns:
+      - .*moss.*
+    - name: neo4j
+      patterns:
+      - .*neo4j.*
+    - name: neoism
+      patterns:
+      - .*neoism.*
+    - name: nutsdb
+      patterns:
+      - .*nutsdb.*
+    - name: objectbox
+      patterns:
+      - .*objectbox.*
+    - name: pebble
+      patterns:
+      - .*pebble.*
+    - name: pig
+      patterns:
+      - .*pig.*
+    - name: piladb
+      patterns:
+      - .*piladb.*
+    - name: pogreb
+      patterns:
+      - .*pogreb.*
+    - name: pudge
+      patterns:
+      - .*pudge.*
+    - name: qmgo
+      patterns:
+      - .*qmgo.*
+    - name: redka
+      patterns:
+      - .*redka.*
+    - name: rosedb
+      patterns:
+      - .*rosedb.*
+    - name: rotom
+      patterns:
+      - .*rotom.*
+    - name: sturdyc
+      patterns:
+      - .*sturdyc.*
+    - name: surrealdb.go
+      patterns:
+      - .*surrealdb\.go.*
+    - name: tempdb
+      patterns:
+      - .*tempdb.*
+    - name: theine
+      patterns:
+      - .*theine.*
+    - name: tiedot
+      patterns:
+      - .*tiedot.*
+    - name: timedmap
+      patterns:
+      - .*timedmap.*
+    - name: unitdb
+      patterns:
+      - .*unitdb.*
+    - name: ydb
+      patterns:
+      - .*ydb.*
+  - name: ORM & Data Access
+    frameworks:
+    - name: Dotsql
+      patterns:
+      - .*Dotsql.*
+    - name: Gota
+      patterns:
+      - .*gota.*
+    - name: Squalus
+      patterns:
+      - .*Squalus.*
+    - name: Squirrel
+      patterns:
+      - .*Squirrel.*
+    - name: dbq
+      patterns:
+      - .*dbq.*
+    - name: elasticsql
+      patterns:
+      - .*elasticsql.*
+    - name: gendry
+      patterns:
+      - .*gendry.*
+    - name: godbal
+      patterns:
+      - .*godbal.*
+    - name: goqu
+      patterns:
+      - .*goqu.*
+    - name: gorm
+      patterns:
+      - .*gorm.*
+    - name: gormigrate
+      patterns:
+      - .*gormigrate.*
+    - name: gosql
+      patterns:
+      - .*gosql.*
+    - name: hasql
+      patterns:
+      - .*hasql.*
+    - name: jet
+      patterns:
+      - .*jet.*
+    - name: mgm
+      patterns:
+      - .*mgm.*
+    - name: ormlite
+      patterns:
+      - .*ormlite.*
+    - name: pglock
+      patterns:
+      - .*pglock.*
+    - name: qry
+      patterns:
+      - .*qry.*
+    - name: rdb
+      patterns:
+      - .*rdb.*
+    - name: rwdb
+      patterns:
+      - .*rwdb.*
+    - name: sql
+      patterns:
+      - .*sql.*
+    - name: sqldb
+      patterns:
+      - .*sqldb.*
+    - name: sqlhooks
+      patterns:
+      - .*sqlhooks.*
+    - name: sqlize
+      patterns:
+      - .*sqlize.*
+  - name: Relational Databases
+    frameworks:
+    - name: CovenantSQL
+      patterns:
+      - .*CovenantSQL.*
+    - name: KSQL
+      patterns:
+      - .*KSQL.*
+    - name: cockroach
+      patterns:
+      - .*cockroach.*
+    - name: dolt
+      patterns:
+      - .*dolt.*
+    - name: firebirdsql
+      patterns:
+      - .*firebirdsql.*
+    - name: godror
+      patterns:
+      - .*godror.*
+    - name: gofreetds
+      patterns:
+      - .*gofreetds.*
+    - name: libradb
+      patterns:
+      - .*libradb.*
+    - name: pgx
+      patterns:
+      - .*pgx.*
+    - name: pq
+      patterns:
+      - .*pq.*
+    - name: rqlite
+      patterns:
+      - .*rqlite.*
+    - name: sqlite
+      patterns:
+      - .*sqlite.*
+    - name: tidb
+      patterns:
+      - .*tidb.*
+    - name: vitess
+      patterns:
+      - .*vitess.*
+- name: Deployment & Runtime Platforms
+  subcategories:
+  - name: Cloud Platforms
+    frameworks:
+    - name: Cometbft
+      patterns:
+      - .*cometbft.*
+    - name: Kubo
+      patterns:
+      - .*kubo.*
+    - name: Tendermint
+      patterns:
+      - .*tendermint.*
+- name: Developer Tooling
+  subcategories:
+  - name: Build Tools
+    frameworks:
+    - name: 1build
+      patterns:
+      - .*1build.*
+    - name: Cfmt
+      patterns:
+      - .*cfmt.*
+    - name: Commander
+      patterns:
+      - .*Commander.*
+    - name: Gob
+      patterns:
+      - .*gob.*
+    - name: Mage
+      patterns:
+      - .*mage.*
+    - name: Mmake
+      patterns:
+      - .*mmake.*
+    - name: Realize
+      patterns:
+      - .*realize.*
+    - name: Task
+      patterns:
+      - .*Task.*
+    - name: Taskctl
+      patterns:
+      - .*taskctl.*
+    - name: Xc
+      patterns:
+      - .*xc.*
+  - name: Code Generators
+    frameworks:
+    - name: Anko
+      patterns:
+      - .*anko.*
+    - name: Bingo
+      patterns:
+      - .*bingo.*
+    - name: GoWrap
+      patterns:
+      - .*GoWrap.*
+    - name: Gomason
+      patterns:
+      - .*gomason.*
+    - name: Gosemble
+      patterns:
+      - .*gosemble.*
+    - name: Hunch
+      patterns:
+      - .*Hunch.*
+    - name: bind
+      patterns:
+      - .*bind.*
+    - name: buildsqlx
+      patterns:
+      - .*buildsqlx.*
+    - name: bunster
+      patterns:
+      - .*bunster.*
+    - name: bytebase
+      patterns:
+      - .*bytebase.*
+    - name: c4go
+      patterns:
+      - .*c4go.*
+    - name: checker
+      patterns:
+      - .*checker.*
+    - name: conform
+      patterns:
+      - .*conform.*
+    - name: convergen
+      patterns:
+      - .*convergen.*
+    - name: copygen
+      patterns:
+      - .*copygen.*
+    - name: dbmate
+      patterns:
+      - .*dbmate.*
+    - name: f4go
+      patterns:
+      - .*f4go.*
+    - name: form
+      patterns:
+      - .*form.*
+    - name: formam
+      patterns:
+      - .*formam.*
+    - name: forms
+      patterns:
+      - .*forms.*
+    - name: fp
+      patterns:
+      - .*fp.*
+    - name: fpGo
+      patterns:
+      - .*fpGo.*
+    - name: fuego
+      patterns:
+      - .*fuego.*
+    - name: gbind
+      patterns:
+      - .*gbind.*
+    - name: generis
+      patterns:
+      - .*generis.*
+    - name: go2hx
+      patterns:
+      - .*go2hx.*
+    - name: goderive
+      patterns:
+      - .*goderive.*
+    - name: godfish
+      patterns:
+      - .*godfish.*
+    - name: gofp
+      patterns:
+      - .*gofp.*
+    - name: goose
+      patterns:
+      - .*goose.*
+    - name: gopherjs
+      patterns:
+      - .*gopherjs.*
+    - name: goverter
+      patterns:
+      - .*goverter.*
+    - name: interfaces
+      patterns:
+      - .*interfaces.*
+    - name: jennifer
+      patterns:
+      - .*jennifer.*
+    - name: migrate
+      patterns:
+      - .*migrate.*
+    - name: migrator
+      patterns:
+      - .*migrator.*
+    - name: mo
+      patterns:
+      - .*mo.*
+    - name: oapi
+      patterns:
+      - .*oapi.*
+    - name: onedump
+      patterns:
+      - .*onedump.*
+    - name: schema
+      patterns:
+      - .*schema.*
+    - name: skeema
+      patterns:
+      - .*skeema.*
+    - name: sqlc
+      patterns:
+      - .*sqlc.*
+    - name: sqlf
+      patterns:
+      - .*sqlf.*
+    - name: sqlingo
+      patterns:
+      - .*sqlingo.*
+    - name: typeregistry
+      patterns:
+      - .*typeregistry.*
+    - name: valor
+      patterns:
+      - .*valor.*
+    - name: xo
+      patterns:
+      - .*xo.*
+  - name: Local Development Runtimes
+    frameworks:
+    - name: Abstruse
+      patterns:
+      - .*abstruse.*
+    - name: Acmd
+      patterns:
+      - .*acmd.*
+    - name: Air
+      patterns:
+      - .*air.*
+    - name: Argparse
+      patterns:
+      - .*argparse.*
+    - name: Argv
+      patterns:
+      - .*argv.*
+    - name: CDS
+      patterns:
+      - .*CDS.*
+    - name: Carapace
+      patterns:
+      - .*carapace.*
+    - name: Climax
+      patterns:
+      - .*climax.*
+    - name: "Cl\xEEr"
+      patterns:
+      - ".*cl\xEEr.*"
+    - name: Cmd
+      patterns:
+      - .*cmd.*
+    - name: Cmdr
+      patterns:
+      - .*cmdr.*
+    - name: Cobra
+      patterns:
+      - .*cobra.*
+    - name: Command
+      patterns:
+      - .*command.*
+    - name: Commande er
+      patterns:
+      - .*commandeer.*
+    - name: Complete
+      patterns:
+      - .*complete.*
+    - name: Console Closed
+      patterns:
+      - .*console\ Closed.*
+    - name: Dnote
+      patterns:
+      - .*Dnote.*
+    - name: Drone
+      patterns:
+      - .*drone.*
+    - name: Elvish
+      patterns:
+      - .*elvish.*
+    - name: Env
+      patterns:
+      - .*env.*
+    - name: Flaggy
+      patterns:
+      - .*flaggy.*
+    - name: Flagvar
+      patterns:
+      - .*flagvar.*
+    - name: Fx
+      patterns:
+      - .*fx.*
+    - name: Getopt
+      patterns:
+      - .*getopt.*
+    - name: Go
+      patterns:
+      - .*go.*
+    - name: Gocmd
+      patterns:
+      - .*gocmd.*
+    - name: Golang
+      patterns:
+      - .*golang.*
+    - name: Goyek
+      patterns:
+      - .*goyek.*
+    - name: Hashicorp/cli
+      patterns:
+      - .*hashicorp/cli.*
+    - name: Hiboot cli
+      patterns:
+      - .*hiboot\ cli.*
+    - name: Hollywood
+      patterns:
+      - .*Hollywood.*
+    - name: Job
+      patterns:
+      - .*job.*
+    - name: JobRunner
+      patterns:
+      - .*JobRunner.*
+    - name: Kingpin
+      patterns:
+      - .*kingpin.*
+    - name: Kong
+      patterns:
+      - .*kong.*
+    - name: Liner
+      patterns:
+      - .*liner.*
+    - name: MailHog
+      patterns:
+      - .*MailHog.*
+    - name: Mailpit
+      patterns:
+      - .*Mailpit.*
+    - name: Mcli
+      patterns:
+      - .*mcli.*
+    - name: Mkideal/cli
+      patterns:
+      - .*mkideal/cli.*
+    - name: Mow.cli
+      patterns:
+      - .*mow\.cli.*
+    - name: Ops
+      patterns:
+      - .*ops.*
+    - name: Pflag
+      patterns:
+      - .*pflag.*
+    - name: Readline
+      patterns:
+      - .*readline.*
+    - name: Sand
+      patterns:
+      - .*sand.*
+    - name: Sessionup
+      patterns:
+      - .*sessionup.*
+    - name: Sflags
+      patterns:
+      - .*sflags.*
+    - name: Strumt
+      patterns:
+      - .*strumt.*
+    - name: Subcmd
+      patterns:
+      - .*subcmd.*
+    - name: Teris
+      patterns:
+      - .*teris.*
+    - name: Ts
+      patterns:
+      - .*ts.*
+    - name: Ukautz/clif
+      patterns:
+      - .*ukautz/clif.*
+    - name: Urfave/cli
+      patterns:
+      - .*urfave/cli.*
+    - name: Version
+      patterns:
+      - .*version.*
+    - name: Wlog
+      patterns:
+      - .*wlog.*
+    - name: Wmenu
+      patterns:
+      - .*wmenu.*
+    - name: Woodpecker
+      patterns:
+      - .*woodpecker.*
+    - name: cdule
+      patterns:
+      - .*cdule.*
+    - name: cheek
+      patterns:
+      - .*cheek.*
+    - name: clockwerk
+      patterns:
+      - .*clockwerk.*
+    - name: cronticker
+      patterns:
+      - .*cronticker.*
+    - name: drmaa
+      patterns:
+      - .*drmaa.*
+    - name: gdu
+      patterns:
+      - .*gdu.*
+    - name: gocron
+      patterns:
+      - .*gocron.*
+    - name: goflow
+      patterns:
+      - .*goflow.*
+    - name: gron
+      patterns:
+      - .*gron.*
+    - name: gronx
+      patterns:
+      - .*gronx.*
+    - name: leprechaun
+      patterns:
+      - .*leprechaun.*
+    - name: mailx
+      patterns:
+      - .*mailx.*
+    - name: sched
+      patterns:
+      - .*sched.*
+    - name: scheduler
+      patterns:
+      - .*scheduler.*
+    - name: tasks
+      patterns:
+      - .*tasks.*
+- name: Networking
+  subcategories:
+  - name: Service Mesh
+    frameworks:
+    - name: Gossamer
+      patterns:
+      - .*gossamer.*
+- name: Observability
+  subcategories:
+  - name: Logging
+    frameworks:
+    - name: Memlog
+      patterns:
+      - .*memlog.*
+    - name: distillog
+      patterns:
+      - .*distillog.*
+    - name: errlog
+      patterns:
+      - .*errlog.*
+    - name: glg
+      patterns:
+      - .*glg.*
+    - name: glo
+      patterns:
+      - .*glo.*
+    - name: glog
+      patterns:
+      - .*glog.*
+    - name: gone/log
+      patterns:
+      - .*gone/log.*
+    - name: journald
+      patterns:
+      - .*journald.*
+    - name: kemba
+      patterns:
+      - .*kemba.*
+    - name: lazyjournal
+      patterns:
+      - .*lazyjournal.*
+    - name: log
+      patterns:
+      - .*log.*
+    - name: log15
+      patterns:
+      - .*log15.*
+    - name: logdump
+      patterns:
+      - .*logdump.*
+    - name: logex
+      patterns:
+      - .*logex.*
+    - name: logger
+      patterns:
+      - .*logger.*
+    - name: logo
+      patterns:
+      - .*logo.*
+    - name: logrus
+      patterns:
+      - .*logrus.*
+    - name: logrusiowriter
+      patterns:
+      - .*logrusiowriter.*
+    - name: logrusly
+      patterns:
+      - .*logrusly.*
+    - name: logur
+      patterns:
+      - .*logur.*
+    - name: logutils
+      patterns:
+      - .*logutils.*
+    - name: logxi
+      patterns:
+      - .*logxi.*
+    - name: lumberjack
+      patterns:
+      - .*lumberjack.*
+    - name: mlog
+      patterns:
+      - .*mlog.*
+    - name: noodlog
+      patterns:
+      - .*noodlog.*
+    - name: onelog
+      patterns:
+      - .*onelog.*
+    - name: phuslu/log
+      patterns:
+      - .*phuslu/log.*
+    - name: pp
+      patterns:
+      - .*pp.*
+    - name: rollingwriter
+      patterns:
+      - .*rollingwriter.*
+    - name: seelog
+      patterns:
+      - .*seelog.*
+    - name: slf4g
+      patterns:
+      - .*slf4g.*
+    - name: slog
+      patterns:
+      - .*slog.*
+    - name: slogor
+      patterns:
+      - .*slogor.*
+    - name: stdlog
+      patterns:
+      - .*stdlog.*
+    - name: structy/log
+      patterns:
+      - .*structy/log.*
+    - name: tint
+      patterns:
+      - .*tint.*
+    - name: xlog
+      patterns:
+      - .*xlog.*
+    - name: xylog
+      patterns:
+      - .*xylog.*
+    - name: yell
+      patterns:
+      - .*yell.*
+    - name: zap
+      patterns:
+      - .*zap.*
+    - name: zax
+      patterns:
+      - .*zax.*
+    - name: zerolog
+      patterns:
+      - .*zerolog.*
+    - name: zkits
+      patterns:
+      - .*zkits.*
+    - name: zl
+      patterns:
+      - .*zl.*
+  - name: Metrics
+    frameworks:
+    - name: Progressbar
+      patterns:
+      - .*progressbar.*
+    - name: carbon
+      patterns:
+      - .*carbon.*
+    - name: prometheus
+      patterns:
+      - .*prometheus.*
+  - name: Monitoring
+    frameworks:
+    - name: sentry
+      patterns:
+      - .*sentry.*
+  - name: Tracing
+    frameworks:
+    - name: sleuth
+      patterns:
+      - .*sleuth.*
+    - name: tracerr
+      patterns:
+      - .*tracerr.*
+- name: Resilience & Control
+  subcategories:
+  - name: Circuit Breakers
+    frameworks:
+    - name: breaker
+      patterns:
+      - .*breaker.*
+  - name: Rate Limiting
+    frameworks:
+    - name: Semaphore
+      patterns:
+      - .*Semaphore.*
+  - name: Service Discovery
+    frameworks:
+    - name: consistenthash
+      patterns:
+      - .*consistenthash.*
+    - name: dynamolock
+      patterns:
+      - .*dynamolock.*
+    - name: raft
+      patterns:
+      - .*raft.*
+    - name: ringpop
+      patterns:
+      - .*ringpop.*
+- name: Security
+  subcategories:
+  - name: Access Control
+    frameworks:
+    - name: Casbin
+      patterns:
+      - .*casbin.*
+    - name: Gorbac
+      patterns:
+      - .*gorbac.*
+    - name: Keto
+      patterns:
+      - .*keto.*
+    - name: Openfga
+      patterns:
+      - .*openfga.*
+    - name: Permissions
+      patterns:
+      - .*permissions.*
+    - name: Scope
+      patterns:
+      - .*scope.*
+    - name: shield
+      patterns:
+      - .*shield.*
+  - name: Authentication & Authorization
+    frameworks:
+    - name: Authboss
+      patterns:
+      - .*authboss.*
+    - name: Goth
+      patterns:
+      - .*goth.*
+    - name: Jwt
+      patterns:
+      - .*jwt.*
+    - name: Jwx
+      patterns:
+      - .*jwx.*
+    - name: Loginsrv
+      patterns:
+      - .*loginsrv.*
+    - name: Oauth2
+      patterns:
+      - .*oauth2.*
+    - name: Osin
+      patterns:
+      - .*osin.*
+    - name: Otpgen
+      patterns:
+      - .*otpgen.*
+    - name: Otpgo
+      patterns:
+      - .*otpgo.*
+    - name: Paseto
+      patterns:
+      - .*paseto.*
+    - name: Scs
+      patterns:
+      - .*scs.*
+    - name: Sjwt
+      patterns:
+      - .*sjwt.*
+  - name: Identity & Access Management
+    frameworks:
+    - name: Branca
+      patterns:
+      - .*branca.*
+    - name: EchoVault
+      patterns:
+      - .*EchoVault.*
+    - name: Oidc
+      patterns:
+      - .*oidc.*
+  - name: Transport Security
+    frameworks:
+    - name: Securecookie
+      patterns:
+      - .*securecookie.*
+    - name: gorilla/csrf
+      patterns:
+      - .*gorilla/csrf.*
+    - name: nosurf
+      patterns:
+      - .*nosurf.*
+- name: Serialization
+  subcategories:
+  - name: Binary Formats
+    frameworks:
+    - name: avro
+      patterns:
+      - .*avro.*
+    - name: goavro
+      patterns:
+      - .*goavro.*
+  - name: JSON & XML
+    frameworks:
+    - name: GJSON
+      patterns:
+      - .*GJSON.*
+    - name: JSON
+      patterns:
+      - .*JSON.*
+    - name: JayDiff
+      patterns:
+      - .*JayDiff.*
+    - name: OjG
+      patterns:
+      - .*OjG.*
+    - name: ajson
+      patterns:
+      - .*ajson.*
+    - name: ask
+      patterns:
+      - .*ask.*
+    - name: dynjson
+      patterns:
+      - .*dynjson.*
+    - name: ej
+      patterns:
+      - .*ej.*
+    - name: epoch
+      patterns:
+      - .*epoch.*
+    - name: fastjson
+      patterns:
+      - .*fastjson.*
+    - name: gabs
+      patterns:
+      - .*gabs.*
+    - name: gjo
+      patterns:
+      - .*gjo.*
+    - name: gojmapr
+      patterns:
+      - .*gojmapr.*
+    - name: gojq
+      patterns:
+      - .*gojq.*
+    - name: gojson
+      patterns:
+      - .*gojson.*
+    - name: htmljson
+      patterns:
+      - .*htmljson.*
+    - name: jettison
+      patterns:
+      - .*jettison.*
+    - name: jscan
+      patterns:
+      - .*jscan.*
+    - name: json2go
+      patterns:
+      - .*json2go.*
+    - name: jsonapi
+      patterns:
+      - .*jsonapi.*
+    - name: jsoncolor
+      patterns:
+      - .*jsoncolor.*
+    - name: jsondiff
+      patterns:
+      - .*jsondiff.*
+    - name: jsonf
+      patterns:
+      - .*jsonf.*
+    - name: jsongo
+      patterns:
+      - .*jsongo.*
+    - name: jsonhal
+      patterns:
+      - .*jsonhal.*
+    - name: jsonhandlers
+      patterns:
+      - .*jsonhandlers.*
+    - name: jsonic
+      patterns:
+      - .*jsonic.*
+    - name: jsonvalue
+      patterns:
+      - .*jsonvalue.*
+    - name: jzon
+      patterns:
+      - .*jzon.*
+    - name: kazaam
+      patterns:
+      - .*kazaam.*
+    - name: marshmallow
+      patterns:
+      - .*marshmallow.*
+    - name: mp
+      patterns:
+      - .*mp.*
+    - name: omg.jsonparser
+      patterns:
+      - .*omg\.jsonparser.*
+    - name: ujson
+      patterns:
+      - .*ujson.*
+    - name: vjson
+      patterns:
+      - .*vjson.*
+- name: Testing & Quality
+  subcategories:
+  - name: Code Coverage
+    frameworks:
+    - name: Goveralls
+      patterns:
+      - .*goveralls.*
+    - name: Overalls
+      patterns:
+      - .*overalls.*
+    - name: Roveralls
+      patterns:
+      - .*roveralls.*
+  - name: Mocking & Fakes
+    frameworks:
+    - name: httpretty
+      patterns:
+      - .*httpretty.*
+    - name: mox
+      patterns:
+      - .*mox.*
+    - name: smtpmock
+      patterns:
+      - .*smtpmock.*
+  - name: Profiling & Debugging
+    frameworks:
+    - name: Bencher
+      patterns:
+      - .*Bencher.*
+    - name: dbbench
+      patterns:
+      - .*dbbench.*
+  - name: Testing Frameworks
+    frameworks:
+    - name: Gotestfmt
+      patterns:
+      - .*gotestfmt.*
+    - name: ddt
+      patterns:
+      - .*ddt.*
+    - name: soda
+      patterns:
+      - .*soda.*
+- name: Utility Libraries
+  subcategories:
+  - name: Collections & Data Structures
+    frameworks:
+    - name: 2q
+      patterns:
+      - .*2q.*
+    - name: Algorithms
+      patterns:
+      - .*algorithms.*
+    - name: Bitmap
+      patterns:
+      - .*bitmap.*
+    - name: Bitset
+      patterns:
+      - .*bitset.*
+    - name: Bloom
+      patterns:
+      - .*bloom.*
+    - name: Bloomfilter
+      patterns:
+      - .*bloomfilter.*
+    - name: Boomfilters
+      patterns:
+      - .*boomfilters.*
+    - name: Cmap
+      patterns:
+      - .*cmap.*
+    - name: Concurrent
+      patterns:
+      - .*concurrent.*
+    - name: Count
+      patterns:
+      - .*count.*
+    - name: Cuckoo
+      patterns:
+      - .*cuckoo.*
+    - name: Cuckoofilter
+      patterns:
+      - .*cuckoofilter.*
+    - name: Deque
+      patterns:
+      - .*deque.*
+    - name: Dict
+      patterns:
+      - .*dict.*
+    - name: Dsu
+      patterns:
+      - .*dsu.*
+    - name: Go18ds
+      patterns:
+      - .*go18ds.*
+    - name: Goconcurrentqueue
+      patterns:
+      - .*goconcurrentqueue.*
+    - name: Gods
+      patterns:
+      - .*gods.*
+    - name: Goradd/maps
+      patterns:
+      - .*goradd/maps.*
+    - name: Goset
+      patterns:
+      - .*goset.*
+    - name: Gostl
+      patterns:
+      - .*gostl.*
+    - name: Goterator
+      patterns:
+      - .*goterator.*
+    - name: Hyperloglog
+      patterns:
+      - .*hyperloglog.*
+    - name: Iter
+      patterns:
+      - .*iter.*
+    - name: Merkle
+      patterns:
+      - .*merkle.*
+    - name: Ordered
+      patterns:
+      - .*ordered.*
+    - name: Ptrie
+      patterns:
+      - .*ptrie.*
+    - name: Quadtree
+      patterns:
+      - .*quadtree.*
+    - name: Queue
+      patterns:
+      - .*queue.*
+    - name: Ring
+      patterns:
+      - .*ring.*
+    - name: Roaring
+      patterns:
+      - .*roaring.*
+    - name: Set
+      patterns:
+      - .*set.*
+    - name: Skiplist
+      patterns:
+      - .*skiplist.*
+    - name: Slices
+      patterns:
+      - .*slices.*
+    - name: Treap
+      patterns:
+      - .*treap.*
+    - name: Treemap
+      patterns:
+      - .*treemap.*
+    - name: Trie
+      patterns:
+      - .*trie.*
+    - name: Typ
+      patterns:
+      - .*typ.*
+    - name: asc
+      patterns:
+      - .*asc.*
+    - name: capillaries
+      patterns:
+      - .*capillaries.*
+  - name: Configuration Utilities
+    frameworks:
+    - name: Aconfig
+      patterns:
+      - .*aconfig.*
+    - name: Bcl
+      patterns:
+      - .*bcl.*
+    - name: Cleanenv
+      patterns:
+      - .*cleanenv.*
+    - name: Config
+      patterns:
+      - .*config.*
+    - name: Configuration
+      patterns:
+      - .*configuration.*
+    - name: Configure
+      patterns:
+      - .*configure.*
+    - name: Configuro
+      patterns:
+      - .*configuro.*
+    - name: Confiq
+      patterns:
+      - .*confiq.*
+    - name: Confita
+      patterns:
+      - .*confita.*
+    - name: Conflate
+      patterns:
+      - .*conflate.*
+    - name: Envconfig
+      patterns:
+      - .*envconfig.*
+    - name: Envh
+      patterns:
+      - .*envh.*
+    - name: Envyaml
+      patterns:
+      - .*envyaml.*
+    - name: Fig
+      patterns:
+      - .*fig.*
+    - name: Genv
+      patterns:
+      - .*genv.*
+    - name: GoCfg
+      patterns:
+      - .*GoCfg.*
+    - name: GoLobby/Config
+      patterns:
+      - .*GoLobby/Config.*
+    - name: Godotenv
+      patterns:
+      - .*godotenv.*
+    - name: Gofigure
+      patterns:
+      - .*gofigure.*
+    - name: Gone/jconf
+      patterns:
+      - .*gone/jconf.*
+    - name: Gonfig
+      patterns:
+      - .*gonfig.*
+    - name: Gookit/config
+      patterns:
+      - .*gookit/config.*
+    - name: Harvester
+      patterns:
+      - .*harvester.*
+    - name: Hedzr/store
+      patterns:
+      - .*hedzr/store.*
+    - name: Hjson
+      patterns:
+      - .*hjson.*
+    - name: Hocon
+      patterns:
+      - .*hocon.*
+    - name: Ingo
+      patterns:
+      - .*ingo.*
+    - name: Ini
+      patterns:
+      - .*ini.*
+    - name: Joshbetz/config
+      patterns:
+      - .*joshbetz/config.*
+    - name: Kelseyhightower/envconfig
+      patterns:
+      - .*kelseyhightower/envconfig.*
+    - name: Koanf
+      patterns:
+      - .*koanf.*
+    - name: Konf
+      patterns:
+      - .*konf.*
+    - name: Konfig
+      patterns:
+      - .*konfig.*
+    - name: Mini
+      patterns:
+      - .*mini.*
+    - name: Nasermirzaei89/env
+      patterns:
+      - .*nasermirzaei89/env.*
+    - name: Nfigure
+      patterns:
+      - .*nfigure.*
+    - name: Onion
+      patterns:
+      - .*onion.*
+    - name: Piper
+      patterns:
+      - .*piper.*
+    - name: Sonic
+      patterns:
+      - .*sonic.*
+    - name: Store
+      patterns:
+      - .*store.*
+    - name: Swap
+      patterns:
+      - .*swap.*
+    - name: Typenv
+      patterns:
+      - .*typenv.*
+    - name: UConfig
+      patterns:
+      - .*uConfig.*
+    - name: Viper
+      patterns:
+      - .*viper.*
+    - name: Yamagiconf
+      patterns:
+      - .*yamagiconf.*
+    - name: Zerocfg
+      patterns:
+      - .*zerocfg.*
+  - name: Date & Time Utilities
+    frameworks:
+    - name: date
+      patterns:
+      - .*date.*
+    - name: dateparse
+      patterns:
+      - .*dateparse.*
+    - name: durafmt
+      patterns:
+      - .*durafmt.*
+    - name: feiertage
+      patterns:
+      - .*feiertage.*
+    - name: iso8601
+      patterns:
+      - .*iso8601.*
+    - name: now
+      patterns:
+      - .*now.*
+    - name: strftime
+      patterns:
+      - .*strftime.*
+    - name: timespan
+      patterns:
+      - .*timespan.*
+    - name: timeutil
+      patterns:
+      - .*timeutil.*
+    - name: tuesday
+      patterns:
+      - .*tuesday.*
+  - name: General Utilities
+    frameworks:
+    - name: Asciigraph
+      patterns:
+      - .*asciigraph.*
+    - name: Aurora
+      patterns:
+      - .*aurora.*
+    - name: Binpacker
+      patterns:
+      - .*binpacker.*
+    - name: Bit
+      patterns:
+      - .*bit.*
+    - name: Bot
+      patterns:
+      - .*bot.*
+    - name: Box
+      patterns:
+      - .*box.*
+    - name: Chalk
+      patterns:
+      - .*chalk.*
+    - name: Chromem
+      patterns:
+      - .*chromem.*
+    - name: CloudForest
+      patterns:
+      - .*CloudForest.*
+    - name: CloudQuery
+      patterns:
+      - .*CloudQuery.*
+    - name: Cookiestxt
+      patterns:
+      - .*cookiestxt.*
+    - name: Crab
+      patterns:
+      - .*crab.*
+    - name: Crunch
+      patterns:
+      - .*crunch.*
+    - name: Ctc
+      patterns:
+      - .*ctc.*
+    - name: DDNS
+      patterns:
+      - .*DDNS.*
+    - name: Dot
+      patterns:
+      - .*dot.*
+    - name: Echotron
+      patterns:
+      - .*echotron.*
+    - name: Fault
+      patterns:
+      - .*Fault.*
+    - name: Flac
+      patterns:
+      - .*flac.*
+    - name: FrankenPHP
+      patterns:
+      - .*FrankenPHP.*
+    - name: Fsm
+      patterns:
+      - .*fsm.*
+    - name: Fun
+      patterns:
+      - .*fun.*
+    - name: Gaad
+      patterns:
+      - .*gaad.*
+    - name: Gaper
+      patterns:
+      - .*gaper.*
+    - name: Genfuncs
+      patterns:
+      - .*genfuncs.*
+    - name: Gilbert
+      patterns:
+      - .*gilbert.*
+    - name: GoAudio
+      patterns:
+      - .*GoAudio.*
+    - name: GoDNS
+      patterns:
+      - .*GoDNS.*
+    - name: GoLearn
+      patterns:
+      - .*GoLearn.*
+    - name: GoMLX
+      patterns:
+      - .*GoMLX.*
+    - name: GoMind
+      patterns:
+      - .*GoMind.*
+    - name: Gofal
+      patterns:
+      - .*gofal.*
+    - name: Goiabada
+      patterns:
+      - .*goiabada.*
+    - name: Gologin
+      patterns:
+      - .*gologin.*
+    - name: Gommon/color
+      patterns:
+      - .*gommon/color.*
+    - name: Gookit/color
+      patterns:
+      - .*gookit/color.*
+    - name: Goptuna
+      patterns:
+      - .*Goptuna.*
+    - name: Gosamplerate
+      patterns:
+      - .*gosamplerate.*
+    - name: Gosession
+      patterns:
+      - .*gosession.*
+    - name: H3
+      patterns:
+      - .*H3.*
+    - name: H3 GeoJSON
+      patterns:
+      - .*H3\ GeoJSON.*
+    - name: H3GeoDist
+      patterns:
+      - .*H3GeoDist.*
+    - name: Hashsplit
+      patterns:
+      - .*hashsplit.*
+    - name: Hatchet
+      patterns:
+      - .*hatchet.*
+    - name: Hectane
+      patterns:
+      - .*Hectane.*
+    - name: Hide
+      patterns:
+      - .*hide.*
+    - name: Hotcoal
+      patterns:
+      - .*Hotcoal.*
+    - name: Id3v2
+      patterns:
+      - .*id3v2.*
+    - name: Jeff
+      patterns:
+      - .*jeff.*
+    - name: Levenshtein
+      patterns:
+      - .*levenshtein.*
+    - name: Malgo
+      patterns:
+      - .*malgo.*
+    - name: Marker
+      patterns:
+      - .*marker.*
+    - name: Micha
+      patterns:
+      - .*micha.*
+    - name: Minimp3
+      patterns:
+      - .*minimp3.*
+    - name: Mpb
+      patterns:
+      - .*mpb.*
+    - name: Mspm
+      patterns:
+      - .*mspm.*
+    - name: Muffet
+      patterns:
+      - .*muffet.*
+    - name: Omniparser
+      patterns:
+      - .*omniparser.*
+    - name: Oto
+      patterns:
+      - .*Oto.*
+    - name: Otter
+      patterns:
+      - .*otter.*
+    - name: Parsefields
+      patterns:
+      - .*parsefields.*
+    - name: PortAudio
+      patterns:
+      - .*PortAudio.*
+    - name: Pterm
+      patterns:
+      - .*pterm.*
+    - name: Ratus
+      patterns:
+      - .*Ratus.*
+    - name: S2 geojson
+      patterns:
+      - .*S2\ geojson.*
+    - name: S2 geometry
+      patterns:
+      - .*S2\ geometry.*
+    - name: Session
+      patterns:
+      - .*session.*
+    - name: Sessions
+      patterns:
+      - .*sessions.*
+    - name: Simpletable
+      patterns:
+      - .*simpletable.*
+    - name: Spinner
+      patterns:
+      - .*spinner.*
+    - name: Sqinn
+      patterns:
+      - .*Sqinn.*
+    - name: Tabby
+      patterns:
+      - .*tabby.*
+    - name: Table
+      patterns:
+      - .*table.*
+    - name: Tarmac
+      patterns:
+      - .*Tarmac.*
+    - name: Termbox
+      patterns:
+      - .*termbox.*
+    - name: Termdash
+      patterns:
+      - .*termdash.*
+    - name: Termenv
+      patterns:
+      - .*termenv.*
+    - name: Termui
+      patterns:
+      - .*termui.*
+    - name: Uilive
+      patterns:
+      - .*uilive.*
+    - name: Uiprogress
+      patterns:
+      - .*uiprogress.*
+    - name: Uitable
+      patterns:
+      - .*uitable.*
+    - name: Varis
+      patterns:
+      - .*Varis.*
+    - name: WGS84
+      patterns:
+      - .*WGS84.*
+    - name: Wayback
+      patterns:
+      - .*wayback.*
+    - name: Web
+      patterns:
+      - .*Web.*
+    - name: Xdg
+      patterns:
+      - .*xdg.*
+    - name: Yacspin
+      patterns:
+      - .*yacspin.*
+    - name: accounting
+      patterns:
+      - .*accounting.*
+    - name: afero
+      patterns:
+      - .*afero.*
+    - name: afs
+      patterns:
+      - .*afs.*
+    - name: ants
+      patterns:
+      - .*ants.*
+    - name: approx
+      patterns:
+      - .*approx.*
+    - name: artifex
+      patterns:
+      - .*artifex.*
+    - name: baraka
+      patterns:
+      - .*baraka.*
+    - name: bayesian
+      patterns:
+      - .*bayesian.*
+    - name: bbgo
+      patterns:
+      - .*bbgo.*
+    - name: bgc
+      patterns:
+      - .*bgc.*
+    - name: bild
+      patterns:
+      - .*bild.*
+    - name: bimg
+      patterns:
+      - .*bimg.*
+    - name: binder
+      patterns:
+      - .*binder.*
+    - name: builq
+      patterns:
+      - .*builq.*
+    - name: cameron
+      patterns:
+      - .*cameron.*
+    - name: canvas
+      patterns:
+      - .*canvas.*
+    - name: catboost
+      patterns:
+      - .*catboost.*
+    - name: checksum
+      patterns:
+      - .*checksum.*
+    - name: color
+      patterns:
+      - .*color.*
+    - name: committer
+      patterns:
+      - .*committer.*
+    - name: consistent
+      patterns:
+      - .*consistent.*
+    - name: copy
+      patterns:
+      - .*copy.*
+    - name: cronrange
+      patterns:
+      - .*cronrange.*
+    - name: currency
+      patterns:
+      - .*currency.*
+    - name: darkroom
+      patterns:
+      - .*darkroom.*
+    - name: darwin
+      patterns:
+      - .*darwin.*
+    - name: database
+      patterns:
+      - .*database.*
+    - name: decimal
+      patterns:
+      - .*decimal.*
+    - name: dg
+      patterns:
+      - .*dg.*
+    - name: doublejump
+      patterns:
+      - .*doublejump.*
+    - name: douceur
+      patterns:
+      - .*douceur.*
+    - name: draft
+      patterns:
+      - .*draft.*
+    - name: dsc
+      patterns:
+      - .*dsc.*
+    - name: dynatomic
+      patterns:
+      - .*dynatomic.*
+    - name: dyndns
+      patterns:
+      - .*dyndns.*
+    - name: eaopt
+      patterns:
+      - .*eaopt.*
+    - name: ecal
+      patterns:
+      - .*ecal.*
+    - name: emitter
+      patterns:
+      - .*emitter.*
+    - name: emperror
+      patterns:
+      - .*emperror.*
+    - name: eris
+      patterns:
+      - .*eris.*
+    - name: errors
+      patterns:
+      - .*errors.*
+    - name: errorx
+      patterns:
+      - .*errorx.*
+    - name: esp32
+      patterns:
+      - .*esp32.*
+    - name: evans
+      patterns:
+      - .*evans.*
+    - name: event
+      patterns:
+      - .*event.*
+    - name: evoli
+      patterns:
+      - .*evoli.*
+    - name: excelize
+      patterns:
+      - .*excelize.*
+    - name: exception
+      patterns:
+      - .*exception.*
+    - name: exl
+      patterns:
+      - .*exl.*
+    - name: expr
+      patterns:
+      - .*expr.*
+    - name: failured
+      patterns:
+      - .*failured.*
+    - name: flop
+      patterns:
+      - .*flop.*
+    - name: flowgraph
+      patterns:
+      - .*flowgraph.*
+    - name: fonet
+      patterns:
+      - .*fonet.*
+    - name: fpdecimal
+      patterns:
+      - .*fpdecimal.*
+    - name: gentee
+      patterns:
+      - .*gentee.*
+    - name: geoos
+      patterns:
+      - .*geoos.*
+    - name: geopattern
+      patterns:
+      - .*geopattern.*
+    - name: geoserver
+      patterns:
+      - .*geoserver.*
+    - name: gg
+      patterns:
+      - .*gg.*
+    - name: gift
+      patterns:
+      - .*gift.*
+    - name: gismanager
+      patterns:
+      - .*gismanager.*
+    - name: gisp
+      patterns:
+      - .*gisp.*
+    - name: glow
+      patterns:
+      - .*glow.*
+    - name: gltf
+      patterns:
+      - .*gltf.*
+    - name: goRecommend
+      patterns:
+      - .*goRecommend.*
+    - name: goal
+      patterns:
+      - .*goal.*
+    - name: gobrain
+      patterns:
+      - .*gobrain.*
+    - name: gocv
+      patterns:
+      - .*gocv.*
+    - name: godal
+      patterns:
+      - .*godal.*
+    - name: godist
+      patterns:
+      - .*godist.*
+    - name: goes
+      patterns:
+      - .*goes.*
+    - name: gofs
+      patterns:
+      - .*gofs.*
+    - name: goga
+      patterns:
+      - .*goga.*
+    - name: goimagehash
+      patterns:
+      - .*goimagehash.*
+    - name: goimghdr
+      patterns:
+      - .*goimghdr.*
+    - name: goja
+      patterns:
+      - .*goja.*
+    - name: golinear
+      patterns:
+      - .*golinear.*
+    - name: golua
+      patterns:
+      - .*golua.*
+    - name: goml
+      patterns:
+      - .*goml.*
+    - name: gonet
+      patterns:
+      - .*gonet.*
+    - name: gopher
+      patterns:
+      - .*gopher.*
+    - name: gorgonia
+      patterns:
+      - .*gorgonia.*
+    - name: gorse
+      patterns:
+      - .*gorse.*
+    - name: goscore
+      patterns:
+      - .*goscore.*
+    - name: gosseract
+      patterns:
+      - .*gosseract.*
+    - name: gostradamus
+      patterns:
+      - .*gostradamus.*
+    - name: govatar
+      patterns:
+      - .*govatar.*
+    - name: govips
+      patterns:
+      - .*govips.*
+    - name: gowitness
+      patterns:
+      - .*gowitness.*
+    - name: gowl
+      patterns:
+      - .*gowl.*
+    - name: goxlsxwriter
+      patterns:
+      - .*goxlsxwriter.*
+    - name: gridder
+      patterns:
+      - .*gridder.*
+    - name: gulter
+      patterns:
+      - .*gulter.*
+    - name: gut/yos
+      patterns:
+      - .*gut/yos.*
+    - name: gval
+      patterns:
+      - .*gval.*
+    - name: hands
+      patterns:
+      - .*hands.*
+    - name: higgs
+      patterns:
+      - .*higgs.*
+    - name: hugot
+      patterns:
+      - .*hugot.*
+    - name: hypermatch
+      patterns:
+      - .*hypermatch.*
+    - name: igor
+      patterns:
+      - .*igor.*
+    - name: image2ascii
+      patterns:
+      - .*image2ascii.*
+    - name: imagick
+      patterns:
+      - .*imagick.*
+    - name: imaginary
+      patterns:
+      - .*imaginary.*
+    - name: imaging
+      patterns:
+      - .*imaging.*
+    - name: imagor
+      patterns:
+      - .*imagor.*
+    - name: img
+      patterns:
+      - .*img.*
+    - name: iso9660
+      patterns:
+      - .*iso9660.*
+    - name: kair
+      patterns:
+      - .*kair.*
+    - name: kyoo
+      patterns:
+      - .*kyoo.*
+    - name: ledger
+      patterns:
+      - .*ledger.*
+    - name: libschema
+      patterns:
+      - .*libschema.*
+    - name: libsvm
+      patterns:
+      - .*libsvm.*
+    - name: ln
+      patterns:
+      - .*ln.*
+    - name: m2cgen
+      patterns:
+      - .*m2cgen.*
+    - name: mapslice
+      patterns:
+      - .*mapslice.*
+    - name: mbtileserver
+      patterns:
+      - .*mbtileserver.*
+    - name: mergi
+      patterns:
+      - .*mergi.*
+    - name: metaerr
+      patterns:
+      - .*metaerr.*
+    - name: money
+      patterns:
+      - .*money.*
+    - name: mort
+      patterns:
+      - .*mort.*
+    - name: mpo
+      patterns:
+      - .*mpo.*
+    - name: multierr
+      patterns:
+      - .*multierr.*
+    - name: neural
+      patterns:
+      - .*neural.*
+    - name: ngaro
+      patterns:
+      - .*ngaro.*
+    - name: notify
+      patterns:
+      - .*notify.*
+    - name: ocrserver
+      patterns:
+      - .*ocrserver.*
+    - name: octillery
+      patterns:
+      - .*octillery.*
+    - name: onnx
+      patterns:
+      - .*onnx.*
+    - name: oops
+      patterns:
+      - .*oops.*
+    - name: orderbook
+      patterns:
+      - .*orderbook.*
+    - name: osm
+      patterns:
+      - .*osm.*
+    - name: ozzo
+      patterns:
+      - .*ozzo.*
+    - name: patcher
+      patterns:
+      - .*patcher.*
+    - name: pathtype
+      patterns:
+      - .*pathtype.*
+    - name: pbf
+      patterns:
+      - .*pbf.*
+    - name: pdfcpu
+      patterns:
+      - .*pdfcpu.*
+    - name: pg_timetable
+      patterns:
+      - .*pg_timetable.*
+    - name: picfit
+      patterns:
+      - .*picfit.*
+    - name: prep
+      patterns:
+      - .*prep.*
+    - name: probab
+      patterns:
+      - .*probab.*
+    - name: prolog
+      patterns:
+      - .*prolog.*
+    - name: pt
+      patterns:
+      - .*pt.*
+    - name: purl
+      patterns:
+      - .*purl.*
+    - name: qs
+      patterns:
+      - .*qs.*
+    - name: queryparam
+      patterns:
+      - .*queryparam.*
+    - name: randomforest
+      patterns:
+      - .*randomforest.*
+    - name: regommend
+      patterns:
+      - .*regommend.*
+    - name: rez
+      patterns:
+      - .*rez.*
+    - name: scout
+      patterns:
+      - .*scout.*
+    - name: sg
+      patterns:
+      - .*sg.*
+    - name: simplefeatures
+      patterns:
+      - .*simplefeatures.*
+    - name: skizze
+      patterns:
+      - .*skizze.*
+    - name: skywalker
+      patterns:
+      - .*skywalker.*
+    - name: smartcrop
+      patterns:
+      - .*smartcrop.*
+    - name: spew
+      patterns:
+      - .*spew.*
+    - name: sponge
+      patterns:
+      - .*sponge.*
+    - name: sq
+      patterns:
+      - .*sq.*
+    - name: sqrl
+      patterns:
+      - .*sqrl.*
+    - name: starlark
+      patterns:
+      - .*starlark.*
+    - name: starlet
+      patterns:
+      - .*starlet.*
+    - name: steganography
+      patterns:
+      - .*steganography.*
+    - name: stegify
+      patterns:
+      - .*stegify.*
+    - name: svgo
+      patterns:
+      - .*svgo.*
+    - name: tail
+      patterns:
+      - .*tail.*
+    - name: techan
+      patterns:
+      - .*techan.*
+    - name: tengo
+      patterns:
+      - .*tengo.*
+    - name: tfgo
+      patterns:
+      - .*tfgo.*
+    - name: ticker
+      patterns:
+      - .*ticker.*
+    - name: todotxt
+      patterns:
+      - .*todotxt.*
+    - name: torrent
+      patterns:
+      - .*torrent.*
+    - name: transaction
+      patterns:
+      - .*transaction.*
+    - name: transformimgs
+      patterns:
+      - .*transformimgs.*
+    - name: truemail
+      patterns:
+      - .*truemail.*
+    - name: udecimal
+      patterns:
+      - .*udecimal.*
+    - name: underscore
+      patterns:
+      - .*underscore.*
+    - name: vat
+      patterns:
+      - .*vat.*
+    - name: vfs
+      patterns:
+      - .*vfs.*
+    - name: webp
+      patterns:
+      - .*webp.*
+    - name: wescale
+      patterns:
+      - .*wescale.*
+    - name: xlsx
+      patterns:
+      - .*xlsx.*
