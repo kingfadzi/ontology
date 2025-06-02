@@ -255,7 +255,6 @@ sentry-sdk,Observability,Monitoring,Sentry-sdk,python
 kubernetes,Application Integration,Service Integration Frameworks,Kubernetes,python
 prometheus-client,Observability,Metrics,Prometheus-client,python
 weaviate-client,Application Integration,Service Integration Frameworks,Weaviate-client,python
-py,Utility Libraries,General Utilities,Py,python
 mako,Application Development,Template Engines,Mako,python
 asttokens,Utility Libraries,General Utilities,Asttokens,python
 mccabe,Testing & Quality,Static Analysis,Mccabe,python
@@ -278,7 +277,6 @@ smart-open,Utility Libraries,General Utilities,Smart-open,python
 torch,Application Development,Web Frameworks,Torch,python
 python-json-logger,Observability,Logging,Python-json-logger,python
 snowflake-snowpark-python,Data Management,Data Warehousing,Snowflake-snowpark-python,python
-uv,Application Integration,RPC & Web Services,Uv,python
 argcomplete,Utility Libraries,General Utilities,Argcomplete,python
 pycryptodome,Security,Transport Security,Pycryptodome,python
 pymongo,Data Management,NoSQL Databases,Pymongo,python
@@ -823,7 +821,6 @@ invoke,Developer Tooling,Build Tools,Invoke,python
 pyroaring,Utility Libraries,Collections & Data Structures,Pyroaring,python
 pyee,Utility Libraries,General Utilities,Pyee,python
 pipdeptree,Developer Tooling,Dependency Management,Pipdeptree,python
-id,Utility Libraries,General Utilities,Id,python
 pdbr,Testing & Quality,Profiling & Debugging,Pdbr,python
 parse,Utility Libraries,General Utilities,Parse,python
 datadog-api-client,Application Integration,Service Integration Frameworks,Datadog-api-client,python

@@ -370,9 +370,6 @@ categories:
     - name: Urllib3
       patterns:
       - .*urllib3.*
-    - name: Uv
-      patterns:
-      - .*uv.*
     - name: Wsproto
       patterns:
       - .*wsproto.*
@@ -2256,9 +2253,6 @@ categories:
     - name: Hyperlink
       patterns:
       - .*hyperlink.*
-    - name: Id
-      patterns:
-      - .*id.*
     - name: Identify
       patterns:
       - .*identify.*
@@ -2658,9 +2652,6 @@ categories:
     - name: Pure-eval
       patterns:
       - ".*pure\\-eval.*"
-    - name: Py
-      patterns:
-      - .*py.*
     - name: Py-cpuinfo
       patterns:
       - ".*py\\-cpuinfo.*"

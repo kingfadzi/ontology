@@ -22,7 +22,6 @@ authboss,Security,Authentication & Authorization,Authboss,go
 branca,Security,Identity & Access Management,Branca,go
 casbin,Security,Access Control,Casbin,go
 cookiestxt,Utility Libraries,General Utilities,Cookiestxt,go
-go,Developer Tooling,Local Development Runtimes,Go,go
 goiabada,Utility Libraries,General Utilities,Goiabada,go
 gologin,Utility Libraries,General Utilities,Gologin,go
 gorbac,Security,Access Control,Gorbac,go
@@ -906,7 +905,6 @@ gopush,Application Integration,Message Brokers,gopush,go
 gorush,Application Integration,Message Brokers,gorush,go
 gosd,Application Integration,Service Integration Frameworks,gosd,go
 guble,Application Integration,Message Brokers,guble,go
-hub,Application Integration,Message Brokers,hub,go
 hypermatch,Utility Libraries,General Utilities,hypermatch,go
 jazz,Application Integration,Message Brokers,jazz,go
 machinery,Application Integration,Message Brokers,machinery,go

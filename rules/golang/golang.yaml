@@ -343,9 +343,6 @@ categories:
     - name: hermes
       patterns:
       - .*hermes.*
-    - name: hub
-      patterns:
-      - .*hub.*
     - name: jazz
       patterns:
       - .*jazz.*
@@ -1226,9 +1223,6 @@ categories:
     - name: Getopt
       patterns:
       - .*getopt.*
-    - name: Go
-      patterns:
-      - .*go.*
     - name: Gocmd
       patterns:
       - .*gocmd.*

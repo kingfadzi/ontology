@@ -70,9 +70,6 @@ categories:
       - ".*rxjs\\-compat.*"
   - name: Template Engines
     frameworks:
-    - name: Ejs
-      patterns:
-      - .*ejs.*
     - name: Emotion
       patterns:
       - .*emotion.*
@@ -437,9 +434,6 @@ categories:
     - name: Websocket
       patterns:
       - .*websocket.*
-    - name: Ws
-      patterns:
-      - .*ws.*
   - name: RPC & Web Services
     frameworks:
     - name: '@octokit/rest'
@@ -1748,9 +1742,6 @@ categories:
     - name: Dotenv-expand
       patterns:
       - ".*dotenv\\-expand.*"
-    - name: Ini
-      patterns:
-      - .*ini.*
     - name: Iniparser
       patterns:
       - .*iniparser.*
@@ -1872,9 +1863,6 @@ categories:
     - name: Bip39
       patterns:
       - .*bip39.*
-    - name: Bl
-      patterns:
-      - .*bl.*
     - name: Bluebird
       patterns:
       - .*bluebird.*
@@ -1977,9 +1965,6 @@ categories:
     - name: Clui
       patterns:
       - .*clui.*
-    - name: Co
-      patterns:
-      - .*co.*
     - name: Co-prompt
       patterns:
       - ".*co\\-prompt.*"
@@ -2100,9 +2085,6 @@ categories:
     - name: Deepmerge
       patterns:
       - .*deepmerge.*
-    - name: Del
-      patterns:
-      - .*del.*
     - name: Depd
       patterns:
       - .*depd.*
@@ -2238,9 +2220,6 @@ categories:
     - name: Front-matter
       patterns:
       - ".*front\\-matter.*"
-    - name: Fs
-      patterns:
-      - .*fs.*
     - name: Fs-extra
       patterns:
       - ".*fs\\-extra.*"
@@ -2298,9 +2277,6 @@ categories:
     - name: Hash-sum
       patterns:
       - ".*hash\\-sum.*"
-    - name: He
-      patterns:
-      - .*he.*
     - name: Hexlet-pairs
       patterns:
       - ".*hexlet\\-pairs.*"
@@ -2331,9 +2307,6 @@ categories:
     - name: Husky
       patterns:
       - .*husky.*
-    - name: I
-      patterns:
-      - .*i.*
     - name: I18next
       patterns:
       - .*i18next.*
@@ -2370,12 +2343,6 @@ categories:
     - name: Invariant
       patterns:
       - .*invariant.*
-    - name: Ip
-      patterns:
-      - .*ip.*
-    - name: Is
-      patterns:
-      - .*is.*
     - name: Is-plain-object
       patterns:
       - ".*is\\-plain\\-object.*"
@@ -2661,12 +2628,6 @@ categories:
     - name: Optimist
       patterns:
       - .*optimist.*
-    - name: Ora
-      patterns:
-      - .*ora.*
-    - name: Os
-      patterns:
-      - .*os.*
     - name: Osenv
       patterns:
       - .*osenv.*
@@ -2754,9 +2715,6 @@ categories:
     - name: Pump
       patterns:
       - .*pump.*
-    - name: Q
-      patterns:
-      - .*q.*
     - name: Qs
       patterns:
       - .*qs.*

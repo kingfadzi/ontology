@@ -36,7 +36,6 @@ semver,Utility Libraries,General Utilities,Semver,javascript
 babel-loader,Developer Tooling,Build Tools,Babel-loader,javascript
 cheerio,Utility Libraries,General Utilities,Cheerio,javascript
 rimraf,Developer Tooling,Build Tools,Rimraf,javascript
-q,Utility Libraries,General Utilities,Q,javascript
 eslint,Testing & Quality,Static Analysis,Eslint,javascript
 css-loader,Developer Tooling,Build Tools,Css-loader,javascript
 shelljs,Developer Tooling,Build Tools,Shelljs,javascript
@@ -55,7 +54,6 @@ babel-eslint,Testing & Quality,Static Analysis,Babel-eslint,javascript
 gulp,Developer Tooling,Build Tools,Gulp,javascript
 gulp-util,Developer Tooling,Build Tools,Gulp-util,javascript
 file-loader,Developer Tooling,Build Tools,File-loader,javascript
-ora,Utility Libraries,General Utilities,Ora,javascript
 node-fetch,Application Integration,RPC & Web Services,Node-fetch,javascript
 @angular/platform-browser,Application Development,Web Frameworks,@angular/platform-browser,javascript
 @babel/runtime,Developer Tooling,Build Tools,@babel/runtime,javascript
@@ -72,7 +70,6 @@ webpack-dev-server,Developer Tooling,Build Tools,Webpack-dev-server,javascript
 mocha,Testing & Quality,Testing Frameworks,Mocha,javascript
 html-webpack-plugin,Developer Tooling,Build Tools,Html-webpack-plugin,javascript
 socket.io,Application Integration,Messaging Protocols,Socket.io,javascript
-ws,Application Integration,Messaging Protocols,Ws,javascript
 babel-preset-es2015,Developer Tooling,Build Tools,Babel-preset-es2015,javascript
 postcss-loader,Developer Tooling,Build Tools,Postcss-loader,javascript
 node-sass,Developer Tooling,Build Tools,Node-sass,javascript
@@ -83,7 +80,6 @@ ramda,Utility Libraries,Collections & Data Structures,Ramda,javascript
 react-redux,Application Development,Reactive Programming,React-redux,javascript
 @babel/core,Developer Tooling,Build Tools,@babel/core,javascript
 @angular/http,Application Development,Web Frameworks,@angular/http,javascript
-ejs,Application Development,Template Engines,Ejs,javascript
 coffee-script,Utility Libraries,General Utilities,Coffee-script,javascript
 superagent,Application Integration,RPC & Web Services,Superagent,javascript
 request-promise,Application Integration,RPC & Web Services,Request-promise,javascript
@@ -99,9 +95,7 @@ sass-loader,Developer Tooling,Build Tools,Sass-loader,javascript
 redis,Data Management,Caching,Redis,javascript
 vue-router,Application Development,Web Frameworks,Vue-router,javascript
 chokidar,Utility Libraries,General Utilities,Chokidar,javascript
-co,Utility Libraries,General Utilities,Co,javascript
 eslint-plugin-jsx-a11y,Testing & Quality,Static Analysis,Eslint-plugin-jsx-a11y,javascript
-nan,Utility Libraries,General Utilities,Nan,javascript
 optimist,Utility Libraries,General Utilities,Optimist,javascript
 promise,Utility Libraries,General Utilities,Promise,javascript
 @angular/animations,Application Development,Reactive Programming,@angular/animations,javascript
@@ -111,7 +105,6 @@ less,Application Development,Template Engines,Less,javascript
 immutable,Utility Libraries,Collections & Data Structures,Immutable,javascript
 qs,Utility Libraries,General Utilities,Qs,javascript
 loader-utils,Developer Tooling,Build Tools,Loader-utils,javascript
-fs,Utility Libraries,General Utilities,Fs,javascript
 extract-text-webpack-plugin,Developer Tooling,Build Tools,Extract-text-webpack-plugin,javascript
 marked,Utility Libraries,General Utilities,Marked,javascript
 mime,Utility Libraries,General Utilities,Mime,javascript
@@ -149,7 +142,6 @@ webpack-manifest-plugin,Developer Tooling,Build Tools,Webpack-manifest-plugin,ja
 koa,Application Development,Web Frameworks,Koa,javascript
 isomorphic-fetch,Application Integration,RPC & Web Services,Isomorphic-fetch,javascript
 babel-cli,Developer Tooling,Build Tools,Babel-cli,javascript
-del,Utility Libraries,General Utilities,Del,javascript
 postcss-flexbugs-fixes,Developer Tooling,Build Tools,Postcss-flexbugs-fixes,javascript
 compression,Utility Libraries,General Utilities,Compression,javascript
 update-notifier,Utility Libraries,General Utilities,Update-notifier,javascript
@@ -273,7 +265,6 @@ form-data,Utility Libraries,General Utilities,Form-data,javascript
 web3,Utility Libraries,General Utilities,Web3,javascript
 gulp-sourcemaps,Developer Tooling,Build Tools,Gulp-sourcemaps,javascript
 webpack-dev-middleware,Developer Tooling,Build Tools,Webpack-dev-middleware,javascript
-ip,Utility Libraries,General Utilities,Ip,javascript
 camelcase,Utility Libraries,General Utilities,Camelcase,javascript
 sw-precache-webpack-plugin,Developer Tooling,Build Tools,Sw-precache-webpack-plugin,javascript
 merge,Utility Libraries,General Utilities,Merge,javascript
@@ -310,7 +301,6 @@ boom,Utility Libraries,General Utilities,Boom,javascript
 xmldom,Serialization,JSON & XML,Xmldom,javascript
 recompose,Utility Libraries,General Utilities,Recompose,javascript
 util,Utility Libraries,General Utilities,Util,javascript
-ini,Utility Libraries,Configuration Utilities,Ini,javascript
 pify,Utility Libraries,General Utilities,Pify,javascript
 command-line-args,Utility Libraries,General Utilities,Command-line-args,javascript
 vinyl,Utility Libraries,General Utilities,Vinyl,javascript
@@ -671,7 +661,6 @@ npm-run-all,Developer Tooling,Build Tools,Npm-run-all,javascript
 stylus-loader,Developer Tooling,Build Tools,Stylus-loader,javascript
 @babel/preset-typescript,Developer Tooling,Build Tools,@babel/preset-typescript,javascript
 grpc,Application Integration,RPC & Web Services,Grpc,javascript
-he,Utility Libraries,General Utilities,He,javascript
 supports-color,Utility Libraries,General Utilities,Supports-color,javascript
 vue-style-loader,Developer Tooling,Build Tools,Vue-style-loader,javascript
 create-hash,Utility Libraries,General Utilities,Create-hash,javascript
@@ -835,7 +824,6 @@ depd,Utility Libraries,General Utilities,Depd,javascript
 content-type,Utility Libraries,General Utilities,Content-type,javascript
 nanoid,Utility Libraries,General Utilities,Nanoid,javascript
 babel-plugin-syntax-jsx,Developer Tooling,Build Tools,Babel-plugin-syntax-jsx,javascript
-bl,Utility Libraries,General Utilities,Bl,javascript
 read-pkg,Utility Libraries,General Utilities,Read-pkg,javascript
 markdown,Utility Libraries,General Utilities,Markdown,javascript
 jest-environment-jsdom-fourteen,Testing & Quality,Testing Frameworks,Jest-environment-jsdom-fourteen,javascript
@@ -899,7 +887,6 @@ node-static,Application Integration,Service Integration Frameworks,Node-static,j
 decompress,Utility Libraries,General Utilities,Decompress,javascript
 gh-pages,Developer Tooling,Build Tools,Gh-pages,javascript
 cli-table2,Utility Libraries,General Utilities,Cli-table2,javascript
-os,Utility Libraries,General Utilities,Os,javascript
 reactstrap,Application Development,Web Frameworks,Reactstrap,javascript
 sanitize-html,Utility Libraries,General Utilities,Sanitize-html,javascript
 extract-zip,Utility Libraries,General Utilities,Extract-zip,javascript
@@ -935,7 +922,6 @@ pretty-ms,Utility Libraries,Date & Time Utilities,Pretty-ms,javascript
 pouchdb,Data Management,NoSQL Databases,Pouchdb,javascript
 md5-file,Utility Libraries,General Utilities,Md5-file,javascript
 react-markdown,Application Development,Web Frameworks,React-markdown,javascript
-is,Utility Libraries,General Utilities,Is,javascript
 yeoman-environment,Developer Tooling,Local Development Runtimes,Yeoman-environment,javascript
 progress-bar-webpack-plugin,Developer Tooling,Build Tools,Progress-bar-webpack-plugin,javascript
 left-pad,Utility Libraries,General Utilities,Left-pad,javascript
@@ -992,7 +978,6 @@ yaml,Serialization,JSON & XML,Yaml,javascript
 ansi-escapes,Utility Libraries,General Utilities,Ansi-escapes,javascript
 jquery-ui,Application Development,Web Frameworks,Jquery-ui,javascript
 raven,Observability,Monitoring,Raven,javascript
-i,Utility Libraries,General Utilities,I,javascript
 xhr,Application Integration,RPC & Web Services,Xhr,javascript
 deep-assign,Utility Libraries,General Utilities,Deep-assign,javascript
 inquirer-autocomplete-prompt,Utility Libraries,General Utilities,Inquirer-autocomplete-prompt,javascript
