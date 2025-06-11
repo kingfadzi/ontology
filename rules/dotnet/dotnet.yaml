@@ -1,0 +1,3189 @@
+categories:
+- name: Application Development
+  subcategories:
+  - name: Application Bootstrapping
+    frameworks:
+    - name: Microsoft.AspNetCore.App
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.App.*"
+    - name: WebActivatorEx
+      patterns:
+      - .*WebActivatorEx.*
+  - name: Component Models
+    frameworks:
+    - name: Automatonymous
+      patterns:
+      - .*Automatonymous.*
+    - name: EO.WebBrowser
+      patterns:
+      - ".*EO\\.WebBrowser.*"
+    - name: HarfBuzzSharp
+      patterns:
+      - .*HarfBuzzSharp.*
+    - name: HarfBuzzSharp.NativeAssets.Win32
+      patterns:
+      - ".*HarfBuzzSharp\\.NativeAssets\\.Win32.*"
+    - name: HarfBuzzSharp.NativeAssets.macOS
+      patterns:
+      - ".*HarfBuzzSharp\\.NativeAssets\\.macOS.*"
+    - name: LinqKit
+      patterns:
+      - .*LinqKit.*
+    - name: LinqKit.Core
+      patterns:
+      - ".*LinqKit\\.Core.*"
+    - name: MediatR
+      patterns:
+      - .*MediatR.*
+    - name: MediatR.Contracts
+      patterns:
+      - ".*MediatR\\.Contracts.*"
+    - name: Microsoft.AspNetCore.Components.Forms
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Components\\.Forms.*"
+    - name: Microsoft.Extensions.Features
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Features.*"
+    - name: Microsoft.FeatureManagement
+      patterns:
+      - ".*Microsoft\\.FeatureManagement.*"
+    - name: Microsoft.FeatureManagement.AspNetCore
+      patterns:
+      - ".*Microsoft\\.FeatureManagement\\.AspNetCore.*"
+    - name: Microsoft.UI.Xaml
+      patterns:
+      - ".*Microsoft\\.UI\\.Xaml.*"
+    - name: Prism.Core
+      patterns:
+      - ".*Prism\\.Core.*"
+    - name: Volo.Abp.Core
+      patterns:
+      - ".*Volo\\.Abp\\.Core.*"
+  - name: Dependency Injection
+    frameworks:
+    - name: Autofac
+      patterns:
+      - .*Autofac.*
+    - name: Autofac.Extensions.DependencyInjection
+      patterns:
+      - ".*Autofac\\.Extensions\\.DependencyInjection.*"
+    - name: Autofac.Extras.DynamicProxy
+      patterns:
+      - ".*Autofac\\.Extras\\.DynamicProxy.*"
+    - name: Autofac.WebApi2
+      patterns:
+      - ".*Autofac\\.WebApi2.*"
+    - name: BoDi
+      patterns:
+      - .*BoDi.*
+    - name: Castle.Core
+      patterns:
+      - ".*Castle\\.Core.*"
+    - name: Castle.Core.AsyncInterceptor
+      patterns:
+      - ".*Castle\\.Core\\.AsyncInterceptor.*"
+    - name: Castle.Windsor
+      patterns:
+      - ".*Castle\\.Windsor.*"
+    - name: FluentValidation.DependencyInjectionExtensions
+      patterns:
+      - ".*FluentValidation\\.DependencyInjectionExtensions.*"
+    - name: MassTransit.Extensions.DependencyInjection
+      patterns:
+      - ".*MassTransit\\.Extensions\\.DependencyInjection.*"
+    - name: MediatR.Extensions.Microsoft.DependencyInjection
+      patterns:
+      - ".*MediatR\\.Extensions\\.Microsoft\\.DependencyInjection.*"
+    - name: Microsoft.Extensions.DependencyInjection
+      patterns:
+      - ".*Microsoft\\.Extensions\\.DependencyInjection.*"
+    - name: Ninject
+      patterns:
+      - .*Ninject.*
+    - name: Scrutor
+      patterns:
+      - .*Scrutor.*
+    - name: SimpleInjector
+      patterns:
+      - .*SimpleInjector.*
+    - name: StructureMap
+      patterns:
+      - .*StructureMap.*
+    - name: System.ComponentModel.Composition
+      patterns:
+      - ".*System\\.ComponentModel\\.Composition.*"
+    - name: System.ComponentModel.Composition.Registration
+      patterns:
+      - ".*System\\.ComponentModel\\.Composition\\.Registration.*"
+    - name: Unity
+      patterns:
+      - .*Unity.*
+    - name: Unity.Abstractions
+      patterns:
+      - ".*Unity\\.Abstractions.*"
+    - name: Unity.Container
+      patterns:
+      - ".*Unity\\.Container.*"
+    - name: Unity.Interception
+      patterns:
+      - ".*Unity\\.Interception.*"
+  - name: Language Extensions
+    frameworks:
+    - name: Irony.NetCore
+      patterns:
+      - ".*Irony\\.NetCore.*"
+    - name: Lucene.Net
+      patterns:
+      - ".*Lucene\\.Net.*"
+    - name: Microsoft.Bcl.AsyncInterfaces
+      patterns:
+      - ".*Microsoft\\.Bcl\\.AsyncInterfaces.*"
+  - name: Mobile & Embedded
+    frameworks:
+    - name: Microsoft.NET.Sdk.Android.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Android\\.Manifest\\-7\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.Android.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Android\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.Android.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Android\\.Manifest\\-8\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.Android.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Android\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.Android.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Android\\.Manifest\\-9\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.MacCatalyst.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.MacCatalyst\\.Manifest\\-7\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.MacCatalyst\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.MacCatalyst.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.MacCatalyst\\.Manifest\\-8\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.MacCatalyst\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.MacCatalyst\\.Manifest\\-9\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.Maui.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Maui\\.Manifest\\-7\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.Maui.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Maui\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.Maui.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Maui\\.Manifest\\-8\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.Maui.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Maui\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.Maui.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Maui\\.Manifest\\-9\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.iOS.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.iOS\\.Manifest\\-7\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.iOS.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.iOS\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.iOS.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.iOS\\.Manifest\\-8\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.iOS.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.iOS\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.iOS.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.iOS\\.Manifest\\-9\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.macOS.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.macOS\\.Manifest\\-7\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.macOS.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.macOS\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.macOS.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.macOS\\.Manifest\\-8\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.macOS.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.macOS\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.macOS.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.macOS\\.Manifest\\-9\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.tvOS.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.tvOS\\.Manifest\\-7\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.tvOS.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.tvOS\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.tvOS.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.tvOS\\.Manifest\\-8\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Sdk.tvOS.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.tvOS\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.tvOS.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.tvOS\\.Manifest\\-9\\.0\\.100\\.Msi\\.x64.*"
+    - name: Rg.Plugins.Popup
+      patterns:
+      - ".*Rg\\.Plugins\\.Popup.*"
+    - name: Xamarin.AndroidX.Activity
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Activity.*"
+    - name: Xamarin.AndroidX.Annotation
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Annotation.*"
+    - name: Xamarin.AndroidX.Annotation.Experimental
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Annotation\\.Experimental.*"
+    - name: Xamarin.AndroidX.AppCompat
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.AppCompat.*"
+    - name: Xamarin.AndroidX.AppCompat.AppCompatResources
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.AppCompat\\.AppCompatResources.*"
+    - name: Xamarin.AndroidX.Arch.Core.Common
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Arch\\.Core\\.Common.*"
+    - name: Xamarin.AndroidX.Arch.Core.Runtime
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Arch\\.Core\\.Runtime.*"
+    - name: Xamarin.AndroidX.Browser
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Browser.*"
+    - name: Xamarin.AndroidX.Collection
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Collection.*"
+    - name: Xamarin.AndroidX.Concurrent.Futures
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Concurrent\\.Futures.*"
+    - name: Xamarin.AndroidX.CoordinatorLayout
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.CoordinatorLayout.*"
+    - name: Xamarin.AndroidX.Core
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Core.*"
+    - name: Xamarin.AndroidX.CursorAdapter
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.CursorAdapter.*"
+    - name: Xamarin.AndroidX.CustomView
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.CustomView.*"
+    - name: Xamarin.AndroidX.DocumentFile
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.DocumentFile.*"
+    - name: Xamarin.AndroidX.DrawerLayout
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.DrawerLayout.*"
+    - name: Xamarin.AndroidX.Fragment
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Fragment.*"
+    - name: Xamarin.AndroidX.Interpolator
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Interpolator.*"
+    - name: Xamarin.AndroidX.Legacy.Support.Core.Utils
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Legacy\\.Support\\.Core\\.Utils.*"
+    - name: Xamarin.AndroidX.Lifecycle.Common
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Lifecycle\\.Common.*"
+    - name: Xamarin.AndroidX.Lifecycle.LiveData.Core
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Lifecycle\\.LiveData\\.Core.*"
+    - name: Xamarin.AndroidX.Lifecycle.Runtime
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Lifecycle\\.Runtime.*"
+    - name: Xamarin.AndroidX.Lifecycle.ViewModel
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Lifecycle\\.ViewModel.*"
+    - name: Xamarin.AndroidX.Lifecycle.ViewModelSavedState
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Lifecycle\\.ViewModelSavedState.*"
+    - name: Xamarin.AndroidX.Loader
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Loader.*"
+    - name: Xamarin.AndroidX.LocalBroadcastManager
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.LocalBroadcastManager.*"
+    - name: Xamarin.AndroidX.Print
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Print.*"
+    - name: Xamarin.AndroidX.RecyclerView
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.RecyclerView.*"
+    - name: Xamarin.AndroidX.SavedState
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.SavedState.*"
+    - name: Xamarin.AndroidX.VectorDrawable
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.VectorDrawable.*"
+    - name: Xamarin.AndroidX.VectorDrawable.Animated
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.VectorDrawable\\.Animated.*"
+    - name: Xamarin.AndroidX.VersionedParcelable
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.VersionedParcelable.*"
+    - name: Xamarin.AndroidX.ViewPager
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.ViewPager.*"
+    - name: Xamarin.Essentials
+      patterns:
+      - ".*Xamarin\\.Essentials.*"
+    - name: Xamarin.Forms
+      patterns:
+      - ".*Xamarin\\.Forms.*"
+  - name: Reactive Programming
+    frameworks:
+    - name: System.Reactive
+      patterns:
+      - ".*System\\.Reactive.*"
+    - name: System.Reactive.Core
+      patterns:
+      - ".*System\\.Reactive\\.Core.*"
+    - name: System.Reactive.Interfaces
+      patterns:
+      - ".*System\\.Reactive\\.Interfaces.*"
+    - name: System.Reactive.Linq
+      patterns:
+      - ".*System\\.Reactive\\.Linq.*"
+    - name: System.Reactive.PlatformServices
+      patterns:
+      - ".*System\\.Reactive\\.PlatformServices.*"
+  - name: Template Engines
+    frameworks:
+    - name: DotLiquid
+      patterns:
+      - .*DotLiquid.*
+    - name: Handlebars.Net
+      patterns:
+      - ".*Handlebars\\.Net.*"
+    - name: Handlebars.Net.Helpers
+      patterns:
+      - ".*Handlebars\\.Net\\.Helpers.*"
+    - name: Markdig
+      patterns:
+      - .*Markdig.*
+    - name: RazorEngine
+      patterns:
+      - .*RazorEngine.*
+  - name: Web Frameworks
+    frameworks:
+    - name: Asp.Versioning.Mvc
+      patterns:
+      - ".*Asp\\.Versioning\\.Mvc.*"
+    - name: Asp.Versioning.Mvc.ApiExplorer
+      patterns:
+      - ".*Asp\\.Versioning\\.Mvc\\.ApiExplorer.*"
+    - name: Microsoft.AspNet.Mvc
+      patterns:
+      - ".*Microsoft\\.AspNet\\.Mvc.*"
+    - name: Microsoft.AspNetCore.Components
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Components.*"
+    - name: Microsoft.AspNetCore.Components.Web
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Components\\.Web.*"
+    - name: Microsoft.AspNetCore.Components.WebAssembly
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Components\\.WebAssembly.*"
+    - name: Microsoft.AspNetCore.Mvc
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Mvc.*"
+    - name: Microsoft.AspNetCore.SpaServices.Extensions
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.SpaServices\\.Extensions.*"
+    - name: Microsoft.JSInterop
+      patterns:
+      - ".*Microsoft\\.JSInterop.*"
+    - name: Microsoft.JSInterop.WebAssembly
+      patterns:
+      - ".*Microsoft\\.JSInterop\\.WebAssembly.*"
+    - name: Microsoft.jQuery.Unobtrusive.Ajax
+      patterns:
+      - ".*Microsoft\\.jQuery\\.Unobtrusive\\.Ajax.*"
+    - name: Modernizr
+      patterns:
+      - .*Modernizr.*
+- name: Application Integration
+  subcategories:
+  - name: API Gateways
+    frameworks:
+    - name: Amazon.Lambda.APIGatewayEvents
+      patterns:
+      - ".*Amazon\\.Lambda\\.APIGatewayEvents.*"
+    - name: Asp.Versioning.Abstractions
+      patterns:
+      - ".*Asp\\.Versioning\\.Abstractions.*"
+    - name: Asp.Versioning.Http
+      patterns:
+      - ".*Asp\\.Versioning\\.Http.*"
+    - name: GraphQL
+      patterns:
+      - .*GraphQL.*
+    - name: GraphQL-Parser
+      patterns:
+      - ".*GraphQL\\-Parser.*"
+    - name: GraphQL.Client
+      patterns:
+      - ".*GraphQL\\.Client.*"
+    - name: GraphQL.Client.Abstractions
+      patterns:
+      - ".*GraphQL\\.Client\\.Abstractions.*"
+    - name: GraphQL.Client.Abstractions.Websocket
+      patterns:
+      - ".*GraphQL\\.Client\\.Abstractions\\.Websocket.*"
+    - name: GraphQL.Primitives
+      patterns:
+      - ".*GraphQL\\.Primitives.*"
+    - name: HotChocolate
+      patterns:
+      - .*HotChocolate.*
+    - name: HotChocolate.Abstractions
+      patterns:
+      - ".*HotChocolate\\.Abstractions.*"
+    - name: HotChocolate.AspNetCore
+      patterns:
+      - ".*HotChocolate\\.AspNetCore.*"
+    - name: HotChocolate.Execution
+      patterns:
+      - ".*HotChocolate\\.Execution.*"
+    - name: HotChocolate.Fetching
+      patterns:
+      - ".*HotChocolate\\.Fetching.*"
+    - name: HotChocolate.Language
+      patterns:
+      - ".*HotChocolate\\.Language.*"
+    - name: HotChocolate.Language.SyntaxTree
+      patterns:
+      - ".*HotChocolate\\.Language\\.SyntaxTree.*"
+    - name: HotChocolate.Language.Utf8
+      patterns:
+      - ".*HotChocolate\\.Language\\.Utf8.*"
+    - name: HotChocolate.Language.Visitors
+      patterns:
+      - ".*HotChocolate\\.Language\\.Visitors.*"
+    - name: HotChocolate.Subscriptions
+      patterns:
+      - ".*HotChocolate\\.Subscriptions.*"
+    - name: HotChocolate.Subscriptions.InMemory
+      patterns:
+      - ".*HotChocolate\\.Subscriptions\\.InMemory.*"
+    - name: HotChocolate.Types
+      patterns:
+      - ".*HotChocolate\\.Types.*"
+    - name: HotChocolate.Types.CursorPagination
+      patterns:
+      - ".*HotChocolate\\.Types\\.CursorPagination.*"
+    - name: HotChocolate.Types.Mutations
+      patterns:
+      - ".*HotChocolate\\.Types\\.Mutations.*"
+    - name: HotChocolate.Types.OffsetPagination
+      patterns:
+      - ".*HotChocolate\\.Types\\.OffsetPagination.*"
+    - name: HotChocolate.Types.Scalars.Upload
+      patterns:
+      - ".*HotChocolate\\.Types\\.Scalars\\.Upload.*"
+    - name: HotChocolate.Utilities
+      patterns:
+      - ".*HotChocolate\\.Utilities.*"
+    - name: HotChocolate.Validation
+      patterns:
+      - ".*HotChocolate\\.Validation.*"
+    - name: Microsoft.AspNet.WebApi
+      patterns:
+      - ".*Microsoft\\.AspNet\\.WebApi.*"
+    - name: Microsoft.AspNet.WebApi.Owin
+      patterns:
+      - ".*Microsoft\\.AspNet\\.WebApi\\.Owin.*"
+    - name: Microsoft.AspNetCore.Mvc.Versioning
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Mvc\\.Versioning.*"
+    - name: Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Mvc\\.Versioning\\.ApiExplorer.*"
+    - name: Microsoft.AspNetCore.Mvc.WebApiCompatShim
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Mvc\\.WebApiCompatShim.*"
+    - name: Microsoft.AspNetCore.OData
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.OData.*"
+    - name: Microsoft.AspNetCore.OpenApi
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.OpenApi.*"
+    - name: Swashbuckle
+      patterns:
+      - .*Swashbuckle.*
+    - name: Swashbuckle.AspNetCore
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore.*"
+    - name: Swashbuckle.AspNetCore.Annotations
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore\\.Annotations.*"
+    - name: Swashbuckle.AspNetCore.Filters
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore\\.Filters.*"
+    - name: Swashbuckle.AspNetCore.Filters.Abstractions
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore\\.Filters\\.Abstractions.*"
+    - name: Swashbuckle.AspNetCore.Newtonsoft
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore\\.Newtonsoft.*"
+    - name: Swashbuckle.AspNetCore.Swagger
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore\\.Swagger.*"
+    - name: Swashbuckle.AspNetCore.SwaggerGen
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore\\.SwaggerGen.*"
+    - name: Swashbuckle.AspNetCore.SwaggerUI
+      patterns:
+      - ".*Swashbuckle\\.AspNetCore\\.SwaggerUI.*"
+    - name: Swashbuckle.Core
+      patterns:
+      - ".*Swashbuckle\\.Core.*"
+    - name: Yarp.ReverseProxy
+      patterns:
+      - ".*Yarp\\.ReverseProxy.*"
+  - name: Data Loaders
+    frameworks:
+    - name: GreenDonut
+      patterns:
+      - .*GreenDonut.*
+  - name: Event Streaming
+    frameworks:
+    - name: AWSSDK.Kinesis
+      patterns:
+      - ".*AWSSDK\\.Kinesis.*"
+    - name: Azure.Messaging.EventGrid
+      patterns:
+      - ".*Azure\\.Messaging\\.EventGrid.*"
+    - name: Azure.Messaging.EventHubs
+      patterns:
+      - ".*Azure\\.Messaging\\.EventHubs.*"
+    - name: Confluent.Kafka
+      patterns:
+      - ".*Confluent\\.Kafka.*"
+  - name: Function-as-a-Service
+    frameworks:
+    - name: AWSSDK.Lambda
+      patterns:
+      - ".*AWSSDK\\.Lambda.*"
+    - name: Amazon.Lambda.Core
+      patterns:
+      - ".*Amazon\\.Lambda\\.Core.*"
+    - name: Microsoft.Azure.Functions.Extensions
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Extensions.*"
+    - name: Microsoft.Azure.Functions.Worker
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker.*"
+    - name: Microsoft.Azure.Functions.Worker.Core
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.Core.*"
+    - name: Microsoft.Azure.Functions.Worker.Extensions.Abstractions
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.Extensions\\.Abstractions.*"
+    - name: Microsoft.Azure.Functions.Worker.Extensions.Http
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.Extensions\\.Http.*"
+  - name: Message Brokers
+    frameworks:
+    - name: AWSSDK.SQS
+      patterns:
+      - ".*AWSSDK\\.SQS.*"
+    - name: AWSSDK.SimpleNotificationService
+      patterns:
+      - ".*AWSSDK\\.SimpleNotificationService.*"
+    - name: Amazon.Lambda.SQSEvents
+      patterns:
+      - ".*Amazon\\.Lambda\\.SQSEvents.*"
+    - name: Azure.Messaging.ServiceBus
+      patterns:
+      - ".*Azure\\.Messaging\\.ServiceBus.*"
+    - name: EasyNetQ
+      patterns:
+      - .*EasyNetQ.*
+    - name: Google.Cloud.PubSub.V1
+      patterns:
+      - ".*Google\\.Cloud\\.PubSub\\.V1.*"
+    - name: MassTransit.Azure.ServiceBus.Core
+      patterns:
+      - ".*MassTransit\\.Azure\\.ServiceBus\\.Core.*"
+    - name: MassTransit.RabbitMQ
+      patterns:
+      - ".*MassTransit\\.RabbitMQ.*"
+    - name: Microsoft.AspNet.SignalR
+      patterns:
+      - ".*Microsoft\\.AspNet\\.SignalR.*"
+    - name: Microsoft.AspNetCore.SignalR
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.SignalR.*"
+    - name: Microsoft.AspNetCore.SignalR.Client
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.SignalR\\.Client.*"
+    - name: Microsoft.AspNetCore.SignalR.Client.Core
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.SignalR\\.Client\\.Core.*"
+    - name: Microsoft.Azure.SignalR
+      patterns:
+      - ".*Microsoft\\.Azure\\.SignalR.*"
+    - name: Microsoft.Azure.WebJobs.Extensions.ServiceBus
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.Extensions\\.ServiceBus.*"
+    - name: NServiceBus
+      patterns:
+      - .*NServiceBus.*
+    - name: RabbitMQ.Client
+      patterns:
+      - ".*RabbitMQ\\.Client.*"
+    - name: Rebus
+      patterns:
+      - .*Rebus.*
+    - name: librdkafka.redist
+      patterns:
+      - ".*librdkafka\\.redist.*"
+  - name: Message Routing
+    frameworks:
+    - name: GreenPipes
+      patterns:
+      - .*GreenPipes.*
+  - name: Messaging Protocols
+    frameworks:
+    - name: Microsoft.Azure.SignalR.Protocols
+      patterns:
+      - ".*Microsoft\\.Azure\\.SignalR\\.Protocols.*"
+    - name: MimeKit
+      patterns:
+      - .*MimeKit.*
+    - name: System.Net.WebSockets.WebSocketProtocol
+      patterns:
+      - ".*System\\.Net\\.WebSockets\\.WebSocketProtocol.*"
+  - name: RPC & Web Services
+    frameworks:
+    - name: Microsoft.Azure.WebJobs.Extensions.Http
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.Extensions\\.Http.*"
+    - name: Microsoft.Extensions.ApiDescription.Client
+      patterns:
+      - ".*Microsoft\\.Extensions\\.ApiDescription\\.Client.*"
+    - name: Microsoft.Extensions.ApiDescription.Server
+      patterns:
+      - ".*Microsoft\\.Extensions\\.ApiDescription\\.Server.*"
+    - name: Microsoft.Graph
+      patterns:
+      - ".*Microsoft\\.Graph.*"
+    - name: Microsoft.Graph.Core
+      patterns:
+      - ".*Microsoft\\.Graph\\.Core.*"
+    - name: Microsoft.IdentityModel.Protocols.WsFederation
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.Protocols\\.WsFederation.*"
+    - name: Microsoft.IdentityModel.Protocols.WsTrust
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.Protocols\\.WsTrust.*"
+    - name: Microsoft.Kiota.Abstractions
+      patterns:
+      - ".*Microsoft\\.Kiota\\.Abstractions.*"
+    - name: Microsoft.Kiota.Http.HttpClientLibrary
+      patterns:
+      - ".*Microsoft\\.Kiota\\.Http\\.HttpClientLibrary.*"
+    - name: Microsoft.OpenApi
+      patterns:
+      - ".*Microsoft\\.OpenApi.*"
+    - name: Microsoft.PowerBI.Api
+      patterns:
+      - ".*Microsoft\\.PowerBI\\.Api.*"
+    - name: Microsoft.VisualStudio.Services.Client
+      patterns:
+      - ".*Microsoft\\.VisualStudio\\.Services\\.Client.*"
+    - name: Momentum.Pm.PortalApi
+      patterns:
+      - ".*Momentum\\.Pm\\.PortalApi.*"
+    - name: NSwag.Annotations
+      patterns:
+      - ".*NSwag\\.Annotations.*"
+    - name: NSwag.AspNetCore
+      patterns:
+      - ".*NSwag\\.AspNetCore.*"
+    - name: NSwag.Core
+      patterns:
+      - ".*NSwag\\.Core.*"
+    - name: NSwag.Generation
+      patterns:
+      - ".*NSwag\\.Generation.*"
+    - name: NSwag.Generation.AspNetCore
+      patterns:
+      - ".*NSwag\\.Generation\\.AspNetCore.*"
+  - name: Remote Procedure Calls
+    frameworks:
+    - name: DnsClient
+      patterns:
+      - .*DnsClient.*
+    - name: FluentFTP
+      patterns:
+      - .*FluentFTP.*
+    - name: Flurl
+      patterns:
+      - .*Flurl.*
+    - name: Flurl.Http
+      patterns:
+      - ".*Flurl\\.Http.*"
+    - name: Google.Api.Gax.Grpc
+      patterns:
+      - ".*Google\\.Api\\.Gax\\.Grpc.*"
+    - name: Google.Api.Gax.Grpc.GrpcCore
+      patterns:
+      - ".*Google\\.Api\\.Gax\\.Grpc\\.GrpcCore.*"
+    - name: Grpc
+      patterns:
+      - .*Grpc.*
+    - name: Grpc.AspNetCore
+      patterns:
+      - ".*Grpc\\.AspNetCore.*"
+    - name: Grpc.AspNetCore.Server
+      patterns:
+      - ".*Grpc\\.AspNetCore\\.Server.*"
+    - name: Grpc.AspNetCore.Server.ClientFactory
+      patterns:
+      - ".*Grpc\\.AspNetCore\\.Server\\.ClientFactory.*"
+    - name: Grpc.Core
+      patterns:
+      - ".*Grpc\\.Core.*"
+    - name: Grpc.Core.Api
+      patterns:
+      - ".*Grpc\\.Core\\.Api.*"
+    - name: Grpc.Net.Client
+      patterns:
+      - ".*Grpc\\.Net\\.Client.*"
+    - name: Grpc.Net.ClientFactory
+      patterns:
+      - ".*Grpc\\.Net\\.ClientFactory.*"
+    - name: Grpc.Net.Common
+      patterns:
+      - ".*Grpc\\.Net\\.Common.*"
+    - name: MailKit
+      patterns:
+      - .*MailKit.*
+    - name: Microsoft.AspNetCore.Http.Connections.Client
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Http\\.Connections\\.Client.*"
+  - name: Service Integration Frameworks
+    frameworks:
+    - name: AWS.Logger.Core
+      patterns:
+      - ".*AWS\\.Logger\\.Core.*"
+    - name: AWSSDK.Core
+      patterns:
+      - ".*AWSSDK\\.Core.*"
+    - name: AWSSDK.DynamoDBv2
+      patterns:
+      - ".*AWSSDK\\.DynamoDBv2.*"
+    - name: AWSSDK.KeyManagementService
+      patterns:
+      - ".*AWSSDK\\.KeyManagementService.*"
+    - name: AWSSDK.SimpleEmail
+      patterns:
+      - ".*AWSSDK\\.SimpleEmail.*"
+    - name: AWSSDK.SimpleSystemsManagement
+      patterns:
+      - ".*AWSSDK\\.SimpleSystemsManagement.*"
+    - name: Amazon.Extensions.Configuration.SystemsManager
+      patterns:
+      - ".*Amazon\\.Extensions\\.Configuration\\.SystemsManager.*"
+    - name: Azure.Core
+      patterns:
+      - ".*Azure\\.Core.*"
+    - name: Azure.Core.Amqp
+      patterns:
+      - ".*Azure\\.Core\\.Amqp.*"
+    - name: Azure.Data.AppConfiguration
+      patterns:
+      - ".*Azure\\.Data\\.AppConfiguration.*"
+    - name: Azure.ResourceManager
+      patterns:
+      - ".*Azure\\.ResourceManager.*"
+    - name: Azure.ResourceManager.AppService
+      patterns:
+      - ".*Azure\\.ResourceManager\\.AppService.*"
+    - name: Azure.ResourceManager.Compute
+      patterns:
+      - ".*Azure\\.ResourceManager\\.Compute.*"
+    - name: Azure.ResourceManager.KeyVault
+      patterns:
+      - ".*Azure\\.ResourceManager\\.KeyVault.*"
+    - name: Azure.ResourceManager.Monitor
+      patterns:
+      - ".*Azure\\.ResourceManager\\.Monitor.*"
+    - name: Azure.ResourceManager.Network
+      patterns:
+      - ".*Azure\\.ResourceManager\\.Network.*"
+    - name: Azure.ResourceManager.ServiceBus
+      patterns:
+      - ".*Azure\\.ResourceManager\\.ServiceBus.*"
+    - name: Azure.ResourceManager.Sql
+      patterns:
+      - ".*Azure\\.ResourceManager\\.Sql.*"
+    - name: Azure.ResourceManager.Storage
+      patterns:
+      - ".*Azure\\.ResourceManager\\.Storage.*"
+    - name: Azure.Search.Documents
+      patterns:
+      - ".*Azure\\.Search\\.Documents.*"
+    - name: Confluent.SchemaRegistry
+      patterns:
+      - ".*Confluent\\.SchemaRegistry.*"
+    - name: Elasticsearch.Net
+      patterns:
+      - ".*Elasticsearch\\.Net.*"
+    - name: FirebaseAdmin
+      patterns:
+      - .*FirebaseAdmin.*
+    - name: Google.Api.Gax
+      patterns:
+      - ".*Google\\.Api\\.Gax.*"
+    - name: Google.Api.Gax.Rest
+      patterns:
+      - ".*Google\\.Api\\.Gax\\.Rest.*"
+    - name: Google.Apis
+      patterns:
+      - ".*Google\\.Apis.*"
+    - name: Google.LongRunning
+      patterns:
+      - ".*Google\\.LongRunning.*"
+    - name: KubernetesClient
+      patterns:
+      - .*KubernetesClient.*
+    - name: LaunchDarkly.Cache
+      patterns:
+      - ".*LaunchDarkly\\.Cache.*"
+    - name: LaunchDarkly.CommonSdk
+      patterns:
+      - ".*LaunchDarkly\\.CommonSdk.*"
+    - name: LaunchDarkly.EventSource
+      patterns:
+      - ".*LaunchDarkly\\.EventSource.*"
+    - name: LaunchDarkly.InternalSdk
+      patterns:
+      - ".*LaunchDarkly\\.InternalSdk.*"
+    - name: LaunchDarkly.ServerSdk
+      patterns:
+      - ".*LaunchDarkly\\.ServerSdk.*"
+    - name: MassTransit
+      patterns:
+      - .*MassTransit.*
+    - name: MassTransit.Abstractions
+      patterns:
+      - ".*MassTransit\\.Abstractions.*"
+    - name: Microsoft.Azure.Amqp
+      patterns:
+      - ".*Microsoft\\.Azure\\.Amqp.*"
+    - name: Microsoft.Azure.Cosmos
+      patterns:
+      - ".*Microsoft\\.Azure\\.Cosmos.*"
+    - name: Microsoft.Azure.DurableTask.AzureStorage
+      patterns:
+      - ".*Microsoft\\.Azure\\.DurableTask\\.AzureStorage.*"
+    - name: Microsoft.Azure.DurableTask.Core
+      patterns:
+      - ".*Microsoft\\.Azure\\.DurableTask\\.Core.*"
+    - name: Microsoft.Azure.WebJobs.Extensions.DurableTask
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.Extensions\\.DurableTask.*"
+    - name: Microsoft.Extensions.Azure
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Azure.*"
+    - name: Microsoft.Extensions.Http
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Http.*"
+    - name: Microsoft.Owin.Cors
+      patterns:
+      - ".*Microsoft\\.Owin\\.Cors.*"
+    - name: Octokit
+      patterns:
+      - .*Octokit.*
+    - name: Quartz
+      patterns:
+      - .*Quartz.*
+    - name: Quartz.Extensions.DependencyInjection
+      patterns:
+      - ".*Quartz\\.Extensions\\.DependencyInjection.*"
+    - name: Quartz.Extensions.Hosting
+      patterns:
+      - ".*Quartz\\.Extensions\\.Hosting.*"
+    - name: Refit
+      patterns:
+      - .*Refit.*
+    - name: Refit.HttpClientFactory
+      patterns:
+      - ".*Refit\\.HttpClientFactory.*"
+    - name: RestSharp
+      patterns:
+      - .*RestSharp.*
+    - name: ServiceStack.Common
+      patterns:
+      - ".*ServiceStack\\.Common.*"
+    - name: ServiceStack.Interfaces
+      patterns:
+      - ".*ServiceStack\\.Interfaces.*"
+    - name: Stripe.net
+      patterns:
+      - ".*Stripe\\.net.*"
+    - name: System.ClientModel
+      patterns:
+      - ".*System\\.ClientModel.*"
+    - name: System.ServiceModel.Federation
+      patterns:
+      - ".*System\\.ServiceModel\\.Federation.*"
+    - name: System.ServiceModel.Syndication
+      patterns:
+      - ".*System\\.ServiceModel\\.Syndication.*"
+    - name: TencentCloudSDK.Common
+      patterns:
+      - ".*TencentCloudSDK\\.Common.*"
+    - name: Twilio
+      patterns:
+      - .*Twilio.*
+- name: Data Management
+  subcategories:
+  - name: Caching
+    frameworks:
+    - name: Microsoft.Extensions.Caching.StackExchangeRedis
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Caching\\.StackExchangeRedis.*"
+    - name: StackExchange.Redis
+      patterns:
+      - ".*StackExchange\\.Redis.*"
+    - name: StackExchange.Redis.Extensions.Core
+      patterns:
+      - ".*StackExchange\\.Redis\\.Extensions\\.Core.*"
+    - name: StackExchange.Redis.StrongName
+      patterns:
+      - ".*StackExchange\\.Redis\\.StrongName.*"
+    - name: System.Runtime.Caching
+      patterns:
+      - ".*System\\.Runtime\\.Caching.*"
+  - name: Data Lakes
+    frameworks:
+    - name: AWSSDK.S3
+      patterns:
+      - ".*AWSSDK\\.S3.*"
+    - name: Azure.Storage.Blobs
+      patterns:
+      - ".*Azure\\.Storage\\.Blobs.*"
+    - name: Azure.Storage.Files.Shares
+      patterns:
+      - ".*Azure\\.Storage\\.Files\\.Shares.*"
+    - name: Azure.Storage.Queues
+      patterns:
+      - ".*Azure\\.Storage\\.Queues.*"
+    - name: Google.Apis.Storage.v1
+      patterns:
+      - ".*Google\\.Apis\\.Storage\\.v1.*"
+    - name: Google.Cloud.Storage.V1
+      patterns:
+      - ".*Google\\.Cloud\\.Storage\\.V1.*"
+  - name: NoSQL Databases
+    frameworks:
+    - name: Azure.Data.Tables
+      patterns:
+      - ".*Azure\\.Data\\.Tables.*"
+    - name: LiteDB
+      patterns:
+      - .*LiteDB.*
+    - name: MongoDB.Bson
+      patterns:
+      - ".*MongoDB\\.Bson.*"
+    - name: MongoDB.Driver
+      patterns:
+      - ".*MongoDB\\.Driver.*"
+    - name: MongoDB.Driver.Core
+      patterns:
+      - ".*MongoDB\\.Driver\\.Core.*"
+    - name: NEST
+      patterns:
+      - .*NEST.*
+    - name: SQLitePCLRaw.bundle_e_sqlite3
+      patterns:
+      - ".*SQLitePCLRaw\\.bundle_e_sqlite3.*"
+    - name: SQLitePCLRaw.bundle_green
+      patterns:
+      - ".*SQLitePCLRaw\\.bundle_green.*"
+    - name: SQLitePCLRaw.core
+      patterns:
+      - ".*SQLitePCLRaw\\.core.*"
+    - name: SQLitePCLRaw.lib.e_sqlite3
+      patterns:
+      - ".*SQLitePCLRaw\\.lib\\.e_sqlite3.*"
+    - name: SQLitePCLRaw.lib.e_sqlite3.linux
+      patterns:
+      - ".*SQLitePCLRaw\\.lib\\.e_sqlite3\\.linux.*"
+    - name: SQLitePCLRaw.lib.e_sqlite3.osx
+      patterns:
+      - ".*SQLitePCLRaw\\.lib\\.e_sqlite3\\.osx.*"
+    - name: SQLitePCLRaw.lib.e_sqlite3.v110_xp
+      patterns:
+      - ".*SQLitePCLRaw\\.lib\\.e_sqlite3\\.v110_xp.*"
+    - name: SQLitePCLRaw.provider.dynamic_cdecl
+      patterns:
+      - ".*SQLitePCLRaw\\.provider\\.dynamic_cdecl.*"
+    - name: SQLitePCLRaw.provider.e_sqlite3
+      patterns:
+      - ".*SQLitePCLRaw\\.provider\\.e_sqlite3.*"
+    - name: SQLitePCLRaw.provider.e_sqlite3.netstandard11
+      patterns:
+      - ".*SQLitePCLRaw\\.provider\\.e_sqlite3\\.netstandard11.*"
+  - name: ORM & Data Access
+    frameworks:
+    - name: Dapper
+      patterns:
+      - .*Dapper.*
+    - name: Dapper.Contrib
+      patterns:
+      - ".*Dapper\\.Contrib.*"
+    - name: EFCore.BulkExtensions
+      patterns:
+      - ".*EFCore\\.BulkExtensions.*"
+    - name: EFCore.NamingConventions
+      patterns:
+      - ".*EFCore\\.NamingConventions.*"
+    - name: EntityFramework
+      patterns:
+      - .*EntityFramework.*
+    - name: LinqKit.Microsoft.EntityFrameworkCore
+      patterns:
+      - ".*LinqKit\\.Microsoft\\.EntityFrameworkCore.*"
+    - name: Microsoft.Azure.WebJobs.Extensions.Storage
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.Extensions\\.Storage.*"
+    - name: Microsoft.Azure.WebJobs.Host.Storage
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.Host\\.Storage.*"
+    - name: Microsoft.EntityFrameworkCore
+      patterns:
+      - ".*Microsoft\\.EntityFrameworkCore.*"
+    - name: Microsoft.EntityFrameworkCore.Proxies
+      patterns:
+      - ".*Microsoft\\.EntityFrameworkCore\\.Proxies.*"
+    - name: Microsoft.EntityFrameworkCore.Relational.Design
+      patterns:
+      - ".*Microsoft\\.EntityFrameworkCore\\.Relational\\.Design.*"
+    - name: Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite
+      patterns:
+      - ".*Microsoft\\.EntityFrameworkCore\\.SqlServer\\.NetTopologySuite.*"
+    - name: NHibernate
+      patterns:
+      - .*NHibernate.*
+    - name: Npgsql.EntityFrameworkCore.PostgreSQL
+      patterns:
+      - ".*Npgsql\\.EntityFrameworkCore\\.PostgreSQL.*"
+    - name: Pomelo.EntityFrameworkCore.MySql
+      patterns:
+      - ".*Pomelo\\.EntityFrameworkCore\\.MySql.*"
+    - name: Remotion.Linq
+      patterns:
+      - ".*Remotion\\.Linq.*"
+    - name: Remotion.Linq.EagerFetching
+      patterns:
+      - ".*Remotion\\.Linq\\.EagerFetching.*"
+    - name: Volo.Abp.Data
+      patterns:
+      - ".*Volo\\.Abp\\.Data.*"
+    - name: Volo.Abp.Uow
+      patterns:
+      - ".*Volo\\.Abp\\.Uow.*"
+    - name: Z.EntityFramework.Extensions.EFCore
+      patterns:
+      - ".*Z\\.EntityFramework\\.Extensions\\.EFCore.*"
+    - name: Z.EntityFramework.Plus.EFCore
+      patterns:
+      - ".*Z\\.EntityFramework\\.Plus\\.EFCore.*"
+  - name: Relational Databases
+    frameworks:
+    - name: Microsoft.Data.SqlClient
+      patterns:
+      - ".*Microsoft\\.Data\\.SqlClient.*"
+    - name: Microsoft.Data.SqlClient.SNI
+      patterns:
+      - ".*Microsoft\\.Data\\.SqlClient\\.SNI.*"
+    - name: Microsoft.Data.SqlClient.SNI.runtime
+      patterns:
+      - ".*Microsoft\\.Data\\.SqlClient\\.SNI\\.runtime.*"
+    - name: Microsoft.Data.Sqlite
+      patterns:
+      - ".*Microsoft\\.Data\\.Sqlite.*"
+    - name: Microsoft.SqlServer.Server
+      patterns:
+      - ".*Microsoft\\.SqlServer\\.Server.*"
+    - name: Microsoft.SqlServer.Types
+      patterns:
+      - ".*Microsoft\\.SqlServer\\.Types.*"
+    - name: MySql.Data
+      patterns:
+      - ".*MySql\\.Data.*"
+    - name: MySqlConnector
+      patterns:
+      - .*MySqlConnector.*
+    - name: Npgsql
+      patterns:
+      - .*Npgsql.*
+    - name: Oracle.ManagedDataAccess.Core
+      patterns:
+      - ".*Oracle\\.ManagedDataAccess\\.Core.*"
+    - name: System.Data.DataSetExtensions
+      patterns:
+      - ".*System\\.Data\\.DataSetExtensions.*"
+    - name: System.Data.Odbc
+      patterns:
+      - ".*System\\.Data\\.Odbc.*"
+    - name: System.Data.OleDb
+      patterns:
+      - ".*System\\.Data\\.OleDb.*"
+    - name: System.Data.SQLite
+      patterns:
+      - ".*System\\.Data\\.SQLite.*"
+    - name: System.Data.SQLite.Core
+      patterns:
+      - ".*System\\.Data\\.SQLite\\.Core.*"
+    - name: dbup-core
+      patterns:
+      - ".*dbup\\-core.*"
+    - name: dbup-sqlserver
+      patterns:
+      - ".*dbup\\-sqlserver.*"
+    - name: runtime.win-arm64.runtime.native.System.Data.SqlClient.sni
+      patterns:
+      - ".*runtime\\.win\\-arm64\\.runtime\\.native\\.System\\.Data\\.SqlClient\\\
+        .sni.*"
+    - name: runtime.win-x64.runtime.native.System.Data.SqlClient.sni
+      patterns:
+      - ".*runtime\\.win\\-x64\\.runtime\\.native\\.System\\.Data\\.SqlClient\\.sni.*"
+    - name: runtime.win-x86.runtime.native.System.Data.SqlClient.sni
+      patterns:
+      - ".*runtime\\.win\\-x86\\.runtime\\.native\\.System\\.Data\\.SqlClient\\.sni.*"
+- name: Deployment & Runtime Platforms
+  subcategories:
+  - name: Application Servers
+    frameworks:
+    - name: Microsoft.Extensions.Hosting
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Hosting.*"
+    - name: Microsoft.Extensions.Hosting.WindowsServices
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Hosting\\.WindowsServices.*"
+    - name: Topshelf
+      patterns:
+      - .*Topshelf.*
+  - name: Containerization
+    frameworks:
+    - name: Docker.DotNet
+      patterns:
+      - ".*Docker\\.DotNet.*"
+    - name: Microsoft.VisualStudio.Azure.Containers.Tools.Targets
+      patterns:
+      - ".*Microsoft\\.VisualStudio\\.Azure\\.Containers\\.Tools\\.Targets.*"
+  - name: Function-as-a-Service
+    frameworks:
+    - name: Microsoft.Azure.Functions.Worker.Grpc
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.Grpc.*"
+    - name: Microsoft.Azure.WebJobs
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs.*"
+    - name: Microsoft.NET.Sdk.Functions
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Functions.*"
+  - name: Orchestration
+    frameworks:
+    - name: Microsoft.AspNetCore.Server.IIS
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Server\\.IIS.*"
+    - name: Microsoft.ServiceFabric
+      patterns:
+      - ".*Microsoft\\.ServiceFabric.*"
+- name: Developer Tooling
+  subcategories:
+  - name: Build Tools
+    frameworks:
+    - name: AWSSDK.Extensions.NETCore.Setup
+      patterns:
+      - ".*AWSSDK\\.Extensions\\.NETCore\\.Setup.*"
+    - name: Amazon.Lambda.Tools
+      patterns:
+      - ".*Amazon\\.Lambda\\.Tools.*"
+    - name: Cake.Tool
+      patterns:
+      - ".*Cake\\.Tool.*"
+    - name: GitVersion.Tool
+      patterns:
+      - ".*GitVersion\\.Tool.*"
+    - name: Grpc.Tools
+      patterns:
+      - ".*Grpc\\.Tools.*"
+    - name: Microsoft.AspNetCore.App.Ref
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.App\\.Ref.*"
+    - name: Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Mvc\\.Razor\\.RuntimeCompilation.*"
+    - name: Microsoft.Azure.Functions.Worker.ItemTemplates
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.ItemTemplates.*"
+    - name: Microsoft.Azure.Functions.Worker.ItemTemplates.NetCore
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.ItemTemplates\\.NetCore.*"
+    - name: Microsoft.Azure.Functions.Worker.ProjectTemplates
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.ProjectTemplates.*"
+    - name: Microsoft.Azure.Functions.Worker.Sdk
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.Sdk.*"
+    - name: Microsoft.Azure.WebJobs.ItemTemplates
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.ItemTemplates.*"
+    - name: Microsoft.Azure.WebJobs.ProjectTemplates
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.ProjectTemplates.*"
+    - name: Microsoft.Build.Locator
+      patterns:
+      - ".*Microsoft\\.Build\\.Locator.*"
+    - name: Microsoft.Build.Tasks.Git
+      patterns:
+      - ".*Microsoft\\.Build\\.Tasks\\.Git.*"
+    - name: Microsoft.CodeAnalysis.Workspaces.MSBuild
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.Workspaces\\.MSBuild.*"
+    - name: Microsoft.NET.ILLink.Tasks
+      patterns:
+      - ".*Microsoft\\.NET\\.ILLink\\.Tasks.*"
+    - name: Microsoft.NET.Sdk.Aspire.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Aspire\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Sdk.Aspire.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Sdk\\.Aspire\\.Manifest\\-8\\.0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Current\\.Manifest\\-8\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Current\\.Manifest\\-8\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.Current.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Current\\.Manifest\\-9\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Emscripten.Current.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Current\\.Manifest\\-9\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.Manifest-6.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Manifest\\-6\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.Manifest-6.0.200
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Manifest\\-6\\.0\\.200.*"
+    - name: Microsoft.NET.Workload.Emscripten.Manifest-6.0.300
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Manifest\\-6\\.0\\.300.*"
+    - name: Microsoft.NET.Workload.Emscripten.Manifest-6.0.400
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.Manifest\\-6\\.0\\.400.*"
+    - name: Microsoft.NET.Workload.Emscripten.net6.Manifest-7.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net6\\.Manifest\\-7\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.net6.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net6\\.Manifest\\-7\\.0\\.100\\\
+        .Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net6\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net6\\.Manifest\\-8\\.0\\.100\\\
+        .Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.net6.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net6\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.net6.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net6\\.Manifest\\-9\\.0\\.100\\\
+        .Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.net7.Manifest-7.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net7\\.Manifest\\-7\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.net7.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net7\\.Manifest\\-7\\.0\\.100\\\
+        .Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net7\\.Manifest\\-8\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net7\\.Manifest\\-8\\.0\\.100\\\
+        .Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.net7.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net7\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.net7.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net7\\.Manifest\\-9\\.0\\.100\\\
+        .Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Emscripten.net8.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net8\\.Manifest\\-9\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Emscripten.net8.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Emscripten\\.net8\\.Manifest\\-9\\.0\\.100\\\
+        .Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Current\\.Manifest\\-8\\\
+        .0\\.100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Current\\.Manifest\\-8\\\
+        .0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Current\\.Manifest\\-9\\\
+        .0\\.100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Current.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Current\\.Manifest\\-9\\\
+        .0\\.100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Manifest\\-6\\.0\\.100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.200
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Manifest\\-6\\.0\\.200.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.300
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Manifest\\-6\\.0\\.300.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.Manifest-6.0.400
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.Manifest\\-6\\.0\\.400.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-7.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net6\\.Manifest\\-7\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net6\\.Manifest\\-7\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net6\\.Manifest\\-8\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net6\\.Manifest\\-8\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net6\\.Manifest\\-9\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net6\\.Manifest\\-9\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net7\\.Manifest\\-7\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-7.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net7\\.Manifest\\-7\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-8.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net7\\.Manifest\\-8\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-8.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net7\\.Manifest\\-8\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net7\\.Manifest\\-9\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net7.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net7\\.Manifest\\-9\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net8.Manifest-9.0.100
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net8\\.Manifest\\-9\\.0\\\
+        .100.*"
+    - name: Microsoft.NET.Workload.Mono.ToolChain.net8.Manifest-9.0.100.Msi.x64
+      patterns:
+      - ".*Microsoft\\.NET\\.Workload\\.Mono\\.ToolChain\\.net8\\.Manifest\\-9\\.0\\\
+        .100\\.Msi\\.x64.*"
+    - name: Microsoft.NETCore.App.Crossgen2.linux-x64
+      patterns:
+      - ".*Microsoft\\.NETCore\\.App\\.Crossgen2\\.linux\\-x64.*"
+    - name: Microsoft.NETCore.App.Host.linux-x64
+      patterns:
+      - ".*Microsoft\\.NETCore\\.App\\.Host\\.linux\\-x64.*"
+    - name: Microsoft.NETCore.App.Host.win-x64
+      patterns:
+      - ".*Microsoft\\.NETCore\\.App\\.Host\\.win\\-x64.*"
+    - name: Microsoft.NETCore.App.Ref
+      patterns:
+      - ".*Microsoft\\.NETCore\\.App\\.Ref.*"
+    - name: Microsoft.NETCore.App.Runtime.linux-x64
+      patterns:
+      - ".*Microsoft\\.NETCore\\.App\\.Runtime\\.linux\\-x64.*"
+    - name: Microsoft.NETCore.App.Runtime.win-x64
+      patterns:
+      - ".*Microsoft\\.NETCore\\.App\\.Runtime\\.win\\-x64.*"
+    - name: Microsoft.NETFramework.ReferenceAssemblies
+      patterns:
+      - ".*Microsoft\\.NETFramework\\.ReferenceAssemblies.*"
+    - name: Microsoft.NETFramework.ReferenceAssemblies.net472
+      patterns:
+      - ".*Microsoft\\.NETFramework\\.ReferenceAssemblies\\.net472.*"
+    - name: Microsoft.SourceLink.Common
+      patterns:
+      - ".*Microsoft\\.SourceLink\\.Common.*"
+    - name: Microsoft.SourceLink.GitHub
+      patterns:
+      - ".*Microsoft\\.SourceLink\\.GitHub.*"
+    - name: Microsoft.TypeScript.MSBuild
+      patterns:
+      - ".*Microsoft\\.TypeScript\\.MSBuild.*"
+    - name: Microsoft.VisualStudio.SlowCheetah
+      patterns:
+      - ".*Microsoft\\.VisualStudio\\.SlowCheetah.*"
+    - name: Microsoft.WindowsDesktop.App.Ref
+      patterns:
+      - ".*Microsoft\\.WindowsDesktop\\.App\\.Ref.*"
+    - name: Microsoft.WindowsDesktop.App.Runtime.win-x64
+      patterns:
+      - ".*Microsoft\\.WindowsDesktop\\.App\\.Runtime\\.win\\-x64.*"
+    - name: Mono.Cecil
+      patterns:
+      - ".*Mono\\.Cecil.*"
+    - name: Mono.TextTemplating
+      patterns:
+      - ".*Mono\\.TextTemplating.*"
+    - name: NSwag.MSBuild
+      patterns:
+      - ".*NSwag\\.MSBuild.*"
+    - name: NUglify
+      patterns:
+      - .*NUglify.*
+    - name: OctoPack
+      patterns:
+      - .*OctoPack.*
+    - name: SpecFlow.Tools.MsBuild.Generation
+      patterns:
+      - ".*SpecFlow\\.Tools\\.MsBuild\\.Generation.*"
+    - name: dotnet-ef
+      patterns:
+      - ".*dotnet\\-ef.*"
+  - name: Code Generators
+    frameworks:
+    - name: Antlr
+      patterns:
+      - .*Antlr.*
+    - name: FluentMigrator
+      patterns:
+      - .*FluentMigrator.*
+    - name: FluentMigrator.Abstractions
+      patterns:
+      - ".*FluentMigrator\\.Abstractions.*"
+    - name: FluentMigrator.Runner
+      patterns:
+      - ".*FluentMigrator\\.Runner.*"
+    - name: FluentMigrator.Runner.Core
+      patterns:
+      - ".*FluentMigrator\\.Runner\\.Core.*"
+    - name: Fody
+      patterns:
+      - .*Fody.*
+    - name: Microsoft.Azure.Functions.Worker.Sdk.Generators
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.Sdk\\.Generators.*"
+    - name: Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator
+      patterns:
+      - ".*Microsoft\\.Azure\\.WebJobs\\.Script\\.ExtensionsMetadataGenerator.*"
+    - name: Microsoft.DotNet.Scaffolding.Shared
+      patterns:
+      - ".*Microsoft\\.DotNet\\.Scaffolding\\.Shared.*"
+  - name: Dependency Management
+    frameworks:
+    - name: NuGet.Configuration
+      patterns:
+      - ".*NuGet\\.Configuration.*"
+    - name: NuGet.DependencyResolver.Core
+      patterns:
+      - ".*NuGet\\.DependencyResolver\\.Core.*"
+    - name: NuGet.LibraryModel
+      patterns:
+      - ".*NuGet\\.LibraryModel.*"
+    - name: NuGet.Packaging
+      patterns:
+      - ".*NuGet\\.Packaging.*"
+    - name: NuGet.ProjectModel
+      patterns:
+      - ".*NuGet\\.ProjectModel.*"
+    - name: NuGet.Protocol
+      patterns:
+      - ".*NuGet\\.Protocol.*"
+    - name: NuGet.Versioning
+      patterns:
+      - ".*NuGet\\.Versioning.*"
+    - name: Semver
+      patterns:
+      - .*Semver.*
+  - name: Local Development Runtimes
+    frameworks:
+    - name: Amazon.JSII.Runtime
+      patterns:
+      - ".*Amazon\\.JSII\\.Runtime.*"
+    - name: Antlr3.Runtime
+      patterns:
+      - ".*Antlr3\\.Runtime.*"
+    - name: Microsoft.AspNetCore.App.Runtime.linux-x64
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.App\\.Runtime\\.linux\\-x64.*"
+    - name: Microsoft.AspNetCore.App.Runtime.win-x64
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.App\\.Runtime\\.win\\-x64.*"
+    - name: Microsoft.dotnet-interactive
+      patterns:
+      - ".*Microsoft\\.dotnet\\-interactive.*"
+    - name: Testcontainers
+      patterns:
+      - .*Testcontainers.*
+    - name: dotnet-serve
+      patterns:
+      - ".*dotnet\\-serve.*"
+  - name: Profiling & Debugging
+    frameworks:
+    - name: dotnet-dump
+      patterns:
+      - ".*dotnet\\-dump.*"
+  - name: Static Analysis
+    frameworks:
+    - name: MessagePackAnalyzer
+      patterns:
+      - .*MessagePackAnalyzer.*
+    - name: Microsoft.AspNetCore.Components.Analyzers
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Components\\.Analyzers.*"
+    - name: Microsoft.Azure.Functions.Analyzers
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Analyzers.*"
+- name: Infrastructure Management
+  subcategories:
+  - name: Infrastructure Provisioning
+    frameworks:
+    - name: Microsoft.Azure.Management.ResourceManager.Fluent
+      patterns:
+      - ".*Microsoft\\.Azure\\.Management\\.ResourceManager\\.Fluent.*"
+  - name: Infrastructure as Code
+    frameworks:
+    - name: Constructs
+      patterns:
+      - .*Constructs.*
+- name: Observability
+  subcategories:
+  - name: Health Checks
+    frameworks:
+    - name: AspNetCore.HealthChecks.NpgSql
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.NpgSql.*"
+    - name: AspNetCore.HealthChecks.Rabbitmq
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.Rabbitmq.*"
+    - name: AspNetCore.HealthChecks.Redis
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.Redis.*"
+    - name: AspNetCore.HealthChecks.SqlServer
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.SqlServer.*"
+    - name: AspNetCore.HealthChecks.UI
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.UI.*"
+    - name: AspNetCore.HealthChecks.UI.Client
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.UI\\.Client.*"
+    - name: AspNetCore.HealthChecks.UI.Core
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.UI\\.Core.*"
+    - name: AspNetCore.HealthChecks.Uris
+      patterns:
+      - ".*AspNetCore\\.HealthChecks\\.Uris.*"
+    - name: Microsoft.AspNetCore.Diagnostics.HealthChecks
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Diagnostics\\.HealthChecks.*"
+    - name: Microsoft.Extensions.Diagnostics.HealthChecks
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Diagnostics\\.HealthChecks.*"
+    - name: Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Diagnostics\\.HealthChecks\\.Abstractions.*"
+    - name: Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Diagnostics\\.HealthChecks\\.EntityFrameworkCore.*"
+    - name: OpenTelemetry.Extensions.Hosting
+      patterns:
+      - ".*OpenTelemetry\\.Extensions\\.Hosting.*"
+  - name: Logging
+    frameworks:
+    - name: AWSSDK.CloudWatchLogs
+      patterns:
+      - ".*AWSSDK\\.CloudWatchLogs.*"
+    - name: Amazon.Lambda.Logging.AspNetCore
+      patterns:
+      - ".*Amazon\\.Lambda\\.Logging\\.AspNetCore.*"
+    - name: Ben.Demystifier
+      patterns:
+      - ".*Ben\\.Demystifier.*"
+    - name: Common.Logging
+      patterns:
+      - ".*Common\\.Logging.*"
+    - name: Common.Logging.Core
+      patterns:
+      - ".*Common\\.Logging\\.Core.*"
+    - name: Destructurama.Attributed
+      patterns:
+      - ".*Destructurama\\.Attributed.*"
+    - name: LaunchDarkly.Logging
+      patterns:
+      - ".*LaunchDarkly\\.Logging.*"
+    - name: Microsoft.Extensions.Logging
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Logging.*"
+    - name: Microsoft.Extensions.Logging.ApplicationInsights
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Logging\\.ApplicationInsights.*"
+    - name: Microsoft.Extensions.Logging.EventLog
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Logging\\.EventLog.*"
+    - name: Microsoft.Extensions.Logging.Log4Net.AspNetCore
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Logging\\.Log4Net\\.AspNetCore.*"
+    - name: Microsoft.IdentityModel.LoggingExtensions
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.LoggingExtensions.*"
+    - name: NLog
+      patterns:
+      - .*NLog.*
+    - name: NLog.Config
+      patterns:
+      - ".*NLog\\.Config.*"
+    - name: NLog.Extensions.Logging
+      patterns:
+      - ".*NLog\\.Extensions\\.Logging.*"
+    - name: NLog.Web.AspNetCore
+      patterns:
+      - ".*NLog\\.Web\\.AspNetCore.*"
+    - name: OpenTelemetry.Exporter.Console
+      patterns:
+      - ".*OpenTelemetry\\.Exporter\\.Console.*"
+    - name: Sentry.Extensions.Logging
+      patterns:
+      - ".*Sentry\\.Extensions\\.Logging.*"
+    - name: Serilog
+      patterns:
+      - .*Serilog.*
+    - name: Serilog.AspNetCore
+      patterns:
+      - ".*Serilog\\.AspNetCore.*"
+    - name: Serilog.Enrichers.Environment
+      patterns:
+      - ".*Serilog\\.Enrichers\\.Environment.*"
+    - name: Serilog.Enrichers.Process
+      patterns:
+      - ".*Serilog\\.Enrichers\\.Process.*"
+    - name: Serilog.Enrichers.Thread
+      patterns:
+      - ".*Serilog\\.Enrichers\\.Thread.*"
+    - name: Serilog.Exceptions
+      patterns:
+      - ".*Serilog\\.Exceptions.*"
+    - name: Serilog.Expressions
+      patterns:
+      - ".*Serilog\\.Expressions.*"
+    - name: Serilog.Extensions.Hosting
+      patterns:
+      - ".*Serilog\\.Extensions\\.Hosting.*"
+    - name: Serilog.Extensions.Logging
+      patterns:
+      - ".*Serilog\\.Extensions\\.Logging.*"
+    - name: Serilog.Formatting.Compact
+      patterns:
+      - ".*Serilog\\.Formatting\\.Compact.*"
+    - name: Serilog.Formatting.Elasticsearch
+      patterns:
+      - ".*Serilog\\.Formatting\\.Elasticsearch.*"
+    - name: Serilog.Settings.AppSettings
+      patterns:
+      - ".*Serilog\\.Settings\\.AppSettings.*"
+    - name: Serilog.Settings.Configuration
+      patterns:
+      - ".*Serilog\\.Settings\\.Configuration.*"
+    - name: Serilog.Sinks.ApplicationInsights
+      patterns:
+      - ".*Serilog\\.Sinks\\.ApplicationInsights.*"
+    - name: Serilog.Sinks.Async
+      patterns:
+      - ".*Serilog\\.Sinks\\.Async.*"
+    - name: Serilog.Sinks.Console
+      patterns:
+      - ".*Serilog\\.Sinks\\.Console.*"
+    - name: Serilog.Sinks.Debug
+      patterns:
+      - ".*Serilog\\.Sinks\\.Debug.*"
+    - name: Serilog.Sinks.Elasticsearch
+      patterns:
+      - ".*Serilog\\.Sinks\\.Elasticsearch.*"
+    - name: Serilog.Sinks.File
+      patterns:
+      - ".*Serilog\\.Sinks\\.File.*"
+    - name: Serilog.Sinks.MSSqlServer
+      patterns:
+      - ".*Serilog\\.Sinks\\.MSSqlServer.*"
+    - name: Serilog.Sinks.PeriodicBatching
+      patterns:
+      - ".*Serilog\\.Sinks\\.PeriodicBatching.*"
+    - name: Serilog.Sinks.RollingFile
+      patterns:
+      - ".*Serilog\\.Sinks\\.RollingFile.*"
+    - name: Serilog.Sinks.Seq
+      patterns:
+      - ".*Serilog\\.Sinks\\.Seq.*"
+    - name: System.Diagnostics.EventLog
+      patterns:
+      - ".*System\\.Diagnostics\\.EventLog.*"
+    - name: log4net
+      patterns:
+      - .*log4net.*
+  - name: Metrics
+    frameworks:
+    - name: App.Metrics
+      patterns:
+      - ".*App\\.Metrics.*"
+    - name: App.Metrics.Abstractions
+      patterns:
+      - ".*App\\.Metrics\\.Abstractions.*"
+    - name: App.Metrics.AspNetCore.Abstractions
+      patterns:
+      - ".*App\\.Metrics\\.AspNetCore\\.Abstractions.*"
+    - name: App.Metrics.AspNetCore.Core
+      patterns:
+      - ".*App\\.Metrics\\.AspNetCore\\.Core.*"
+    - name: App.Metrics.AspNetCore.Endpoints
+      patterns:
+      - ".*App\\.Metrics\\.AspNetCore\\.Endpoints.*"
+    - name: App.Metrics.AspNetCore.Hosting
+      patterns:
+      - ".*App\\.Metrics\\.AspNetCore\\.Hosting.*"
+    - name: App.Metrics.Concurrency
+      patterns:
+      - ".*App\\.Metrics\\.Concurrency.*"
+    - name: App.Metrics.Core
+      patterns:
+      - ".*App\\.Metrics\\.Core.*"
+    - name: App.Metrics.Extensions.Configuration
+      patterns:
+      - ".*App\\.Metrics\\.Extensions\\.Configuration.*"
+    - name: App.Metrics.Extensions.DependencyInjection
+      patterns:
+      - ".*App\\.Metrics\\.Extensions\\.DependencyInjection.*"
+    - name: App.Metrics.Formatters.Ascii
+      patterns:
+      - ".*App\\.Metrics\\.Formatters\\.Ascii.*"
+    - name: App.Metrics.Formatters.Json
+      patterns:
+      - ".*App\\.Metrics\\.Formatters\\.Json.*"
+    - name: DogStatsD-CSharp-Client
+      patterns:
+      - ".*DogStatsD\\-CSharp\\-Client.*"
+    - name: Elastic.Apm
+      patterns:
+      - ".*Elastic\\.Apm.*"
+    - name: Elastic.Apm.AspNetCore
+      patterns:
+      - ".*Elastic\\.Apm\\.AspNetCore.*"
+    - name: Elastic.Apm.Extensions.Hosting
+      patterns:
+      - ".*Elastic\\.Apm\\.Extensions\\.Hosting.*"
+    - name: Microsoft.AppCenter.Analytics
+      patterns:
+      - ".*Microsoft\\.AppCenter\\.Analytics.*"
+    - name: Microsoft.ApplicationInsights
+      patterns:
+      - ".*Microsoft\\.ApplicationInsights.*"
+    - name: Microsoft.ApplicationInsights.EventCounterCollector
+      patterns:
+      - ".*Microsoft\\.ApplicationInsights\\.EventCounterCollector.*"
+    - name: Microsoft.ApplicationInsights.WorkerService
+      patterns:
+      - ".*Microsoft\\.ApplicationInsights\\.WorkerService.*"
+    - name: OpenTelemetry.Exporter.OpenTelemetryProtocol
+      patterns:
+      - ".*OpenTelemetry\\.Exporter\\.OpenTelemetryProtocol.*"
+    - name: System.Diagnostics.PerformanceCounter
+      patterns:
+      - ".*System\\.Diagnostics\\.PerformanceCounter.*"
+    - name: prometheus-net
+      patterns:
+      - ".*prometheus\\-net.*"
+    - name: prometheus-net.AspNetCore
+      patterns:
+      - ".*prometheus\\-net\\.AspNetCore.*"
+  - name: Monitoring
+    frameworks:
+    - name: AWSSDK.CloudWatch
+      patterns:
+      - ".*AWSSDK\\.CloudWatch.*"
+    - name: Microsoft.AppCenter
+      patterns:
+      - ".*Microsoft\\.AppCenter.*"
+    - name: Microsoft.AppCenter.Crashes
+      patterns:
+      - ".*Microsoft\\.AppCenter\\.Crashes.*"
+    - name: Microsoft.ApplicationInsights.Kubernetes
+      patterns:
+      - ".*Microsoft\\.ApplicationInsights\\.Kubernetes.*"
+    - name: Microsoft.Extensions.Diagnostics
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Diagnostics.*"
+    - name: Microsoft.Extensions.Diagnostics.Abstractions
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Diagnostics\\.Abstractions.*"
+    - name: Microsoft.Testing.Extensions.Telemetry
+      patterns:
+      - ".*Microsoft\\.Testing\\.Extensions\\.Telemetry.*"
+    - name: OpenTelemetry
+      patterns:
+      - .*OpenTelemetry.*
+    - name: OpenTelemetry.Api
+      patterns:
+      - ".*OpenTelemetry\\.Api.*"
+    - name: OpenTelemetry.Api.ProviderBuilderExtensions
+      patterns:
+      - ".*OpenTelemetry\\.Api\\.ProviderBuilderExtensions.*"
+    - name: Sentry
+      patterns:
+      - .*Sentry.*
+    - name: Sentry.AspNetCore
+      patterns:
+      - ".*Sentry\\.AspNetCore.*"
+  - name: Profiling & Debugging
+    frameworks:
+    - name: MiniProfiler.AspNetCore
+      patterns:
+      - ".*MiniProfiler\\.AspNetCore.*"
+    - name: MiniProfiler.AspNetCore.Mvc
+      patterns:
+      - ".*MiniProfiler\\.AspNetCore\\.Mvc.*"
+    - name: MiniProfiler.Shared
+      patterns:
+      - ".*MiniProfiler\\.Shared.*"
+  - name: Tracing
+    frameworks:
+    - name: AWSXRayRecorder.Core
+      patterns:
+      - ".*AWSXRayRecorder\\.Core.*"
+    - name: Datadog.Trace
+      patterns:
+      - ".*Datadog\\.Trace.*"
+    - name: Microsoft.ApplicationInsights.TraceListener
+      patterns:
+      - ".*Microsoft\\.ApplicationInsights\\.TraceListener.*"
+    - name: Microsoft.Diagnostics.Tracing.EventSource.Redist
+      patterns:
+      - ".*Microsoft\\.Diagnostics\\.Tracing\\.EventSource\\.Redist.*"
+    - name: Microsoft.Diagnostics.Tracing.TraceEvent
+      patterns:
+      - ".*Microsoft\\.Diagnostics\\.Tracing\\.TraceEvent.*"
+    - name: Microsoft.Extensions.Telemetry.Abstractions
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Telemetry\\.Abstractions.*"
+    - name: Microsoft.Identity.Web.Diagnostics
+      patterns:
+      - ".*Microsoft\\.Identity\\.Web\\.Diagnostics.*"
+    - name: NewRelic.Agent.Api
+      patterns:
+      - ".*NewRelic\\.Agent\\.Api.*"
+    - name: OpenTelemetry.Instrumentation.AspNetCore
+      patterns:
+      - ".*OpenTelemetry\\.Instrumentation\\.AspNetCore.*"
+    - name: OpenTelemetry.Instrumentation.Http
+      patterns:
+      - ".*OpenTelemetry\\.Instrumentation\\.Http.*"
+    - name: OpenTelemetry.Instrumentation.Runtime
+      patterns:
+      - ".*OpenTelemetry\\.Instrumentation\\.Runtime.*"
+    - name: OpenTracing
+      patterns:
+      - .*OpenTracing.*
+    - name: Xamarin.AndroidX.Tracing.Tracing
+      patterns:
+      - ".*Xamarin\\.AndroidX\\.Tracing\\.Tracing.*"
+- name: Resilience & Control
+  subcategories:
+  - name: Circuit Breakers
+    frameworks:
+    - name: RedLock.net
+      patterns:
+      - ".*RedLock\\.net.*"
+  - name: Rate Limiting
+    frameworks:
+    - name: AspNetCoreRateLimit
+      patterns:
+      - .*AspNetCoreRateLimit.*
+    - name: Microsoft.AspNetCore.HostFiltering
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.HostFiltering.*"
+    - name: System.Threading.RateLimiting
+      patterns:
+      - ".*System\\.Threading\\.RateLimiting.*"
+  - name: Retries & Backoff
+    frameworks:
+    - name: Microsoft.Extensions.Http.Polly
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Http\\.Polly.*"
+    - name: Polly
+      patterns:
+      - .*Polly.*
+    - name: Polly.Contrib.WaitAndRetry
+      patterns:
+      - ".*Polly\\.Contrib\\.WaitAndRetry.*"
+    - name: Polly.Core
+      patterns:
+      - ".*Polly\\.Core.*"
+    - name: Polly.Extensions
+      patterns:
+      - ".*Polly\\.Extensions.*"
+    - name: Polly.Extensions.Http
+      patterns:
+      - ".*Polly\\.Extensions\\.Http.*"
+  - name: Service Discovery
+    frameworks:
+    - name: Consul
+      patterns:
+      - .*Consul.*
+  - name: Task Scheduling
+    frameworks:
+    - name: Hangfire
+      patterns:
+      - .*Hangfire.*
+    - name: Hangfire.AspNetCore
+      patterns:
+      - ".*Hangfire\\.AspNetCore.*"
+    - name: Hangfire.Core
+      patterns:
+      - ".*Hangfire\\.Core.*"
+    - name: Hangfire.NetCore
+      patterns:
+      - ".*Hangfire\\.NetCore.*"
+    - name: Hangfire.SqlServer
+      patterns:
+      - ".*Hangfire\\.SqlServer.*"
+- name: Security
+  subcategories:
+  - name: Access Control
+    frameworks:
+    - name: Microsoft.Extensions.Compliance.Abstractions
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Compliance\\.Abstractions.*"
+  - name: Authentication & Authorization
+    frameworks:
+    - name: AWSSDK.SecurityToken
+      patterns:
+      - ".*AWSSDK\\.SecurityToken.*"
+    - name: BCrypt.Net-Next
+      patterns:
+      - ".*BCrypt\\.Net\\-Next.*"
+    - name: BouncyCastle
+      patterns:
+      - .*BouncyCastle.*
+    - name: BouncyCastle.Cryptography
+      patterns:
+      - ".*BouncyCastle\\.Cryptography.*"
+    - name: BouncyCastle.NetCore
+      patterns:
+      - ".*BouncyCastle\\.NetCore.*"
+    - name: Google.Apis.Auth
+      patterns:
+      - ".*Google\\.Apis\\.Auth.*"
+    - name: Grpc.Auth
+      patterns:
+      - ".*Grpc\\.Auth.*"
+    - name: IdentityModel.AspNetCore.OAuth2Introspection
+      patterns:
+      - ".*IdentityModel\\.AspNetCore\\.OAuth2Introspection.*"
+    - name: JWT
+      patterns:
+      - .*JWT.*
+    - name: Microsoft.Identity.Abstractions
+      patterns:
+      - ".*Microsoft\\.Identity\\.Abstractions.*"
+    - name: Microsoft.Identity.Client
+      patterns:
+      - ".*Microsoft\\.Identity\\.Client.*"
+    - name: Microsoft.Identity.Client.Extensions.Msal
+      patterns:
+      - ".*Microsoft\\.Identity\\.Client\\.Extensions\\.Msal.*"
+    - name: Microsoft.Identity.Web
+      patterns:
+      - ".*Microsoft\\.Identity\\.Web.*"
+    - name: Microsoft.Identity.Web.Certificate
+      patterns:
+      - ".*Microsoft\\.Identity\\.Web\\.Certificate.*"
+    - name: Microsoft.Identity.Web.Certificateless
+      patterns:
+      - ".*Microsoft\\.Identity\\.Web\\.Certificateless.*"
+    - name: Microsoft.Identity.Web.TokenAcquisition
+      patterns:
+      - ".*Microsoft\\.Identity\\.Web\\.TokenAcquisition.*"
+    - name: Microsoft.Identity.Web.TokenCache
+      patterns:
+      - ".*Microsoft\\.Identity\\.Web\\.TokenCache.*"
+    - name: Microsoft.Identity.Web.UI
+      patterns:
+      - ".*Microsoft\\.Identity\\.Web\\.UI.*"
+    - name: Microsoft.IdentityModel.Abstractions
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.Abstractions.*"
+    - name: Microsoft.IdentityModel.Clients.ActiveDirectory
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.Clients\\.ActiveDirectory.*"
+    - name: Microsoft.IdentityModel.Tokens.Saml
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.Tokens\\.Saml.*"
+    - name: Microsoft.IdentityModel.Validators
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.Validators.*"
+    - name: Microsoft.Kiota.Authentication.Azure
+      patterns:
+      - ".*Microsoft\\.Kiota\\.Authentication\\.Azure.*"
+    - name: Microsoft.Owin.Security.OAuth
+      patterns:
+      - ".*Microsoft\\.Owin\\.Security\\.OAuth.*"
+    - name: Microsoft.Owin.Security.OpenIdConnect
+      patterns:
+      - ".*Microsoft\\.Owin\\.Security\\.OpenIdConnect.*"
+    - name: Microsoft.Rest.ClientRuntime.Azure.Authentication
+      patterns:
+      - ".*Microsoft\\.Rest\\.ClientRuntime\\.Azure\\.Authentication.*"
+    - name: Volo.Abp.Security
+      patterns:
+      - ".*Volo\\.Abp\\.Security.*"
+    - name: jose-jwt
+      patterns:
+      - ".*jose\\-jwt.*"
+  - name: Configuration Management
+    frameworks:
+    - name: Microsoft.Azure.AppConfiguration.AspNetCore
+      patterns:
+      - ".*Microsoft\\.Azure\\.AppConfiguration\\.AspNetCore.*"
+  - name: Encryption Libraries
+    frameworks:
+    - name: Iced
+      patterns:
+      - .*Iced.*
+  - name: Identity & Access Management
+    frameworks:
+    - name: AWSSDK.CognitoIdentityProvider
+      patterns:
+      - ".*AWSSDK\\.CognitoIdentityProvider.*"
+    - name: AWSSDK.SSO
+      patterns:
+      - ".*AWSSDK\\.SSO.*"
+    - name: AWSSDK.SSOOIDC
+      patterns:
+      - ".*AWSSDK\\.SSOOIDC.*"
+    - name: Azure.Identity
+      patterns:
+      - ".*Azure\\.Identity.*"
+    - name: Azure.Security.KeyVault.Certificates
+      patterns:
+      - ".*Azure\\.Security\\.KeyVault\\.Certificates.*"
+    - name: Azure.Security.KeyVault.Keys
+      patterns:
+      - ".*Azure\\.Security\\.KeyVault\\.Keys.*"
+    - name: Duende.AccessTokenManagement
+      patterns:
+      - ".*Duende\\.AccessTokenManagement.*"
+    - name: Duende.IdentityModel.OidcClient
+      patterns:
+      - ".*Duende\\.IdentityModel\\.OidcClient.*"
+    - name: Duende.IdentityServer
+      patterns:
+      - ".*Duende\\.IdentityServer.*"
+    - name: Duende.IdentityServer.AspNetIdentity
+      patterns:
+      - ".*Duende\\.IdentityServer\\.AspNetIdentity.*"
+    - name: Duende.IdentityServer.EntityFramework.Storage
+      patterns:
+      - ".*Duende\\.IdentityServer\\.EntityFramework\\.Storage.*"
+    - name: Duende.IdentityServer.Storage
+      patterns:
+      - ".*Duende\\.IdentityServer\\.Storage.*"
+    - name: Google.Cloud.Iam.V1
+      patterns:
+      - ".*Google\\.Cloud\\.Iam\\.V1.*"
+    - name: Microsoft.AspNet.Identity.EntityFramework
+      patterns:
+      - ".*Microsoft\\.AspNet\\.Identity\\.EntityFramework.*"
+    - name: Microsoft.AspNet.Identity.Owin
+      patterns:
+      - ".*Microsoft\\.AspNet\\.Identity\\.Owin.*"
+    - name: Microsoft.AspNetCore.Components.Authorization
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Components\\.Authorization.*"
+    - name: Microsoft.AspNetCore.Components.WebAssembly.Authentication
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Components\\.WebAssembly\\.Authentication.*"
+    - name: Microsoft.Azure.Management.Graph.RBAC.Fluent
+      patterns:
+      - ".*Microsoft\\.Azure\\.Management\\.Graph\\.RBAC\\.Fluent.*"
+    - name: Microsoft.Azure.Management.Msi.Fluent
+      patterns:
+      - ".*Microsoft\\.Azure\\.Management\\.Msi\\.Fluent.*"
+  - name: Input Validation
+    frameworks:
+    - name: HtmlSanitizer
+      patterns:
+      - .*HtmlSanitizer.*
+  - name: Secrets Management
+    frameworks:
+    - name: AWSSDK.SecretsManager
+      patterns:
+      - ".*AWSSDK\\.SecretsManager.*"
+    - name: Azure.Extensions.AspNetCore.Configuration.Secrets
+      patterns:
+      - ".*Azure\\.Extensions\\.AspNetCore\\.Configuration\\.Secrets.*"
+    - name: Azure.Security.KeyVault.Secrets
+      patterns:
+      - ".*Azure\\.Security\\.KeyVault\\.Secrets.*"
+    - name: MongoDB.Libmongocrypt
+      patterns:
+      - ".*MongoDB\\.Libmongocrypt.*"
+  - name: Transport Security
+    frameworks:
+    - name: Microsoft.AspNet.WebApi.Cors
+      patterns:
+      - ".*Microsoft\\.AspNet\\.WebApi\\.Cors.*"
+    - name: Microsoft.AspNetCore.DataProtection.EntityFrameworkCore
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.DataProtection\\.EntityFrameworkCore.*"
+    - name: Microsoft.AspNetCore.DataProtection.StackExchangeRedis
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.DataProtection\\.StackExchangeRedis.*"
+    - name: Microsoft.AspNetCore.HttpsPolicy
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.HttpsPolicy.*"
+    - name: Portable.BouncyCastle
+      patterns:
+      - ".*Portable\\.BouncyCastle.*"
+    - name: SshNet.Security.Cryptography
+      patterns:
+      - ".*SshNet\\.Security\\.Cryptography.*"
+    - name: System.Security.Cryptography.Pkcs
+      patterns:
+      - ".*System\\.Security\\.Cryptography\\.Pkcs.*"
+    - name: starkbank-ecdsa
+      patterns:
+      - ".*starkbank\\-ecdsa.*"
+- name: Serialization
+  subcategories:
+  - name: Binary Formats
+    frameworks:
+    - name: Apache.Avro
+      patterns:
+      - ".*Apache\\.Avro.*"
+    - name: Google.Protobuf
+      patterns:
+      - ".*Google\\.Protobuf.*"
+    - name: MessagePack
+      patterns:
+      - .*MessagePack.*
+    - name: MessagePack.Annotations
+      patterns:
+      - ".*MessagePack\\.Annotations.*"
+    - name: Newtonsoft.Json.Bson
+      patterns:
+      - ".*Newtonsoft\\.Json\\.Bson.*"
+  - name: JSON & XML
+    frameworks:
+    - name: Amazon.Lambda.Serialization.Json
+      patterns:
+      - ".*Amazon\\.Lambda\\.Serialization\\.Json.*"
+    - name: Amazon.Lambda.Serialization.SystemTextJson
+      patterns:
+      - ".*Amazon\\.Lambda\\.Serialization\\.SystemTextJson.*"
+    - name: JsonSubTypes
+      patterns:
+      - .*JsonSubTypes.*
+    - name: Microsoft.AspNetCore.Mvc.NewtonsoftJson
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Mvc\\.NewtonsoftJson.*"
+    - name: Microsoft.Data.OData
+      patterns:
+      - ".*Microsoft\\.Data\\.OData.*"
+    - name: Microsoft.IdentityModel.Xml
+      patterns:
+      - ".*Microsoft\\.IdentityModel\\.Xml.*"
+    - name: Microsoft.Kiota.Serialization.Form
+      patterns:
+      - ".*Microsoft\\.Kiota\\.Serialization\\.Form.*"
+    - name: Microsoft.Kiota.Serialization.Json
+      patterns:
+      - ".*Microsoft\\.Kiota\\.Serialization\\.Json.*"
+    - name: Microsoft.Kiota.Serialization.Multipart
+      patterns:
+      - ".*Microsoft\\.Kiota\\.Serialization\\.Multipart.*"
+    - name: Microsoft.Kiota.Serialization.Text
+      patterns:
+      - ".*Microsoft\\.Kiota\\.Serialization\\.Text.*"
+    - name: Microsoft.OData.Core
+      patterns:
+      - ".*Microsoft\\.OData\\.Core.*"
+    - name: Microsoft.OData.Edm
+      patterns:
+      - ".*Microsoft\\.OData\\.Edm.*"
+    - name: Microsoft.OData.ModelBuilder
+      patterns:
+      - ".*Microsoft\\.OData\\.ModelBuilder.*"
+    - name: Microsoft.OpenApi.Readers
+      patterns:
+      - ".*Microsoft\\.OpenApi\\.Readers.*"
+    - name: Newtonsoft.Json
+      patterns:
+      - ".*Newtonsoft\\.Json.*"
+    - name: NodaTime.Serialization.JsonNet
+      patterns:
+      - ".*NodaTime\\.Serialization\\.JsonNet.*"
+    - name: ServiceStack.Text
+      patterns:
+      - ".*ServiceStack\\.Text.*"
+    - name: SharpYaml
+      patterns:
+      - .*SharpYaml.*
+    - name: SpecFlow.Internal.Json
+      patterns:
+      - ".*SpecFlow\\.Internal\\.Json.*"
+    - name: System.Formats.Asn1
+      patterns:
+      - ".*System\\.Formats\\.Asn1.*"
+    - name: System.Net.Http.Json
+      patterns:
+      - ".*System\\.Net\\.Http\\.Json.*"
+    - name: System.Text.Json
+      patterns:
+      - ".*System\\.Text\\.Json.*"
+    - name: Utf8Json
+      patterns:
+      - .*Utf8Json.*
+    - name: YamlDotNet
+      patterns:
+      - .*YamlDotNet.*
+    - name: protobuf-net
+      patterns:
+      - ".*protobuf\\-net.*"
+    - name: protobuf-net.Core
+      patterns:
+      - ".*protobuf\\-net\\.Core.*"
+  - name: Schema Management
+    frameworks:
+    - name: Google.Api.CommonProtos
+      patterns:
+      - ".*Google\\.Api\\.CommonProtos.*"
+    - name: NJsonSchema
+      patterns:
+      - .*NJsonSchema.*
+    - name: NJsonSchema.Annotations
+      patterns:
+      - ".*NJsonSchema\\.Annotations.*"
+    - name: NJsonSchema.NewtonsoftJson
+      patterns:
+      - ".*NJsonSchema\\.NewtonsoftJson.*"
+    - name: NJsonSchema.Yaml
+      patterns:
+      - ".*NJsonSchema\\.Yaml.*"
+    - name: NLog.Schema
+      patterns:
+      - ".*NLog\\.Schema.*"
+    - name: NSwag.Core.Yaml
+      patterns:
+      - ".*NSwag\\.Core\\.Yaml.*"
+    - name: Newtonsoft.Json.Schema
+      patterns:
+      - ".*Newtonsoft\\.Json\\.Schema.*"
+- name: Testing & Quality
+  subcategories:
+  - name: Code Coverage
+    frameworks:
+    - name: ReportGenerator
+      patterns:
+      - .*ReportGenerator.*
+    - name: coverlet.collector
+      patterns:
+      - ".*coverlet\\.collector.*"
+    - name: coverlet.msbuild
+      patterns:
+      - ".*coverlet\\.msbuild.*"
+    - name: dotnet-reportgenerator-globaltool
+      patterns:
+      - ".*dotnet\\-reportgenerator\\-globaltool.*"
+  - name: Mocking & Fakes
+    frameworks:
+    - name: AutoFixture
+      patterns:
+      - .*AutoFixture.*
+    - name: AutoFixture.AutoMoq
+      patterns:
+      - ".*AutoFixture\\.AutoMoq.*"
+    - name: AutoFixture.Xunit2
+      patterns:
+      - ".*AutoFixture\\.Xunit2.*"
+    - name: Bogus
+      patterns:
+      - .*Bogus.*
+    - name: FakeItEasy
+      patterns:
+      - .*FakeItEasy.*
+    - name: FluentAssertions
+      patterns:
+      - .*FluentAssertions.*
+    - name: MicroElements.Swashbuckle.FluentValidation
+      patterns:
+      - ".*MicroElements\\.Swashbuckle\\.FluentValidation.*"
+    - name: Moq
+      patterns:
+      - .*Moq.*
+    - name: NSubstitute
+      patterns:
+      - .*NSubstitute.*
+    - name: RichardSzalay.MockHttp
+      patterns:
+      - ".*RichardSzalay\\.MockHttp.*"
+    - name: TestableIO.System.IO.Abstractions
+      patterns:
+      - ".*TestableIO\\.System\\.IO\\.Abstractions.*"
+    - name: TestableIO.System.IO.Abstractions.Wrappers
+      patterns:
+      - ".*TestableIO\\.System\\.IO\\.Abstractions\\.Wrappers.*"
+    - name: WireMock.Net
+      patterns:
+      - ".*WireMock\\.Net.*"
+  - name: Profiling & Debugging
+    frameworks:
+    - name: BenchmarkDotNet
+      patterns:
+      - .*BenchmarkDotNet.*
+    - name: BenchmarkDotNet.Annotations
+      patterns:
+      - ".*BenchmarkDotNet\\.Annotations.*"
+    - name: Microsoft.DiaSymReader
+      patterns:
+      - ".*Microsoft\\.DiaSymReader.*"
+    - name: Microsoft.Diagnostics.NETCore.Client
+      patterns:
+      - ".*Microsoft\\.Diagnostics\\.NETCore\\.Client.*"
+    - name: Microsoft.Diagnostics.Runtime
+      patterns:
+      - ".*Microsoft\\.Diagnostics\\.Runtime.*"
+    - name: Microsoft.VisualStudio.Debugger.Contracts
+      patterns:
+      - ".*Microsoft\\.VisualStudio\\.Debugger\\.Contracts.*"
+  - name: Static Analysis
+    frameworks:
+    - name: CompareNETObjects
+      patterns:
+      - .*CompareNETObjects.*
+    - name: Microsoft.Azure.Functions.Worker.Sdk.Analyzers
+      patterns:
+      - ".*Microsoft\\.Azure\\.Functions\\.Worker\\.Sdk\\.Analyzers.*"
+    - name: Microsoft.CodeAnalysis
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis.*"
+    - name: Microsoft.CodeAnalysis.AnalyzerUtilities
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.AnalyzerUtilities.*"
+    - name: Microsoft.CodeAnalysis.CSharp.Features
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.CSharp\\.Features.*"
+    - name: Microsoft.CodeAnalysis.CSharp.Scripting
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.CSharp\\.Scripting.*"
+    - name: Microsoft.CodeAnalysis.Features
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.Features.*"
+    - name: Microsoft.CodeAnalysis.FxCopAnalyzers
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.FxCopAnalyzers.*"
+    - name: Microsoft.CodeAnalysis.NetAnalyzers
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.NetAnalyzers.*"
+    - name: Microsoft.CodeAnalysis.Scripting.Common
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.Scripting\\.Common.*"
+    - name: Microsoft.CodeAnalysis.VersionCheckAnalyzer
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.VersionCheckAnalyzer.*"
+    - name: Microsoft.CodeAnalysis.VisualBasic.Features
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.VisualBasic\\.Features.*"
+    - name: Microsoft.CodeAnalysis.VisualBasic.Workspaces
+      patterns:
+      - ".*Microsoft\\.CodeAnalysis\\.VisualBasic\\.Workspaces.*"
+    - name: Microsoft.CodeQuality.Analyzers
+      patterns:
+      - ".*Microsoft\\.CodeQuality\\.Analyzers.*"
+    - name: Microsoft.NetCore.Analyzers
+      patterns:
+      - ".*Microsoft\\.NetCore\\.Analyzers.*"
+    - name: Microsoft.NetFramework.Analyzers
+      patterns:
+      - ".*Microsoft\\.NetFramework\\.Analyzers.*"
+    - name: Microsoft.VisualStudio.Threading.Analyzers
+      patterns:
+      - ".*Microsoft\\.VisualStudio\\.Threading\\.Analyzers.*"
+    - name: NUnit.Analyzers
+      patterns:
+      - ".*NUnit\\.Analyzers.*"
+    - name: Roslynator.Analyzers
+      patterns:
+      - ".*Roslynator\\.Analyzers.*"
+    - name: SonarAnalyzer.CSharp
+      patterns:
+      - ".*SonarAnalyzer\\.CSharp.*"
+    - name: StyleCop.Analyzers
+      patterns:
+      - ".*StyleCop\\.Analyzers.*"
+    - name: StyleCop.Analyzers.Unstable
+      patterns:
+      - ".*StyleCop\\.Analyzers\\.Unstable.*"
+    - name: dotnet-sonarscanner
+      patterns:
+      - ".*dotnet\\-sonarscanner.*"
+  - name: Testing Frameworks
+    frameworks:
+    - name: Cucumber.Messages
+      patterns:
+      - ".*Cucumber\\.Messages.*"
+    - name: DotNetSeleniumExtras.WaitHelpers
+      patterns:
+      - ".*DotNetSeleniumExtras\\.WaitHelpers.*"
+    - name: Gherkin
+      patterns:
+      - .*Gherkin.*
+    - name: JunitXml.TestLogger
+      patterns:
+      - ".*JunitXml\\.TestLogger.*"
+    - name: Microsoft.AspNetCore.Mvc.Testing
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Mvc\\.Testing.*"
+    - name: Microsoft.TestPlatform
+      patterns:
+      - ".*Microsoft\\.TestPlatform.*"
+    - name: Microsoft.Testing.Extensions.TrxReport.Abstractions
+      patterns:
+      - ".*Microsoft\\.Testing\\.Extensions\\.TrxReport\\.Abstractions.*"
+    - name: Microsoft.Testing.Extensions.VSTestBridge
+      patterns:
+      - ".*Microsoft\\.Testing\\.Extensions\\.VSTestBridge.*"
+    - name: Microsoft.Testing.Platform
+      patterns:
+      - ".*Microsoft\\.Testing\\.Platform.*"
+    - name: Microsoft.Testing.Platform.MSBuild
+      patterns:
+      - ".*Microsoft\\.Testing\\.Platform\\.MSBuild.*"
+    - name: NUnit
+      patterns:
+      - .*NUnit.*
+    - name: NUnit.Console
+      patterns:
+      - ".*NUnit\\.Console.*"
+    - name: NUnit.ConsoleRunner
+      patterns:
+      - ".*NUnit\\.ConsoleRunner.*"
+    - name: NUnit.Extension.NUnitProjectLoader
+      patterns:
+      - ".*NUnit\\.Extension\\.NUnitProjectLoader.*"
+    - name: NUnit.Extension.NUnitV2Driver
+      patterns:
+      - ".*NUnit\\.Extension\\.NUnitV2Driver.*"
+    - name: NUnit.Extension.NUnitV2ResultWriter
+      patterns:
+      - ".*NUnit\\.Extension\\.NUnitV2ResultWriter.*"
+    - name: NUnit.Extension.TeamCityEventListener
+      patterns:
+      - ".*NUnit\\.Extension\\.TeamCityEventListener.*"
+    - name: NUnit.Extension.VSProjectLoader
+      patterns:
+      - ".*NUnit\\.Extension\\.VSProjectLoader.*"
+    - name: NUnit3TestAdapter
+      patterns:
+      - .*NUnit3TestAdapter.*
+    - name: Selenium.Support
+      patterns:
+      - ".*Selenium\\.Support.*"
+    - name: Selenium.WebDriver
+      patterns:
+      - ".*Selenium\\.WebDriver.*"
+    - name: Selenium.WebDriver.ChromeDriver
+      patterns:
+      - ".*Selenium\\.WebDriver\\.ChromeDriver.*"
+    - name: Shouldly
+      patterns:
+      - .*Shouldly.*
+    - name: SpecFlow
+      patterns:
+      - .*SpecFlow.*
+    - name: SpecFlow.NUnit
+      patterns:
+      - ".*SpecFlow\\.NUnit.*"
+    - name: Xunit.SkippableFact
+      patterns:
+      - ".*Xunit\\.SkippableFact.*"
+    - name: dotnet-xunit
+      patterns:
+      - ".*dotnet\\-xunit.*"
+    - name: xunit
+      patterns:
+      - .*xunit.*
+    - name: xunit.runner.console
+      patterns:
+      - ".*xunit\\.runner\\.console.*"
+- name: Utility Libraries
+  subcategories:
+  - name: Collections & Data Structures
+    frameworks:
+    - name: MathNet.Numerics
+      patterns:
+      - ".*MathNet\\.Numerics.*"
+    - name: NetTopologySuite
+      patterns:
+      - .*NetTopologySuite.*
+    - name: NetTopologySuite.IO.SqlServerBytes
+      patterns:
+      - ".*NetTopologySuite\\.IO\\.SqlServerBytes.*"
+    - name: Nito.Collections.Deque
+      patterns:
+      - ".*Nito\\.Collections\\.Deque.*"
+    - name: morelinq
+      patterns:
+      - .*morelinq.*
+  - name: Configuration Utilities
+    frameworks:
+    - name: Microsoft.Extensions.Configuration.AzureAppConfiguration
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Configuration\\.AzureAppConfiguration.*"
+    - name: Microsoft.Extensions.Configuration.KeyPerFile
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Configuration\\.KeyPerFile.*"
+    - name: Microsoft.Extensions.Options.DataAnnotations
+      patterns:
+      - ".*Microsoft\\.Extensions\\.Options\\.DataAnnotations.*"
+  - name: Date & Time Utilities
+    frameworks:
+    - name: Microsoft.Bcl.TimeProvider
+      patterns:
+      - ".*Microsoft\\.Bcl\\.TimeProvider.*"
+    - name: NCrontab
+      patterns:
+      - .*NCrontab.*
+    - name: NCrontab.Signed
+      patterns:
+      - ".*NCrontab\\.Signed.*"
+    - name: NodaTime
+      patterns:
+      - .*NodaTime.*
+    - name: TimeZoneConverter
+      patterns:
+      - .*TimeZoneConverter.*
+  - name: General Utilities
+    frameworks:
+    - name: AngleSharp
+      patterns:
+      - .*AngleSharp.*
+    - name: AngleSharp.Css
+      patterns:
+      - ".*AngleSharp\\.Css.*"
+    - name: Ardalis.GuardClauses
+      patterns:
+      - ".*Ardalis\\.GuardClauses.*"
+    - name: Aspose.Cells
+      patterns:
+      - ".*Aspose\\.Cells.*"
+    - name: Aspose.PDF
+      patterns:
+      - ".*Aspose\\.PDF.*"
+    - name: Aspose.Words
+      patterns:
+      - ".*Aspose\\.Words.*"
+    - name: AutoMapper
+      patterns:
+      - .*AutoMapper.*
+    - name: AutoMapper.Collection
+      patterns:
+      - ".*AutoMapper\\.Collection.*"
+    - name: AutoMapper.Extensions.Microsoft.DependencyInjection
+      patterns:
+      - ".*AutoMapper\\.Extensions\\.Microsoft\\.DependencyInjection.*"
+    - name: Azure.Storage.Common
+      patterns:
+      - ".*Azure\\.Storage\\.Common.*"
+    - name: ClosedXML
+      patterns:
+      - .*ClosedXML.*
+    - name: CommandLineParser
+      patterns:
+      - .*CommandLineParser.*
+    - name: CommonServiceLocator
+      patterns:
+      - .*CommonServiceLocator.*
+    - name: Cronos
+      patterns:
+      - .*Cronos.*
+    - name: CsvHelper
+      patterns:
+      - .*CsvHelper.*
+    - name: DiffEngine
+      patterns:
+      - .*DiffEngine.*
+    - name: DistributedLock.Core
+      patterns:
+      - ".*DistributedLock\\.Core.*"
+    - name: DocumentFormat.OpenXml
+      patterns:
+      - ".*DocumentFormat\\.OpenXml.*"
+    - name: DotNetZip
+      patterns:
+      - .*DotNetZip.*
+    - name: EPPlus
+      patterns:
+      - .*EPPlus.*
+    - name: EPPlus.Interfaces
+      patterns:
+      - ".*EPPlus\\.Interfaces.*"
+    - name: EPPlus.System.Drawing
+      patterns:
+      - ".*EPPlus\\.System\\.Drawing.*"
+    - name: EmptyFiles
+      patterns:
+      - .*EmptyFiles.*
+    - name: EnterpriseLibrary.Common
+      patterns:
+      - ".*EnterpriseLibrary\\.Common.*"
+    - name: Enums.NET
+      patterns:
+      - ".*Enums\\.NET.*"
+    - name: ExcelDataReader
+      patterns:
+      - .*ExcelDataReader.*
+    - name: ExcelDataReader.DataSet
+      patterns:
+      - ".*ExcelDataReader\\.DataSet.*"
+    - name: ExcelNumberFormat
+      patterns:
+      - .*ExcelNumberFormat.*
+    - name: FSharp.Core
+      patterns:
+      - ".*FSharp\\.Core.*"
+    - name: Fare
+      patterns:
+      - .*Fare.*
+    - name: FastMember
+      patterns:
+      - .*FastMember.*
+    - name: FluentValidation
+      patterns:
+      - .*FluentValidation.*
+    - name: FluentValidation.AspNetCore
+      patterns:
+      - ".*FluentValidation\\.AspNetCore.*"
+    - name: Fractions
+      patterns:
+      - .*Fractions.*
+    - name: Google.Apis.Core
+      patterns:
+      - ".*Google\\.Apis\\.Core.*"
+    - name: HtmlAgilityPack
+      patterns:
+      - .*HtmlAgilityPack.*
+    - name: Humanizer
+      patterns:
+      - .*Humanizer.*
+    - name: Humanizer.Core
+      patterns:
+      - ".*Humanizer\\.Core.*"
+    - name: Humanizer.Core.af
+      patterns:
+      - ".*Humanizer\\.Core\\.af.*"
+    - name: Humanizer.Core.ar
+      patterns:
+      - ".*Humanizer\\.Core\\.ar.*"
+    - name: Humanizer.Core.az
+      patterns:
+      - ".*Humanizer\\.Core\\.az.*"
+    - name: Humanizer.Core.bg
+      patterns:
+      - ".*Humanizer\\.Core\\.bg.*"
+    - name: Humanizer.Core.bn-BD
+      patterns:
+      - ".*Humanizer\\.Core\\.bn\\-BD.*"
+    - name: Humanizer.Core.cs
+      patterns:
+      - ".*Humanizer\\.Core\\.cs.*"
+    - name: Humanizer.Core.da
+      patterns:
+      - ".*Humanizer\\.Core\\.da.*"
+    - name: Humanizer.Core.de
+      patterns:
+      - ".*Humanizer\\.Core\\.de.*"
+    - name: Humanizer.Core.el
+      patterns:
+      - ".*Humanizer\\.Core\\.el.*"
+    - name: Humanizer.Core.es
+      patterns:
+      - ".*Humanizer\\.Core\\.es.*"
+    - name: Humanizer.Core.fa
+      patterns:
+      - ".*Humanizer\\.Core\\.fa.*"
+    - name: Humanizer.Core.fi-FI
+      patterns:
+      - ".*Humanizer\\.Core\\.fi\\-FI.*"
+    - name: Humanizer.Core.fr
+      patterns:
+      - ".*Humanizer\\.Core\\.fr.*"
+    - name: Humanizer.Core.fr-BE
+      patterns:
+      - ".*Humanizer\\.Core\\.fr\\-BE.*"
+    - name: Humanizer.Core.he
+      patterns:
+      - ".*Humanizer\\.Core\\.he.*"
+    - name: Humanizer.Core.hr
+      patterns:
+      - ".*Humanizer\\.Core\\.hr.*"
+    - name: Humanizer.Core.hu
+      patterns:
+      - ".*Humanizer\\.Core\\.hu.*"
+    - name: Humanizer.Core.hy
+      patterns:
+      - ".*Humanizer\\.Core\\.hy.*"
+    - name: Humanizer.Core.id
+      patterns:
+      - ".*Humanizer\\.Core\\.id.*"
+    - name: Humanizer.Core.is
+      patterns:
+      - ".*Humanizer\\.Core\\.is.*"
+    - name: Humanizer.Core.it
+      patterns:
+      - ".*Humanizer\\.Core\\.it.*"
+    - name: Humanizer.Core.ja
+      patterns:
+      - ".*Humanizer\\.Core\\.ja.*"
+    - name: Humanizer.Core.ko-KR
+      patterns:
+      - ".*Humanizer\\.Core\\.ko\\-KR.*"
+    - name: Humanizer.Core.ku
+      patterns:
+      - ".*Humanizer\\.Core\\.ku.*"
+    - name: Humanizer.Core.lv
+      patterns:
+      - ".*Humanizer\\.Core\\.lv.*"
+    - name: Humanizer.Core.ms-MY
+      patterns:
+      - ".*Humanizer\\.Core\\.ms\\-MY.*"
+    - name: Humanizer.Core.mt
+      patterns:
+      - ".*Humanizer\\.Core\\.mt.*"
+    - name: Humanizer.Core.nb
+      patterns:
+      - ".*Humanizer\\.Core\\.nb.*"
+    - name: Humanizer.Core.nb-NO
+      patterns:
+      - ".*Humanizer\\.Core\\.nb\\-NO.*"
+    - name: Humanizer.Core.nl
+      patterns:
+      - ".*Humanizer\\.Core\\.nl.*"
+    - name: Humanizer.Core.pl
+      patterns:
+      - ".*Humanizer\\.Core\\.pl.*"
+    - name: Humanizer.Core.pt
+      patterns:
+      - ".*Humanizer\\.Core\\.pt.*"
+    - name: Humanizer.Core.ro
+      patterns:
+      - ".*Humanizer\\.Core\\.ro.*"
+    - name: Humanizer.Core.ru
+      patterns:
+      - ".*Humanizer\\.Core\\.ru.*"
+    - name: Humanizer.Core.sk
+      patterns:
+      - ".*Humanizer\\.Core\\.sk.*"
+    - name: Humanizer.Core.sl
+      patterns:
+      - ".*Humanizer\\.Core\\.sl.*"
+    - name: Humanizer.Core.sr
+      patterns:
+      - ".*Humanizer\\.Core\\.sr.*"
+    - name: Humanizer.Core.sr-Latn
+      patterns:
+      - ".*Humanizer\\.Core\\.sr\\-Latn.*"
+    - name: Humanizer.Core.sv
+      patterns:
+      - ".*Humanizer\\.Core\\.sv.*"
+    - name: Humanizer.Core.th-TH
+      patterns:
+      - ".*Humanizer\\.Core\\.th\\-TH.*"
+    - name: Humanizer.Core.tr
+      patterns:
+      - ".*Humanizer\\.Core\\.tr.*"
+    - name: Humanizer.Core.uk
+      patterns:
+      - ".*Humanizer\\.Core\\.uk.*"
+    - name: Humanizer.Core.uz-Cyrl-UZ
+      patterns:
+      - ".*Humanizer\\.Core\\.uz\\-Cyrl\\-UZ.*"
+    - name: Humanizer.Core.uz-Latn-UZ
+      patterns:
+      - ".*Humanizer\\.Core\\.uz\\-Latn\\-UZ.*"
+    - name: Humanizer.Core.vi
+      patterns:
+      - ".*Humanizer\\.Core\\.vi.*"
+    - name: Humanizer.Core.zh-CN
+      patterns:
+      - ".*Humanizer\\.Core\\.zh\\-CN.*"
+    - name: Humanizer.Core.zh-Hans
+      patterns:
+      - ".*Humanizer\\.Core\\.zh\\-Hans.*"
+    - name: Humanizer.Core.zh-Hant
+      patterns:
+      - ".*Humanizer\\.Core\\.zh\\-Hant.*"
+    - name: Iesi.Collections
+      patterns:
+      - ".*Iesi\\.Collections.*"
+    - name: JetBrains.Annotations
+      patterns:
+      - ".*JetBrains\\.Annotations.*"
+    - name: K4os.Compression.LZ4
+      patterns:
+      - ".*K4os\\.Compression\\.LZ4.*"
+    - name: K4os.Compression.LZ4.Streams
+      patterns:
+      - ".*K4os\\.Compression\\.LZ4\\.Streams.*"
+    - name: K4os.Hash.xxHash
+      patterns:
+      - ".*K4os\\.Hash\\.xxHash.*"
+    - name: LazyCache
+      patterns:
+      - .*LazyCache.*
+    - name: Magick.NET-Q16-AnyCPU
+      patterns:
+      - ".*Magick\\.NET\\-Q16\\-AnyCPU.*"
+    - name: Magick.NET.Core
+      patterns:
+      - ".*Magick\\.NET\\.Core.*"
+    - name: Mapster
+      patterns:
+      - .*Mapster.*
+    - name: Mapster.Core
+      patterns:
+      - ".*Mapster\\.Core.*"
+    - name: Microsoft.AspNetCore.Metadata
+      patterns:
+      - ".*Microsoft\\.AspNetCore\\.Metadata.*"
+    - name: Microsoft.Bcl.HashCode
+      patterns:
+      - ".*Microsoft\\.Bcl\\.HashCode.*"
+    - name: Microsoft.IO.RecyclableMemoryStream
+      patterns:
+      - ".*Microsoft\\.IO\\.RecyclableMemoryStream.*"
+    - name: Microsoft.NET.StringTools
+      patterns:
+      - ".*Microsoft\\.NET\\.StringTools.*"
+    - name: Microsoft.NETCore.Portable.Compatibility
+      patterns:
+      - ".*Microsoft\\.NETCore\\.Portable\\.Compatibility.*"
+    - name: Microsoft.VisualStudio.Threading
+      patterns:
+      - ".*Microsoft\\.VisualStudio\\.Threading.*"
+    - name: Microsoft.VisualStudio.Validation
+      patterns:
+      - ".*Microsoft\\.VisualStudio\\.Validation.*"
+    - name: Microsoft.Win32.Registry.AccessControl
+      patterns:
+      - ".*Microsoft\\.Win32\\.Registry\\.AccessControl.*"
+    - name: Microsoft.Win32.SystemEvents
+      patterns:
+      - ".*Microsoft\\.Win32\\.SystemEvents.*"
+    - name: Microsoft.Windows.Compatibility
+      patterns:
+      - ".*Microsoft\\.Windows\\.Compatibility.*"
+    - name: NPOI
+      patterns:
+      - .*NPOI.*
+    - name: NewId
+      patterns:
+      - .*NewId.*
+    - name: Nito.AsyncEx
+      patterns:
+      - ".*Nito\\.AsyncEx.*"
+    - name: Nito.AsyncEx.Context
+      patterns:
+      - ".*Nito\\.AsyncEx\\.Context.*"
+    - name: Nito.AsyncEx.Coordination
+      patterns:
+      - ".*Nito\\.AsyncEx\\.Coordination.*"
+    - name: Nito.AsyncEx.Interop.WaitHandles
+      patterns:
+      - ".*Nito\\.AsyncEx\\.Interop\\.WaitHandles.*"
+    - name: Nito.AsyncEx.Oop
+      patterns:
+      - ".*Nito\\.AsyncEx\\.Oop.*"
+    - name: Nito.AsyncEx.Tasks
+      patterns:
+      - ".*Nito\\.AsyncEx\\.Tasks.*"
+    - name: Nito.Cancellation
+      patterns:
+      - ".*Nito\\.Cancellation.*"
+    - name: Nito.Disposables
+      patterns:
+      - ".*Nito\\.Disposables.*"
+    - name: OneOf
+      patterns:
+      - .*OneOf.*
+    - name: PDFsharp
+      patterns:
+      - .*PDFsharp.*
+    - name: Perfolizer
+      patterns:
+      - .*Perfolizer.*
+    - name: Pipelines.Sockets.Unofficial
+      patterns:
+      - ".*Pipelines\\.Sockets\\.Unofficial.*"
+    - name: QRCoder
+      patterns:
+      - .*QRCoder.*
+    - name: Respond
+      patterns:
+      - .*Respond.*
+    - name: SSH.NET
+      patterns:
+      - ".*SSH\\.NET.*"
+    - name: SendGrid
+      patterns:
+      - .*SendGrid.*
+    - name: SharpCompress
+      patterns:
+      - .*SharpCompress.*
+    - name: SharpZipLib
+      patterns:
+      - .*SharpZipLib.*
+    - name: SixLabors.Fonts
+      patterns:
+      - ".*SixLabors\\.Fonts.*"
+    - name: SixLabors.ImageSharp
+      patterns:
+      - ".*SixLabors\\.ImageSharp.*"
+    - name: SixLabors.ImageSharp.Drawing
+      patterns:
+      - ".*SixLabors\\.ImageSharp\\.Drawing.*"
+    - name: SkiaSharp
+      patterns:
+      - .*SkiaSharp.*
+    - name: SkiaSharp.NativeAssets.Linux
+      patterns:
+      - ".*SkiaSharp\\.NativeAssets\\.Linux.*"
+    - name: SkiaSharp.NativeAssets.Linux.NoDependencies
+      patterns:
+      - ".*SkiaSharp\\.NativeAssets\\.Linux\\.NoDependencies.*"
+    - name: SkiaSharp.NativeAssets.Win32
+      patterns:
+      - ".*SkiaSharp\\.NativeAssets\\.Win32.*"
+    - name: SkiaSharp.NativeAssets.macOS
+      patterns:
+      - ".*SkiaSharp\\.NativeAssets\\.macOS.*"
+    - name: Snappier
+      patterns:
+      - .*Snappier.*
+    - name: Splat
+      patterns:
+      - .*Splat.*
+    - name: Std.UriTemplate
+      patterns:
+      - ".*Std\\.UriTemplate.*"
+    - name: Stef.Validation
+      patterns:
+      - ".*Stef\\.Validation.*"
+    - name: Superpower
+      patterns:
+      - .*Superpower.*
+    - name: Syncfusion.Licensing
+      patterns:
+      - ".*Syncfusion\\.Licensing.*"
+    - name: System.CodeDom
+      patterns:
+      - ".*System\\.CodeDom.*"
+    - name: System.DirectoryServices
+      patterns:
+      - ".*System\\.DirectoryServices.*"
+    - name: System.DirectoryServices.AccountManagement
+      patterns:
+      - ".*System\\.DirectoryServices\\.AccountManagement.*"
+    - name: System.DirectoryServices.Protocols
+      patterns:
+      - ".*System\\.DirectoryServices\\.Protocols.*"
+    - name: System.Drawing.Common
+      patterns:
+      - ".*System\\.Drawing\\.Common.*"
+    - name: System.IO.Abstractions
+      patterns:
+      - ".*System\\.IO\\.Abstractions.*"
+    - name: System.IO.Hashing
+      patterns:
+      - ".*System\\.IO\\.Hashing.*"
+    - name: System.IO.Packaging
+      patterns:
+      - ".*System\\.IO\\.Packaging.*"
+    - name: System.IO.Pipes.AccessControl
+      patterns:
+      - ".*System\\.IO\\.Pipes\\.AccessControl.*"
+    - name: System.IO.Ports
+      patterns:
+      - ".*System\\.IO\\.Ports.*"
+    - name: System.Interactive.Async
+      patterns:
+      - ".*System\\.Interactive\\.Async.*"
+    - name: System.Linq.Async
+      patterns:
+      - ".*System\\.Linq\\.Async.*"
+    - name: System.Linq.Dynamic.Core
+      patterns:
+      - ".*System\\.Linq\\.Dynamic\\.Core.*"
+    - name: System.Management
+      patterns:
+      - ".*System\\.Management.*"
+    - name: System.Memory.Data
+      patterns:
+      - ".*System\\.Memory\\.Data.*"
+    - name: System.Resources.Extensions
+      patterns:
+      - ".*System\\.Resources\\.Extensions.*"
+    - name: System.Runtime.InteropServices.WindowsRuntime
+      patterns:
+      - ".*System\\.Runtime\\.InteropServices\\.WindowsRuntime.*"
+    - name: System.ServiceProcess.ServiceController
+      patterns:
+      - ".*System\\.ServiceProcess\\.ServiceController.*"
+    - name: System.Threading.AccessControl
+      patterns:
+      - ".*System\\.Threading\\.AccessControl.*"
+    - name: System.Threading.Channels
+      patterns:
+      - ".*System\\.Threading\\.Channels.*"
+    - name: System.Windows.Extensions
+      patterns:
+      - ".*System\\.Windows\\.Extensions.*"
+    - name: Validation
+      patterns:
+      - .*Validation.*
+    - name: Volo.Abp.Localization.Abstractions
+      patterns:
+      - ".*Volo\\.Abp\\.Localization\\.Abstractions.*"
+    - name: WebGrease
+      patterns:
+      - .*WebGrease.*
+    - name: XLParser
+      patterns:
+      - .*XLParser.*
+    - name: Xamarin.Google.Guava.ListenableFuture
+      patterns:
+      - ".*Xamarin\\.Google\\.Guava\\.ListenableFuture.*"
+    - name: Xamarin.Jetbrains.Annotations
+      patterns:
+      - ".*Xamarin\\.Jetbrains\\.Annotations.*"
+    - name: Xamarin.Kotlin.StdLib
+      patterns:
+      - ".*Xamarin\\.Kotlin\\.StdLib.*"
+    - name: Xamarin.Kotlin.StdLib.Common
+      patterns:
+      - ".*Xamarin\\.Kotlin\\.StdLib\\.Common.*"
+    - name: Z.Expressions.Eval
+      patterns:
+      - ".*Z\\.Expressions\\.Eval.*"
+    - name: ZXing.Net
+      patterns:
+      - ".*ZXing\\.Net.*"
+    - name: ZstdSharp.Port
+      patterns:
+      - ".*ZstdSharp\\.Port.*"
+    - name: bootstrap
+      patterns:
+      - .*bootstrap.*
+    - name: iTextSharp
+      patterns:
+      - .*iTextSharp.*
+    - name: itext7
+      patterns:
+      - .*itext7.*
+    - name: jQuery
+      patterns:
+      - .*jQuery.*
+    - name: jQuery.UI.Combined
+      patterns:
+      - ".*jQuery\\.UI\\.Combined.*"
+    - name: jQuery.Validation
+      patterns:
+      - ".*jQuery\\.Validation.*"
+    - name: knockoutjs
+      patterns:
+      - .*knockoutjs.*
+    - name: libphonenumber-csharp
+      patterns:
+      - ".*libphonenumber\\-csharp.*"
+    - name: runtime.linux-arm.runtime.native.System.IO.Ports
+      patterns:
+      - ".*runtime\\.linux\\-arm\\.runtime\\.native\\.System\\.IO\\.Ports.*"
+    - name: runtime.linux-arm64.runtime.native.System.IO.Ports
+      patterns:
+      - ".*runtime\\.linux\\-arm64\\.runtime\\.native\\.System\\.IO\\.Ports.*"
+    - name: runtime.linux-x64.runtime.native.System.IO.Ports
+      patterns:
+      - ".*runtime\\.linux\\-x64\\.runtime\\.native\\.System\\.IO\\.Ports.*"
+    - name: runtime.native.System.IO.Ports
+      patterns:
+      - ".*runtime\\.native\\.System\\.IO\\.Ports.*"
+    - name: runtime.osx-arm64.runtime.native.System.IO.Ports
+      patterns:
+      - ".*runtime\\.osx\\-arm64\\.runtime\\.native\\.System\\.IO\\.Ports.*"
+    - name: runtime.osx-x64.runtime.native.System.IO.Ports
+      patterns:
+      - ".*runtime\\.osx\\-x64\\.runtime\\.native\\.System\\.IO\\.Ports.*"
+    - name: runtime.win.System.Console
+      patterns:
+      - ".*runtime\\.win\\.System\\.Console.*"
+    - name: runtime.win7-x64.runtime.native.System.IO.Compression
+      patterns:
+      - ".*runtime\\.win7\\-x64\\.runtime\\.native\\.System\\.IO\\.Compression.*"
+  - name: Reflection & Metadata
+    frameworks:
+    - name: Namotion.Reflection
+      patterns:
+      - ".*Namotion\\.Reflection.*"
+    - name: System.Reflection.Context
+      patterns:
+      - ".*System\\.Reflection\\.Context.*"
+    - name: System.Reflection.MetadataLoadContext
+      patterns:
+      - ".*System\\.Reflection\\.MetadataLoadContext.*"
