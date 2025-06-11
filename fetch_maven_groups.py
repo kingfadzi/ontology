@@ -1,4 +1,4 @@
-# fetch_groups.py
+# fetch_maven_groups.py
 import requests
 import csv
 import os

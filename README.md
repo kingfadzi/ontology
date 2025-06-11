@@ -3,7 +3,7 @@
 1. **Fetch group IDs (depth 3):**
 
    ```bash
-   python fetch_groups.py --prefix org.springframework --depth 3
+   python fetch_maven_groups.py --prefix org.springframework --depth 3
    ```
 
 2. **Edit** `output/org_springframework_groups.csv`: add columns
